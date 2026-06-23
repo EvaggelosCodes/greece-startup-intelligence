@@ -59,7 +59,9 @@ jobs:
           node-version: "20"
 
       - name: Install Claude Code
-        run: npm install -g @anthropic-ai/claude-code
+        run: |
+          curl -fsSL https://claude.ai/install.sh | bash
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
 
       - name: Configure git
         run: |
@@ -68,6 +70,11 @@ jobs:
 
       - name: Run Mike
         run: |
+          export OPENROUTER_API_KEY="$OPENROUTER_API_KEY"
+          export ANTHROPIC_BASE_URL="https://openrouter.ai/api"
+          export ANTHROPIC_AUTH_TOKEN="$OPENROUTER_API_KEY"
+          export ANTHROPIC_API_KEY=""
+          claude --version
           claude -p "$(cat <<'PROMPT'
           You are Startup Mike. Execute your COMPLETE daily run sequence exactly as defined in CLAUDE.md, STEP 0 through STEP 10.
           Read your journal, feedback, founder, seasons and brain files first; set your own agenda.
