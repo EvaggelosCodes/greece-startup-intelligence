@@ -1,0 +1,90 @@
+name: Mike background run
+
+on:
+  schedule:
+    # Every 12 hours. GitHub cron is UTC.
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+    inputs:
+      model:
+        description: "OpenRouter model id"
+        required: false
+        default: "openai/gpt-oss-120b:free"
+      small_model:
+        description: "OpenRouter small/fast model id"
+        required: false
+        default: "openai/gpt-oss-120b:free"
+
+concurrency:
+  group: mike-background-run
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  run-mike:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+
+    env:
+      ANTHROPIC_BASE_URL: https://openrouter.ai/api
+      ANTHROPIC_AUTH_TOKEN: ${{ secrets.OPENROUTER_API_KEY }}
+      ANTHROPIC_API_KEY: ""
+      OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+      ANTHROPIC_MODEL: ${{ github.event.inputs.model || 'openai/gpt-oss-120b:free' }}
+      ANTHROPIC_DEFAULT_OPUS_MODEL: ${{ github.event.inputs.model || 'openai/gpt-oss-120b:free' }}
+      ANTHROPIC_DEFAULT_SONNET_MODEL: ${{ github.event.inputs.model || 'openai/gpt-oss-120b:free' }}
+      ANTHROPIC_DEFAULT_HAIKU_MODEL: ${{ github.event.inputs.small_model || 'openai/gpt-oss-120b:free' }}
+      ANTHROPIC_SMALL_FAST_MODEL: ${{ github.event.inputs.small_model || 'openai/gpt-oss-120b:free' }}
+      CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC: "1"
+      API_TIMEOUT_MS: "3000000"
+
+    steps:
+      - name: Check secret
+        run: |
+          if [ -z "$OPENROUTER_API_KEY" ]; then
+            echo "Missing OPENROUTER_API_KEY repo secret."
+            exit 1
+          fi
+
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install Claude Code
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Configure git
+        run: |
+          git config user.email "EvaggelosCodes@users.noreply.github.com"
+          git config user.name "Greece Intelligence Bot"
+
+      - name: Run Mike
+        run: |
+          claude -p "$(cat <<'PROMPT'
+          You are Startup Mike. Execute your COMPLETE daily run sequence exactly as defined in CLAUDE.md, STEP 0 through STEP 10.
+          Read your journal, feedback, founder, seasons and brain files first; set your own agenda.
+          Run a Greek-first search-only scan. Keep it lean because this may be a slow/free OpenRouter model:
+          3-5 targeted searches, no full-page fetches unless absolutely necessary.
+          Score candidates and existing ideas on the 7 dimensions. Kill weak ideas, update the brain files, attack your #1 idea, update your journal and search playbook, write the daily log, then commit and push.
+          Be rigorous and honest. If the model/provider is slow, prefer a smaller but complete run over hanging forever.
+          PROMPT
+          )" --output-format stream-json --verbose --dangerously-skip-permissions
+
+      - name: Fallback commit changed research files
+        if: always()
+        run: |
+          git add brain/ ideas/ daily-logs/
+          if git diff --cached --quiet; then
+            echo "No research file changes to commit."
+          else
+            git commit -m "Run $(date -u +%F): background Mike update"
+            git push origin main
+          fi

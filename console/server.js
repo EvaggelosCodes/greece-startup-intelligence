@@ -8,7 +8,12 @@
 const http = require('http');
 const fs = require('fs');
 const path = require('path');
-const { spawn } = require('child_process');
+const { spawn, execSync } = require('child_process');
+function resolveClaude() {
+  try { const p = execSync(process.platform === 'win32' ? 'where claude' : 'which claude', { encoding: 'utf8' }).split(/\r?\n/)[0].trim(); if (p) return p; } catch {}
+  return 'claude';
+}
+const CLAUDE = resolveClaude();
 
 const ROOT = path.join(__dirname, '..');
 const PORT = process.env.MIKE_PORT || 4317;
@@ -111,6 +116,23 @@ function parseTop3(md) {
   };
 }
 
+function maskKey(key) {
+  if (!key) return '';
+  return key.length <= 10 ? '*'.repeat(key.length) : `${key.slice(0, 4)}...${key.slice(-4)}`;
+}
+
+function parseCorrections(md) {
+  return md.split(/\n\*\*(?=\d{4}-\d{2}-\d{2})/).slice(1).map(b => {
+    const head = b.split('\n')[0];
+    return {
+      date: (head.match(/\d{4}-\d{2}-\d{2}/) || [])[0] || '',
+      title: (head.split('—')[1] || head).replace(/\*+/g, '').trim(),
+      truth: ((b.match(/\*What is actually true:\*\s*([^\n]+)/) || [])[1] || '').trim(),
+      change: ((b.match(/\*How this changes my thinking:\*\s*([^\n]+)/) || [])[1] || '').trim()
+    };
+  }).reverse();
+}
+
 function buildState() {
   const ideasMd = read('ideas/ALL_IDEAS.md');
   const journalMd = read('brain/MIKE_JOURNAL.md');
@@ -120,7 +142,7 @@ function buildState() {
   const signals = safe(() => parseSignals(read('brain/TRACKED_SIGNALS.md')), []);
   const runs = safe(() => bullets(read('ideas/RESEARCH_LOG.md')).reverse(), []);
   const facts = (knowledgeMd.match(/^(STABLE_FACT|TRACKED_SIGNAL|MARKET_PATTERN|HYPOTHESIS|CORRECTION)\s*\|/gm) || []).length;
-  const corrections = (read('brain/CORRECTIONS.md').match(/^\*\*\d{4}-\d{2}-\d{2}/gm) || []).length;
+  const learned = safe(() => parseCorrections(read('brain/CORRECTIONS.md')), []);
   const logs = safe(() => fs.readdirSync(path.join(ROOT, 'daily-logs')).filter(f => /\d{4}-\d{2}-\d{2}\.md/.test(f)).sort(), []);
   const scores = ideas.map(i => i.score).filter(Boolean);
 
@@ -136,18 +158,21 @@ function buildState() {
     stats: {
       pool: ideas.length,
       top: scores.length ? Math.max(...scores) : 0,
-      avg: scores.length ? +(scores.reduce((a, b) => a + b, 0) / scores.length).toFixed(2) : 0,
       killed: killed.length,
+      learnings: learned.length,
       runs: runs.length || logs.length,
-      facts, corrections,
+      facts,
       lastRun: logs.length ? logs[logs.length - 1].replace('.md', '') : '—'
     },
-    ideas, signals, killed, runs,
+    ideas, killed, runs, learned,
     run: {
       running: runState.running, startedAt: runState.startedAt, lastRun: runState.lastRun,
-      lastExit: runState.lastExit, lastDurationMs: runState.lastDurationMs,
-      trigger: runState.trigger, log: runState.log.slice(-60)
+      lastExit: runState.lastExit, lastDurationMs: runState.lastDurationMs, trigger: runState.trigger,
+      phase: runState.phase, phaseIndex: runState.phaseIndex, phases: PHASES,
+      turns: runState.turns, cost: runState.cost, activity: runState.activity.slice(-80),
+      lastError: runState.lastError
     },
+    provider: publicProvider(effectiveProvider()),
     schedule, nextRun: nextRunEstimate()
   };
 }
@@ -169,42 +194,267 @@ for (const dir of WATCH_DIRS) {
   } catch {}
 }
 
-// ---------- runs: spawn Mike headless ----------
+// ---------- runs: spawn Mike headless, stream his real activity ----------
 const SCHED_FILE = path.join(__dirname, 'schedule.json');
-const runState = { running: false, startedAt: 0, lastRun: 0, lastExit: null, lastDurationMs: 0, trigger: '', log: [] };
+const PHASES = ['Waking up', 'Researching', 'Scoring & killing', 'Learning', 'Writing up', 'Committing'];
+const runState = { running: false, startedAt: 0, lastRun: 0, lastExit: null, lastDurationMs: 0, trigger: '', phase: '', phaseIndex: -1, turns: 0, cost: 0, activity: [], lastError: '' };
 let schedule = { enabled: false, mode: 'daily', time: '09:00', day: 1, intervalMin: 1440 };
 try { schedule = Object.assign(schedule, JSON.parse(fs.readFileSync(SCHED_FILE, 'utf8'))); } catch {}
 const saveSched = () => { try { fs.writeFileSync(SCHED_FILE, JSON.stringify(schedule, null, 2)); } catch {} };
 
-const RUN_PROMPT = "You are Startup Mike. Execute your COMPLETE daily run sequence exactly as defined in CLAUDE.md, STEP 0 through STEP 10 — read your journal/feedback/founder/seasons, set your own agenda, run a Greek-first SEARCH-ONLY scan (max ~5 searches, no full-page fetches, per TOKEN DISCIPLINE), update the brain and idea files, attack your top idea, update your journal and search playbook, write the daily log, then commit and push. Be terse. End with a short first-person report.";
-
-function pushLog(s) {
-  s.split(/\r?\n/).forEach(line => { if (line.trim()) { runState.log.push(line); send({ type: 'run', state: 'log', line }); } });
-  if (runState.log.length > 140) runState.log = runState.log.slice(-140);
+// provider: point the headless run at OpenRouter/Z.AI (Anthropic-compatible APIs) with your own key
+const PROVIDER_FILE = path.join(__dirname, 'provider.json');
+const PROVIDERS = {
+  openrouter: {
+    name: 'OpenRouter',
+    baseUrl: 'https://openrouter.ai/api',
+    model: 'openrouter/free',
+    smallModel: 'openrouter/free',
+    envKeyNames: ['OPENROUTER_API_KEY']
+  },
+  zai: {
+    name: 'Z.AI GLM',
+    baseUrl: 'https://api.z.ai/api/anthropic',
+    model: 'glm-5.2[1m]',
+    smallModel: 'glm-4.7',
+    envKeyNames: ['ZAI_API_KEY', 'Z_AI_API_KEY']
+  }
+};
+const PROVIDER_DEFAULTS = {
+  enabled: true,
+  type: 'openrouter',
+  timeoutMs: 3000000
+};
+function loadProvider() { try { return JSON.parse(fs.readFileSync(PROVIDER_FILE, 'utf8')); } catch { return {}; } }
+function saveProvider(p) { try { fs.writeFileSync(PROVIDER_FILE, JSON.stringify(p, null, 2)); } catch {} }
+function normalizeProvider(cfg) {
+  const p = Object.assign({}, PROVIDER_DEFAULTS, cfg || {});
+  p.type = PROVIDERS[p.type] ? p.type : (String(p.baseUrl || '').includes('openrouter.ai') ? 'openrouter' : 'zai');
+  const preset = PROVIDERS[p.type];
+  p.enabled = p.enabled !== false;
+  p.name = String(p.name || preset.name).trim();
+  p.baseUrl = String(p.baseUrl || preset.baseUrl).trim().replace(/\s+$/, '');
+  p.model = String(p.model || preset.model).trim();
+  p.smallModel = String(p.smallModel || preset.smallModel).trim();
+  p.apiKey = String(p.apiKey || '').trim();
+  p.timeoutMs = Math.max(60000, Number(p.timeoutMs || PROVIDER_DEFAULTS.timeoutMs));
+  return p;
 }
+function effectiveProvider() {
+  const p = normalizeProvider(loadProvider());
+  const keyNames = (PROVIDERS[p.type] || PROVIDERS.openrouter).envKeyNames || [];
+  const envKey = keyNames.map(k => (process.env[k] || '').trim()).find(Boolean) || '';
+  if (!p.apiKey && envKey) {
+    p.apiKey = envKey;
+    p.keySource = 'env';
+  } else if (p.apiKey) {
+    p.keySource = 'provider.json';
+  }
+  return p;
+}
+function publicProvider(cfg) {
+  const p = normalizeProvider(cfg);
+  const ready = !p.enabled || !!p.apiKey;
+  return {
+    enabled: p.enabled,
+    ready,
+    configured: !!p.apiKey,
+    keySource: p.keySource || '',
+    keyPreview: maskKey(p.apiKey),
+    type: p.type,
+    name: p.name,
+    baseUrl: p.baseUrl,
+    model: p.model,
+    smallModel: p.smallModel,
+    timeoutMs: p.timeoutMs,
+    contextWindow: /\[1m\]/i.test(p.model) ? 1000000 : 200000,
+    message: ready ? '' : `Save an ${p.name} API key before running Mike.`
+  };
+}
+function providerEnv(cfg) {
+  const p = normalizeProvider(cfg);
+  if (!p.enabled || !p.apiKey) return {};
+  const m = p.model || PROVIDER_DEFAULTS.model;
+  const isOpenRouter = p.type === 'openrouter';
+  const env = {
+    ANTHROPIC_BASE_URL: p.baseUrl,
+    ANTHROPIC_AUTH_TOKEN: p.apiKey,
+    ANTHROPIC_API_KEY: isOpenRouter ? '' : p.apiKey,
+    OPENROUTER_API_KEY: isOpenRouter ? p.apiKey : (process.env.OPENROUTER_API_KEY || ''),
+    ANTHROPIC_MODEL: m,
+    ANTHROPIC_DEFAULT_SONNET_MODEL: m,
+    ANTHROPIC_DEFAULT_OPUS_MODEL: m,
+    ANTHROPIC_DEFAULT_HAIKU_MODEL: p.smallModel || m,
+    ANTHROPIC_SMALL_FAST_MODEL: p.smallModel || m,
+    CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC: '1',
+    API_TIMEOUT_MS: String(p.timeoutMs)
+  };
+  if (/\[1m\]/i.test(m)) env.CLAUDE_CODE_AUTO_COMPACT_WINDOW = '1000000';
+  return env;
+}
+
+const RUN_PROMPT = [
+  'You are Startup Mike. Do a FULL, rigorous daily run per CLAUDE.md (STEP 0 through 10) — not a shallow pass.',
+  'Read your journal, feedback, founder and seasons files plus the brain files first; set your own agenda.',
+  'Then run a THOROUGH Greek-first scan: 8-12 targeted searches covering demand, REAL competitors, pricing and social complaints for your targets. Search-only (snippets), no full-page fetches.',
+  'Score every candidate AND every existing idea on the 7 dimensions. ACTUALLY KILL the weak ones — move them to ideas/KILLED_IDEAS.md with a reason — and re-score survivors. The pool must get sharper, not just longer.',
+  'Attack your #1 idea hard (STEP 7.5). Log at least one CORRECTION in brain/CORRECTIONS.md if anything you believed proved wrong.',
+  'Update your journal and SEARCH_PLAYBOOK, write the daily log, then commit and push. Be rigorous and honest — this is real work, not 30 seconds.'
+].join(' ');
+
+const shortP = p => (p || '').replace(/\\/g, '/').split('/').slice(-2).join('/');
+function setPhase(name) {
+  const i = PHASES.indexOf(name);
+  if (i >= 0 && i >= runState.phaseIndex) { runState.phase = name; runState.phaseIndex = i; }
+}
+function emitActivity(kind, text) {
+  const a = { kind, text: (text || '').slice(0, 220), at: Date.now() };
+  runState.activity.push(a);
+  if (runState.activity.length > 250) runState.activity = runState.activity.slice(-250);
+  send({ type: 'run', state: 'activity', kind: a.kind, text: a.text, phase: runState.phase, phaseIndex: runState.phaseIndex, at: a.at });
+}
+function rememberRunError(text) {
+  const s = String(text || '').trim();
+  if (!s) return;
+  if (/401|invalid auth|unauthorized|authentication|auth token|api key/i.test(s)) {
+    runState.lastError = 'Authentication failed. Check the API key in Model settings.';
+  } else if (/insufficient|quota|balance|rate limit|too many requests/i.test(s)) {
+    runState.lastError = 'Provider quota or rate limit error. Check your provider plan/quota.';
+  } else if (!runState.lastError && /error|failed|exception/i.test(s)) {
+    runState.lastError = s.slice(0, 220);
+  }
+}
+function emitTool(name, input) {
+  input = input || {};
+  if (name === 'WebSearch') { setPhase('Researching'); return emitActivity('search', input.query || ''); }
+  if (name === 'WebFetch') { setPhase('Researching'); return emitActivity('search', 'fetch ' + (input.url || '')); }
+  if (name === 'Read') { return emitActivity('read', shortP(input.file_path)); }
+  if (name === 'Edit' || name === 'Write' || name === 'NotebookEdit') {
+    const f = shortP(input.file_path);
+    if (/KILLED/i.test(f)) setPhase('Scoring & killing');
+    else if (/CORRECTIONS|JOURNAL|PLAYBOOK/i.test(f)) setPhase('Learning');
+    else if (/daily-logs/i.test(f)) setPhase('Writing up');
+    return emitActivity('write', f);
+  }
+  if (name === 'Bash') {
+    const c = (input.command || '').trim();
+    if (/git (commit|push)/.test(c)) setPhase('Committing');
+    return emitActivity('bash', c.slice(0, 70));
+  }
+  if (name === 'Grep' || name === 'Glob') return emitActivity('scan', input.pattern || '');
+  return emitActivity('tool', name);
+}
+function handleEvent(ev) {
+  if (!ev || !ev.type) return;
+  if (ev.type === 'assistant' && ev.message && Array.isArray(ev.message.content)) {
+    for (const c of ev.message.content) {
+      if (c.type === 'text' && c.text && c.text.trim()) emitActivity('think', c.text.trim());
+      else if (c.type === 'tool_use') emitTool(c.name, c.input);
+    }
+  } else if (ev.type === 'result') {
+    if (typeof ev.total_cost_usd === 'number') runState.cost = ev.total_cost_usd;
+    if (typeof ev.num_turns === 'number') runState.turns = ev.num_turns;
+    if (ev.is_error && ev.result) rememberRunError(ev.result);
+  }
+}
+
 function startRun(trigger) {
   if (runState.running) return false;
-  runState.running = true; runState.startedAt = Date.now(); runState.trigger = trigger; runState.log = [];
+  const provider = effectiveProvider();
+  if (provider.enabled && !provider.apiKey) {
+    Object.assign(runState, {
+      running: false, startedAt: Date.now(), trigger, phase: 'Config needed', phaseIndex: -1,
+      turns: 0, cost: 0, activity: [], lastError: `Save an ${provider.name} API key before running Mike.`
+    });
+    emitActivity('log', runState.lastError);
+    send({ type: 'run', state: 'error', error: runState.lastError, at: Date.now() });
+    return false;
+  }
+  Object.assign(runState, { running: true, startedAt: Date.now(), trigger, phase: 'Waking up', phaseIndex: 0, turns: 0, cost: 0, activity: [], lastError: '' });
   send({ type: 'run', state: 'started', trigger, at: Date.now() });
-  console.log(`  ▶ run started (${trigger})`);
+  console.log(`  ▶ run started (${trigger}) via ${CLAUDE}`);
+  emitActivity('log', provider.enabled ? `provider: ${provider.name} ${provider.model}` : 'provider: Claude default auth');
   let child;
   try {
-    child = spawn('claude', ['-p', RUN_PROMPT, '--dangerously-skip-permissions'],
-      { cwd: ROOT, shell: true, windowsHide: true });
+    child = spawn(CLAUDE, ['-p', RUN_PROMPT, '--output-format', 'stream-json', '--verbose', '--dangerously-skip-permissions'],
+      { cwd: ROOT, windowsHide: true, stdio: ['ignore', 'pipe', 'pipe'], env: Object.assign({}, process.env, providerEnv(provider)) });
   } catch (e) {
-    runState.running = false; pushLog('spawn error: ' + e.message);
+    runState.running = false; emitActivity('log', 'spawn error: ' + e.message);
     send({ type: 'run', state: 'error', at: Date.now() }); return false;
   }
-  child.stdout.on('data', d => pushLog(d.toString()));
-  child.stderr.on('data', d => pushLog(d.toString()));
-  child.on('error', e => pushLog('error: ' + e.message));
+  let buf = '';
+  child.stdout.on('data', d => {
+    buf += d.toString(); let i;
+    while ((i = buf.indexOf('\n')) >= 0) {
+      const line = buf.slice(0, i); buf = buf.slice(i + 1);
+      if (line.trim()) { try { handleEvent(JSON.parse(line)); } catch {} }
+    }
+  });
+  child.stderr.on('data', d => {
+    const s = d.toString().trim();
+    rememberRunError(s);
+    if (s && !/DeprecationWarning|no stdin|trace-deprecation/.test(s)) emitActivity('log', s.slice(0, 220));
+  });
+  child.on('error', e => { rememberRunError(e.message); emitActivity('log', 'error: ' + e.message); });
   child.on('close', code => {
     runState.running = false; runState.lastRun = Date.now();
     runState.lastExit = code; runState.lastDurationMs = Date.now() - runState.startedAt;
-    send({ type: 'run', state: 'finished', code, at: Date.now() });
-    console.log(`  ✔ run finished (exit ${code}, ${Math.round(runState.lastDurationMs / 1000)}s)`);
+    runState.phase = 'Done'; runState.phaseIndex = PHASES.length;
+    if (code !== 0 && !runState.lastError) runState.lastError = `Headless claude exited with code ${code}.`;
+    send({ type: 'run', state: 'finished', code, cost: runState.cost, turns: runState.turns, error: runState.lastError, at: Date.now() });
+    console.log(`  ✔ run finished (exit ${code}, ${Math.round(runState.lastDurationMs / 1000)}s, ${runState.turns} turns, $${(runState.cost || 0).toFixed(3)})`);
   });
   return true;
+}
+
+function testProviderOnce() {
+  const provider = effectiveProvider();
+  if (provider.enabled && !provider.apiKey) {
+    return Promise.resolve({ ok: false, error: `Save an ${provider.name} API key first.`, provider: publicProvider(provider) });
+  }
+  return new Promise(resolve => {
+    const args = ['-p', 'Reply with exactly GLM_OK.', '--output-format', 'stream-json', '--verbose'];
+    let child;
+    try {
+      child = spawn(CLAUDE, args, {
+        cwd: ROOT,
+        windowsHide: true,
+        stdio: ['ignore', 'pipe', 'pipe'],
+        env: Object.assign({}, process.env, providerEnv(provider))
+      });
+    } catch (e) {
+      resolve({ ok: false, error: e.message, provider: publicProvider(provider) });
+      return;
+    }
+    let out = '', err = '', settled = false;
+    const finish = result => {
+      if (settled) return;
+      settled = true;
+      clearTimeout(to);
+      resolve(Object.assign({ provider: publicProvider(provider) }, result));
+    };
+    const to = setTimeout(() => {
+      try { child.kill(); } catch {}
+      finish({ ok: false, error: 'Provider test timed out.' });
+    }, 90000);
+    child.stdout.on('data', d => out += d.toString());
+    child.stderr.on('data', d => err += d.toString());
+    child.on('error', e => finish({ ok: false, error: e.message }));
+    child.on('close', code => {
+      const text = out.split(/\r?\n/).map(line => {
+        try {
+          const ev = JSON.parse(line);
+          if (ev.type === 'assistant' && ev.message && Array.isArray(ev.message.content)) {
+            return ev.message.content.filter(c => c.type === 'text').map(c => c.text).join(' ');
+          }
+          if (ev.type === 'result' && ev.result) return ev.result;
+        } catch {}
+        return '';
+      }).filter(Boolean).join(' ').trim();
+      const error = (err || text || `claude exited with code ${code}`).trim().slice(0, 500);
+      finish({ ok: code === 0, code, output: text.slice(0, 500), error: code === 0 ? '' : error });
+    });
+  });
 }
 
 // schedule checker (fires only while the console is running — per chosen design)
@@ -249,6 +499,27 @@ const server = http.createServer(async (req, res) => {
   if (req.url === '/api/schedule' && req.method === 'POST') {
     try { schedule = Object.assign(schedule, JSON.parse((await readBody(req)) || '{}')); saveSched(); } catch {}
     return json({ schedule, nextRun: nextRunEstimate() });
+  }
+  if (req.url === '/api/provider' && req.method === 'POST') {
+    let incoming = {};
+    try { incoming = JSON.parse((await readBody(req)) || '{}'); } catch {}
+    const current = normalizeProvider(loadProvider());
+    const merged = Object.assign({}, current);
+    ['enabled', 'type', 'name', 'baseUrl', 'model', 'smallModel', 'timeoutMs'].forEach(k => {
+      if (Object.prototype.hasOwnProperty.call(incoming, k)) merged[k] = incoming[k];
+    });
+    const next = normalizeProvider(merged);
+    if (Object.prototype.hasOwnProperty.call(incoming, 'apiKey') && String(incoming.apiKey || '').trim()) {
+      next.apiKey = String(incoming.apiKey).trim();
+    } else {
+      next.apiKey = current.apiKey || '';
+    }
+    if (incoming.clearKey) next.apiKey = '';
+    saveProvider(next);
+    return json({ provider: publicProvider(effectiveProvider()) });
+  }
+  if (req.url === '/api/provider/test' && req.method === 'POST') {
+    return json(await testProviderOnce());
   }
   if (req.url === '/api/stream') {
     res.writeHead(200, { 'Content-Type': 'text/event-stream', 'Cache-Control': 'no-cache', Connection: 'keep-alive' });
