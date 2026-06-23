@@ -40,38 +40,71 @@ all qualify. Real estate, manufacturing, and franchise models do not.
 
 ---
 
+## TOKEN DISCIPLINE (read before every run)
+
+This system must be a great research machine on a tiny token budget. Power comes
+from sharp questions and good memory, NOT from reading everything.
+
+1. **Search, don't fetch.** WebSearch snippets are cheap; WebFetch downloads whole
+   pages (10-40k tokens each). Max 1-2 fetches per entire run, only for a missing number.
+2. **Cap searches at ~5 per run**, each tied to a research target or signal.
+3. **Trust your memory.** Brain files already hold what you know — don't re-research
+   confirmed STABLE_FACTs. Only chase what changed or what's still a gap.
+4. **Three agreeing snippets = enough.** Stop. Don't keep digging for a 4th.
+5. **Write terse.** Brain updates are one line each. The daily log is short.
+6. **Cap the read path.** Files grow → every future run costs more. Enforce caps
+   (below) so daily reading stays flat forever. Prune as you go, in the same run.
+
+A run that costs 10x the tokens for 1.1x the insight is a failed run.
+
+**FILE CAPS (enforce during STEP 4 — pruning is part of the run, not a chore):**
+- MARKET_KNOWLEDGE.md: ~40 facts max. Drop the lowest-confidence / oldest-unverified
+  when over. A fact not re-verified in 90 days and never reinforced → cut it.
+- PATTERNS.md: ~10 active patterns. Weak ones get demoted or merged.
+- TRACKED_SIGNALS.md: signals RESOLVED/EXPIRED for 30+ days → delete the row.
+- ALL_IDEAS.md: hard cap 15. KILLED_IDEAS / CORRECTIONS / daily-logs grow freely
+  (never read in full — only the current run touches them).
+- If a brain file can't be read in a glance, it's too long. Tighten it.
+
+---
+
 ## FILE STRUCTURE
 
 ```
 brain/
-  FEEDBACK.md          ← READ FIRST EVERY SINGLE RUN. Evaggelos writes here.
-  MARKET_KNOWLEDGE.md  ← Growing database of verified facts about Greece
+  FEEDBACK.md          ← READ FIRST. Evaggelos writes here + the Experiment Log (tested reality).
+  FOUNDER.md           ← The lens: who this is for. Every idea passes through it.
+  SEASONS.md           ← Greece's monthly economic rhythm. Sets the TIMING score.
+  MARKET_KNOWLEDGE.md  ← Verified facts about Greece (capped — prune low-confidence)
   TRACKED_SIGNALS.md   ← Active signals being monitored with status
-  PATTERNS.md          ← Recurring observations confirmed across sources
+  PATTERNS.md          ← Recurring observations confirmed across sources (max ~10)
   CORRECTIONS.md       ← Where the agent was wrong — most important file
   RESEARCH_GAPS.md     ← What we don't know yet — drives research targets
 
 ideas/
   ALL_IDEAS.md         ← Active idea pool (max 15, sorted by score)
-  TOP3.md              ← Top 3 in plain language for Evaggelos
+  TOP3.md              ← Top 3 for Evaggelos. #1 carries a week-1 execution playbook.
   KILLED_IDEAS.md      ← Rejected ideas with kill reason — never delete
   RESEARCH_LOG.md      ← One-line entry per run
   archive/             ← Ideas removed from pool due to lower score
 
 daily-logs/
-  YYYY-MM-DD.md        ← Full daily log per run
+  YYYY-MM-DD.md        ← Short daily log per run
 ```
 
 ---
 
 ## THE DAILY RUN SEQUENCE (follow this exactly)
 
-### STEP 0: Read feedback (2 min)
-Read brain/FEEDBACK.md entirely.
-Acknowledge any active instructions. They override everything else.
+### STEP 0: Read feedback + context (the cheap, must-read files)
+Read, in order — all small, all mandatory:
+1. brain/FEEDBACK.md — instructions + Experiment Log. **A new experiment result is
+   ground truth — it outranks everything.** Active instructions override all else.
+2. brain/FOUNDER.md — the lens every idea must pass through.
+3. brain/SEASONS.md — find today's month; it sets your TIMING baseline.
 
-### STEP 1: Load knowledge (5 min)
-Read all brain files in this order:
+### STEP 1: Load knowledge
+Read the brain knowledge files:
 1. MARKET_KNOWLEDGE.md — what do I know?
 2. TRACKED_SIGNALS.md — what am I watching?
 3. RESEARCH_GAPS.md — what don't I know?
@@ -88,22 +121,27 @@ These are today's research mission. You must attempt to answer all 3.
 Also check every ACTIVE signal in TRACKED_SIGNALS.md that hasn't been
 checked in 3+ days.
 
-### STEP 3: News scan — last 24-48 hours ONLY (15 min)
-Do NOT research things you already know. Only look for what changed.
+### STEP 3: Targeted scan — search-first, last 24-48h ONLY
+**Token rule (governs the whole run): SEARCH, don't FETCH.** A WebSearch returns
+cheap snippets across many sources. A WebFetch downloads a whole page (10-40k
+tokens). Default to search. Only WebFetch when a specific number you must have
+appears in zero snippets — and never more than 1-2 fetches in an entire run.
 
-Search queries (run all):
-- naftemporiki.gr business news [today's date]
-- ekathimerini.com economy/policy [today's date]
-- newmoney.gr startup Greece [this week]
-- primeminister.gr announcements [today]
-- "Greece" + [each of your 3 research targets from Step 2]
-- "Ελλάδα" + [each research target in Greek if applicable]
-- Any signal from TRACKED_SIGNALS.md that needs update
+**Search in GREEK first.** The real signals — complaints, prices, government and
+ESPA announcements, local demand — live in Greek (`τιμή`, `νόμος`, `ψάχνω`,
+`ζητείται`, `προβλήμα`). Use English only for expat/tourist/diaspora/international
+signals. A run that searched only in English missed the actual market.
 
-Fetch live:
-- https://www.ekathimerini.com/economy/
-- https://www.naftemporiki.gr/
-- https://newmoney.gr/
+Run **at most 5 sharp queries**, each tied to a research target or active signal.
+Do NOT re-research what you already know — only what changed.
+
+- 1 query per research target (from Step 2), in Greek, with `site:` filters where
+  they fit the 12 core sources in RESEARCH_SOURCES.md (e.g. `site:kariera.gr [ρόλος]`)
+- 1 query for the most overdue ACTIVE signal in TRACKED_SIGNALS.md
+- 1 free "what changed" query (e.g. `site:ekathimerini.com economy this week`)
+
+Read the snippets. **If 3 snippets agree, stop searching — that's a STABLE_FACT.**
+Do not open pages to "read more."
 
 ### STEP 4: Adversarial knowledge update (5 min)
 For every new piece of information found:
@@ -139,7 +177,8 @@ For each candidate idea:
    - Is an EU/global company entering this space in Greece?
    - Is there ACTUAL demand evidence — not theoretical, real?
    - What is the single most likely reason this fails? Is it fatal?
-   - Would a smart Greek person with no savings ACTUALLY do this today?
+   - **The FOUNDER test (brain/FOUNDER.md):** would THIS person — in Greece, no
+     money, solo, needing cash now — realistically start this on Monday? If no, kill it.
 4. Only ideas surviving all 5 questions enter the pool
 
 ### STEP 7: Re-score existing ideas
@@ -152,59 +191,36 @@ Update scores. Move any idea that now scores under 6.5 to KILLED_IDEAS.md.
 This is how the pool gets better over time — not by adding more, but by
 raising the bar.
 
-### STEP 8: Update the pool
+### STEP 8: Update the pool + check for graduation
 - Add new ideas scoring 6.5+
 - If pool at 15: archive lowest scorer, add new one
 - Keep sorted by score, highest first
 - Regenerate TOP3.md if top 3 changed
 
+**GRADUATION — the action trigger (this is a decision engine, not a research loop):**
+When an idea holds **8.0+ for 2 consecutive runs**, it GRADUATES. This means:
+- Stop researching it further — the verdict is in. More research now is procrastination.
+- In TOP3.md, mark it `🎯 ACTIONABLE` and expand its #1 slot into the full week-1
+  playbook (5 concrete Mon-Fri actions a broke solo founder does with no money).
+- Keep it #1 until Evaggelos acts (watch the Experiment Log) or evidence drops it below 8.0.
+The system's job is done when it can say "THIS one, start it this week, here's Monday."
+
 ### STEP 9: Write the daily log
-Create daily-logs/[YYYY-MM-DD].md with:
+Create daily-logs/[YYYY-MM-DD].md — keep it terse, one line per bullet:
 
 ```
-# Daily Intelligence Log — [DATE]
+# Log — [DATE]
 
-## Feedback acknowledged
-[Any instructions from FEEDBACK.md + how you're acting on them]
-
-## Today's anchor
-[3 sentences: what I know, what I don't know, what I was wrong about]
-
-## Research targets
-[The 3 gaps from RESEARCH_GAPS.md you targeted today]
-
-## Key findings
-[Bullet points of the most important new things learned]
-
-## What I was wrong about today
-[Honest list — even if just 1 thing. If nothing, explain why you think that.]
-
-## Knowledge updates
-- New facts added to MARKET_KNOWLEDGE.md: [count]
-- Gaps resolved: [list]
-- New gaps discovered: [list]
-- Signals updated: [list]
-- Patterns confirmed or added: [list]
-- Corrections logged: [count]
-
-## Ideas this run
-- Generated: [count]
-- Killed (scored <6.5): [list with kill reason]
-- Killed (failed 5 questions): [list with kill reason]
-- Added to pool: [list with scores]
-- Existing ideas re-scored: [list with old→new score]
-
-## Pool health
-- Total ideas in pool: [count]
-- Highest score: [name + score]
-- Ideas that improved: [list]
-- Ideas that weakened: [list]
-
-## Tomorrow's research targets
-[2-3 specific things to investigate tomorrow based on today's findings]
-
-## One sentence: how am I smarter today than yesterday?
-[Required. Cannot be skipped.]
+**Feedback:** [active instructions acted on, or "none"]
+**Anchor:** Know X. Don't know Y. Was wrong about Z.
+**Targets:** [the 3 gaps chased]
+**Key findings:** [2-4 bullets, the new stuff only]
+**Wrong about today:** [≥1 thing, or why nothing]
+**Updates:** facts +[n] | gaps resolved: [..] | new gaps: [..] | signals: [..] | corrections: [n]
+**Ideas:** added [name:score..] | killed [name:reason..] | re-scored [name old→new..]
+**Pool:** [count] ideas, top = [name score]
+**Tomorrow:** [2-3 targets]
+**Smarter how:** [one concrete sentence — required]
 ```
 
 ### STEP 10: Commit and push
@@ -237,8 +253,8 @@ Score each idea 1-10 on these 7 dimensions:
 5. **COMPETITION_GAP** — Room to win?
    10=no competitors | 8=weak competitors | 6=clear differentiation | 1=dominated
 
-6. **TIMING** — Tailwind right now?
-   10=perfect storm | 7=clear tailwind | 5=neutral | 3=headwind | 1=terrible timing
+6. **TIMING** — Tailwind right now? **Read against brain/SEASONS.md current month.**
+   10=perfect storm (season + signal aligned) | 7=clear tailwind | 5=neutral | 3=headwind | 1=terrible timing
 
 7. **FOUNDER_SOLO** — Can one person run this?
    10=100% solo | 7=solo + occasional freelancer | 5=needs part-time | 1=needs team
@@ -287,30 +303,33 @@ Score each idea 1-10 on these 7 dimensions:
 *Last updated: [DATE] | Pool size: [X] ideas | Avg score: [X.X]*
 
 ---
-## 🥇 #1: [NAME] — [SCORE]
+## 🥇 #1: [NAME] — [SCORE] [🎯 ACTIONABLE if graduated]
 **Simple version:** [One sentence a 12-year-old understands]
-**Start this week with:** [One specific action, no money]
 **You could make:** €X–€Y in the first month
-**Why right now:** [One sentence on timing]
+**Why right now:** [One sentence on timing — tie to the season]
 **The catch:** [Honest risk]
-**Trending:** [↑ score improving / → stable / ↓ weakening]
+**Trending:** [↑ improving / → stable / ↓ weakening] | [runs at 8.0+: X/2]
+
+**▶ THIS WEEK (only shown once #1 is 🎯 ACTIONABLE):**
+- Mon: [exact action — who to message / what to post / what to make, €0]
+- Tue: [exact action]
+- Wed: [exact action]
+- Thu: [exact action]
+- Fri: [first-revenue attempt — how the first euro arrives]
+*Goal of the week: [one concrete, measurable outcome]*
+---
+## 🥈 #2 / 🥉 #3: [NAME] — [SCORE]
+**Simple version:** [one sentence] | **Why now:** [timing] | **Trending:** [↑→↓]
 ---
 ```
 
 ---
 
-## RESEARCH SOURCES (priority order)
+## RESEARCH SOURCES
 
-1. naftemporiki.gr — Greek business/finance news
-2. ekathimerini.com — English policy/economy
-3. newmoney.gr — startups and SMEs
-4. primeminister.gr — government announcements
-5. espa.gr / anaptyxi.gov.gr — EU funding programs open now
-6. insete.gr — Greek tourism data (authoritative)
-7. kariera.gr — job postings (leading demand indicator)
-8. startupgreece.gov.gr — startup ecosystem
-9. Google Trends (filtered to GR)
-10. skroutz.gr — any product market check
+See **brain/RESEARCH_SOURCES.md** — 12 core sources, mined by `site:` search, not
+page fetches. Pick 3-5 per run based on today's targets. The win is sharper
+questions of fewer sources, never "hit more sources."
 
 ---
 

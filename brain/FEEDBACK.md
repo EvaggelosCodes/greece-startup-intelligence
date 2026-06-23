@@ -30,5 +30,20 @@ Examples of what to write:
 
 ---
 
+## EXPERIMENT LOG — reality beats research
+*The most valuable data in the whole system. When Evaggelos actually TRIES something,*
+*it goes here. One real result outweighs ten articles. The agent must update scores,*
+*patterns, and corrections from these — a tested fact is the highest confidence there is.*
+
+| Date | Idea / action tried | What actually happened | What the system must learn |
+|------|---------------------|------------------------|----------------------------|
+| — | — | — | — |
+
+*Agent each run: if a new experiment appears here, treat its result as ground truth —*
+*re-score the related idea, log a CORRECTION if it contradicts a belief, and reflect*
+*the lesson in PATTERNS.md. Then note in the daily log how reality changed your thinking.*
+
+---
+
 *Agent: after reading this file, acknowledge any active instructions in your daily log.*
 *Agent: when an instruction is acted on, move it to Historical Feedback with the outcome.*
