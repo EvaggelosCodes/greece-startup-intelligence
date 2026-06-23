@@ -8,6 +8,7 @@
 const http = require('http');
 const fs = require('fs');
 const path = require('path');
+const { spawn } = require('child_process');
 
 const ROOT = path.join(__dirname, '..');
 const PORT = process.env.MIKE_PORT || 4317;
@@ -141,14 +142,20 @@ function buildState() {
       facts, corrections,
       lastRun: logs.length ? logs[logs.length - 1].replace('.md', '') : '—'
     },
-    ideas, signals, killed, runs
+    ideas, signals, killed, runs,
+    run: {
+      running: runState.running, startedAt: runState.startedAt, lastRun: runState.lastRun,
+      lastExit: runState.lastExit, lastDurationMs: runState.lastDurationMs,
+      trigger: runState.trigger, log: runState.log.slice(-60)
+    },
+    schedule, nextRun: nextRunEstimate()
   };
 }
 
 // ---------- live (SSE) ----------
 const clients = new Set();
-function broadcast(file) {
-  const payload = `data: ${JSON.stringify({ type: 'change', file, at: Date.now() })}\n\n`;
+function send(obj) {
+  const payload = `data: ${JSON.stringify(obj)}\n\n`;
   for (const c of clients) { try { c.write(payload); } catch {} }
 }
 let timer = null, lastFile = '';
@@ -157,16 +164,91 @@ for (const dir of WATCH_DIRS) {
     fs.watch(dir, { recursive: true }, (_e, fn) => {
       if (fn) lastFile = path.join(path.basename(dir), fn).replace(/\\/g, '/');
       clearTimeout(timer);
-      timer = setTimeout(() => broadcast(lastFile), 180);
+      timer = setTimeout(() => send({ type: 'change', file: lastFile, at: Date.now() }), 180);
     });
   } catch {}
 }
 
+// ---------- runs: spawn Mike headless ----------
+const SCHED_FILE = path.join(__dirname, 'schedule.json');
+const runState = { running: false, startedAt: 0, lastRun: 0, lastExit: null, lastDurationMs: 0, trigger: '', log: [] };
+let schedule = { enabled: false, mode: 'daily', time: '09:00', day: 1, intervalMin: 1440 };
+try { schedule = Object.assign(schedule, JSON.parse(fs.readFileSync(SCHED_FILE, 'utf8'))); } catch {}
+const saveSched = () => { try { fs.writeFileSync(SCHED_FILE, JSON.stringify(schedule, null, 2)); } catch {} };
+
+const RUN_PROMPT = "You are Startup Mike. Execute your COMPLETE daily run sequence exactly as defined in CLAUDE.md, STEP 0 through STEP 10 — read your journal/feedback/founder/seasons, set your own agenda, run a Greek-first SEARCH-ONLY scan (max ~5 searches, no full-page fetches, per TOKEN DISCIPLINE), update the brain and idea files, attack your top idea, update your journal and search playbook, write the daily log, then commit and push. Be terse. End with a short first-person report.";
+
+function pushLog(s) {
+  s.split(/\r?\n/).forEach(line => { if (line.trim()) { runState.log.push(line); send({ type: 'run', state: 'log', line }); } });
+  if (runState.log.length > 140) runState.log = runState.log.slice(-140);
+}
+function startRun(trigger) {
+  if (runState.running) return false;
+  runState.running = true; runState.startedAt = Date.now(); runState.trigger = trigger; runState.log = [];
+  send({ type: 'run', state: 'started', trigger, at: Date.now() });
+  console.log(`  ▶ run started (${trigger})`);
+  let child;
+  try {
+    child = spawn('claude', ['-p', RUN_PROMPT, '--dangerously-skip-permissions'],
+      { cwd: ROOT, shell: true, windowsHide: true });
+  } catch (e) {
+    runState.running = false; pushLog('spawn error: ' + e.message);
+    send({ type: 'run', state: 'error', at: Date.now() }); return false;
+  }
+  child.stdout.on('data', d => pushLog(d.toString()));
+  child.stderr.on('data', d => pushLog(d.toString()));
+  child.on('error', e => pushLog('error: ' + e.message));
+  child.on('close', code => {
+    runState.running = false; runState.lastRun = Date.now();
+    runState.lastExit = code; runState.lastDurationMs = Date.now() - runState.startedAt;
+    send({ type: 'run', state: 'finished', code, at: Date.now() });
+    console.log(`  ✔ run finished (exit ${code}, ${Math.round(runState.lastDurationMs / 1000)}s)`);
+  });
+  return true;
+}
+
+// schedule checker (fires only while the console is running — per chosen design)
+const pad = n => String(n).padStart(2, '0');
+let lastFiredKey = '';
+setInterval(() => {
+  if (!schedule.enabled || runState.running) return;
+  const now = new Date();
+  if (schedule.mode === 'interval') {
+    const base = runState.lastRun || runState.startedAt || 0;
+    if (Date.now() - base >= (schedule.intervalMin || 1440) * 60000) startRun('schedule:interval');
+    return;
+  }
+  const hhmm = pad(now.getHours()) + ':' + pad(now.getMinutes());
+  if (hhmm !== schedule.time) return;
+  if (schedule.mode === 'weekly' && now.getDay() !== Number(schedule.day)) return;
+  const key = now.toDateString() + ' ' + hhmm;
+  if (key === lastFiredKey) return;
+  lastFiredKey = key;
+  startRun('schedule:' + schedule.mode);
+}, 20000);
+
+function nextRunEstimate() {
+  if (!schedule.enabled) return null;
+  if (schedule.mode === 'interval') return (runState.lastRun || Date.now()) + (schedule.intervalMin || 1440) * 60000;
+  const [h, m] = (schedule.time || '09:00').split(':').map(Number);
+  const d = new Date(); d.setHours(h, m, 0, 0);
+  if (schedule.mode === 'weekly') {
+    let add = (Number(schedule.day) - d.getDay() + 7) % 7;
+    if (add === 0 && d.getTime() <= Date.now()) add = 7;
+    d.setDate(d.getDate() + add);
+  } else if (d.getTime() <= Date.now()) d.setDate(d.getDate() + 1);
+  return d.getTime();
+}
+
 // ---------- http ----------
-const server = http.createServer((req, res) => {
-  if (req.url === '/api/state') {
-    res.writeHead(200, { 'Content-Type': 'application/json', 'Cache-Control': 'no-store' });
-    return res.end(JSON.stringify(buildState()));
+const readBody = req => new Promise(r => { let b = ''; req.on('data', c => b += c); req.on('end', () => r(b)); });
+const server = http.createServer(async (req, res) => {
+  const json = o => { res.writeHead(200, { 'Content-Type': 'application/json', 'Cache-Control': 'no-store' }); res.end(JSON.stringify(o)); };
+  if (req.url === '/api/state') return json(buildState());
+  if (req.url === '/api/run' && req.method === 'POST') return json({ ok: startRun('manual'), running: runState.running });
+  if (req.url === '/api/schedule' && req.method === 'POST') {
+    try { schedule = Object.assign(schedule, JSON.parse((await readBody(req)) || '{}')); saveSched(); } catch {}
+    return json({ schedule, nextRun: nextRunEstimate() });
   }
   if (req.url === '/api/stream') {
     res.writeHead(200, { 'Content-Type': 'text/event-stream', 'Cache-Control': 'no-cache', Connection: 'keep-alive' });
@@ -176,7 +258,6 @@ const server = http.createServer((req, res) => {
     req.on('close', () => { clearInterval(hb); clients.delete(res); });
     return;
   }
-  // default → index.html
   fs.readFile(path.join(__dirname, 'index.html'), (err, buf) => {
     if (err) { res.writeHead(500); return res.end('index.html missing'); }
     res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8' });
@@ -186,6 +267,6 @@ const server = http.createServer((req, res) => {
 
 server.listen(PORT, () => {
   console.log(`\n  ◆ MIKE CONSOLE live →  http://localhost:${PORT}`);
-  console.log(`  watching: brain/  ideas/  daily-logs/`);
-  console.log(`  zero Claude credits — reading local files only.\n`);
+  console.log(`  watching brain/ ideas/ daily-logs/  ·  RUN button + scheduler armed`);
+  console.log(`  console = 0 credits. Hitting RUN spawns 'claude' headless (that run spends credits).\n`);
 });
