@@ -8,11 +8,11 @@
 ## Open Gaps (Priority Order)
 
 ### HIGH PRIORITY
-- [ ] Exact number of digital nomads currently living in Greece — how many, where, what do they earn/spend?
 - [ ] Is there a Greek-language online course platform that has real traction? Who are the top creators?
 - [ ] What is the actual size of the Greek pet services market — vets, groomers, sitters, food?
-- [ ] What do short-term rental regulation changes in 2025-2026 actually say? Who is affected?
-- [ ] What ESPA/EU funding programs are open RIGHT NOW for individuals or solo businesses?
+- [ ] How many Greek STR owners are non-compliant with the new EU registration number / fire-safety rules? (demand size for compliance help)
+- [ ] How are micro-freelancers preparing for Oct 1 2026 e-invoicing — DIY, accountant, or unprepared? (sizes the compliance-onboarding wedge)
+- [ ] Who already offers STR compliance-as-a-service to small Greek owners — accountants, property managers, or nobody bundled?
 
 ### MEDIUM PRIORITY
 - [ ] What are the most-complained-about services in Greece on social media in 2025-2026?
@@ -34,6 +34,9 @@
 | Gap | Answer | Source | Date Resolved |
 |-----|--------|--------|---------------|
 | Is Greek e-commerce underdeveloped? | No — skroutz.gr 8M monthly users, market mature | skroutz.gr | 2026-03-27 |
+| What do 2025-26 STR rules say? | Law 5170/2025: EU reg number 20 May 2026, Athens license freeze→Thessaloniki Mar 2026, fines €5k+ | LiFO/taxheaven | 2026-06-24 |
+| ESPA open now for solo? | "Ξεκινώ Επιχειρηματικά" 2026 — graduates only, 100% grant €13-21k, closes 30 Jun 2026 | espa.gr/megaprofit | 2026-06-24 |
+| Digital nomad numbers? | Partial — no hard count; floor raised to €3,500/mo, in-country apps abolished (barrier UP) | globalcitizensolutions | 2026-06-24 |
 
 ---
 

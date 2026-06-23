@@ -23,4 +23,10 @@ Format:
 
 ---
 
+**2026-06-24 — DIGITAL NOMAD INFLOW ASSUMPTION**
+*What I believed:* Digital nomad visa inflow is accelerating (~300% YoY) — a growing high-spend segment to serve.
+*What is actually true:* 2026 raised the income floor to €3,500/mo net AND abolished in-country applications (Law 5275/2026) — both RAISE the barrier. Inflow may slow or shift to higher-income arrivals.
+*Why I was wrong:* Treated "visa exists + popular" as "inflow always rising" without checking the latest rule changes.
+*How this changes my thinking:* Don't assume a popular visa = growing volume. Check the latest income/process thresholds before sizing a nomad-facing idea. The opportunity may be fewer-but-richer nomads, not more.
+
 *[Agent: add new corrections above this line after each run]*

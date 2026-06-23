@@ -26,6 +26,7 @@ HYPOTHESIS | Inflation pushed Greeks toward value-seeking behavior but premium e
 
 STABLE_FACT | Tourism = ~25% of Greek GDP, ~30M visitors/year | INSETE | high | 2026-03-27 | 2026-03-27
 TRACKED_SIGNAL | 2025 was record year for Greek tourism — 2026 projections show further growth especially shoulder seasons | INSETE | high | 2026-03-27 | 2026-03-27
+TRACKED_SIGNAL | 2026 = "last-minute booking" year (ME geopolitics + EU household pressure); air capacity +7.8% (30.7M seats), Jul-Aug demand ~70% | INSETE/money-tourism | high | 2026-06-24 | 2026-06-24
 STABLE_FACT | Average tourist spend in Greece €650-800/trip — higher for non-EU visitors | Bank of Greece | high | 2026-03-27 | 2026-03-27
 MARKET_PATTERN | Greek islands are massively oversupplied in summer, deeply undersupplied in services in winter — two different markets | observation | high | 2026-03-27 | 2026-03-27
 HYPOTHESIS | American and Gulf tourists are higher-spend and growing segment — need data on numbers | unverified | medium | 2026-03-27 | never
@@ -51,6 +52,10 @@ STABLE_FACT | Digital nomad visa active since 2021 — allows non-EU remote work
 STABLE_FACT | Starting a business in Greece still requires notary, GEMI registration, tax office visits — 15-30 days minimum | observation | high | 2026-03-27 | 2026-03-27
 TRACKED_SIGNAL | Greek government reducing bureaucracy for freelancers and solo businesses (e-paravolo, online filings) | gov.gr | medium | 2026-03-27 | 2026-03-27
 STABLE_FACT | Cash economy still large — estimates 20-25% of transactions unreported | Bank of Greece | medium | 2026-03-27 | 2026-03-27
+STABLE_FACT | Mandatory B2B e-invoicing (XML to myDATA) starts 1 Oct 2026, transition to 31 Dec — hits ~700k freelancers/SMEs | parapolitika/jobbers | high | 2026-06-24 | 2026-06-24
+STABLE_FACT | STR/Airbnb Law 5170/2025: EU unique registration number mandatory from 20 May 2026; central-Athens new-license freeze, extends to Thessaloniki 1 Mar 2026; fines from €5,000 | LiFO/newmoney/taxheaven | high | 2026-06-24 | 2026-06-24
+STABLE_FACT | Tax reform Law 5246/2025: under-25s pay 0% income tax on first €20k; but min wage €830→€880 inflates imputed income, raising 2026 tax for ~700k freelancers | parapolitika/OECD | high | 2026-06-24 | 2026-06-24
+STABLE_FACT | Digital nomad visa income floor raised to €3,500/mo net; in-country applications abolished (Law 5275/2026) — barrier INCREASED, not eased | globalcitizensolutions | high | 2026-06-24 | 2026-06-24
 
 ## What Works / What Doesn't
 

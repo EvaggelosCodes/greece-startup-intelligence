@@ -15,6 +15,7 @@
 | 4 | Greek SMEs are 5-7 years behind EU in digital tools — massive gap, low willingness to pay | 2 | 2026-03-27 | 2026-03-27 | HIGH |
 | 5 | Tourism-adjacent beats pure-digital in Greece because cash flows are larger and faster | 2 | 2026-03-27 | 2026-03-27 | MEDIUM |
 | 6 | The informal economy is an opportunity disguised as a problem — formalizing any cash-based service is a wedge | 1 | 2026-03-27 | 2026-03-27 | MEDIUM |
+| 7 | A new compliance law with a hard deadline = a zero-capital service window (sell help before enforcement) — e-invoicing Oct 2026, STR reg May 2026 | 2 | 2026-06-24 | 2026-06-24 | MEDIUM |
 
 ---
 
