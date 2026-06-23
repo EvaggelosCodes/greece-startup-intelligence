@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MIKE · Console</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><path d='M8 1l5 7-5 7-5-7z' fill='%235b9dff'/></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#080a0e; --bg2:#0c1016; --card:#10151d; --card2:#131a23;
+  --line:rgba(255,255,255,.07); --line2:rgba(255,255,255,.12);
+  --ink:#e9edf3; --ink2:#9aa4b1; --mut:#5c6675;
+  --accent:#5b9dff; --accent-dim:rgba(91,157,255,.14);
+  --up:#36d6a0; --down:#ff6b6b; --gold:#ecc56b; --amber:#f2b24c;
+  --grad:linear-gradient(90deg,#5b9dff,#36d6a0);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{
+  background:var(--bg); color:var(--ink);
+  font-family:'Space Grotesk',system-ui,sans-serif;
+  -webkit-font-smoothing:antialiased; line-height:1.5; overflow-x:hidden;
+  background-image:
+    radial-gradient(900px 500px at 78% -8%, rgba(91,157,255,.10), transparent 60%),
+    radial-gradient(700px 500px at 0% 100%, rgba(54,214,160,.06), transparent 55%);
+  background-attachment:fixed;
+}
+.mono{font-family:'IBM Plex Mono',monospace}
+.wrap{max-width:1240px; margin:0 auto; padding:0 28px}
+.label{font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:.22em; text-transform:uppercase; color:var(--mut)}
+
+/* top bar */
+header{position:sticky; top:0; z-index:50; backdrop-filter:blur(14px);
+  background:rgba(8,10,14,.72); border-bottom:1px solid var(--line)}
+.bar{display:flex; align-items:center; justify-content:space-between; height:64px}
+.brand{display:flex; align-items:center; gap:12px}
+.diamond{width:18px;height:18px;background:var(--grad);clip-path:polygon(50% 0,100% 50%,50% 100%,0 50%);
+  box-shadow:0 0 18px rgba(91,157,255,.6)}
+.brand b{font-size:18px; font-weight:700; letter-spacing:.04em}
+.brand span{color:var(--mut); font-size:12px; letter-spacing:.04em}
+.status{display:flex; align-items:center; gap:18px}
+.clock{font-size:12px; color:var(--ink2)}
+.live{display:flex; align-items:center; gap:8px; font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:.18em}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--up);box-shadow:0 0 0 0 rgba(54,214,160,.5);animation:pulse 2s infinite}
+.live.off .dot{background:var(--down);animation:none}
+.live.off{color:var(--down)}
+@keyframes pulse{0%{box-shadow:0 0 0 0 rgba(54,214,160,.5)}70%{box-shadow:0 0 0 7px rgba(54,214,160,0)}100%{box-shadow:0 0 0 0 rgba(54,214,160,0)}}
+.accentline{height:1px;background:var(--grad);opacity:.5}
+
+/* hero */
+.hero{padding:54px 0 30px}
+.hero .label{margin-bottom:18px}
+.thesis{font-size:clamp(24px,3.4vw,40px); font-weight:500; letter-spacing:-.02em; line-height:1.28; max-width:980px}
+.thesis em{color:var(--accent); font-style:normal}
+.agenda{margin-top:28px; display:flex; flex-direction:column; gap:9px; max-width:760px}
+.agenda div{display:flex; gap:12px; align-items:baseline; color:var(--ink2); font-size:15px}
+.agenda .ar{color:var(--accent); font-family:'IBM Plex Mono',monospace; flex:none}
+.nag{margin-top:22px; font-size:13px; color:var(--mut); font-style:italic; max-width:760px; border-left:2px solid var(--line2); padding-left:14px}
+
+/* stats */
+.stats{display:grid; grid-template-columns:repeat(6,1fr); gap:1px; background:var(--line);
+  border:1px solid var(--line); border-radius:14px; overflow:hidden; margin:14px 0 8px}
+.stat{background:var(--bg2); padding:20px 18px}
+.stat .n{font-size:30px; font-weight:600; letter-spacing:-.02em; font-variant-numeric:tabular-nums}
+.stat .t{margin-top:4px}
+.stat.hl .n{color:var(--gold)}
+
+/* sections */
+section{padding:42px 0}
+.shead{display:flex; align-items:baseline; gap:14px; margin-bottom:22px}
+.shead h2{font-size:13px; font-family:'IBM Plex Mono',monospace; letter-spacing:.2em; text-transform:uppercase; font-weight:500}
+.shead .ct{color:var(--mut); font-size:12px; font-family:'IBM Plex Mono',monospace}
+.shead .rule{flex:1; height:1px; background:var(--line)}
+
+.grid{display:grid; grid-template-columns:1fr 340px; gap:26px; align-items:start}
+
+/* idea cards */
+.idea{position:relative; background:var(--card); border:1px solid var(--line); border-radius:14px;
+  padding:22px 24px; margin-bottom:14px; overflow:hidden; transition:.3s; }
+.idea:hover{border-color:var(--line2); transform:translateY(-2px)}
+.idea::before{content:''; position:absolute; left:0; top:0; bottom:0; width:3px; background:var(--mut); opacity:.5; transition:.3s}
+.idea.priority::before{background:var(--grad); opacity:1}
+.idea.good::before{background:var(--amber)}
+.idea:hover::before{opacity:1}
+.itop{display:flex; justify-content:space-between; align-items:flex-start; gap:18px}
+.iname{display:flex; align-items:center; gap:12px; flex-wrap:wrap}
+.rank{font-family:'IBM Plex Mono',monospace; color:var(--mut); font-size:13px}
+.iname h3{font-size:20px; font-weight:600; letter-spacing:-.01em}
+.badge{font-family:'IBM Plex Mono',monospace; font-size:10px; letter-spacing:.14em; padding:3px 9px; border-radius:20px;
+  background:var(--accent-dim); color:var(--accent); border:1px solid rgba(91,157,255,.3)}
+.badge.act{background:rgba(54,214,160,.14); color:var(--up); border-color:rgba(54,214,160,.35)}
+.score{display:flex; align-items:baseline; gap:7px; flex:none}
+.score b{font-size:34px; font-weight:700; letter-spacing:-.03em; font-variant-numeric:tabular-nums}
+.score .of{color:var(--mut); font-size:13px; font-family:'IBM Plex Mono',monospace}
+.tr{font-size:15px; flex:none}
+.tr.up{color:var(--up)} .tr.down{color:var(--down)} .tr.flat{color:var(--mut)}
+.iwhat{color:var(--ink2); font-size:15px; margin:14px 0 16px; max-width:62ch}
+.meta{display:flex; flex-wrap:wrap; gap:8px; margin-bottom:16px}
+.chip{font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--ink2); background:var(--card2);
+  border:1px solid var(--line); border-radius:7px; padding:5px 10px}
+.chip b{color:var(--up); font-weight:600}
+.bars{display:grid; grid-template-columns:repeat(7,1fr); gap:8px; margin-top:6px}
+.bar .bl{font-family:'IBM Plex Mono',monospace; font-size:9px; color:var(--mut); letter-spacing:.04em; margin-bottom:5px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis}
+.track{height:5px; background:var(--card2); border-radius:4px; overflow:hidden}
+.fill{height:100%; width:0; border-radius:4px; background:var(--grad); transition:width 1.1s cubic-bezier(.2,.8,.2,1)}
+.why{margin-top:16px; font-size:13px; color:var(--ink2)}
+.why .k{color:var(--accent); font-family:'IBM Plex Mono',monospace; font-size:10px; letter-spacing:.1em; text-transform:uppercase}
+.risk .k{color:var(--down)}
+
+/* side rail */
+.rail{display:flex; flex-direction:column; gap:14px; position:sticky; top:86px}
+.panel{background:var(--card); border:1px solid var(--line); border-radius:14px; padding:18px 20px}
+.panel h4{font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:.18em; text-transform:uppercase; color:var(--mut); margin-bottom:14px}
+.sig{display:flex; align-items:flex-start; gap:11px; padding:9px 0; border-top:1px solid var(--line)}
+.sig:first-of-type{border-top:none}
+.sig .sd{font-size:14px; flex:none; width:14px; text-align:center}
+.sd.up{color:var(--up)} .sd.down{color:var(--down)} .sd.flat{color:var(--ink2)} .sd.unknown{color:var(--mut)}
+.sig .sn{font-size:13px; color:var(--ink)}
+.sig .snote{font-size:11px; color:var(--mut); margin-top:2px; font-family:'IBM Plex Mono',monospace}
+.hunch{font-size:13px; color:var(--ink2); padding:8px 0; border-top:1px dashed var(--line)}
+.hunch:first-of-type{border-top:none}
+
+/* graveyard */
+.tomb{display:grid; grid-template-columns:auto 1fr auto; gap:16px; align-items:center;
+  background:var(--bg2); border:1px solid var(--line); border-radius:10px; padding:14px 18px; margin-bottom:10px; opacity:.85}
+.tomb .tn{font-weight:500; text-decoration:line-through; text-decoration-color:var(--down); color:var(--ink2)}
+.tomb .tr2{font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--mut)}
+.killtag{font-family:'IBM Plex Mono',monospace; font-size:10px; letter-spacing:.1em; padding:3px 8px; border-radius:6px;
+  background:rgba(255,107,107,.1); color:var(--down); border:1px solid rgba(255,107,107,.25)}
+
+/* run log */
+.feed{font-family:'IBM Plex Mono',monospace; font-size:13px}
+.fline{display:flex; gap:16px; padding:11px 0; border-top:1px solid var(--line); color:var(--ink2)}
+.fline:first-child{border-top:none}
+.fline .fd{color:var(--accent); flex:none}
+.fline.new .fd{color:var(--up)}
+
+.empty{color:var(--mut); font-size:14px; font-style:italic; padding:8px 0}
+
+footer{border-top:1px solid var(--line); padding:26px 0 50px; margin-top:30px}
+.foot{display:flex; justify-content:space-between; flex-wrap:wrap; gap:10px; color:var(--mut); font-size:12px; font-family:'IBM Plex Mono',monospace}
+
+/* toast */
+#toast{position:fixed; right:24px; bottom:24px; z-index:99; display:flex; flex-direction:column; gap:8px}
+.tt{background:var(--card2); border:1px solid var(--line2); border-left:3px solid var(--accent);
+  border-radius:8px; padding:11px 16px; font-family:'IBM Plex Mono',monospace; font-size:12px; color:var(--ink);
+  box-shadow:0 12px 40px rgba(0,0,0,.5); animation:ttin .35s ease, ttout .4s ease 3.4s forwards}
+.tt b{color:var(--accent)}
+@keyframes ttin{from{opacity:0; transform:translateX(24px)}to{opacity:1;transform:none}}
+@keyframes ttout{to{opacity:0; transform:translateX(24px)}}
+
+/* reveal + flash */
+.rv{opacity:0; transform:translateY(14px); animation:rv .6s cubic-bezier(.2,.8,.2,1) forwards}
+@keyframes rv{to{opacity:1; transform:none}}
+.flash{animation:flash 1.1s ease}
+@keyframes flash{0%{box-shadow:0 0 0 1px var(--accent),0 0 30px rgba(91,157,255,.35)}100%{box-shadow:none}}
+
+@media(max-width:920px){
+  .grid{grid-template-columns:1fr} .rail{position:static}
+  .stats{grid-template-columns:repeat(3,1fr)}
+  .bars{grid-template-columns:repeat(4,1fr)}
+}
+@media(prefers-reduced-motion:reduce){*{animation:none!important; transition:none!important}.fill{transition:none}}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap bar">
+    <div class="brand"><div class="diamond"></div><b>MIKE</b><span>· Greece Startup Intelligence</span></div>
+    <div class="status">
+      <div class="clock mono" id="clock">--:--:--</div>
+      <div class="live" id="live"><span class="dot"></span><span id="livet">LIVE</span></div>
+    </div>
+  </div>
+  <div class="accentline"></div>
+</header>
+
+<main class="wrap" id="app">
+  <div class="hero">
+    <div class="label">On Mike's mind · current thesis</div>
+    <div class="thesis" id="thesis">—</div>
+    <div class="agenda" id="agenda"></div>
+    <div class="nag" id="nag"></div>
+  </div>
+
+  <div class="stats" id="stats"></div>
+
+  <section>
+    <div class="shead"><h2>The Pool</h2><span class="ct" id="poolct"></span><div class="rule"></div></div>
+    <div class="grid">
+      <div id="ideas"></div>
+      <div class="rail">
+        <div class="panel"><h4>Tracked Signals</h4><div id="signals"></div></div>
+        <div class="panel"><h4>Hunches</h4><div id="hunches"></div></div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="shead"><h2>The Graveyard</h2><span class="ct" id="killct"></span><div class="rule"></div></div>
+    <div id="killed"></div>
+  </section>
+
+  <section>
+    <div class="shead"><h2>Run Log</h2><span class="ct" id="runct"></span><div class="rule"></div></div>
+    <div class="feed" id="runs"></div>
+  </section>
+</main>
+
+<footer><div class="wrap foot">
+  <span>◆ MIKE CONSOLE · live via server-sent events · 0 Claude credits to run</span>
+  <span id="updated">—</span>
+</div></footer>
+
+<div id="toast"></div>
+
+<script>
+const $=s=>document.querySelector(s), el=(t,c,h)=>{const e=document.createElement(t); if(c)e.className=c; if(h!=null)e.innerHTML=h; return e;};
+const esc=s=>(s||'').replace(/[&<>]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[m]));
+const tierColor=v=>v>=8?'var(--gold)':v>=6.5?'var(--amber)':'var(--down)';
+let prevRuns=0, firstLoad=true;
+
+function countUp(node,to){
+  const dur=700, t0=performance.now(), dec=(to%1!==0);
+  (function step(t){const p=Math.min(1,(t-t0)/dur); const v=to*(1-Math.pow(1-p,3));
+    node.textContent=dec?v.toFixed(2):Math.round(v); if(p<1)requestAnimationFrame(step);})(t0);
+}
+
+function render(s){
+  // hero
+  $('#thesis').innerHTML = s.mike.thesis ? esc(s.mike.thesis).replace(/\*\*(.+?)\*\*/g,'<em>$1</em>') : 'Mike hasn’t formed a thesis yet.';
+  const ag=$('#agenda'); ag.innerHTML='';
+  s.mike.agenda.forEach((a,i)=>{const d=el('div','rv'); d.style.animationDelay=(i*70)+'ms';
+    d.innerHTML='<span class="ar">→</span><span>'+esc(a)+'</span>'; ag.appendChild(d);});
+  $('#nag').textContent = s.mike.nagging ? '“'+s.mike.nagging+'”' : '';
+
+  // stats
+  const st=$('#stats'); st.innerHTML='';
+  const cells=[['Pool',s.stats.pool,0],['Top score',s.stats.top,1],['Avg',s.stats.avg,0],
+    ['Killed',s.stats.killed,0],['Runs',s.stats.runs,0],['Facts known',s.stats.facts,0]];
+  cells.forEach(([t,v,hl])=>{const c=el('div','stat'+(hl?' hl':'')); const n=el('div','n','0');
+    c.appendChild(n); c.appendChild(el('div','t label',t)); st.appendChild(c); countUp(n,v);});
+
+  // ideas
+  const wrap=$('#ideas'); wrap.innerHTML=''; $('#poolct').textContent=s.ideas.length+' active';
+  if(!s.ideas.length) wrap.appendChild(el('div','empty','No ideas in the pool yet.'));
+  s.ideas.forEach((it,i)=>{
+    const card=el('div','idea '+it.tier+' rv'); card.style.animationDelay=(i*90)+'ms';
+    const badge = it.actionable?'<span class="badge act">🎯 Actionable</span>'
+      : it.tier==='priority'?'<span class="badge">Priority</span>':'';
+    const trArrow = it.trend==='up'?'↗':it.trend==='down'?'↘':'→';
+    const bars = it.breakdown.map(b=>`<div class="bar"><div class="bl">${b.k.replace('_',' ')}</div><div class="track"><div class="fill" data-w="${b.v*10}"></div></div></div>`).join('');
+    card.innerHTML=`
+      <div class="itop">
+        <div class="iname"><span class="rank">#${i+1}</span><h3>${esc(it.name)}</h3>${badge}</div>
+        <div style="display:flex;align-items:center;gap:14px">
+          <span class="tr ${it.trend}">${trArrow}</span>
+          <div class="score"><b style="color:${tierColor(it.score)}">${it.score!=null?it.score.toFixed(1):'—'}</b><span class="of">/10</span></div>
+        </div>
+      </div>
+      ${it.what?`<div class="iwhat">${esc(it.what)}</div>`:''}
+      <div class="meta">
+        ${it.revenue?`<span class="chip">M1 <b>${esc(it.revenue.replace(/ with.*/,''))}</b></span>`:''}
+      </div>
+      ${it.breakdown.length?`<div class="bars">${bars}</div>`:''}
+      ${it.whyNow?`<div class="why"><span class="k">Why now</span> &nbsp;${esc(it.whyNow)}</div>`:''}
+      ${it.risk?`<div class="why risk"><span class="k">Risk</span> &nbsp;${esc(it.risk)}</div>`:''}`;
+    wrap.appendChild(card);
+  });
+  requestAnimationFrame(()=>document.querySelectorAll('.fill').forEach(f=>f.style.width=f.dataset.w+'%'));
+
+  // signals
+  const sg=$('#signals'); sg.innerHTML='';
+  if(!s.signals.length) sg.appendChild(el('div','empty','None tracked.'));
+  s.signals.slice(0,8).forEach(x=>{const arrow={up:'↑',down:'↓',flat:'→',unknown:'?'}[x.dir];
+    const d=el('div','sig'); d.innerHTML=`<span class="sd ${x.dir}">${arrow}</span><div><div class="sn">${esc(x.name)}</div>${x.note?`<div class="snote">${esc(x.note.slice(0,60))}</div>`:''}</div>`; sg.appendChild(d);});
+
+  // hunches
+  const hu=$('#hunches'); hu.innerHTML='';
+  if(!s.mike.hunches.length) hu.appendChild(el('div','empty','No open hunches.'));
+  s.mike.hunches.forEach(h=>hu.appendChild(el('div','hunch',esc(h))));
+
+  // graveyard
+  const kw=$('#killed'); kw.innerHTML=''; $('#killct').textContent=s.killed.length+' buried';
+  if(!s.killed.length) kw.appendChild(el('div','empty','No kills yet — Mike hasn’t had to bury anything.'));
+  s.killed.forEach((k,i)=>{const t=el('div','tomb rv'); t.style.animationDelay=(i*60)+'ms';
+    t.innerHTML=`<span class="tn">${esc(k.idea)}</span><span class="tr2">${esc(k.reason||'')}</span><span class="killtag">${esc(k.type||k.score||'')}</span>`; kw.appendChild(t);});
+
+  // runs
+  const rw=$('#runs'); rw.innerHTML=''; $('#runct').textContent=s.runs.length+' logged';
+  if(!s.runs.length) rw.appendChild(el('div','empty','No runs logged yet.'));
+  s.runs.forEach((r,i)=>{const m=r.match(/^(\d{4}-\d{2}-\d{2})\s*\|?\s*(.*)$/);
+    const line=el('div','fline'+(firstLoad?'':(i===0?' new':'')));
+    line.innerHTML=`<span class="fd">${m?m[1]:'•'}</span><span>${esc(m?m[2]:r)}</span>`; rw.appendChild(line);});
+
+  $('#updated').textContent='updated '+new Date(s.generatedAt).toLocaleTimeString();
+  firstLoad=false; prevRuns=s.runs.length;
+}
+
+function toast(file){
+  const wrap=$('#toast'); const t=el('div','tt','<b>●</b> '+esc(file||'updated'));
+  wrap.appendChild(t); setTimeout(()=>t.remove(),3900);
+}
+async function load(flash){
+  try{const r=await fetch('/api/state'); const s=await r.json(); render(s);
+    if(flash){$('#stats').classList.remove('flash'); void $('#stats').offsetWidth; $('#stats').classList.add('flash');}
+  }catch(e){}
+}
+
+// clock
+setInterval(()=>{$('#clock').textContent=new Date().toLocaleTimeString();},1000);
+$('#clock').textContent=new Date().toLocaleTimeString();
+
+// live stream
+function connect(){
+  const es=new EventSource('/api/stream');
+  es.onopen=()=>{$('#live').classList.remove('off'); $('#livet').textContent='LIVE';};
+  es.onerror=()=>{$('#live').classList.add('off'); $('#livet').textContent='RECONNECTING';};
+  es.onmessage= e=>{try{const d=JSON.parse(e.data); toast(d.file); load(true);}catch{}};
+}
+load(false); connect();
+</script>
+</body>
+</html>
