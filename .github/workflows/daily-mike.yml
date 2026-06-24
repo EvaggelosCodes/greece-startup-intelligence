@@ -113,6 +113,26 @@ jobs:
           This log exists so a failed provider/model/auth attempt is visible in the repo instead of looking like the automation never ran.
           EOF
 
+      - name: Record no-output run
+        if: always()
+        run: |
+          if git diff --quiet -- brain/ ideas/ daily-logs/; then
+            mkdir -p daily-logs
+            file="daily-logs/$(date -u +%F)-background-no-output.md"
+            cat > "$file" <<EOF
+          # Background Mike no-output run - $(date -u +%F)
+
+          The 12-hour GitHub Actions wakeup ran and the OpenRouter secret smoke test passed, but no research files changed.
+
+          - Run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          - Model: $ANTHROPIC_MODEL
+          - Small model: $ANTHROPIC_SMALL_FAST_MODEL
+          - Claude action outcome: ${{ steps.claude.outcome }}
+
+          This log is a proof-of-wakeup marker so the automation never fails silently.
+          EOF
+          fi
+
       - name: Fallback commit changed research files
         if: always()
         run: |
