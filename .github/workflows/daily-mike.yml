@@ -51,16 +51,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-
-      - name: Install Claude Code
-        run: |
-          curl -fsSL https://claude.ai/install.sh | bash
-          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
-
       - name: Configure git
         run: |
           git config user.email "EvaggelosCodes@users.noreply.github.com"
@@ -77,43 +67,49 @@ jobs:
             exit 1
           fi
 
-      - name: Configure Claude Code gateway
-        run: |
-          mkdir -p .claude
-          printf '%s\n' '#!/usr/bin/env bash' 'printf "%s" "$OPENROUTER_API_KEY"' > .claude/openrouter-key.sh
-          chmod 700 .claude/openrouter-key.sh
-          cat > .claude/settings.local.json <<EOF
-          {
-            "apiKeyHelper": "$PWD/.claude/openrouter-key.sh",
-            "env": {
-              "ANTHROPIC_BASE_URL": "https://openrouter.ai/api",
-              "ANTHROPIC_MODEL": "$ANTHROPIC_MODEL",
-              "ANTHROPIC_DEFAULT_OPUS_MODEL": "$ANTHROPIC_MODEL",
-              "ANTHROPIC_DEFAULT_SONNET_MODEL": "$ANTHROPIC_MODEL",
-              "ANTHROPIC_DEFAULT_HAIKU_MODEL": "$ANTHROPIC_SMALL_FAST_MODEL",
-              "ANTHROPIC_SMALL_FAST_MODEL": "$ANTHROPIC_SMALL_FAST_MODEL",
-              "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": "1",
-              "API_TIMEOUT_MS": "3000000"
-            }
-          }
-          EOF
+      - name: Run Mike with Claude Code Action
+        id: claude
+        continue-on-error: true
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.OPENROUTER_API_KEY }}
+          prompt: |
+            You are Startup Mike. Execute your COMPLETE daily run sequence exactly as defined in CLAUDE.md, STEP 0 through STEP 10.
+            Read your journal, feedback, founder, seasons and brain files first; set your own agenda.
+            Run a Greek-first search-only scan. Keep it lean because this may be a slow/free OpenRouter model:
+            3-5 targeted searches, no full-page fetches unless absolutely necessary.
+            Score candidates and existing ideas on the 7 dimensions. Kill weak ideas, update the brain files, attack your #1 idea, update your journal and search playbook, write the daily log, then commit and push.
+            Be rigorous and honest. If the model/provider is slow, prefer a smaller but complete run over hanging forever.
+          claude_args: |
+            --model ${{ env.ANTHROPIC_MODEL }}
+            --max-turns 60
+            --dangerously-skip-permissions
+        env:
+          ANTHROPIC_BASE_URL: https://openrouter.ai/api
+          ANTHROPIC_DEFAULT_OPUS_MODEL: ${{ env.ANTHROPIC_MODEL }}
+          ANTHROPIC_DEFAULT_SONNET_MODEL: ${{ env.ANTHROPIC_MODEL }}
+          ANTHROPIC_DEFAULT_HAIKU_MODEL: ${{ env.ANTHROPIC_SMALL_FAST_MODEL }}
+          ANTHROPIC_SMALL_FAST_MODEL: ${{ env.ANTHROPIC_SMALL_FAST_MODEL }}
+          CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC: "1"
+          API_TIMEOUT_MS: "3000000"
 
-      - name: Run Mike
+      - name: Record provider failure
+        if: always() && steps.claude.outcome != 'success'
         run: |
-          export OPENROUTER_API_KEY="$OPENROUTER_API_KEY"
-          export ANTHROPIC_BASE_URL="https://openrouter.ai/api"
-          unset ANTHROPIC_AUTH_TOKEN
-          unset ANTHROPIC_API_KEY
-          claude --version
-          claude -p "$(cat <<'PROMPT'
-          You are Startup Mike. Execute your COMPLETE daily run sequence exactly as defined in CLAUDE.md, STEP 0 through STEP 10.
-          Read your journal, feedback, founder, seasons and brain files first; set your own agenda.
-          Run a Greek-first search-only scan. Keep it lean because this may be a slow/free OpenRouter model:
-          3-5 targeted searches, no full-page fetches unless absolutely necessary.
-          Score candidates and existing ideas on the 7 dimensions. Kill weak ideas, update the brain files, attack your #1 idea, update your journal and search playbook, write the daily log, then commit and push.
-          Be rigorous and honest. If the model/provider is slow, prefer a smaller but complete run over hanging forever.
-          PROMPT
-          )" --output-format stream-json --verbose --dangerously-skip-permissions
+          mkdir -p daily-logs
+          file="daily-logs/$(date -u +%F)-background-provider-failure.md"
+          cat > "$file" <<EOF
+          # Background Mike provider failure - $(date -u +%F)
+
+          The 12-hour GitHub Actions wakeup ran, the OpenRouter secret smoke test passed, but Claude Code Action did not complete successfully.
+
+          - Run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          - Model: $ANTHROPIC_MODEL
+          - Small model: $ANTHROPIC_SMALL_FAST_MODEL
+          - Outcome: ${{ steps.claude.outcome }}
+
+          This log exists so a failed provider/model/auth attempt is visible in the repo instead of looking like the automation never ran.
+          EOF
 
       - name: Fallback commit changed research files
         if: always()
