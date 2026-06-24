@@ -29,8 +29,6 @@ jobs:
 
     env:
       ANTHROPIC_BASE_URL: https://openrouter.ai/api
-      ANTHROPIC_AUTH_TOKEN: ${{ secrets.OPENROUTER_API_KEY }}
-      ANTHROPIC_API_KEY: ""
       OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
       ANTHROPIC_MODEL: ${{ github.event.inputs.model || 'openai/gpt-oss-120b:free' }}
       ANTHROPIC_DEFAULT_OPUS_MODEL: ${{ github.event.inputs.model || 'openai/gpt-oss-120b:free' }}
@@ -82,12 +80,13 @@ jobs:
       - name: Configure Claude Code gateway
         run: |
           mkdir -p .claude
+          printf '%s\n' '#!/usr/bin/env bash' 'printf "%s" "$OPENROUTER_API_KEY"' > .claude/openrouter-key.sh
+          chmod 700 .claude/openrouter-key.sh
           cat > .claude/settings.local.json <<EOF
           {
+            "apiKeyHelper": "$PWD/.claude/openrouter-key.sh",
             "env": {
               "ANTHROPIC_BASE_URL": "https://openrouter.ai/api",
-              "ANTHROPIC_AUTH_TOKEN": "$OPENROUTER_API_KEY",
-              "ANTHROPIC_API_KEY": "",
               "ANTHROPIC_MODEL": "$ANTHROPIC_MODEL",
               "ANTHROPIC_DEFAULT_OPUS_MODEL": "$ANTHROPIC_MODEL",
               "ANTHROPIC_DEFAULT_SONNET_MODEL": "$ANTHROPIC_MODEL",
@@ -103,8 +102,8 @@ jobs:
         run: |
           export OPENROUTER_API_KEY="$OPENROUTER_API_KEY"
           export ANTHROPIC_BASE_URL="https://openrouter.ai/api"
-          export ANTHROPIC_AUTH_TOKEN="$OPENROUTER_API_KEY"
-          export ANTHROPIC_API_KEY=""
+          unset ANTHROPIC_AUTH_TOKEN
+          unset ANTHROPIC_API_KEY
           claude --version
           claude -p "$(cat <<'PROMPT'
           You are Startup Mike. Execute your COMPLETE daily run sequence exactly as defined in CLAUDE.md, STEP 0 through STEP 10.
