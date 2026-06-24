@@ -31,7 +31,6 @@ jobs:
       ANTHROPIC_BASE_URL: https://openrouter.ai/api
       ANTHROPIC_AUTH_TOKEN: ${{ secrets.OPENROUTER_API_KEY }}
       ANTHROPIC_API_KEY: ""
-      ANTHROPIC_CUSTOM_HEADERS: "Authorization: Bearer ${{ secrets.OPENROUTER_API_KEY }}"
       OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
       ANTHROPIC_MODEL: ${{ github.event.inputs.model || 'openai/gpt-oss-120b:free' }}
       ANTHROPIC_DEFAULT_OPUS_MODEL: ${{ github.event.inputs.model || 'openai/gpt-oss-120b:free' }}
@@ -69,13 +68,43 @@ jobs:
           git config user.email "EvaggelosCodes@users.noreply.github.com"
           git config user.name "Greece Intelligence Bot"
 
+      - name: Verify OpenRouter secret
+        run: |
+          status="$(curl -sS -o /tmp/openrouter-models.json -w "%{http_code}" \
+            https://openrouter.ai/api/v1/models \
+            -H "Authorization: Bearer $OPENROUTER_API_KEY")"
+          if [ "$status" != "200" ]; then
+            echo "OpenRouter key check failed with HTTP $status."
+            head -c 500 /tmp/openrouter-models.json || true
+            exit 1
+          fi
+
+      - name: Configure Claude Code gateway
+        run: |
+          mkdir -p .claude
+          cat > .claude/settings.local.json <<EOF
+          {
+            "env": {
+              "ANTHROPIC_BASE_URL": "https://openrouter.ai/api",
+              "ANTHROPIC_AUTH_TOKEN": "$OPENROUTER_API_KEY",
+              "ANTHROPIC_API_KEY": "",
+              "ANTHROPIC_MODEL": "$ANTHROPIC_MODEL",
+              "ANTHROPIC_DEFAULT_OPUS_MODEL": "$ANTHROPIC_MODEL",
+              "ANTHROPIC_DEFAULT_SONNET_MODEL": "$ANTHROPIC_MODEL",
+              "ANTHROPIC_DEFAULT_HAIKU_MODEL": "$ANTHROPIC_SMALL_FAST_MODEL",
+              "ANTHROPIC_SMALL_FAST_MODEL": "$ANTHROPIC_SMALL_FAST_MODEL",
+              "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": "1",
+              "API_TIMEOUT_MS": "3000000"
+            }
+          }
+          EOF
+
       - name: Run Mike
         run: |
           export OPENROUTER_API_KEY="$OPENROUTER_API_KEY"
           export ANTHROPIC_BASE_URL="https://openrouter.ai/api"
           export ANTHROPIC_AUTH_TOKEN="$OPENROUTER_API_KEY"
           export ANTHROPIC_API_KEY=""
-          export ANTHROPIC_CUSTOM_HEADERS="Authorization: Bearer $OPENROUTER_API_KEY"
           claude --version
           claude -p "$(cat <<'PROMPT'
           You are Startup Mike. Execute your COMPLETE daily run sequence exactly as defined in CLAUDE.md, STEP 0 through STEP 10.
