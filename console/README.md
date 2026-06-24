@@ -74,3 +74,21 @@ environment instead of saving a key in `provider.json`.
 - **What Mike Learned** — corrections and changed beliefs.
 - **The Graveyard** — killed ideas with reasons.
 - **Run Log** — one line per session.
+
+## Local Windows catch-up scheduler
+If you want Mike to run when the PC is on, without keeping the console open, install
+the Windows scheduled task:
+
+```
+powershell -ExecutionPolicy Bypass -File local-automation/install-local-scheduler.ps1
+```
+
+It checks every 15 minutes and also on logon. If 12 hours have passed since the last
+local run, it runs Mike once and sets the next due time 12 hours from that run. If the
+PC was off during the scheduled window, the next login/check catches up automatically.
+
+Remove it with:
+
+```
+powershell -ExecutionPolicy Bypass -File local-automation/uninstall-local-scheduler.ps1
+```
