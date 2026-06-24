@@ -30,7 +30,8 @@ jobs:
     env:
       ANTHROPIC_BASE_URL: https://openrouter.ai/api
       ANTHROPIC_AUTH_TOKEN: ${{ secrets.OPENROUTER_API_KEY }}
-      ANTHROPIC_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+      ANTHROPIC_API_KEY: ""
+      ANTHROPIC_CUSTOM_HEADERS: "Authorization: Bearer ${{ secrets.OPENROUTER_API_KEY }}"
       OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
       ANTHROPIC_MODEL: ${{ github.event.inputs.model || 'openai/gpt-oss-120b:free' }}
       ANTHROPIC_DEFAULT_OPUS_MODEL: ${{ github.event.inputs.model || 'openai/gpt-oss-120b:free' }}
@@ -73,7 +74,8 @@ jobs:
           export OPENROUTER_API_KEY="$OPENROUTER_API_KEY"
           export ANTHROPIC_BASE_URL="https://openrouter.ai/api"
           export ANTHROPIC_AUTH_TOKEN="$OPENROUTER_API_KEY"
-          export ANTHROPIC_API_KEY="$OPENROUTER_API_KEY"
+          export ANTHROPIC_API_KEY=""
+          export ANTHROPIC_CUSTOM_HEADERS="Authorization: Bearer $OPENROUTER_API_KEY"
           claude --version
           claude -p "$(cat <<'PROMPT'
           You are Startup Mike. Execute your COMPLETE daily run sequence exactly as defined in CLAUDE.md, STEP 0 through STEP 10.
