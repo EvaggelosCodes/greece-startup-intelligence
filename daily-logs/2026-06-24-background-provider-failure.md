@@ -2,7 +2,7 @@
 
 The 12-hour GitHub Actions wakeup ran, the OpenRouter secret smoke test passed, but Claude Code Action did not complete successfully.
 
-- Run: https://github.com/EvaggelosCodes/greece-startup-intelligence/actions/runs/28075456632
+- Run: https://github.com/EvaggelosCodes/greece-startup-intelligence/actions/runs/28075506068
 - Model: openai/gpt-oss-120b:free
 - Small model: openai/gpt-oss-120b:free
 - Outcome: failure
