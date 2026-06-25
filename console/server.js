@@ -20,7 +20,12 @@ const PORT = process.env.MIKE_PORT || 4317;
 const WATCH_DIRS = ['brain', 'ideas', 'daily-logs'].map(d => path.join(ROOT, d));
 
 // ---------- helpers ----------
-const read = rel => { try { return fs.readFileSync(path.join(ROOT, rel), 'utf8'); } catch { return ''; } };
+function normalizeMarkdown(md) {
+  // Some headless agents copy numbered Read output back into files as "12\t## Heading".
+  // Strip only tab-prefixed source line numbers; keep real markdown numbered lists.
+  return String(md || '').replace(/^\d+\t/gm, '');
+}
+const read = rel => { try { return normalizeMarkdown(fs.readFileSync(path.join(ROOT, rel), 'utf8')); } catch { return ''; } };
 const safe = (fn, fb) => { try { return fn(); } catch { return fb; } };
 
 function section(md, header) {
@@ -143,7 +148,7 @@ function buildState() {
   const runs = safe(() => bullets(read('ideas/RESEARCH_LOG.md')).reverse(), []);
   const facts = (knowledgeMd.match(/^(STABLE_FACT|TRACKED_SIGNAL|MARKET_PATTERN|HYPOTHESIS|CORRECTION)\s*\|/gm) || []).length;
   const learned = safe(() => parseCorrections(read('brain/CORRECTIONS.md')), []);
-  const logs = safe(() => fs.readdirSync(path.join(ROOT, 'daily-logs')).filter(f => /\d{4}-\d{2}-\d{2}\.md/.test(f)).sort(), []);
+  const logs = safe(() => fs.readdirSync(path.join(ROOT, 'daily-logs')).filter(f => /^\d{4}-\d{2}-\d{2}.*\.md$/.test(f)).sort(), []);
   const scores = ideas.map(i => i.score).filter(Boolean);
 
   return {
