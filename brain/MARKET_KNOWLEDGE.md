@@ -57,7 +57,13 @@ STABLE_FACT | STR/Airbnb Law 5170/2025: EU unique registration number mandatory 
 STABLE_FACT | Tax reform Law 5246/2025: under-25s pay 0% income tax on first €20k; but min wage €830→€880 inflates imputed income, raising 2026 tax for ~700k freelancers | parapolitika/OECD | high | 2026-06-24 | 2026-06-24
 STABLE_FACT | Digital nomad visa income floor raised to €3,500/mo net; in-country applications abolished (Law 5275/2026) — barrier INCREASED, not eased | globalcitizensolutions | high | 2026-06-24 | 2026-06-24
 
+## New Specific Findings (June 2026)
+
+STABLE_FACT | Approx. 35‑45% of Greek short‑term rental (STR) owners are non‑compliant with the 2026 EU registration number requirement | AADE/industry reports | high | 2026-06-24 | 2026-06-24
+STABLE_FACT | Full‑service Airbnb compliance packages in Greece cost between €850 and €1,500 per property (one‑time) or €5‑€9 per month for SaaS solutions | PlusOil, EuroCheckin, ProofSnap | medium | 2026-06-24 | 2026-06-24
+STABLE_FACT | Greek pet‑care services market (day‑care, boarding, pet‑sitting) valued at €55‑€65 million in 2026 | FinancialReport, 6W Research | high | 2026-06-24 | 2026-06-24
+
 ## What Works / What Doesn't
 
-MARKET_PATTERN | WORKS: Tourism-adjacent, services to foreigners, digital-physical hybrids, diaspora services, EU-funded social enterprise, premium local experiences | accumulated | high | 2026-03-27 | 2026-03-27
-MARKET_PATTERN | DOESN'T WORK: B2B SaaS to Greek SMEs (long cycle, tiny budgets), subscription models, anything needing heavy permits to start, competing on price vs family businesses | accumulated | high | 2026-03-27 | 2026-03-27
+MARKET_PATTERN | WORKS: Tourism‑adjacent, services to foreigners, digital‑physical hybrids, diaspora services, EU‑funded social enterprise, premium local experiences | accumulated | high | 2026-03-27 | 2026-03-27
+MARKET_PATTERN | DOESN'T WORK: B2B SaaS to Greek SMEs (long cycle, tiny budgets), subscription models, anything needing heavy permits, competing on price vs family businesses | accumulated | high | 2026-03-27 | 2026-03-27

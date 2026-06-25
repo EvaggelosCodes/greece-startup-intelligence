@@ -1,8 +1,6 @@
 # Mike's Search Playbook — how I learn to hunt better
 *I read this BEFORE searching and update it AFTER. The whole point: run 50 searches*
-*smarter than run 1. This is my craft compounding, not just my facts.*
-*Capped: keep it tight — best ~12 lessons. Merge or drop weak ones.*
-
+*... (unchanged) ...
 ---
 
 ## WHAT WORKS (query patterns that hit signal)
