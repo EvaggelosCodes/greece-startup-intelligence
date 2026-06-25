@@ -145,6 +145,13 @@ that could prove my current thesis WRONG. Also check any ACTIVE signal stale 3+ 
 worked, avoid the ones that wasted tokens, and try one open craft experiment. I hunt
 smarter than last run or I wasted the playbook.
 
+Also open `brain/RESEARCH_METHODOLOGY.md` and `brain/RESEARCH_SOURCES.md`
+before every scan. Use the methodology's six research moves (demand check,
+competitor autopsy, price discovery, regulatory window, social truth, and
+already-exists test) plus its evidence quality bar before trusting a claim.
+Then pick the smallest source stack that can answer today's targets. One weak
+snippet is a lead, not evidence.
+
 **Token rule (governs the whole run): SEARCH, don't FETCH.** A WebSearch returns
 cheap snippets across many sources. A WebFetch downloads a whole page (10-40k
 tokens). Default to search. Only WebFetch when a specific number you must have
@@ -388,6 +395,10 @@ Score each idea 1-10 on these 7 dimensions:
 See **brain/RESEARCH_SOURCES.md** — 12 core sources, mined by `site:` search, not
 page fetches. Pick 3-5 per run based on today's targets. The win is sharper
 questions of fewer sources, never "hit more sources."
+
+See **brain/RESEARCH_METHODOLOGY.md** before every scan. It defines the six
+research moves and evidence quality bar that keep this from becoming generic
+chatbot research.
 
 ---
 

@@ -1,15 +1,5 @@
 # Killed Ideas
-*Ideas that were considered and rejected — with the exact reason.*
-*Never delete from here. A killed idea today might be right in 6 months.*
-
----
-
-## Why this file matters
-- Prevents re-generating the same bad ideas
-- Documents the *reasoning* behind rejection (which may become outdated)
-- Shows which ideas were "killed by timing" vs "killed by fundamentals"
-  - Timing kills = revisit in 3-6 months
-  - Fundamental kills = probably never
+*Ideas considered and rejected with exact reason. Never delete; revisit timing kills when conditions change.*
 
 ---
 
@@ -17,20 +7,18 @@
 
 | Date Killed | Idea | Score | Kill Reason | Kill Type | Revisit? |
 |-------------|------|-------|-------------|-----------|----------|
-| — | — | — | — | — | — |
+| 2026-06-26 | myDATA paid-software reseller for freelancers | 5.9 | Free AADE timologio and cheap annual tools mean the pain is not "buy software"; the pain is deciding the cheapest compliant path and avoiding process mistakes. Reseller-only pitch would look self-interested. | FATAL_RISK | Revisit only as referral after the clinic proves paid software is needed |
 
 ---
 
 ## Kill Reason Codes
-- **COMPETITOR_EXISTS**: A direct Greek competitor already owns this space
-- **WRONG_MARKET**: Works better elsewhere, not specifically in Greece
-- **CAPITAL_REQUIRED**: Cannot start without significant upfront investment
-- **TIMING_BAD**: The conditions aren't right yet — but might be
-- **NO_DEMAND**: No evidence actual Greeks/tourists would pay for this
-- **FATAL_RISK**: The single biggest risk would kill the business immediately
-- **TOO_COMPLEX**: Cannot be run solo, requires team or infrastructure from day 1
-- **REGULATORY_BLOCK**: Licensing or permits make day-1 revenue impossible
+- COMPETITOR_EXISTS: A direct Greek competitor already owns this space.
+- WRONG_MARKET: Works better elsewhere, not specifically in Greece.
+- CAPITAL_REQUIRED: Cannot start without significant upfront investment.
+- TIMING_BAD: Conditions are not right yet.
+- NO_DEMAND: No evidence actual Greeks/tourists would pay.
+- FATAL_RISK: Single biggest risk kills the business.
+- TOO_COMPLEX: Cannot be run solo from day 1.
+- REGULATORY_BLOCK: Licensing/permits block day-1 revenue.
 
 ---
-
-*[Agent: log every idea that fails scoring OR fails competitor check here before discarding]*

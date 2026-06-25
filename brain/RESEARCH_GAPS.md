@@ -8,6 +8,7 @@
 ## Open Gaps (Priority Order)
 
 ### HIGH PRIORITY
+- [ ] Does the e-invoicing clinic buyer want software setup, accountant translation, or cheapest-path compliance? (2026-06-26 partial: cost anxiety + free AADE timologio suggest "cheapest compliant path" is the sharper wedge)
 - [ ] Is there a Greek-language online course platform that has real traction? Who are the top creators?
 - [ ] What is the actual size of the Greek pet services market — vets, groomers, sitters, food?
 - [x] How many Greek STR owners are non-compliant with the new EU registration number / fire-safety rules? (demand size for compliance help) **Answer:** Approx. 35‑45 % of owners are non‑compliant according to AADE data and market analyses.
@@ -22,6 +23,7 @@
 - [ ] What do high-spend tourists (American, Gulf) actually want that they can't find in Greece?
 
 ### LOW PRIORITY
+- [ ] Which Greek pet-care booking competitors have real supply in Athens/Thessaloniki versus only app-store visibility?
 - [ ] What is the typical conversion rate for Greek Instagram business accounts?
 - [ ] Are there active Greek subreddits or Facebook groups where business problems are discussed?
 - [ ] What is the average Greek freelancer's daily rate vs EU equivalent?

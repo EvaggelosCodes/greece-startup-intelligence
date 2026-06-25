@@ -1,25 +1,31 @@
-1	# TOP 3 — Greece Startup Intelligence
-2	*Last updated: 2026-06-25 | Pool size: 3 ideas | Avg score: 8.0*
-3	
-4	---
-5	## 🥇 #1: STR Compliance Concierge — 8.2
-6	**Simple version:** Help Airbnb owners avoid €5,000 fines by sorting out their new 2026 legal paperwork for them.
-7	**You could make:** €1,200–€2,200 in the first month (10–15 properties).
-8	**Why right now:** The EU registration number became mandatory 20 May 2026 and fines are live; June is peak‑summer, owners are active and exposed.
-9	**The catch:** Owners may think their accountant already covers it — you must sell the non‑tax pieces (fire‑safety, insurance, EU reg#).
-10	**Trending:** ↑ new entry | runs at 8.0+: 1/2 (not yet graduated)
-11	---
-12	## 🥈 #2: e‑Invoicing Onboarding for Micro‑Freelancers — 7.7
-13	**Simple version:** Get small freelancers ready for the Oct 1 e‑invoicing law before they panic.
-14	**You could make:** €0–€400 now (June) — spikes Sep–Oct as the deadline nears.
-15	**Why right now:** Hard legal deadline 1 Oct 2026 — classic “build awareness in summer, sell in September” window.
-16	**The catch:** Accountants may bundle e‑invoicing for free; many freelancers wait until the last week and panic‑DIY.
-17	**Trending:** ↑ (should climb as Oct nears)
-18	---
-19	## 🥉 #3: Pet‑Care Services Marketplace — 7.5
-20	**Simple version:** A lightweight platform that connects Greek pet owners with vetted sitters, walkers, boarding and grooming providers; takes a 10 % commission.
-21	**You could make:** €0–€300 in month 1 (seed bookings from friends).
-22	**Why right now:** Post‑COVID pet‑ownership surge; market sized €55‑65 M in 2026, fragmented, personal‑referral driven.
-23	**The catch:** Low user acquisition; pet owners may prefer word‑of‑mouth referrals.
-24	**Trending:** ↑ (social media buzz)
-25	---
+# TOP 3 - Greece Startup Intelligence
+*Last updated: 2026-06-26 | Pool size: 3 ideas | Avg score: 7.8*
+
+---
+
+## #1: e-Invoicing Cheapest-Path Clinic for Micro-Freelancers - 8.1
+**Simple version:** Help Greek freelancers comply with the 1 Oct 2026 e-invoicing deadline without overpaying for software they may not need.
+**You could make:** EUR0-EUR400 now while educating; stronger September spike if the explainer captures wait-until-last-minute owners.
+**Why right now:** The market is entering the second 2026 wave for all remaining businesses, and snippets show both free AADE tooling and paid-tool/cost anxiety.
+**The catch:** If accountants bundle this clearly, willingness to pay drops; the offer must be "cheapest compliant path," not generic software setup.
+**Trending:** Up - score moved 8.0 to 8.1 after the wedge sharpened.
+
+---
+
+## #2: STR Compliance Concierge - 8.0
+**Simple version:** Help Airbnb owners avoid EUR5,000+ fines by sorting out the 2026 legal paperwork and safety/insurance requirements.
+**You could make:** EUR1,200-EUR2,200 in the first month (10-15 properties).
+**Why right now:** The EU registration number is live and 2026 is the first full year of stricter STR insurance/safety compliance.
+**The catch:** The market is not empty; accountants/property firms already exist, so the only credible wedge is cheap, owner-centric, and fast.
+**Trending:** Stable - survived attack, but not graduated until a week-1 offer test proves owners respond.
+
+---
+
+## #3: Pet-Care Services Marketplace - 7.2
+**Simple version:** Connect Greek pet owners with vetted sitters/walkers/boarding providers, but only if real local supply density is weak.
+**You could make:** EUR0-EUR300 in month 1, mostly from seeded bookings.
+**Why right now:** Summer travel creates pet-care demand, but the platform gap is less proven than the compliance ideas.
+**The catch:** Pawshake is visible in app search and users already solve this through pet hotels/reviews/calls; the idea needs supply verification before more build work.
+**Trending:** Down - 7.5 to 7.2 after competitor/app-search check.
+
+---
