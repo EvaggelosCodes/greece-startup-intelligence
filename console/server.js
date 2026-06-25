@@ -225,7 +225,7 @@ const PROVIDERS = {
 const PROVIDER_DEFAULTS = {
   enabled: true,
   type: 'openrouter',
-  timeoutMs: 3000000
+  timeoutMs: 1500000
 };
 function loadProvider() { try { return JSON.parse(fs.readFileSync(PROVIDER_FILE, 'utf8')); } catch { return {}; } }
 function saveProvider(p) { try { fs.writeFileSync(PROVIDER_FILE, JSON.stringify(p, null, 2)); } catch {} }
@@ -296,9 +296,9 @@ function providerEnv(cfg) {
 }
 
 const RUN_PROMPT = [
-  'You are Startup Mike. Run the bounded daily research loop in CLAUDE.md, but stay under provider context limits.',
+  'You are Startup Mike. Run the bounded daily research loop in CLAUDE.md. Hard constraint: finish in under 25 minutes wall-clock, even if that means a smaller complete run.',
   'Read only the required current memory files: CLAUDE.md, brain/MIKE_JOURNAL.md, brain/SEARCH_PLAYBOOK.md, brain/RESEARCH_METHODOLOGY.md, brain/RESEARCH_SOURCES.md, brain/MARKET_KNOWLEDGE.md, brain/TRACKED_SIGNALS.md, brain/RESEARCH_GAPS.md, brain/CORRECTIONS.md, ideas/ALL_IDEAS.md, ideas/TOP3.md, ideas/KILLED_IDEAS.md, and the latest daily log if present. Do not read archives or old logs.',
-  'Pick 2-3 targets. Run at most 4 Greek-first WebSearch queries total. Use snippets, not WebFetch, unless one missing number is essential.',
+  'Pick 2-3 targets. Run 4-7 sharp Greek-first WebSearch queries total. Use snippets, not WebFetch, unless one missing number is essential.',
   'Apply the methodology quality bar. Score existing ideas and any new candidate. Kill weak candidates in ideas/KILLED_IDEAS.md; do not silently discard them.',
   'Attack the current #1 idea once. Update only files whose content actually changed: ALL_IDEAS, TOP3, KILLED_IDEAS, RESEARCH_LOG, MIKE_JOURNAL, CORRECTIONS, MARKET_KNOWLEDGE, SEARCH_PLAYBOOK, TRACKED_SIGNALS, RESEARCH_GAPS, and today daily log.',
   'Keep writing concise. Append exactly one research-log bullet. Commit and push. Prefer a small complete run over a huge run that exceeds context.'
@@ -387,6 +387,11 @@ function startRun(trigger) {
     send({ type: 'run', state: 'error', at: Date.now() }); return false;
   }
   let buf = '';
+  const runTimeout = setTimeout(() => {
+    runState.lastError = `Run stopped after ${Math.round(provider.timeoutMs / 60000)} minutes to keep the 2-hour cadence healthy.`;
+    emitActivity('log', runState.lastError);
+    try { child.kill(); } catch {}
+  }, provider.timeoutMs);
   child.stdout.on('data', d => {
     buf += d.toString(); let i;
     while ((i = buf.indexOf('\n')) >= 0) {
@@ -401,6 +406,7 @@ function startRun(trigger) {
   });
   child.on('error', e => { rememberRunError(e.message); emitActivity('log', 'error: ' + e.message); });
   child.on('close', code => {
+    clearTimeout(runTimeout);
     runState.running = false; runState.lastRun = Date.now();
     runState.lastExit = code; runState.lastDurationMs = Date.now() - runState.startedAt;
     runState.phase = 'Done'; runState.phaseIndex = PHASES.length;

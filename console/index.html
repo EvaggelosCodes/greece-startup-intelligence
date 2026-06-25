@@ -421,7 +421,7 @@ $('#savesched').addEventListener('click',async()=>{let p;
   schedEditing=false;$('#schededitor').hidden=true;load(false);});
 async function saveProvider(close,clearKey){
   const type=$('#in-provider-type').value;
-  const body={enabled:$('#in-provider-enabled').checked,type,baseUrl:$('#in-base').value.trim(),model:$('#in-model').value,smallModel:$('#in-small').value,timeoutMs:3000000};
+  const body={enabled:$('#in-provider-enabled').checked,type,baseUrl:$('#in-base').value.trim(),model:$('#in-model').value,smallModel:$('#in-small').value,timeoutMs:1500000};
   const key=$('#in-key').value.trim(); if(key)body.apiKey=key; if(clearKey)body.clearKey=true;
   const r=await fetch('/api/provider',{method:'POST',body:JSON.stringify(body)});
   const data=await r.json(); setProviderEditor(data.provider||{}); providerNeedsKey=!!(data.provider&&data.provider.enabled&&!data.provider.ready);
