@@ -3,7 +3,7 @@
 
 ---
 
-### STR Compliance Concierge — Score: 8.2/10 🟢
+### STR Compliance Concierge — Score: 8.0/10 🟢
 **What it is:** A done‑for‑you service that helps small Airbnb/STR owners become legally compliant with the new 2026 EU registration number, fire‑safety, insurance and paperwork requirements.
 **Why Greece specifically:** Greece’s Law 5170/2025 and the EU registration number (effective 20 May 2026) create a sudden, mandatory compliance window for thousands of owners; fines start at €5,000.
 **How to start tomorrow:** (1) DM/call hosts in local Airbnb/Facebook groups offering a free compliance check. (2) Build a one‑page checklist of every 2026 requirement. (3) Charge a flat fee per property to handle registration + paperwork, referring electricians/insurers.

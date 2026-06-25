@@ -2,6 +2,9 @@
 2	*I read this BEFORE searching and update it AFTER. The whole point: run 50 searches*
 3	*... (unchanged) ...
 4	---
+- Greek‑first queries for laws, prices and complaints hit signals; English‑only queries for e‑invoicing pricing were useful but produced some noise.
+- Queries that returned clear pricing (Kolidas, Timologic) were hits; broader competitor‑landscape searches yielded many irrelevant listings and were waste.
+
 5	
 6	## WHAT WORKS (query patterns that hit signal)
 7	- Greek-first for laws / prices / complaints; English only for nomad / tourist / diaspora.
