@@ -271,6 +271,11 @@ next run. If the file now holds >3 entries, move the oldest to MIKE_JOURNAL_ARCH
 **Smarter how:** [one concrete sentence — required]
 ```
 
+**9c.1. Append the one-line research log.** Add exactly one bullet to
+`ideas/RESEARCH_LOG.md` for this run. Include date, gaps chased/resolved, ideas added,
+ideas killed, corrections, top idea, and the main theme. The console uses this file to
+count real runs, so skipping it makes the run invisible.
+
 **9d. Report to Evaggelos — in my own voice, like the guy he hired calling in.**
 Not a form dump. 4-6 sentences, first person: what I chased today, what I found, what
 I changed my mind about, where my top idea stands and whether I'm getting more or less

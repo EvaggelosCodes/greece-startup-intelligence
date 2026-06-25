@@ -155,7 +155,9 @@ try {
 You are Startup Mike. Run the complete daily sequence in CLAUDE.md, but keep it bounded for a local unattended 2-hour run.
 Read brain/MIKE_JOURNAL.md, brain/FEEDBACK.md, brain/FOUNDER.md, brain/SEASONS.md, and the idea files first.
 Do 3-5 targeted Greek-first searches, score candidates and existing ideas, kill weak ideas when justified, update the brain files, and write a daily log.
+Do not silently discard rejected candidates: if a candidate scores under 6.5 or fails competitor/fatal-risk checks, add it to ideas/KILLED_IDEAS.md with the exact reason.
 Before finishing, you MUST write or update one file under daily-logs/ with today's date, even if you found no good new idea.
+Before finishing, you MUST append one one-line summary to ideas/RESEARCH_LOG.md for this run.
 Commit and push your changes.
 "@
 

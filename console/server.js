@@ -85,7 +85,7 @@ function tableRows(md) {
 
 function parseKilled(md) {
   return tableRows(md)
-    .filter(c => c[0] && !/date\s*killed/i.test(c[0]) && c[1] && c[1] !== '—')
+    .filter(c => c[0] && !/date\s*killed/i.test(c[0]) && c[1] && !/^(—|â€”|-)$/.test(c[1]))
     .map(c => ({ date: c[0], idea: c[1], score: c[2], reason: c[3], type: c[4], revisit: c[5] }));
 }
 
@@ -165,7 +165,7 @@ function buildState() {
       top: scores.length ? Math.max(...scores) : 0,
       killed: killed.length,
       learnings: learned.length,
-      runs: runs.length || logs.length,
+      runs: Math.max(runs.length, logs.length),
       facts,
       lastRun: logs.length ? logs[logs.length - 1].replace('.md', '') : '—'
     },
@@ -299,12 +299,13 @@ function providerEnv(cfg) {
 }
 
 const RUN_PROMPT = [
-  'You are Startup Mike. Do a FULL, rigorous daily run per CLAUDE.md (STEP 0 through 10) — not a shallow pass.',
+  'You are Startup Mike. Do a FULL, rigorous daily run per CLAUDE.md (STEP 0 through 10), not a shallow pass.',
   'Read your journal, feedback, founder and seasons files plus the brain files first; set your own agenda.',
-  'Then run a THOROUGH Greek-first scan: 8-12 targeted searches covering demand, REAL competitors, pricing and social complaints for your targets. Search-only (snippets), no full-page fetches.',
-  'Score every candidate AND every existing idea on the 7 dimensions. ACTUALLY KILL the weak ones — move them to ideas/KILLED_IDEAS.md with a reason — and re-score survivors. The pool must get sharper, not just longer.',
+  'Then run a THOROUGH Greek-first scan: 8-12 targeted searches covering demand, REAL competitors, pricing and social complaints for your targets. Search-only snippets, no full-page fetches.',
+  'Score every candidate AND every existing idea on the 7 dimensions. ACTUALLY KILL the weak ones by moving them to ideas/KILLED_IDEAS.md with a reason, then re-score survivors. The pool must get sharper, not just longer.',
+  'Do not silently discard rejected candidates. If a candidate scores under 6.5 or fails competitor/fatal-risk checks, add it to ideas/KILLED_IDEAS.md. Always append one line to ideas/RESEARCH_LOG.md for this run.',
   'Attack your #1 idea hard (STEP 7.5). Log at least one CORRECTION in brain/CORRECTIONS.md if anything you believed proved wrong.',
-  'Update your journal and SEARCH_PLAYBOOK, write the daily log, then commit and push. Be rigorous and honest — this is real work, not 30 seconds.'
+  'Update your journal and SEARCH_PLAYBOOK, write the daily log, update RESEARCH_LOG, then commit and push. Be rigorous and honest; this is real work, not 30 seconds.'
 ].join(' ');
 
 const shortP = p => (p || '').replace(/\\/g, '/').split('/').slice(-2).join('/');
