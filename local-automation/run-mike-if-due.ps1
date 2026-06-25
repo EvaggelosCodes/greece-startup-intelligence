@@ -1,6 +1,6 @@
 param(
   [switch]$Force,
-  [int]$IntervalHours = 12,
+  [int]$IntervalHours = 2,
   [int]$MaxRunMinutes = 60
 )
 
@@ -61,7 +61,7 @@ function Write-NoOutputMarker($RunUrl, $Model, $SmallModel, $ExitCode) {
   @"
 # Local Mike no-output run - $date
 
-The local 12-hour Windows scheduler woke up at $stamp, but no research files changed.
+The local 2-hour Windows scheduler woke up at $stamp, but no research files changed.
 
 - Runner: local Windows Task Scheduler
 - Model: $Model
@@ -105,6 +105,9 @@ $now = [DateTime]::UtcNow
 if (!$Force -and $lastRun -and $now -lt $dueAt) {
   $remaining = [Math]::Round(($dueAt - $now).TotalMinutes)
   Append-RunLog "Skip: not due for about $remaining minutes."
+  $state.intervalHours = $IntervalHours
+  $state.nextDueAtUtc = $dueAt.ToString("o")
+  Write-JsonFile $StatePath $state
   exit 0
 }
 
@@ -149,7 +152,7 @@ try {
 
   $before = (& git -C $Root status --short brain ideas daily-logs) -join "`n"
   $prompt = @"
-You are Startup Mike. Run the complete daily sequence in CLAUDE.md, but keep it bounded for a local unattended 12-hour run.
+You are Startup Mike. Run the complete daily sequence in CLAUDE.md, but keep it bounded for a local unattended 2-hour run.
 Read brain/MIKE_JOURNAL.md, brain/FEEDBACK.md, brain/FOUNDER.md, brain/SEASONS.md, and the idea files first.
 Do 3-5 targeted Greek-first searches, score candidates and existing ideas, kill weak ideas when justified, update the brain files, and write a daily log.
 Before finishing, you MUST write or update one file under daily-logs/ with today's date, even if you found no good new idea.

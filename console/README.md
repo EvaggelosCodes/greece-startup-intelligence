@@ -83,8 +83,8 @@ the Windows scheduled task:
 powershell -ExecutionPolicy Bypass -File local-automation/install-local-scheduler.ps1
 ```
 
-It checks every 15 minutes and also on logon. If 12 hours have passed since the last
-local run, it runs Mike once and sets the next due time 12 hours from that run. If the
+It checks every 15 minutes and also on logon. If 2 hours have passed since the last
+local run, it runs Mike once and sets the next due time 2 hours from that run. If the
 PC was off during the scheduled window, the next login/check catches up automatically.
 
 Remove it with:

@@ -9,9 +9,12 @@ $Runner = Join-Path $ScriptDir "start-local-scheduler-loop.ps1"
 $StartupDir = [Environment]::GetFolderPath("Startup")
 $StartupCmd = Join-Path $StartupDir $ShortcutName
 
+$encoded = [Convert]::ToBase64String([Text.Encoding]::Unicode.GetBytes(@"
+Start-Process powershell.exe -WindowStyle Minimized -ArgumentList @('-NoProfile', '-ExecutionPolicy', 'Bypass', '-File', '$Runner')
+"@))
 $content = @"
 @echo off
-start "Startup Mike Local Scheduler" /min powershell.exe -NoProfile -ExecutionPolicy Bypass -WindowStyle Minimized -File "$Runner"
+powershell.exe -NoProfile -ExecutionPolicy Bypass -EncodedCommand $encoded
 "@
 
 Set-Content -Path $StartupCmd -Value $content -Encoding ASCII

@@ -1,5 +1,5 @@
 param(
-  [string]$TaskName = "Startup Mike Local 12h Catchup"
+  [string]$TaskName = "Startup Mike Local 2h Catchup"
 )
 
 $ErrorActionPreference = "Stop"

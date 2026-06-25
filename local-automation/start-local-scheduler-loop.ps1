@@ -1,6 +1,6 @@
 param(
   [int]$CheckEveryMinutes = 15,
-  [int]$IntervalHours = 12,
+  [int]$IntervalHours = 2,
   [int]$MaxRunMinutes = 60
 )
 

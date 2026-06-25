@@ -1,7 +1,7 @@
 param(
-  [string]$TaskName = "Startup Mike Local 12h Catchup",
+  [string]$TaskName = "Startup Mike Local 2h Catchup",
   [int]$CheckEveryMinutes = 15,
-  [int]$IntervalHours = 12,
+  [int]$IntervalHours = 2,
   [int]$MaxRunMinutes = 60
 )
 
