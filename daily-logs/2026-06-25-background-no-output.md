@@ -2,7 +2,7 @@
 
 The 12-hour GitHub Actions wakeup ran and the OpenRouter secret smoke test passed, but no research files changed.
 
-- Run: https://github.com/EvaggelosCodes/greece-startup-intelligence/actions/runs/28144834056
+- Run: https://github.com/EvaggelosCodes/greece-startup-intelligence/actions/runs/28177604465
 - Model: openai/gpt-oss-120b:free
 - Small model: openai/gpt-oss-120b:free
 - Claude action outcome: success
