@@ -51,7 +51,7 @@ function bullets(txt) {
 function parseIdeas(md) {
   return md.split(/^###\s+/m).slice(1).map(block => {
     const head = block.split('\n')[0] || '';
-    const name = head.split('—')[0].trim();
+    const name = head.split(/\s+-\s+Score:/)[0].trim();
     const score = parseFloat((head.match(/Score:\s*([\d.]+)/) || [])[1]) || null;
     const fields = {};
     let fm; const fre = /\*\*(.+?):\*\*\s*([^\n]+)/g;
@@ -61,11 +61,11 @@ function parseIdeas(md) {
     const bsrc = fields['Score breakdown'] || '';
     while ((bm = bre.exec(bsrc))) breakdown.push({ k: bm[1], v: +bm[2] });
     const trendRaw = (fields['Score history'] || '') + (fields['Trending'] || '');
-    const trend = /↑|climb|improv|rising/i.test(trendRaw) ? 'up'
-      : /↓|weaken|cool|declin/i.test(trendRaw) ? 'down' : 'flat';
+    const trend = /up|climb|improv|rising/i.test(trendRaw) ? 'up'
+      : /down|weaken|cool|declin/i.test(trendRaw) ? 'down' : 'flat';
     return {
       name, score,
-      actionable: /🎯|ACTIONABLE/.test(head),
+      actionable: /ACTIONABLE/.test(head),
       tier: score >= 8 ? 'priority' : score >= 6.5 ? 'good' : 'low',
       what: fields['What it is'] || fields['Simple version'] || '',
       whyNow: fields['Timing signal'] || fields['Why right now'] || '',
@@ -80,12 +80,12 @@ function parseIdeas(md) {
 function tableRows(md) {
   return md.split('\n').filter(l => l.trim().startsWith('|'))
     .map(l => l.split('|').slice(1, -1).map(c => c.trim()))
-    .filter(c => c.length && !/^-+$/.test(c[0]) && c[0] !== '—' && c[0] !== '');
+    .filter(c => c.length && !/^-+$/.test(c[0]) && c[0] !== '-' && c[0] !== '');
 }
 
 function parseKilled(md) {
   return tableRows(md)
-    .filter(c => c[0] && !/date\s*killed/i.test(c[0]) && c[1] && !/^(—|â€”|-)$/.test(c[1]))
+    .filter(c => c[0] && !/date\s*killed/i.test(c[0]) && c[1] && c[1] !== '-')
     .map(c => ({ date: c[0], idea: c[1], score: c[2], reason: c[3], type: c[4], revisit: c[5] }));
 }
 
@@ -93,17 +93,14 @@ function parseSignals(md) {
   return tableRows(md)
     .filter(c => c[0] && !/^signal$/i.test(c[0]) && c[1] && /ACTIVE|RESOLVED|EXPIRED|ACCELER|STALL/i.test(c[1]))
     .map(c => {
-      const dir = (c[2] || '').match(/↑|↓|→|\?/);
-      return {
-        name: c[0], status: c[1],
-        dir: dir ? (dir[0] === '↑' ? 'up' : dir[0] === '↓' ? 'down' : dir[0] === '→' ? 'flat' : 'unknown') : 'unknown',
-        note: c[4] || ''
-      };
+      const raw = (c[2] || '').toLowerCase();
+      const dir = /up/.test(raw) ? 'up' : /down/.test(raw) ? 'down' : /stable|flat/.test(raw) ? 'flat' : 'unknown';
+      return { name: c[0], status: c[1], dir, note: c[4] || '' };
     });
 }
 
 function parseTop3(md) {
-  const part = md.split(/^##\s+/m).find(p => p.startsWith('🥇'));
+  const part = md.split(/^##\s+/m).find(p => /#1:/.test(p));
   if (!part) return null;
   const head = part.split('\n')[0];
   const fields = {}; let fm; const fre = /\*\*(.+?):\*\*\s*([^\n]+)/g;
@@ -111,9 +108,9 @@ function parseTop3(md) {
   const play = part.split('\n').filter(l => /^-\s*(Mon|Tue|Wed|Thu|Fri):/i.test(l.trim()))
     .map(l => l.replace(/^-\s*/, '').trim());
   return {
-    name: (head.split(':')[1] || '').split('—')[0].trim(),
-    score: parseFloat((head.match(/—\s*([\d.]+)/) || [])[1]) || null,
-    actionable: /🎯|ACTIONABLE/.test(head),
+    name: (head.split(':').slice(1).join(':') || '').split(/\s+-\s*[\d.]+/)[0].trim(),
+    score: parseFloat((head.match(/-\s*([\d.]+)/) || [])[1]) || null,
+    actionable: /ACTIONABLE/.test(head),
     simple: fields['Simple version'] || '',
     whyNow: fields['Why right now'] || '',
     catch: fields['The catch'] || '',
@@ -131,7 +128,7 @@ function parseCorrections(md) {
     const head = b.split('\n')[0];
     return {
       date: (head.match(/\d{4}-\d{2}-\d{2}/) || [])[0] || '',
-      title: (head.split('—')[1] || head).replace(/\*+/g, '').trim(),
+      title: (head.split(/\s+-\s+/)[1] || head).replace(/\*+/g, '').trim(),
       truth: ((b.match(/\*What is actually true:\*\s*([^\n]+)/) || [])[1] || '').trim(),
       change: ((b.match(/\*How this changes my thinking:\*\s*([^\n]+)/) || [])[1] || '').trim()
     };
@@ -299,13 +296,12 @@ function providerEnv(cfg) {
 }
 
 const RUN_PROMPT = [
-  'You are Startup Mike. Do a FULL, rigorous daily run per CLAUDE.md (STEP 0 through 10), not a shallow pass.',
-  'Read your journal, feedback, founder and seasons files plus the brain files first; set your own agenda.',
-  'Then run a THOROUGH Greek-first scan: 8-12 targeted searches covering demand, REAL competitors, pricing and social complaints for your targets. Search-only snippets, no full-page fetches.',
-  'Score every candidate AND every existing idea on the 7 dimensions. ACTUALLY KILL the weak ones by moving them to ideas/KILLED_IDEAS.md with a reason, then re-score survivors. The pool must get sharper, not just longer.',
-  'Do not silently discard rejected candidates. If a candidate scores under 6.5 or fails competitor/fatal-risk checks, add it to ideas/KILLED_IDEAS.md. Always append one line to ideas/RESEARCH_LOG.md for this run.',
-  'Attack your #1 idea hard (STEP 7.5). Log at least one CORRECTION in brain/CORRECTIONS.md if anything you believed proved wrong.',
-  'Update your journal and SEARCH_PLAYBOOK, write the daily log, update RESEARCH_LOG, then commit and push. Be rigorous and honest; this is real work, not 30 seconds.'
+  'You are Startup Mike. Run the bounded daily research loop in CLAUDE.md, but stay under provider context limits.',
+  'Read only the required current memory files: CLAUDE.md, brain/MIKE_JOURNAL.md, brain/SEARCH_PLAYBOOK.md, brain/RESEARCH_METHODOLOGY.md, brain/RESEARCH_SOURCES.md, brain/MARKET_KNOWLEDGE.md, brain/TRACKED_SIGNALS.md, brain/RESEARCH_GAPS.md, brain/CORRECTIONS.md, ideas/ALL_IDEAS.md, ideas/TOP3.md, ideas/KILLED_IDEAS.md, and the latest daily log if present. Do not read archives or old logs.',
+  'Pick 2-3 targets. Run at most 4 Greek-first WebSearch queries total. Use snippets, not WebFetch, unless one missing number is essential.',
+  'Apply the methodology quality bar. Score existing ideas and any new candidate. Kill weak candidates in ideas/KILLED_IDEAS.md; do not silently discard them.',
+  'Attack the current #1 idea once. Update only files whose content actually changed: ALL_IDEAS, TOP3, KILLED_IDEAS, RESEARCH_LOG, MIKE_JOURNAL, CORRECTIONS, MARKET_KNOWLEDGE, SEARCH_PLAYBOOK, TRACKED_SIGNALS, RESEARCH_GAPS, and today daily log.',
+  'Keep writing concise. Append exactly one research-log bullet. Commit and push. Prefer a small complete run over a huge run that exceeds context.'
 ].join(' ');
 
 const shortP = p => (p || '').replace(/\\/g, '/').split('/').slice(-2).join('/');
@@ -324,6 +320,8 @@ function rememberRunError(text) {
   if (!s) return;
   if (/401|invalid auth|unauthorized|authentication|auth token|api key/i.test(s)) {
     runState.lastError = 'Authentication failed. Check the API key in Model settings.';
+  } else if (/maximum context length|context length|reduce the length|max_tokens|too many tokens/i.test(s)) {
+    runState.lastError = 'Context limit hit. Mike tried to send too much context/output; restart the console and run again with the compact prompt.';
   } else if (/insufficient|quota|balance|rate limit|too many requests/i.test(s)) {
     runState.lastError = 'Provider quota or rate limit error. Check your provider plan/quota.';
   } else if (!runState.lastError && /error|failed|exception/i.test(s)) {
