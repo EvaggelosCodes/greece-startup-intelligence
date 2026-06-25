@@ -38,6 +38,17 @@ function Append-RunLog($Message) {
   Add-Content -Path (Join-Path $LogDir "scheduler.log") -Value $line -Encoding UTF8
 }
 
+function Clear-StaleLock {
+  if (!(Test-Path $LockPath)) { return }
+  $lock = Get-Item $LockPath -ErrorAction SilentlyContinue
+  if (!$lock) { return }
+  $maxAge = [TimeSpan]::FromMinutes($MaxRunMinutes + 15)
+  if (((Get-Date) - $lock.LastWriteTime) -gt $maxAge) {
+    Remove-Item -Path $LockPath -Force -ErrorAction SilentlyContinue
+    Append-RunLog "Removed stale lock from $($lock.LastWriteTime.ToString('o'))."
+  }
+}
+
 function Get-LastRunUtc($State) {
   if (!$State.lastRunAtUtc) { return $null }
   try { return [DateTime]::Parse($State.lastRunAtUtc).ToUniversalTime() } catch { return $null }
@@ -96,6 +107,8 @@ if (!$Force -and $lastRun -and $now -lt $dueAt) {
   Append-RunLog "Skip: not due for about $remaining minutes."
   exit 0
 }
+
+Clear-StaleLock
 
 try {
   $lock = New-Item -Path $LockPath -ItemType File -Value "$(NowUtcIso) pid=$PID" -ErrorAction Stop
