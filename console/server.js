@@ -225,7 +225,7 @@ const PROVIDERS = {
 const PROVIDER_DEFAULTS = {
   enabled: true,
   type: 'openrouter',
-  timeoutMs: 1500000
+  timeoutMs: 0
 };
 function loadProvider() { try { return JSON.parse(fs.readFileSync(PROVIDER_FILE, 'utf8')); } catch { return {}; } }
 function saveProvider(p) { try { fs.writeFileSync(PROVIDER_FILE, JSON.stringify(p, null, 2)); } catch {} }
@@ -239,7 +239,7 @@ function normalizeProvider(cfg) {
   p.model = String(p.model || preset.model).trim();
   p.smallModel = String(p.smallModel || preset.smallModel).trim();
   p.apiKey = String(p.apiKey || '').trim();
-  p.timeoutMs = Math.max(60000, Number(p.timeoutMs || PROVIDER_DEFAULTS.timeoutMs));
+  p.timeoutMs = Math.max(0, Number(p.timeoutMs ?? PROVIDER_DEFAULTS.timeoutMs));
   return p;
 }
 function effectiveProvider() {
@@ -289,14 +289,14 @@ function providerEnv(cfg) {
     ANTHROPIC_DEFAULT_HAIKU_MODEL: p.smallModel || m,
     ANTHROPIC_SMALL_FAST_MODEL: p.smallModel || m,
     CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC: '1',
-    API_TIMEOUT_MS: String(p.timeoutMs)
+    API_TIMEOUT_MS: String(p.timeoutMs || 3000000)
   };
   if (/\[1m\]/i.test(m)) env.CLAUDE_CODE_AUTO_COMPACT_WINDOW = '1000000';
   return env;
 }
 
 const RUN_PROMPT = [
-  'You are Startup Mike. Run the bounded daily research loop in CLAUDE.md. Hard constraint: finish in under 25 minutes wall-clock, even if that means a smaller complete run.',
+  'You are Startup Mike. Run the bounded daily research loop in CLAUDE.md. OpenRouter may be slow, so prioritize a complete rigorous run over speed.',
   'Read only the required current memory files: CLAUDE.md, brain/MIKE_JOURNAL.md, brain/SEARCH_PLAYBOOK.md, brain/RESEARCH_METHODOLOGY.md, brain/RESEARCH_SOURCES.md, brain/MARKET_KNOWLEDGE.md, brain/TRACKED_SIGNALS.md, brain/RESEARCH_GAPS.md, brain/CORRECTIONS.md, ideas/ALL_IDEAS.md, ideas/TOP3.md, ideas/KILLED_IDEAS.md, and the latest daily log if present. Do not read archives or old logs.',
   'Pick 2-3 targets. Run 4-7 sharp Greek-first WebSearch queries total. Use snippets, not WebFetch, unless one missing number is essential.',
   'Apply the methodology quality bar. Score existing ideas and any new candidate. Kill weak candidates in ideas/KILLED_IDEAS.md; do not silently discard them.',
@@ -387,11 +387,11 @@ function startRun(trigger) {
     send({ type: 'run', state: 'error', at: Date.now() }); return false;
   }
   let buf = '';
-  const runTimeout = setTimeout(() => {
-    runState.lastError = `Run stopped after ${Math.round(provider.timeoutMs / 60000)} minutes to keep the 2-hour cadence healthy.`;
+  const runTimeout = provider.timeoutMs > 0 ? setTimeout(() => {
+    runState.lastError = `Run stopped after ${Math.round(provider.timeoutMs / 60000)} minutes.`;
     emitActivity('log', runState.lastError);
     try { child.kill(); } catch {}
-  }, provider.timeoutMs);
+  }, provider.timeoutMs) : null;
   child.stdout.on('data', d => {
     buf += d.toString(); let i;
     while ((i = buf.indexOf('\n')) >= 0) {
@@ -406,7 +406,7 @@ function startRun(trigger) {
   });
   child.on('error', e => { rememberRunError(e.message); emitActivity('log', 'error: ' + e.message); });
   child.on('close', code => {
-    clearTimeout(runTimeout);
+    if (runTimeout) clearTimeout(runTimeout);
     runState.running = false; runState.lastRun = Date.now();
     runState.lastExit = code; runState.lastDurationMs = Date.now() - runState.startedAt;
     runState.phase = 'Done'; runState.phaseIndex = PHASES.length;

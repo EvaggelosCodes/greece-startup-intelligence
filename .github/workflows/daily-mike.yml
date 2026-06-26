@@ -2,8 +2,8 @@ name: Mike background run
 
 on:
   schedule:
-    # Every 12 hours. GitHub cron is UTC.
-    - cron: "0 */12 * * *"
+    # Hourly. GitHub cron is UTC.
+    - cron: "0 * * * *"
   workflow_dispatch:
     inputs:
       model:
@@ -26,7 +26,7 @@ permissions:
 jobs:
   run-mike:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 360
 
     env:
       ANTHROPIC_BASE_URL: https://openrouter.ai/api
@@ -37,7 +37,7 @@ jobs:
       ANTHROPIC_DEFAULT_HAIKU_MODEL: ${{ github.event.inputs.small_model || 'openai/gpt-oss-120b:free' }}
       ANTHROPIC_SMALL_FAST_MODEL: ${{ github.event.inputs.small_model || 'openai/gpt-oss-120b:free' }}
       CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC: "1"
-      API_TIMEOUT_MS: "900000"
+      API_TIMEOUT_MS: "3000000"
 
     steps:
       - name: Check secret
@@ -71,7 +71,7 @@ jobs:
       - name: Run Mike with Claude Code Action
         id: claude
         continue-on-error: true
-        timeout-minutes: 60
+        timeout-minutes: 300
         uses: anthropics/claude-code-action@v1
         with:
           anthropic_api_key: ${{ secrets.OPENROUTER_API_KEY }}
@@ -86,7 +86,7 @@ jobs:
             Be rigorous and honest. If the model/provider is slow, prefer a smaller but complete run over hanging forever.
           claude_args: |
             --model ${{ env.ANTHROPIC_MODEL }}
-            --max-turns 25
+            --max-turns 60
             --dangerously-skip-permissions
         env:
           ANTHROPIC_BASE_URL: https://openrouter.ai/api
@@ -95,7 +95,7 @@ jobs:
           ANTHROPIC_DEFAULT_HAIKU_MODEL: ${{ env.ANTHROPIC_SMALL_FAST_MODEL }}
           ANTHROPIC_SMALL_FAST_MODEL: ${{ env.ANTHROPIC_SMALL_FAST_MODEL }}
           CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC: "1"
-          API_TIMEOUT_MS: "900000"
+          API_TIMEOUT_MS: "3000000"
 
       - name: Record provider failure
         if: always() && steps.claude.outcome != 'success'
@@ -105,7 +105,7 @@ jobs:
           cat > "$file" <<EOF
           # Background Mike provider failure - $(date -u +%F)
 
-          The 12-hour GitHub Actions wakeup ran, the OpenRouter secret smoke test passed, but Claude Code Action did not complete successfully.
+          The hourly GitHub Actions wakeup ran, the OpenRouter secret smoke test passed, but Claude Code Action did not complete successfully.
 
           - Run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
           - Model: $ANTHROPIC_MODEL
@@ -124,7 +124,7 @@ jobs:
             cat > "$file" <<EOF
           # Background Mike no-output run - $(date -u +%F)
 
-          The 12-hour GitHub Actions wakeup ran and the OpenRouter secret smoke test passed, but no research files changed.
+          The hourly GitHub Actions wakeup ran and the OpenRouter secret smoke test passed, but no research files changed.
 
           - Run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
           - Model: $ANTHROPIC_MODEL

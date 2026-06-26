@@ -2,3 +2,5 @@ state.json
 run.lock
 logs/
 loop.pid
+openrouter-sprint.log
+STOP_OPENROUTER_SPRINT
