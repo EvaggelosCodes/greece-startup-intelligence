@@ -8,8 +8,10 @@
 ## Open Gaps (Priority Order)
 
 ### HIGH PRIORITY
-- [ ] Can a standalone e-invoicing clinic acquire customers directly, or do accountants already own the trust/distribution channel?
+- [ ] Can a standalone e-invoicing clinic acquire customers directly, or do accountants already own the trust/distribution channel? (2026-06-26 stronger negative signal: peer advice and Taxheaven workflow both still route safety to the accountant)
 - [ ] Does the e-invoicing clinic buyer want software setup, accountant translation, or cheapest-path compliance? (2026-06-26 partial: cost anxiety + free AADE timologio suggest "cheapest compliant path" is the sharper wedge)
+- [ ] Can STR owners be acquired with a repeat-fine/safety-checklist offer, or is generic "compliance help" too abstract to convert?
+- [ ] What are the exact sectors and rollout dates for the 2026 digital client registry expansion beyond vehicle services?
 - [ ] Is there a Greek-language online course platform that has real traction? Who are the top creators?
 - [ ] What is the actual size of the Greek pet services market: vets, groomers, sitters, food?
 - [x] How many Greek STR owners are non-compliant with the new EU registration number / fire-safety rules? (demand size for compliance help) **Answer:** Approx. 35-45% of owners are non-compliant according to AADE data and market analyses.

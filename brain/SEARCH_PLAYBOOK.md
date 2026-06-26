@@ -25,7 +25,7 @@
 ## Open Craft Questions
 - Which Greek freelancer/accountant searches surface willingness to pay for e-invoicing help, not just confusion?
 - Which STR owner-group phrases surface urgent compliance fear versus generic tax discussion?
-- Which pet-care search proves actual local supply density in Athens/Thessaloniki?
+- Which exact AADE / sector keywords pin the digital client registry rollout calendar before the crowd notices?
 
 ## Recent Observations
 - 2026-06-25: STR compliance firms already exist; low-price owner-centric positioning matters more than "no competitor."
@@ -34,5 +34,6 @@
 - 2026-06-26: Pet-care marketplace weakened after Pawshake/app-search check; verify real local supply before building.
 - 2026-06-26: For willingness-to-pay in admin/compliance offers, search the substitute (`λογιστής`, `mytimologio`, `κόστος`) instead of the law term; generic e-invoicing queries mostly return regulation coverage.
 - 2026-06-26: For supply-density checks, search competitor brand + Greek city + service; `PetBacker Thessaloniki daycare` surfaced real local inventory faster than generic pet-care queries.
+- 2026-06-26: For new compliance windows, search the setup owner first (`τράπεζα`, `POS`, `λογιστής`, `myAADE`) before scoring demand; a real deadline with already-owned distribution is usually a trap.
 
 ---
