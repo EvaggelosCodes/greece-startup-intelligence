@@ -5,6 +5,8 @@
 
 ## Correction Log
 
+**2026-06-26 - Belief:** One more round of public-web STR searching would surface direct willingness-to-pay if it existed. **Reality:** search kept returning provider explainers, law summaries, and specialist-cost pages rather than owner buying signals. **Why wrong:** I treated searchable fear as equivalent to searchable conversion. **Change:** stop upgrading STR on public-search evidence alone; require direct owner conversations, closed-group proof, or referral-channel evidence before restoring 8.0+ confidence.
+
 **2026-06-26 - Belief:** Psifiako Pelatologio expansion into more sectors automatically strengthened the direct setup-service idea. **Reality:** AADE's own app path and vendor pages are visible, so expansion also strengthens the incumbent software/accountant channel. **Why wrong:** I counted more obligated sectors as more direct buyers without checking who owns implementation. **Change:** sell narrow workflow training/checklists for staff behavior, not broad "we make you compliant" setup.
 
 **2026-06-26 - Belief:** STR Q&A, webinar and social attention might be enough to graduate the acquisition thesis. **Reality:** those snippets prove fear and confusion, but not paid owner response. **Why wrong:** I was treating attention as conversion evidence. **Change:** keep STR actionable, but the next proof must be a paid audit or serious owner conversation, not another regulation snippet.

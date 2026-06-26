@@ -8,6 +8,7 @@ STABLE_FACT | Greece GDP grew ~2.3% in 2024, outperforming the EU average | IMF/
 STABLE_FACT | Greece unemployment ~9.8% in 2025, still among the highest in the eurozone | ELSTAT | high | 2026-03-27 | 2026-03-27
 STABLE_FACT | Youth unemployment remains around 20%, creating a motivated low-cost talent pool | ELSTAT | high | 2026-03-27 | 2026-03-27
 STABLE_FACT | Greece receives roughly EUR30B in EU structural/RRF funds through 2027 | EU/RRF | high | 2026-03-27 | 2026-03-27
+TRACKED_SIGNAL | Greek startup funding stayed strong into 2026: snippets point to EUR732.2M invested in 90+ Greek startups in 2025, 18 active VCs, and roughly EUR700M additional local fund firepower, but the money skews to venture-scale AI/SaaS/HealthTech rather than Monday-start zero-capital founders | Newmoney/FWD Greece snippets | medium | 2026-06-26 | 2026-06-26
 
 ## Tourism
 STABLE_FACT | Tourism is roughly 25% of Greek GDP with about 30M visitors/year | INSETE | high | 2026-03-27 | 2026-03-27

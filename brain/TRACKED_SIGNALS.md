@@ -10,7 +10,7 @@
 | Greek consumer confidence trend | ACTIVE | up | 2026-03-27 | Watch for plateau |
 | Tourism 2026 season bookings vs 2025 | ACTIVE | up | 2026-06-26 | INSETE/OT snippets say Greece stays among top choices and last-minute booking behavior is even later than 2025 |
 | EU Recovery Fund disbursement pace | ACTIVE | stable | 2026-03-27 | Watch for new calls |
-| Greek startup funding rounds | ACTIVE | unknown | 2026-03-27 | Seed data needed |
+| Greek startup funding rounds | ACTIVE | up | 2026-06-26 | Newmoney/FWD snippets point to EUR732.2M across 90+ Greek startups in 2025 plus roughly EUR700M visible local VC firepower in 2026, but it is mostly venture-scale capital not useful to zero-capital founders |
 | Greek inflation rate | ACTIVE | down | 2026-03-27 | Cooling from 2023 peaks |
 
 ## Regulatory Signals
