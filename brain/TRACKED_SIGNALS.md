@@ -18,9 +18,9 @@
 | Signal | Status | Direction | Last Checked | Notes |
 |--------|--------|-----------|--------------|-------|
 | Short-term rental regulation | ACTIVE | up | 2026-06-26 | Registration/safety/insurance compliance demand is live; competitors exist |
-| e-invoicing B2B mandate | ACTIVE | up | 2026-06-26 | Remaining businesses face 1 Oct 2026 wave with transition to 31 Dec |
+| e-invoicing B2B mandate | ACTIVE | up | 2026-06-26 | Remaining businesses face 1 Oct 2026 wave with transition to 31 Dec; first-wave lag shows setup plus declaration friction still exists |
 | e-invoicing cheapest-path anxiety | ACTIVE | up | 2026-06-26 | Free AADE timologio plus paid tool/cost anxiety creates advisory wedge |
-| Digital client registry expansion | ACTIVE | up | 2026-06-26 | AADE workflow is spreading into weddings/events/catering; likely setup/training wedge, not software wedge |
+| Digital client registry expansion | ACTIVE | up | 2026-06-26 | AADE workflow is spreading into weddings/events/catering and now clearly includes live event-data entry, which strengthens the setup/training wedge but not yet the direct channel proof |
 | Gig economy platform regulation | ACTIVE | unknown | 2026-03-27 | EU directive implementation in Greece |
 | Freelancer tax reform | ACTIVE | up | 2026-06-24 | Under-25 0% tax helps new entrants; imputed income still hurts many freelancers |
 
@@ -29,7 +29,7 @@
 | Signal | Status | Direction | Last Checked | Notes |
 |--------|--------|-----------|--------------|-------|
 | Summer tourism service rush | ACTIVE | up | 2026-06-26 | June-August urgency supports STR/pet-care tests |
-| ESPA funding calls | ACTIVE | unknown | 2026-03-27 | Check only when tied to a target |
+| ESPA funding calls | ACTIVE | up | 2026-06-26 | New calls are live/opening from 25 Jun and 1 Jul, but current visible programs skew to graduates, regions, or existing SMEs rather than a broad zero-capital founder wedge |
 
 ## Competitor Movements
 

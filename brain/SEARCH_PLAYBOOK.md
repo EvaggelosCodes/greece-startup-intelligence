@@ -35,5 +35,6 @@
 - 2026-06-26: For willingness-to-pay in admin/compliance offers, search the substitute (`logistis`, `mytimologio`, `kostos`) instead of the law term; generic e-invoicing queries mostly return regulation coverage.
 - 2026-06-26: For supply-density checks, search competitor brand + Greek city + service; `PetBacker Thessaloniki daycare` surfaced real local inventory faster than generic pet-care queries.
 - 2026-06-26: For new AADE workflow ideas, pair the official app/deadline query with sector-expansion press plus one vendor search; that quickly separates "software already exists" from "setup/training wedge still exists."
+- 2026-06-26: For compliance lag, search the declaration verb plus counts (`dilosi`, `timologio`, `myDATAapp`, business count); it surfaces "half-compliant" businesses faster than generic mandate queries.
 
 ---

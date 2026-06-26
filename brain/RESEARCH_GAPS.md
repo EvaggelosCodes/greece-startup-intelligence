@@ -11,9 +11,10 @@
 - [ ] Do wedding/catering/event businesses buy Psifiako Pelatologio setup directly, or is that channel already owned by software vendors/accountants?
 - [ ] Can a standalone e-invoicing clinic acquire customers directly, or do accountants already own the trust/distribution channel?
 - [ ] Does the e-invoicing clinic buyer want software setup, accountant translation, or cheapest-path compliance? (2026-06-26 partial: cost anxiety + free AADE timologio suggest "cheapest compliant path" is the sharper wedge)
+- [ ] Can an e-invoicing declaration-audit offer sell to SMEs near 1 Oct 2026, or is the visible lag mostly an enterprise/accountant-owned problem? (2026-06-26 partial: ~18k of 38k first-wave firms lagged, including ~3.3k already using tools)
 - [ ] Is there a Greek-language online course platform that has real traction? Who are the top creators?
 - [ ] What is the actual size of the Greek pet services market: vets, groomers, sitters, food?
-- [ ] How are micro-freelancers preparing for Oct 1 2026 e-invoicing: DIY, accountant, or unprepared? (2026-06-26 partial: snippets show a mix of DIY myTimologio + accountant oversight, fee-shopping from ~EUR100/quarter to EUR100+/month, and confusion about whether a separate accountant is needed)
+- [ ] How are micro-freelancers preparing for Oct 1 2026 e-invoicing: DIY, accountant, or unprepared? (2026-06-26 partial: snippets show a mix of DIY myTimologio + accountant oversight, fee-shopping from ~EUR100/quarter to EUR100+/month, confusion about whether a separate accountant is needed, and first-wave evidence that even tool users can still miss the declaration step)
 
 ### MEDIUM PRIORITY
 - [ ] What are the most-complained-about services in Greece on social media in 2025-2026?

@@ -1,9 +1,8 @@
 name: Mike background run
 
 on:
-  schedule:
-    # Hourly. GitHub cron is UTC.
-    - cron: "0 * * * *"
+  # OpenRouter background schedule is paused while Codex sprint mode is active.
+  # Run manually with workflow_dispatch if needed.
   workflow_dispatch:
     inputs:
       model:

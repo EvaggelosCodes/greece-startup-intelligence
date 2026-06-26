@@ -5,6 +5,8 @@
 
 ## Correction Log
 
+**2026-06-26 - Belief:** Once a business had chosen timologio or a provider, the e-invoicing problem was mostly solved. **Reality:** AADE/Naftemporiki snippets showed roughly 18,000 of 38,000 first-wave businesses still had not completed the required declaration, including about 3,300 already using a tool. **Why wrong:** I collapsed software adoption and compliance completion into the same thing. **Change:** separate tool choice from declaration/process completion and look for audit/fix wedges before assuming setup is done.
+
 **2026-06-26 - Belief:** The next strong third idea had to come from a different market than compliance/admin. **Reality:** the better third slot came from another AADE workflow rollout (Psifiako Pelatologio) because the new evidence showed a live timing window plus operational pain in events/catering. **Why wrong:** I was over-correcting away from compliance instead of asking whether a narrower workflow wedge existed inside it. **Change:** hunt adjacent admin windows where the pain is staff process and setup, not just legal awareness.
 
 **2026-06-26 - Belief:** Pet-care still deserved a 7+ marketplace score because no dominant Greek brand was obvious. **Reality:** active supply already exists across Pawshake, Keeppet, and PetBacker, so the hard problem is trust/acquisition, not discovery. **Why wrong:** I overweighted brand visibility and under-checked city-level inventory. **Change:** kill the generic marketplace idea unless a narrow underserved niche is proven city by city.
