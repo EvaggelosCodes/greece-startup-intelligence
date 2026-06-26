@@ -8,15 +8,12 @@
 ## Open Gaps (Priority Order)
 
 ### HIGH PRIORITY
-- [ ] Can a standalone e-invoicing clinic acquire customers directly, or do accountants already own the trust/distribution channel? (2026-06-26 stronger negative signal: peer advice and Taxheaven workflow both still route safety to the accountant)
+- [ ] Do wedding/catering/event businesses buy Psifiako Pelatologio setup directly, or is that channel already owned by software vendors/accountants?
+- [ ] Can a standalone e-invoicing clinic acquire customers directly, or do accountants already own the trust/distribution channel?
 - [ ] Does the e-invoicing clinic buyer want software setup, accountant translation, or cheapest-path compliance? (2026-06-26 partial: cost anxiety + free AADE timologio suggest "cheapest compliant path" is the sharper wedge)
-- [ ] Can STR owners be acquired with a repeat-fine/safety-checklist offer, or is generic "compliance help" too abstract to convert?
-- [ ] What are the exact sectors and rollout dates for the 2026 digital client registry expansion beyond vehicle services?
 - [ ] Is there a Greek-language online course platform that has real traction? Who are the top creators?
 - [ ] What is the actual size of the Greek pet services market: vets, groomers, sitters, food?
-- [x] How many Greek STR owners are non-compliant with the new EU registration number / fire-safety rules? (demand size for compliance help) **Answer:** Approx. 35-45% of owners are non-compliant according to AADE data and market analyses.
 - [ ] How are micro-freelancers preparing for Oct 1 2026 e-invoicing: DIY, accountant, or unprepared? (2026-06-26 partial: snippets show a mix of DIY myTimologio + accountant oversight, fee-shopping from ~EUR100/quarter to EUR100+/month, and confusion about whether a separate accountant is needed)
-- [x] Who already offers STR compliance-as-a-service to small Greek owners: accountants, property managers, or nobody bundled? **Answer:** Firms like Kolidas, Karapetridis, Taxfocus provide end-to-end compliance services.
 
 ### MEDIUM PRIORITY
 - [ ] What are the most-complained-about services in Greece on social media in 2025-2026?
@@ -24,6 +21,7 @@
 - [ ] What happened to Greek brain drain; is it reversing? Who is coming back and why?
 - [ ] What is the actual licensing timeline to start a food-related business in Greece?
 - [ ] What do high-spend tourists (American, Gulf) actually want that they can't find in Greece?
+- [ ] What is the cleanest acquisition channel for STR Compliance Concierge: owner Facebook groups, Airbnb host communities, or accountant/property-manager referrals?
 
 ### LOW PRIORITY
 - [ ] What is the typical conversion rate for Greek Instagram business accounts?
@@ -44,3 +42,4 @@
 | How many Greek STR owners are non-compliant? | Approx. 35-45% non-compliant (~17k owners) | Eleftherostypos, Sofokleousin, AADE notice | 2026-06-24 |
 | Who offers STR compliance services? | Kolidas, Karapetridis, Taxfocus, SGKLegal, StartComply, VLI, Sioufas & Associates | SGKLegal, StartComply, VLI, Sioufas | 2026-06-24 |
 | Which Greek pet-care booking competitors have real supply in Athens/Thessaloniki versus only app-store visibility? | Not a blank market: Pawshake is visible, Keeppet operates in Greece, and PetBacker shows 346+ Thessaloniki listings, which is enough to kill the easy marketplace-gap thesis | Pawshake/Keeppet/PetBacker snippets | 2026-06-26 |
+| What is the next compliance/admin deadline beyond STR and e-invoicing that could support a zero-capital service? | AADE's digital client registry expansion into weddings/events/catering is the best current candidate; next gap is whether direct setup demand is open or already captured by vendors/accountants | AADE/Naftemporiki/FortuneGreece/Oxygen snippets | 2026-06-26 |

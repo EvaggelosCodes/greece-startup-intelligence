@@ -5,7 +5,7 @@
 
 ## Correction Log
 
-**2026-06-26 - Belief:** A fresh admin/compliance deadline automatically creates a new direct-to-founder service wedge. **Reality:** IRIS and the digital client registry signal show that if the setup flow already routes through banks, POS providers, accountants, or incumbent software, the window may already be owned before a solo founder arrives. **Why wrong:** I searched the deadline before I checked the channel owner. **Change:** every new compliance idea must prove open distribution before it earns a 7+ score.
+**2026-06-26 - Belief:** The next strong third idea had to come from a different market than compliance/admin. **Reality:** the better third slot came from another AADE workflow rollout (Psifiako Pelatologio) because the new evidence showed a live timing window plus operational pain in events/catering. **Why wrong:** I was over-correcting away from compliance instead of asking whether a narrower workflow wedge existed inside it. **Change:** hunt adjacent admin windows where the pain is staff process and setup, not just legal awareness.
 
 **2026-06-26 - Belief:** Pet-care still deserved a 7+ marketplace score because no dominant Greek brand was obvious. **Reality:** active supply already exists across Pawshake, Keeppet, and PetBacker, so the hard problem is trust/acquisition, not discovery. **Why wrong:** I overweighted brand visibility and under-checked city-level inventory. **Change:** kill the generic marketplace idea unless a narrow underserved niche is proven city by city.
 
