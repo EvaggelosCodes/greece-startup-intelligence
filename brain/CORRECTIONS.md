@@ -5,6 +5,8 @@
 
 ## Correction Log
 
+**2026-06-26 - Belief:** Psifiako Pelatologio expansion into more sectors automatically strengthened the direct setup-service idea. **Reality:** AADE's own app path and vendor pages are visible, so expansion also strengthens the incumbent software/accountant channel. **Why wrong:** I counted more obligated sectors as more direct buyers without checking who owns implementation. **Change:** sell narrow workflow training/checklists for staff behavior, not broad "we make you compliant" setup.
+
 **2026-06-26 - Belief:** STR Q&A, webinar and social attention might be enough to graduate the acquisition thesis. **Reality:** those snippets prove fear and confusion, but not paid owner response. **Why wrong:** I was treating attention as conversion evidence. **Change:** keep STR actionable, but the next proof must be a paid audit or serious owner conversation, not another regulation snippet.
 
 **2026-06-26 - Belief:** Once a business had chosen timologio or a provider, the e-invoicing problem was mostly solved. **Reality:** AADE/Naftemporiki snippets showed roughly 18,000 of 38,000 first-wave businesses still had not completed the required declaration, including about 3,300 already using a tool. **Why wrong:** I collapsed software adoption and compliance completion into the same thing. **Change:** separate tool choice from declaration/process completion and look for audit/fix wedges before assuming setup is done.

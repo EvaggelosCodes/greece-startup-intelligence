@@ -8,7 +8,7 @@
 ## Open Gaps (Priority Order)
 
 ### HIGH PRIORITY
-- [ ] Do wedding/catering/event businesses buy Psifiako Pelatologio setup directly, or is that channel already owned by software vendors/accountants?
+- [ ] Do wedding/catering/event businesses buy Psifiako Pelatologio workflow training directly, or is that channel already owned by software vendors/accountants?
 - [ ] Does Psifiako Pelatologio setup demand become more direct in tourism/rentable rooms than in event venues, or do PMS/accountants already own that channel too?
 - [ ] Can a standalone e-invoicing clinic acquire customers directly, or do accountants already own the trust/distribution channel?
 - [ ] Does the e-invoicing clinic buyer want software setup, accountant translation, or cheapest-path compliance? (2026-06-26 partial: cost anxiety + free AADE timologio suggest "cheapest compliant path" is the sharper wedge)
@@ -25,6 +25,7 @@
 - [ ] What do high-spend tourists (American, Gulf) actually want that they can't find in Greece?
 - [ ] What is the cleanest acquisition channel for STR Compliance Concierge: owner Facebook groups, Airbnb host communities, or accountant/property-manager referrals?
 - [ ] Will STR owners pay for a fixed-fee compliance audit after seeing Q&A/social fear posts, or do they only consume free guidance?
+- [ ] Can STR Compliance Concierge legally/credibly sell as a coordinator of electricians/engineers/insurers without becoming a high-touch property-management service?
 
 ### LOW PRIORITY
 - [ ] What is the typical conversion rate for Greek Instagram business accounts?

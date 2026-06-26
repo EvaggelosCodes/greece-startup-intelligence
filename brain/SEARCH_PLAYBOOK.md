@@ -37,5 +37,6 @@
 - 2026-06-26: For new AADE workflow ideas, pair the official app/deadline query with sector-expansion press plus one vendor search; that quickly separates "software already exists" from "setup/training wedge still exists."
 - 2026-06-26: For compliance lag, search the declaration verb plus counts (`dilosi`, `timologio`, `myDATAapp`, business count); it surfaces "half-compliant" businesses faster than generic mandate queries.
 - 2026-06-26: For STR demand, webinar/Q&A/social snippets prove attention but not payment; the next search must hunt offer-response language (`poso kostizei`, `poios analamvanei`, `elegxos symmorfosis`) or groups with owner comments.
+- 2026-06-26: For admin-compliance ideas, a sector-expansion snippet is not enough; pair it with `app`, `logistis`, and vendor-price searches to see whether implementation is already captured.
 
 ---
