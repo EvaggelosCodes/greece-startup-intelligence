@@ -38,5 +38,6 @@
 - 2026-06-26: For compliance lag, search the declaration verb plus counts (`dilosi`, `timologio`, `myDATAapp`, business count); it surfaces "half-compliant" businesses faster than generic mandate queries.
 - 2026-06-26: For STR demand, webinar/Q&A/social snippets prove attention but not payment; the next search must hunt offer-response language (`poso kostizei`, `poios analamvanei`, `elegxos symmorfosis`) or groups with owner comments.
 - 2026-06-26: For admin-compliance ideas, a sector-expansion snippet is not enough; pair it with `app`, `logistis`, and vendor-price searches to see whether implementation is already captured.
+- 2026-06-26: For regulated-service ideas, search the required professional artifacts (`YDE`, `pyrasfaleia`, `asfalisi`) before naming the offer; this reveals whether the founder sells execution, audit, or coordination.
 
 ---

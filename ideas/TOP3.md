@@ -4,17 +4,17 @@
 ---
 
 ## #1: STR Compliance Concierge - 8.0 ACTIONABLE
-**Simple version:** Help Airbnb owners avoid EUR5,000+ fines by sorting out the 2026 legal paperwork and safety/insurance requirements.
+**Simple version:** Help Airbnb owners avoid EUR5,000+ fines by auditing what is missing and coordinating the right electrician, insurer and safety steps.
 **You could make:** EUR1,200-EUR2,200 in the first month
 **Why right now:** Summer pressure, active fines, and real compliance-side costs make a cheap paperwork-first offer timely.
-**The catch:** Accountants/property firms already exist, so the offer must stay narrow, cheap, and owner-facing.
+**The catch:** Specialists own parts of the job, so the offer must be audit/coordination, not fake one-person certification.
 **Trending:** Stable | runs at 8.0+: 2/2
 
 **THIS WEEK:**
 - Mon: Write a plain-Greek landing page and DM script for a fixed-fee Airbnb compliance check.
 - Tue: Pull 50 Athens/Crete/Cyclades self-managed listings and message owners or local host groups with the script.
-- Wed: Turn the service into a 10-point checklist plus intake form asking for AMA, insurance, fire-safety and electrical status.
-- Thu: Call 10 electricians/insurers/accountants to line up fallback partners and referral pricing for missing documents.
+- Wed: Turn the service into a 10-point audit checklist plus intake form asking for AMA, insurance, fire-safety, electrical and document status.
+- Thu: Call 10 electricians/insurers/fire-safety suppliers/accountants to line up fallback partners and referral pricing for missing documents.
 - Fri: Push for the first paid audit at EUR79-EUR99 and convert one owner into a full setup at EUR120-EUR150.
 *Goal of the week: one paid compliance audit and three serious owner conversations.*
 

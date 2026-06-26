@@ -4,17 +4,17 @@
 ---
 
 ### STR Compliance Concierge - Score: 8.0/10
-**What it is:** Done-for-you service that helps small STR/Airbnb owners become compliant with 2026 registration, safety, insurance and paperwork requirements.
+**What it is:** Fixed-fee audit and coordination service that helps small STR/Airbnb owners line up 2026 registration, safety, insurance and paperwork requirements through the right specialists.
 **Why Greece specifically:** Greek STR regulation creates a sudden mandatory compliance window for thousands of owners; fines can start around EUR5,000 while many owners are still subscale and self-managing.
-**How to start tomorrow:** (1) Build a plain-Greek fixed-fee rescue offer with a 10-point compliance check. (2) DM/call hosts and owner groups. (3) Charge a flat low fee per property and refer electricians/insurers only when needed.
-**Revenue model:** Flat setup fee EUR80-EUR150/property plus optional annual stay-compliant check and referral commissions.
+**How to start tomorrow:** (1) Build a plain-Greek fixed-fee rescue offer with a 10-point compliance check. (2) DM/call hosts and owner groups. (3) Charge a flat low fee per property, then coordinate electricians/insurers/fire-safety suppliers only when needed.
+**Revenue model:** Flat audit fee EUR79-EUR99/property, setup coordination EUR120-EUR180/property, plus optional annual stay-compliant check and referral commissions.
 **Realistic Month 1 revenue:** EUR1,200-EUR2,200 if 10-15 properties convert.
-**Biggest risk:** Accountants, lawyers and managers already bundle parts of compliance, so acquisition may be the real bottleneck rather than the work itself.
-**Competitor landscape:** Existing firms mean the gap is not blank-market; the credible wedge is cheap, fast, owner-centric compliance help for the non-professional segment.
+**Biggest risk:** Accountants, lawyers, electricians, insurers and property managers each own parts of the workflow, so the solo founder must coordinate clearly without overclaiming regulated work.
+**Competitor landscape:** Existing firms and specialist providers mean the gap is not blank-market; the credible wedge is cheap, fast, owner-centric audit and coordination for the non-professional segment.
 **Timing signal:** 2026 is the first full year of stricter registration/safety/insurance pressure, and summer exposure raises urgency while compliance-side costs remain meaningfully below full management commissions.
-**Grounded in:** 2026-06-24/25 STR law, non-compliance and competitor findings plus 2026-06-26 attack showing owner-side compliance costs around EUR100-EUR300/property/year versus 15-30% revenue-share management bundles.
+**Grounded in:** 2026-06-24/25 STR law, non-compliance and competitor findings plus 2026-06-26 attacks showing owner-side compliance costs around EUR100-EUR300/property/year, requirements split across electrician/fire-safety/insurance steps, and management bundles priced as a much heavier substitute.
 **Score breakdown:** CAPITAL_ZERO:9 | GREECE_FIT:9 | SPEED:8 | MARKET:6 | GAP:5 | TIMING:9 | SOLO:9 = 8.0
-**Score history:** 2026-06-24:8.3 new; 2026-06-26:8.0 survived first competitor attack; 2026-06-26:8.0 survived second attack on pricing/management substitution and graduated to ACTIONABLE.
+**Score history:** 2026-06-24:8.3 new; 2026-06-26:8.0 survived first competitor attack; 2026-06-26:8.0 survived second attack on pricing/management substitution and graduated to ACTIONABLE; 2026-06-26:8.0 held after specialist-coordination attack narrowed the promise.
 
 ---
 

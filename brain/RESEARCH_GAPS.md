@@ -25,7 +25,7 @@
 - [ ] What do high-spend tourists (American, Gulf) actually want that they can't find in Greece?
 - [ ] What is the cleanest acquisition channel for STR Compliance Concierge: owner Facebook groups, Airbnb host communities, or accountant/property-manager referrals?
 - [ ] Will STR owners pay for a fixed-fee compliance audit after seeing Q&A/social fear posts, or do they only consume free guidance?
-- [ ] Can STR Compliance Concierge legally/credibly sell as a coordinator of electricians/engineers/insurers without becoming a high-touch property-management service?
+- [ ] Will STR owners accept a compliance audit/coordination service that explicitly routes specialist work to electricians/insurers/fire-safety suppliers, or do they expect one provider to handle everything?
 
 ### LOW PRIORITY
 - [ ] What is the typical conversion rate for Greek Instagram business accounts?
@@ -47,3 +47,4 @@
 | Who offers STR compliance services? | Kolidas, Karapetridis, Taxfocus, SGKLegal, StartComply, VLI, Sioufas & Associates | SGKLegal, StartComply, VLI, Sioufas | 2026-06-24 |
 | Which Greek pet-care booking competitors have real supply in Athens/Thessaloniki versus only app-store visibility? | Not a blank market: Pawshake is visible, Keeppet operates in Greece, and PetBacker shows 346+ Thessaloniki listings, which is enough to kill the easy marketplace-gap thesis | Pawshake/Keeppet/PetBacker snippets | 2026-06-26 |
 | What is the next compliance/admin deadline beyond STR and e-invoicing that could support a zero-capital service? | AADE's digital client registry expansion into weddings/events/catering is the best current candidate; next gap is whether direct setup demand is open or already captured by vendors/accountants | AADE/Naftemporiki/FortuneGreece/Oxygen snippets | 2026-06-26 |
+| Can STR Compliance Concierge credibly be a solo service without pretending to do regulated specialist work? | Yes, if positioned as audit and coordination: the founder checks missing items and routes electrical/fire-safety/insurance work to specialists instead of certifying it personally | inoho/skiouraki/Olympia Electronics/Forolink snippets | 2026-06-26 |
