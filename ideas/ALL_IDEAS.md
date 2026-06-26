@@ -18,18 +18,18 @@
 
 ---
 
-### Digital Client Registry Setup Sprint for Wedding/Catering Businesses - Score: 7.7/10
-**What it is:** Fixed-fee setup sprint for venues, caterers and event businesses entering AADE's Psifiako Pelatologio: choose the simplest tool, map the workflow, and train staff to log clients before service starts.
-**Why Greece specifically:** This is a Greek tax-compliance workflow tied to AADE's rollout into weddings, catering and event businesses, sectors that are active right when the rule is landing.
+### Digital Client Registry Setup Sprint for Wedding/Catering Businesses - Score: 7.8/10
+**What it is:** Fixed-fee setup sprint for venues, caterers and event businesses entering AADE's Psifiako Pelatologio: choose the simplest tool, map the workflow, and train staff to log event data before service starts.
+**Why Greece specifically:** This is a Greek tax-compliance workflow tied to AADE's rollout into weddings, catering, banquet venues and event-heavy hospitality businesses, sectors that are active right when the rule is landing.
 **How to start tomorrow:** (1) Build a one-page "are you ready for Psifiako Pelatologio?" checklist for venues/caterers. (2) Call event spaces and caterers with a fixed-price setup/training offer. (3) Use existing software only as infrastructure, not the product.
 **Revenue model:** Setup fee EUR120-EUR250/business plus optional staff retraining or seasonal refresh before autumn expansion.
 **Realistic Month 1 revenue:** EUR600-EUR1,500 if 4-8 businesses convert.
 **Biggest risk:** Software vendors and accountants may already own the implementation channel, which would turn this into a referral business instead of a direct solo service.
 **Competitor landscape:** AADE already provides the official workflow and software vendors market compliant add-ons, so the wedge is operational setup and staff behavior, not software resale.
-**Timing signal:** The rollout is expanding through 2026 into weddings/events/catering with peak-season urgency and autumn tailwind as more service sectors are pulled in.
-**Grounded in:** 2026-06-26 scan: AADE shows the live app/procedure, multiple Greek business-news snippets point to expansion into events/catering, and vendor pages confirm the software layer already exists.
-**Score breakdown:** CAPITAL_ZERO:9 | GREECE_FIT:8 | SPEED:8 | MARKET:6 | GAP:6 | TIMING:9 | SOLO:8 = 7.7
-**Score history:** 2026-06-26:7.7 new from the Psifiako Pelatologio expansion and workflow-setup wedge.
+**Timing signal:** The rollout is expanding through 2026 into weddings/events/catering, and recent June coverage sharpened the operational burden by showing businesses must track event type, tables and guests.
+**Grounded in:** 2026-06-26 scan: recent Greek snippets reinforced the expansion into venues/catering and showed the required data-entry burden is live operational work, while vendor pages still confirm the software layer already exists.
+**Score breakdown:** CAPITAL_ZERO:9 | GREECE_FIT:8 | SPEED:8 | MARKET:7 | GAP:6 | TIMING:9 | SOLO:8 = 7.8
+**Score history:** 2026-06-26:7.7 new from the Psifiako Pelatologio expansion and workflow-setup wedge; 2026-06-26:7.8 after fresher June snippets showed broader venue/hotel scope and real event-data workflow burden.
 
 ---
 
@@ -40,8 +40,8 @@
 **Revenue model:** Flat onboarding fee EUR49-EUR99/client; optional referral only after proving the client actually needs paid software.
 **Realistic Month 1 revenue:** EUR0-EUR300 now; likely a stronger September/October spike if the quote-audit hook converts.
 **Biggest risk:** Many freelancers already get invoice/admin help inside a EUR25-EUR60/month accountant relationship, so direct willingness to pay for a standalone clinic is weaker than the legal deadline alone suggests.
-**Competitor landscape:** Many myDATA software vendors, accountants, and the free AADE timologio path exist; the gap is not software, it is plain-Greek decision support for the cheapest compliant choice.
+**Competitor landscape:** Many myDATA software vendors, accountants, and the free AADE timologio path exist; the gap is not software, it is plain-Greek decision support for the cheapest compliant choice and a check that the declaration/setup was actually completed.
 **Timing signal:** 1 Oct 2026 second wave creates a classic "educate now, sell near deadline" window, but June/July may still be early for broad direct conversion.
-**Grounded in:** 2026-06-26 scans: forum snippets show DIY myTimologio plus accountant oversight, recurring fee-shopping around EUR25-EUR60/month, and repeated confusion about whether a separate accountant is necessary.
+**Grounded in:** 2026-06-26 scans: forum snippets show DIY myTimologio plus accountant oversight and fee-shopping around EUR25-EUR60/month, while Naftemporiki/AADE snippets show compliance lag can persist even after businesses are already using a tool.
 **Score breakdown:** CAPITAL_ZERO:9 | GREECE_FIT:8 | SPEED:6 | MARKET:8 | GAP:5 | TIMING:8 | SOLO:9 = 7.5
 **Score history:** 2026-06-24:7.4 new; 2026-06-26:8.1 after wedge sharpened from software setup to cheapest-compliant clinic; 2026-06-26:7.9 after first attack showed trust/distribution risk; 2026-06-26:7.5 after real accountant pricing made the direct June/July wedge look thinner.

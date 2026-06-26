@@ -1,5 +1,5 @@
 # TOP 3 - Greece Startup Intelligence
-*Last updated: 2026-06-26 | Pool size: 3 ideas | Avg score: 7.7*
+*Last updated: 2026-06-26 | Pool size: 3 ideas | Avg score: 7.8*
 
 ---
 
@@ -20,10 +20,10 @@
 
 ---
 
-## #2: Digital Client Registry Setup Sprint for Wedding/Catering Businesses - 7.7
-**Simple version:** Help venues and caterers get Psifiako Pelatologio working before the rule bites during live events. | **Why now:** AADE is expanding the workflow into events/catering during the active season. | **Trending:** Up new
+## #2: Digital Client Registry Setup Sprint for Wedding/Catering Businesses - 7.8
+**Simple version:** Help venues and caterers get Psifiako Pelatologio working before live events start getting cross-checked by AADE. | **Why now:** Recent June coverage sharpened the rollout into venues/catering and showed the workflow now touches tables, guests and event details during active season. | **Trending:** Up stronger
 
 ---
 
 ## #3: e-Invoicing Cheapest-Path Clinic for Micro-Freelancers - 7.5
-**Simple version:** Help Greek freelancers pick the cheapest compliant e-invoicing path without paying for the wrong software. | **Why now:** The 1 Oct 2026 wave is real, but direct demand may be more September than June. | **Trending:** Down until direct acquisition is proven
+**Simple version:** Help Greek freelancers pick the cheapest compliant e-invoicing path and verify they did not miss a declaration/setup step. | **Why now:** The 1 Oct 2026 wave is real, but direct demand may be more September than June even if lag already exists. | **Trending:** Stable but early
