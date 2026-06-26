@@ -5,6 +5,8 @@
 
 ## Correction Log
 
+**2026-06-26 - Belief:** STR Q&A, webinar and social attention might be enough to graduate the acquisition thesis. **Reality:** those snippets prove fear and confusion, but not paid owner response. **Why wrong:** I was treating attention as conversion evidence. **Change:** keep STR actionable, but the next proof must be a paid audit or serious owner conversation, not another regulation snippet.
+
 **2026-06-26 - Belief:** Once a business had chosen timologio or a provider, the e-invoicing problem was mostly solved. **Reality:** AADE/Naftemporiki snippets showed roughly 18,000 of 38,000 first-wave businesses still had not completed the required declaration, including about 3,300 already using a tool. **Why wrong:** I collapsed software adoption and compliance completion into the same thing. **Change:** separate tool choice from declaration/process completion and look for audit/fix wedges before assuming setup is done.
 
 **2026-06-26 - Belief:** The next strong third idea had to come from a different market than compliance/admin. **Reality:** the better third slot came from another AADE workflow rollout (Psifiako Pelatologio) because the new evidence showed a live timing window plus operational pain in events/catering. **Why wrong:** I was over-correcting away from compliance instead of asking whether a narrower workflow wedge existed inside it. **Change:** hunt adjacent admin windows where the pain is staff process and setup, not just legal awareness.

@@ -17,10 +17,10 @@
 
 | Signal | Status | Direction | Last Checked | Notes |
 |--------|--------|-----------|--------------|-------|
-| Short-term rental regulation | ACTIVE | up | 2026-06-26 | Registration/safety/insurance compliance demand is live; competitors exist |
+| Short-term rental regulation | ACTIVE | up | 2026-06-26 | Registration/safety/insurance compliance demand is live; Q&A/social snippets show owner attention, but paid response is still unproven |
 | e-invoicing B2B mandate | ACTIVE | up | 2026-06-26 | Remaining businesses face 1 Oct 2026 wave with transition to 31 Dec; first-wave lag shows setup plus declaration friction still exists |
 | e-invoicing cheapest-path anxiety | ACTIVE | up | 2026-06-26 | Free AADE timologio plus paid tool/cost anxiety creates advisory wedge |
-| Digital client registry expansion | ACTIVE | up | 2026-06-26 | AADE workflow is spreading into weddings/events/catering and now clearly includes live event-data entry, which strengthens the setup/training wedge but not yet the direct channel proof |
+| Digital client registry expansion | ACTIVE | up | 2026-06-26 | AADE workflow is spreading into weddings/events/catering and likely tourism/hotel services; operational burden strengthened, direct channel still unproven |
 | Gig economy platform regulation | ACTIVE | unknown | 2026-03-27 | EU directive implementation in Greece |
 | Freelancer tax reform | ACTIVE | up | 2026-06-24 | Under-25 0% tax helps new entrants; imputed income still hurts many freelancers |
 

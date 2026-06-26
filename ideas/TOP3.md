@@ -20,8 +20,8 @@
 
 ---
 
-## #2: Digital Client Registry Setup Sprint for Wedding/Catering Businesses - 7.8
-**Simple version:** Help venues and caterers get Psifiako Pelatologio working before live events start getting cross-checked by AADE. | **Why now:** Recent June coverage sharpened the rollout into venues/catering and showed the workflow now touches tables, guests and event details during active season. | **Trending:** Up stronger
+## #2: Digital Client Registry Setup Sprint for Wedding/Catering/Tourism Businesses - 7.9
+**Simple version:** Help venues, caterers and small tourism operators get Psifiako Pelatologio working before live operations get cross-checked by AADE. | **Why now:** Recent snippets broadened the rollout from events/catering into tourism/hotel services and showed the workflow touches live operational data, not just later accounting. | **Trending:** Up, but direct acquisition still unproven
 
 ---
 

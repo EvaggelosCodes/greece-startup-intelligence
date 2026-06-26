@@ -36,5 +36,6 @@
 - 2026-06-26: For supply-density checks, search competitor brand + Greek city + service; `PetBacker Thessaloniki daycare` surfaced real local inventory faster than generic pet-care queries.
 - 2026-06-26: For new AADE workflow ideas, pair the official app/deadline query with sector-expansion press plus one vendor search; that quickly separates "software already exists" from "setup/training wedge still exists."
 - 2026-06-26: For compliance lag, search the declaration verb plus counts (`dilosi`, `timologio`, `myDATAapp`, business count); it surfaces "half-compliant" businesses faster than generic mandate queries.
+- 2026-06-26: For STR demand, webinar/Q&A/social snippets prove attention but not payment; the next search must hunt offer-response language (`poso kostizei`, `poios analamvanei`, `elegxos symmorfosis`) or groups with owner comments.
 
 ---

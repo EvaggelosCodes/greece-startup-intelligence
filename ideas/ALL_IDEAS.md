@@ -18,18 +18,18 @@
 
 ---
 
-### Digital Client Registry Setup Sprint for Wedding/Catering Businesses - Score: 7.8/10
-**What it is:** Fixed-fee setup sprint for venues, caterers and event businesses entering AADE's Psifiako Pelatologio: choose the simplest tool, map the workflow, and train staff to log event data before service starts.
-**Why Greece specifically:** This is a Greek tax-compliance workflow tied to AADE's rollout into weddings, catering, banquet venues and event-heavy hospitality businesses, sectors that are active right when the rule is landing.
-**How to start tomorrow:** (1) Build a one-page "are you ready for Psifiako Pelatologio?" checklist for venues/caterers. (2) Call event spaces and caterers with a fixed-price setup/training offer. (3) Use existing software only as infrastructure, not the product.
+### Digital Client Registry Setup Sprint for Wedding/Catering/Tourism Businesses - Score: 7.9/10
+**What it is:** Fixed-fee setup sprint for venues, caterers, event businesses and small tourism operators entering AADE's Psifiako Pelatologio: choose the simplest tool, map the workflow, and train staff to log event/customer data before service starts.
+**Why Greece specifically:** This is a Greek tax-compliance workflow tied to AADE's rollout into weddings, catering, banquet venues, tourism and event-heavy hospitality businesses, sectors that are active right when the rule is landing.
+**How to start tomorrow:** (1) Build a one-page "are you ready for Psifiako Pelatologio?" checklist for venues/caterers/small accommodation operators. (2) Call event spaces, caterers and small hotel/rental-room operators with a fixed-price setup/training offer. (3) Use existing software only as infrastructure, not the product.
 **Revenue model:** Setup fee EUR120-EUR250/business plus optional staff retraining or seasonal refresh before autumn expansion.
 **Realistic Month 1 revenue:** EUR600-EUR1,500 if 4-8 businesses convert.
 **Biggest risk:** Software vendors and accountants may already own the implementation channel, which would turn this into a referral business instead of a direct solo service.
 **Competitor landscape:** AADE already provides the official workflow and software vendors market compliant add-ons, so the wedge is operational setup and staff behavior, not software resale.
-**Timing signal:** The rollout is expanding through 2026 into weddings/events/catering, and recent June coverage sharpened the operational burden by showing businesses must track event type, tables and guests.
-**Grounded in:** 2026-06-26 scan: recent Greek snippets reinforced the expansion into venues/catering and showed the required data-entry burden is live operational work, while vendor pages still confirm the software layer already exists.
-**Score breakdown:** CAPITAL_ZERO:9 | GREECE_FIT:8 | SPEED:8 | MARKET:7 | GAP:6 | TIMING:9 | SOLO:8 = 7.8
-**Score history:** 2026-06-26:7.7 new from the Psifiako Pelatologio expansion and workflow-setup wedge; 2026-06-26:7.8 after fresher June snippets showed broader venue/hotel scope and real event-data workflow burden.
+**Timing signal:** The rollout is expanding through 2026 into weddings/events/catering and likely tourism/accommodation, while prior auto-sector rollout showed real operational pushback.
+**Grounded in:** 2026-06-26 scans: Greek snippets reinforced expansion into venues/catering and tourism/hotel services, showed required live data-entry burden, and confirmed the software layer already exists.
+**Score breakdown:** CAPITAL_ZERO:9 | GREECE_FIT:8 | SPEED:8 | MARKET:7 | GAP:6 | TIMING:9 | SOLO:8 = 7.9
+**Score history:** 2026-06-26:7.7 new from the Psifiako Pelatologio expansion and workflow-setup wedge; 2026-06-26:7.8 after fresher snippets showed event-data workflow burden; 2026-06-26:7.9 after tourism/accommodation expansion signal broadened buyer pool without changing the core wedge.
 
 ---
 
