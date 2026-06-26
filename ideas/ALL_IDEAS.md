@@ -3,21 +3,6 @@
 
 ---
 
-### e-Invoicing Cheapest-Path Clinic for Micro-Freelancers - Score: 8.1/10
-**What it is:** Fixed-price clinic that gets non-technical Greek freelancers and micro-SMEs onto the cheapest compliant e-invoicing path: decide AADE timologio vs paid provider, configure basics, and teach the first invoice.
-**Why Greece specifically:** Greece has a mandatory B2B e-invoicing wave for remaining businesses from 1 Oct 2026, while many small operators are cost-sensitive and non-technical.
-**How to start tomorrow:** (1) Write a plain-Greek "avoid paying too much for e-invoicing" explainer. (2) Offer a EUR49-EUR99 fixed-price setup clinic. (3) Use paid providers only when the free AADE path is not enough.
-**Revenue model:** Flat onboarding fee EUR49-EUR99/client; optional referral only after proving the client actually needs paid software.
-**Realistic Month 1 revenue:** EUR0-EUR400 now while educating; higher September/October spike as the deadline gets close.
-**Biggest risk:** Accountants may bundle this, and the free AADE option reduces willingness to pay unless the pitch is clearly about avoiding mistakes and excess annual cost.
-**Competitor landscape:** Many myDATA software vendors, accountants, and the free AADE timologio path exist; the gap is not software, it is plain-Greek decision support for the cheapest compliant setup.
-**Timing signal:** 1 Oct 2026 second wave creates a classic "educate now, sell near deadline" window.
-**Grounded in:** 2026-06-26 finding: two-wave 2026 mandate, free AADE timologio, paid tools from ~EUR80/year or ~EUR25/month, and social anxiety about EUR300-EUR500/year all-in cost.
-**Score breakdown:** CAPITAL_ZERO:9 | GREECE_FIT:8 | SPEED:7 | MARKET:8 | GAP:7 | TIMING:8 | SOLO:9 = 8.1
-**Score history:** 2026-06-24:7.4 new; 2026-06-26:8.1 after wedge sharpened from software setup to cheapest-compliant clinic.
-
----
-
 ### STR Compliance Concierge - Score: 8.0/10
 **What it is:** Done-for-you service that helps small STR/Airbnb owners become compliant with 2026 registration, safety, insurance and paperwork requirements.
 **Why Greece specifically:** Greek STR regulation creates a sudden mandatory compliance window for thousands of owners; fines can start around EUR5,000.
@@ -33,17 +18,17 @@
 
 ---
 
-### Pet-Care Services Marketplace - Score: 7.2/10
-**What it is:** Lightweight platform connecting Greek pet owners with vetted sitters, walkers, boarding and grooming providers.
-**Why Greece specifically:** Pet ownership and summer travel create real service demand, but the marketplace gap is less proven than compliance.
-**How to start tomorrow:** Verify real local supply first: count sitters/hotels in Athens/Thessaloniki across Pawshake, Google Maps and Facebook groups before building.
-**Revenue model:** 10% commission on bookings; optional premium provider listing.
-**Realistic Month 1 revenue:** EUR0-EUR300 from seeded bookings.
-**Biggest risk:** Trust and supply density are harder than the tech; global apps and offline channels may already satisfy enough demand.
-**Competitor landscape:** Pawshake is visible in Greek app search, and users already solve the problem through pet hotels, reviews and calls.
-**Timing signal:** Summer travel increases pet-care demand, but does not prove platform timing.
-**Grounded in:** 2026-06-24 pet-market estimate plus 2026-06-26 app/reddit competitor check.
-**Score breakdown:** CAPITAL_ZERO:9 | GREECE_FIT:7 | SPEED:6 | MARKET:7 | GAP:4 | TIMING:7 | SOLO:8 = 7.2
-**Score history:** 2026-06-25:7.5 new; 2026-06-26:7.2 downgraded after Pawshake/app-search competitor check.
+### e-Invoicing Cheapest-Path Clinic for Micro-Freelancers - Score: 7.9/10
+**What it is:** Fixed-price clinic that gets non-technical Greek freelancers and micro-SMEs onto the cheapest compliant e-invoicing path: decide AADE timologio vs paid provider, configure basics, and teach the first invoice.
+**Why Greece specifically:** Greece has a mandatory B2B e-invoicing wave for remaining businesses from 1 Oct 2026, while many small operators are cost-sensitive and non-technical.
+**How to start tomorrow:** (1) Write a plain-Greek "send me the quote your accountant or software vendor gave you" explainer. (2) Offer a EUR49-EUR99 cheapest-path clinic. (3) Use paid providers only when the free AADE path is clearly insufficient.
+**Revenue model:** Flat onboarding fee EUR49-EUR99/client; optional referral only after proving the client actually needs paid software.
+**Realistic Month 1 revenue:** EUR0-EUR300 until direct acquisition is proven; higher September/October spike if the quote-audit hook converts.
+**Biggest risk:** This may already be mentally bundled under "my accountant handles it," so direct willingness to pay is weak unless the pitch is framed as fee avoidance and confidence, not generic setup.
+**Competitor landscape:** Many myDATA software vendors, accountants, and the free AADE timologio path exist; the gap is not software, it is plain-Greek decision support for the cheapest compliant choice.
+**Timing signal:** 1 Oct 2026 second wave creates a classic "educate now, sell near deadline" window.
+**Grounded in:** 2026-06-26 second run: forum snippets show DIY myTimologio plus accountant oversight, fee-shopping from roughly EUR100/quarter to EUR100+/month, and confusion about whether a separate accountant is necessary.
+**Score breakdown:** CAPITAL_ZERO:9 | GREECE_FIT:8 | SPEED:7 | MARKET:8 | GAP:6 | TIMING:8 | SOLO:9 = 7.9
+**Score history:** 2026-06-24:7.4 new; 2026-06-26:8.1 after wedge sharpened from software setup to cheapest-compliant clinic; 2026-06-26:7.9 after attack showed trust/distribution may already sit with accountants.
 
 ---

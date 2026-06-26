@@ -30,6 +30,7 @@ MARKET_PATTERN | Greeks pay for local trust, authenticity and personal help more
 STABLE_FACT | Starting a business in Greece still involves GEMI/tax setup friction and professional help is common | observation | high | 2026-03-27 | 2026-03-27
 STABLE_FACT | Mandatory B2B e-invoicing has two 2026 waves: large firms first, then remaining businesses from 1 Oct 2026 with transition to 31 Dec | Taxheaven/Primer/Infosupport snippets | high | 2026-06-26 | 2026-06-26
 STABLE_FACT | myDATA/e-invoicing anxiety is partly cost-driven: free AADE timologio exists, paid tools show examples from ~EUR80/year to ~EUR25/month, and Reddit snippets mention EUR300-500/year all-in fear | Taxheaven/i-spirit/Lido/reddit | medium | 2026-06-26 | 2026-06-26
+STABLE_FACT | Micro-freelancers discussing e-invoicing/admin already mix DIY myTimologio with accountant help and fee-shop quotes from roughly EUR100/quarter to EUR100+/month | Reddit snippets | medium | 2026-06-26 | 2026-06-26
 STABLE_FACT | STR/Airbnb Law 5170/2025 and related 2026 requirements create registration/safety/insurance compliance pressure; fines start around EUR5,000 | LiFO/newmoney/taxheaven/industry snippets | high | 2026-06-24 | 2026-06-26
 STABLE_FACT | Around 35-45% of Greek short-term rental owners appear non-compliant with 2026 registration/safety requirements | AADE/industry reports | high | 2026-06-24 | 2026-06-24
 STABLE_FACT | Several STR compliance/accounting/legal providers already exist in Greece, so the market is not empty | Kolidas/Taxfocus/SGKLegal/StartComply/VLI/Sioufas snippets | high | 2026-06-25 | 2026-06-25
@@ -39,6 +40,7 @@ STABLE_FACT | Digital nomad visa barriers increased with higher income floor and
 
 ## Pet Services
 STABLE_FACT | Greek pet-care services market was previously estimated around EUR55-65M, but the exact service slice still needs verification | FinancialReport/6W Research | medium | 2026-06-24 | 2026-06-26
+STABLE_FACT | The Greek pet-care marketplace layer is not blank: Pawshake is visible, Keeppet operates locally, and PetBacker shows 346+ Thessaloniki daycare/sitter listings | Pawshake/Keeppet/PetBacker snippets | medium | 2026-06-26 | 2026-06-26
 TRACKED_SIGNAL | Pet-care marketplace is not empty: Pawshake is visible in Greek app search, while Greek users still mention solving pet care through pet hotels/reviews/calls | Pawshake/Google Play/reddit | medium | 2026-06-26 | 2026-06-26
 
 ---
