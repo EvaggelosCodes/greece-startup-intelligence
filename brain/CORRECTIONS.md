@@ -5,6 +5,8 @@
 
 ## Correction Log
 
+**2026-06-27 - Belief:** If STR owners have enough regulatory pain, the best next move is more direct owner hunting. **Reality:** the public web shows intermediaries educating owners more clearly than owners asking to buy help. **Why wrong:** I kept treating the owner as the only first customer even after the evidence kept pointing to trusted suppliers. **Change:** test accountant/electrician/insurer referral acquisition before calling the direct STR offer actionable again.
+
 **2026-06-26 - Belief:** One more round of public-web STR searching would surface direct willingness-to-pay if it existed. **Reality:** search kept returning provider explainers, law summaries, and specialist-cost pages rather than owner buying signals. **Why wrong:** I treated searchable fear as equivalent to searchable conversion. **Change:** stop upgrading STR on public-search evidence alone; require direct owner conversations, closed-group proof, or referral-channel evidence before restoring 8.0+ confidence.
 
 **2026-06-26 - Belief:** Psifiako Pelatologio expansion into more sectors automatically strengthened the direct setup-service idea. **Reality:** AADE's own app path and vendor pages are visible, so expansion also strengthens the incumbent software/accountant channel. **Why wrong:** I counted more obligated sectors as more direct buyers without checking who owns implementation. **Change:** sell narrow workflow training/checklists for staff behavior, not broad "we make you compliant" setup.

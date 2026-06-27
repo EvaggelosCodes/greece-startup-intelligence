@@ -26,7 +26,8 @@
 - [ ] What is the cleanest acquisition channel for STR Compliance Concierge: owner Facebook groups, Airbnb host communities, or accountant/property-manager referrals?
 - [ ] Will STR owners pay for a fixed-fee compliance audit after seeing Q&A/social fear posts, or do they only consume free guidance? (2026-06-26 update: public web search is saturated with provider explainers/cost pages, so the next proof must come from direct owner conversations, closed groups, or referrals)
 - [ ] Will STR owners accept a compliance audit/coordination service that explicitly routes specialist work to electricians/insurers/fire-safety suppliers, or do they expect one provider to handle everything?
-- [ ] Can the e-invoicing clinic or STR offer sell better through accountant/supplier referrals than through direct cold acquisition?
+- [ ] Can STR Compliance Concierge convert accountant/electrician/insurer education pages into referral partnerships, or will those suppliers keep the whole relationship themselves?
+- [ ] Can the e-invoicing clinic sell as an accountant-referral declaration audit near October, or is that too close to ordinary accounting support?
 
 ### LOW PRIORITY
 - [ ] What is the typical conversion rate for Greek Instagram business accounts?
@@ -49,3 +50,4 @@
 | Which Greek pet-care booking competitors have real supply in Athens/Thessaloniki versus only app-store visibility? | Not a blank market: Pawshake is visible, Keeppet operates in Greece, and PetBacker shows 346+ Thessaloniki listings, which is enough to kill the easy marketplace-gap thesis | Pawshake/Keeppet/PetBacker snippets | 2026-06-26 |
 | What is the next compliance/admin deadline beyond STR and e-invoicing that could support a zero-capital service? | AADE's digital client registry expansion into weddings/events/catering is the best current candidate; next gap is whether direct setup demand is open or already captured by vendors/accountants | AADE/Naftemporiki/FortuneGreece/Oxygen snippets | 2026-06-26 |
 | Can STR Compliance Concierge credibly be a solo service without pretending to do regulated specialist work? | Yes, if positioned as audit and coordination: the founder checks missing items and routes electrical/fire-safety/insurance work to specialists instead of certifying it personally | inoho/skiouraki/Olympia Electronics/Forolink snippets | 2026-06-26 |
+| What is the cleanest public-web acquisition channel for STR Compliance Concierge? | Supplier/referral-led looks cleaner than cold direct: accountant, consulting, insurance and electrical pages educate owners, while public owner comments show burden but not buying proof | Aegean Consulting/Forolink/Olympia/Skiouraki/opengov snippets | 2026-06-27 |

@@ -17,8 +17,8 @@
 
 | Signal | Status | Direction | Last Checked | Notes |
 |--------|--------|-----------|--------------|-------|
-| Short-term rental regulation | ACTIVE | up | 2026-06-26 | Registration/safety/insurance compliance demand is live; owner attention is visible, but real execution splits across electricians/engineers/insurers and paid audit response is still unproven |
-| e-invoicing B2B mandate | ACTIVE | up | 2026-06-26 | Remaining businesses face 1 Oct 2026 wave with transition to 31 Dec; first-wave lag shows setup plus declaration friction still exists |
+| Short-term rental regulation | ACTIVE | mixed | 2026-06-27 | Registration/safety/insurance demand is live; owner-side burden is visible, but acquisition evidence points more to accountant/electrician/insurer referrals than cold direct paid response |
+| e-invoicing B2B mandate | ACTIVE | up | 2026-06-27 | Remaining businesses face 1 Oct 2026 wave with transition to 31 Dec; snippets keep telling businesses to coordinate with accountants, so the direct clinic channel weakens while referral/audit stays possible |
 | e-invoicing cheapest-path anxiety | ACTIVE | up | 2026-06-26 | Free AADE timologio plus paid tool/cost anxiety creates advisory wedge |
 | Digital client registry expansion | ACTIVE | mixed | 2026-06-26 | AADE workflow is spreading into events/tourism/hotels/gyms, but AADE app and vendor pages make direct setup channel risk stronger; sell workflow training, not generic compliance |
 | Gig economy platform regulation | ACTIVE | unknown | 2026-03-27 | EU directive implementation in Greece |

@@ -40,5 +40,6 @@
 - 2026-06-26: For admin-compliance ideas, a sector-expansion snippet is not enough; pair it with `app`, `logistis`, and vendor-price searches to see whether implementation is already captured.
 - 2026-06-26: For regulated-service ideas, search the required professional artifacts (`YDE`, `pyrasfaleia`, `asfalisi`) before naming the offer; this reveals whether the founder sells execution, audit, or coordination.
 - 2026-06-26: If a willingness-to-pay search keeps returning provider explainers and law summaries instead of owner conversations, treat that as saturation, not "almost proof"; switch the next run to channel/referral hunting or direct outreach evidence.
+- 2026-06-27: For compliance ideas with weak direct demand, search who is already educating the buyer (`logistis`, `ilektrologos`, `asfalisi`, `symvoulos`); the right zero-capital wedge may be referral capture, not colder owner DMs.
 
 ---
