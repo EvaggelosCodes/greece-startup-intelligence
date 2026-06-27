@@ -5,7 +5,9 @@
 
 ## Correction Log
 
-**2026-06-27 - Belief:** If a compliance rule expands into a bigger tourism/hospitality segment, the idea automatically gets stronger. **Reality:** the same public scan that confirmed hotels and organized accommodations are on the Psifiako Pelatologio roadmap also surfaced the official AADE app and vendor automation immediately. **Why wrong:** I was treating market breadth as distribution openness. **Change:** score market size and competition gap separately; broader scope does not count as a channel win.
+**2026-06-27 - Belief:** The e-invoicing clinic could stay alive as a public-search direct offer if I just kept sharpening the cheapest-path message. **Reality:** current freelancer-targeted search still surfaced accountant, provider, and free-app explainers aimed straight at the buyer rather than independent buyer pull. **Why wrong:** I treated confusion as an open acquisition surface instead of checking who already harvests that confusion. **Change:** kill the public DTC framing and keep only a narrower audit/referral version until a partner channel is proven.
+
+**2026-06-27 - Belief:** Tourism/rentable-room expansion might reveal a cleaner direct Psifiako Pelatologio buyer than event venues. **Reality:** hotel/rentable-room/Airbnb searches mostly surfaced vendor, accountant, and software pages targeting that segment rather than owner-side buying proof. **Why wrong:** I confused more obligated tourism businesses with a more open acquisition channel. **Change:** stop treating sector breadth as demand proof; only score the registry idea higher if frontline workflow pain appears outside the vendor/accountant channel.
 
 **2026-06-27 - Belief:** If STR owners have enough regulatory pain, the best next move is more direct owner hunting. **Reality:** the public web shows intermediaries educating owners more clearly than owners asking to buy help. **Why wrong:** I kept treating the owner as the only first customer even after the evidence kept pointing to trusted suppliers. **Change:** test accountant/electrician/insurer referral acquisition before calling the direct STR offer actionable again.
 
