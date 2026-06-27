@@ -16,7 +16,7 @@
 | 5 | Tourism-adjacent beats pure-digital in Greece because cash flows are larger and faster | 2 | 2026-03-27 | 2026-03-27 | MEDIUM |
 | 6 | The informal economy is an opportunity disguised as a problem; formalizing any cash-based service is a wedge | 1 | 2026-03-27 | 2026-03-27 | MEDIUM |
 | 7 | A new compliance law with a hard deadline creates a zero-capital service window, but only if trust/distribution is still open and not already owned by accountants, vendors, managers or PMS tools | 5 | 2026-06-24 | 2026-06-27 | HIGH |
-| 8 | When AADE provides a free or commodity digital-compliance tool, the monetizable wedge shifts to workflow setup, declaration cleanup, cheapest-path advice, and staff training rather than software resale | 3 | 2026-06-26 | 2026-06-26 | HIGH |
+| 8 | When AADE provides a free or commodity digital-compliance tool, the monetizable wedge shifts to workflow setup, declaration cleanup, cheapest-path advice, and staff training rather than software resale | 4 | 2026-06-26 | 2026-06-27 | HIGH |
 
 ---
 

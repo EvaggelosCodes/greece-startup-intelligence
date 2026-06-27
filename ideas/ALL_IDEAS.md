@@ -18,18 +18,18 @@
 
 ---
 
-### Digital Client Registry Setup Sprint for Wedding/Catering/Tourism Businesses - Score: 7.8/10
-**What it is:** Fixed-fee workflow-training sprint for venues, caterers, event businesses and small tourism operators entering AADE's Psifiako Pelatologio: use the official/vendor tool, map the live workflow, and train staff to log event/customer data before service starts.
-**Why Greece specifically:** This is a Greek tax-compliance workflow tied to AADE's rollout into weddings, catering, banquet venues, tourism and event-heavy hospitality businesses, sectors that are active right when the rule is landing.
-**How to start tomorrow:** (1) Build a one-page "can your staff actually use Psifiako Pelatologio during service?" checklist for venues/caterers/small accommodation operators. (2) Call event spaces, caterers and small hotel/rental-room operators with a fixed-price workflow-training offer. (3) Use AADE/vendor software only as infrastructure, not the product.
+### Digital Client Registry Setup Sprint for Wedding/Catering/Tourism Businesses - Score: 7.7/10
+**What it is:** Fixed-fee workflow-training sprint for venues, caterers and small non-PMS accommodation operators entering AADE's Psifiako Pelatologio: use the official/vendor tool, map the live workflow, and train staff to log customer/service data before service starts.
+**Why Greece specifically:** This is a Greek tax-compliance workflow tied to AADE's rollout into weddings, catering, banquet venues, hotels and organized accommodations, sectors that sit inside Greece's seasonal hospitality economy.
+**How to start tomorrow:** (1) Build a one-page "can your staff actually use Psifiako Pelatologio during service?" checklist for venues/caterers/non-PMS accommodation operators. (2) Call event spaces, caterers and small accommodation operators with a fixed-price workflow-training offer. (3) Use AADE/vendor software only as infrastructure, not the product.
 **Revenue model:** Setup fee EUR120-EUR250/business plus optional staff retraining or seasonal refresh before autumn expansion.
 **Realistic Month 1 revenue:** EUR600-EUR1,500 if 4-8 businesses convert.
-**Biggest risk:** AADE app flows, software vendors and accountants may already own implementation, which would turn this into a thin training/referral business instead of a direct solo service.
-**Competitor landscape:** AADE already provides the official workflow and software vendors market compliant add-ons, so the wedge is staff behavior and live operations, not software setup or resale.
-**Timing signal:** The rollout is expanding through 2026 into weddings/events/catering and likely tourism/accommodation, while prior auto-sector rollout showed real operational pushback.
-**Grounded in:** 2026-06-26 scans: Greek snippets reinforced expansion into venues/catering and tourism/hotel services, showed required live data-entry burden, and confirmed both the software layer and the incumbent vendor/accountant channel already exist.
-**Score breakdown:** CAPITAL_ZERO:9 | GREECE_FIT:8 | SPEED:8 | MARKET:7 | GAP:5 | TIMING:9 | SOLO:8 = 7.8
-**Score history:** 2026-06-26:7.7 new from the Psifiako Pelatologio expansion and workflow-setup wedge; 2026-06-26:7.8 after fresher snippets showed event-data workflow burden; 2026-06-26:7.9 after tourism/accommodation expansion signal broadened buyer pool; 2026-06-26:7.8 after AADE app/vendor evidence raised channel-capture risk.
+**Biggest risk:** Official AADE app access, vendor automation and accountant/PMS workflows may already own implementation, which would leave only a thin non-PMS training/referral wedge.
+**Competitor landscape:** AADE already provides the official workflow and vendors like Prosvasis market automated compliant entry, so the only credible gap is staff behavior and live operations for operators not already absorbed by software/accountant systems.
+**Timing signal:** The rollout is expanding through 2026 into weddings/events/catering plus hotels and organized accommodations, while peak summer operations make real-time data-entry pain easier to surface.
+**Grounded in:** 2026-06-26 and 2026-06-27 scans: Greek snippets reinforced real-time-before-service logging, broadened the roadmap into hotels/organized accommodations, and simultaneously showed the official AADE app plus vendor automation already visible in-market.
+**Score breakdown:** CAPITAL_ZERO:9 | GREECE_FIT:8 | SPEED:8 | MARKET:8 | GAP:4 | TIMING:9 | SOLO:8 = 7.7
+**Score history:** 2026-06-26:7.7 new from the Psifiako Pelatologio expansion and workflow-setup wedge; 2026-06-26:7.8 after fresher snippets showed event-data workflow burden; 2026-06-26:7.9 after tourism/accommodation expansion signal broadened buyer pool; 2026-06-26:7.8 after AADE app/vendor evidence raised channel-capture risk; 2026-06-27:7.7 after hotels/accommodation broadened the market but official app + vendor automation confirmed the channel stayed tight.
 
 ---
 

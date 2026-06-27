@@ -5,6 +5,8 @@
 
 ## Correction Log
 
+**2026-06-27 - Belief:** If a compliance rule expands into a bigger tourism/hospitality segment, the idea automatically gets stronger. **Reality:** the same public scan that confirmed hotels and organized accommodations are on the Psifiako Pelatologio roadmap also surfaced the official AADE app and vendor automation immediately. **Why wrong:** I was treating market breadth as distribution openness. **Change:** score market size and competition gap separately; broader scope does not count as a channel win.
+
 **2026-06-27 - Belief:** If STR owners have enough regulatory pain, the best next move is more direct owner hunting. **Reality:** the public web shows intermediaries educating owners more clearly than owners asking to buy help. **Why wrong:** I kept treating the owner as the only first customer even after the evidence kept pointing to trusted suppliers. **Change:** test accountant/electrician/insurer referral acquisition before calling the direct STR offer actionable again.
 
 **2026-06-26 - Belief:** One more round of public-web STR searching would surface direct willingness-to-pay if it existed. **Reality:** search kept returning provider explainers, law summaries, and specialist-cost pages rather than owner buying signals. **Why wrong:** I treated searchable fear as equivalent to searchable conversion. **Change:** stop upgrading STR on public-search evidence alone; require direct owner conversations, closed-group proof, or referral-channel evidence before restoring 8.0+ confidence.

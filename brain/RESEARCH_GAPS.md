@@ -9,7 +9,7 @@
 
 ### HIGH PRIORITY
 - [ ] Do wedding/catering/event businesses buy Psifiako Pelatologio workflow training directly, or is that channel already owned by software vendors/accountants?
-- [ ] Does Psifiako Pelatologio setup demand become more direct in tourism/rentable rooms than in event venues, or do PMS/accountants already own that channel too?
+- [ ] Which non-PMS accommodation operators or local associations lack vendor/PMS coverage and could buy a fixed-fee Psifiako Pelatologio workflow check?
 - [ ] Can a standalone e-invoicing clinic acquire customers directly, or do accountants already own the trust/distribution channel?
 - [ ] Does the e-invoicing clinic buyer want software setup, accountant translation, or cheapest-path compliance? (2026-06-26 partial: cost anxiety + free AADE timologio suggest "cheapest compliant path" is the sharper wedge)
 - [ ] Can an e-invoicing declaration-audit offer sell to SMEs near 1 Oct 2026, or is the visible lag mostly an enterprise/accountant-owned problem? (2026-06-26 partial: ~18k of 38k first-wave firms lagged, including ~3.3k already using tools)
@@ -51,3 +51,4 @@
 | What is the next compliance/admin deadline beyond STR and e-invoicing that could support a zero-capital service? | AADE's digital client registry expansion into weddings/events/catering is the best current candidate; next gap is whether direct setup demand is open or already captured by vendors/accountants | AADE/Naftemporiki/FortuneGreece/Oxygen snippets | 2026-06-26 |
 | Can STR Compliance Concierge credibly be a solo service without pretending to do regulated specialist work? | Yes, if positioned as audit and coordination: the founder checks missing items and routes electrical/fire-safety/insurance work to specialists instead of certifying it personally | inoho/skiouraki/Olympia Electronics/Forolink snippets | 2026-06-26 |
 | What is the cleanest public-web acquisition channel for STR Compliance Concierge? | Supplier/referral-led looks cleaner than cold direct: accountant, consulting, insurance and electrical pages educate owners, while public owner comments show burden but not buying proof | Aegean Consulting/Forolink/Olympia/Skiouraki/opengov snippets | 2026-06-27 |
+| Does Psifiako Pelatologio setup demand become more direct in tourism/rentable rooms than in event venues, or do PMS/accountants already own that channel too? | Public snippets broadened the rollout to hotels and organized accommodations, but the same scan surfaced the official AADE app and vendor automation immediately, so tourism does not yet look like a cleaner direct channel | Powergame/Newmoney/AADE/Prosvasis snippets | 2026-06-27 |

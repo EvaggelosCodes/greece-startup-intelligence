@@ -1,5 +1,5 @@
 # TOP 3 - Greece Startup Intelligence
-*Last updated: 2026-06-27 | Pool size: 3 ideas | Avg score: 7.7*
+*Last updated: 2026-06-27 | Pool size: 3 ideas | Avg score: 7.6*
 
 ---
 
@@ -12,8 +12,8 @@
 
 ---
 
-## #2: Digital Client Registry Setup Sprint for Wedding/Catering/Tourism Businesses - 7.8
-**Simple version:** Help venues, caterers and small tourism operators train staff to use Psifiako Pelatologio correctly during live operations. | **Why now:** Recent snippets broadened the rollout from events/catering into tourism/hotel services, but AADE/app/vendor evidence means the sellable wedge is training and workflow, not generic setup. | **Trending:** Slightly down; direct acquisition still unproven
+## #2: Digital Client Registry Setup Sprint for Wedding/Catering/Tourism Businesses - 7.7
+**Simple version:** Help venues, caterers and small non-PMS accommodation operators train staff to use Psifiako Pelatologio correctly during live operations. | **Why now:** The roadmap now clearly reaches hotels and organized accommodations too, but the official app and vendor automation make this a narrower training wedge than the broader market first suggests. | **Trending:** Slightly down; broader scope did not reopen the direct channel
 
 ---
 
