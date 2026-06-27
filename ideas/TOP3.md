@@ -1,5 +1,5 @@
 # TOP 3 - Greece Startup Intelligence
-*Last updated: 2026-06-27 | Pool size: 4 ideas | Avg score: 7.3*
+*Last updated: 2026-06-27 | Pool size: 4 ideas | Avg score: 7.4*
 
 ---
 
@@ -17,5 +17,5 @@
 
 ---
 
-## #3: Compliance Overflow Desk for Accountants & Hospitality Suppliers - 7.1
-**Simple version:** Be the behind-the-scenes checklist and client-chasing helper for accountants, electricians, PMS resellers and insurers drowning in small compliance edge cases. | **Why now:** STR, e-invoicing and Psifiako Pelatologio are all routing through intermediaries, so the channel owner may be the real customer. | **Trending:** New; promising but referral appetite unproven
+## #3: Compliance Overflow Desk for Accountants & Hospitality Suppliers - 7.2
+**Simple version:** Be the behind-the-scenes checklist and client-chasing helper for accountants, electricians, PMS resellers and insurers drowning in small compliance edge cases. | **Why now:** STR, e-invoicing and Psifiako Pelatologio are all routing through intermediaries, and accounting hiring snippets suggest real myDATA/ERP workload pressure. | **Trending:** Up slightly; outsourcing appetite still unproven

@@ -43,5 +43,6 @@
 - 2026-06-27: For compliance ideas with weak direct demand, search who is already educating the buyer (`logistis`, `ilektrologos`, `asfalisi`, `symvoulos`); the right zero-capital wedge may be referral capture, not colder owner DMs.
 - 2026-06-27: For sector-expansion checks, search `workflow + sector + logistis + programma`; if hotel/Airbnb vendor pages dominate before owner complaints, treat the expansion as channel capture, not demand.
 - 2026-06-27: For partner-channel checks, search `synergates` and `logistes` on vendor pages; it proves infrastructure exists, but not that partners will outsource messy work.
+- 2026-06-27: Hiring snippets (`voithos logistis myDATA ERP`) are better overflow evidence than partner-page copy; they show workload pressure, but the next proof still needs outsourcing/referral language.
 
 ---

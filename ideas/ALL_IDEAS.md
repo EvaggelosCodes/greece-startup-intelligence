@@ -33,18 +33,18 @@
 
 ---
 
-### Compliance Overflow Desk for Accountants & Hospitality Suppliers - Score: 7.1/10
+### Compliance Overflow Desk for Accountants & Hospitality Suppliers - Score: 7.2/10
 **What it is:** White-label overflow desk that helps accountants, PMS resellers, electricians, insurers and hospitality consultants handle messy small-client compliance checklists for STR, e-invoicing and Psifiako Pelatologio without stealing the client.
 **Why Greece specifically:** Greek compliance pain is real, but buyer trust sits with local intermediaries; the opportunity is to become the low-risk helper behind those intermediaries.
 **How to start tomorrow:** (1) Make a one-page partner pitch: "I handle the checklist, documents and client chasing; you keep the relationship." (2) Contact 30 accountants/electricians/insurers/PMS resellers already publishing STR, myDATA or registry guidance. (3) Offer one free pilot case in exchange for permission to use the workflow as proof.
 **Revenue model:** EUR40-EUR80 per checklist/audit case, or EUR150-EUR250/month for small offices with recurring overflow.
-**Realistic Month 1 revenue:** EUR0-EUR500 unless one partner opens quickly; upside is higher after a repeat referral.
-**Biggest risk:** Intermediaries may keep the entire margin in-house or treat the work as too close to their core relationship to outsource.
+**Realistic Month 1 revenue:** EUR100-EUR600 if one overloaded accountant or software/PMS reseller gives a pilot case; upside is higher after repeat referral.
+**Biggest risk:** Intermediaries may respond to workload by hiring assistants instead of outsourcing, or treat the work as too close to their core relationship to share.
 **Competitor landscape:** Not a blank market: software vendors have partner programs, accountants already advise, and specialist suppliers do execution. The gap is cross-specialist coordination and low-margin client chasing that incumbents may dislike.
 **Timing signal:** 2026 piles STR, e-invoicing and Psifiako Pelatologio deadlines onto the same trust channels, creating possible overflow even if public direct demand is weak.
-**Grounded in:** 2026-06-27 searches showing myDATA/e-invoicing partner infrastructure, hospitality software/PMS registry bundles, and STR accountant/electrician/insurance guidance pages.
-**Score breakdown:** CAPITAL_ZERO:9 | GREECE_FIT:8 | SPEED:6 | MARKET:7 | GAP:5 | TIMING:8 | SOLO:7 = 7.1
-**Score history:** 2026-06-27:7.1 new from repeated evidence that direct compliance demand is channel-owned but partner/reseller infrastructure exists.
+**Grounded in:** 2026-06-27 searches showing myDATA/e-invoicing partner infrastructure, hospitality software/PMS registry bundles, STR accountant/electrician/insurance guidance pages, and accounting-role hiring snippets requiring myDATA/ERP/invoice/client-account work.
+**Score breakdown:** CAPITAL_ZERO:9 | GREECE_FIT:8 | SPEED:6 | MARKET:7 | GAP:5 | TIMING:8 | SOLO:7 = 7.2
+**Score history:** 2026-06-27:7.1 new from repeated evidence that direct compliance demand is channel-owned but partner/reseller infrastructure exists; 2026-06-27:7.2 after accounting hiring snippets suggested real myDATA/ERP workload pressure.
 
 ---
 
