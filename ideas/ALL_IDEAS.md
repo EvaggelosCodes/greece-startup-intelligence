@@ -33,15 +33,15 @@
 
 ---
 
-### e-Invoicing Cheapest-Path Clinic for Micro-Freelancers - Score: 7.3/10
-**What it is:** Fixed-price clinic that gets non-technical Greek freelancers and micro-SMEs onto the cheapest compliant e-invoicing path: decide AADE timologio vs paid provider, configure basics, and teach the first invoice.
-**Why Greece specifically:** Greece has a mandatory B2B e-invoicing wave for remaining businesses from 1 Oct 2026, while many small operators are cost-sensitive and non-technical.
-**How to start tomorrow:** (1) Write a plain-Greek "send me the quote your accountant or software vendor gave you" explainer. (2) Offer a EUR49-EUR99 cheapest-path clinic. (3) Use paid providers only when the free AADE path is clearly insufficient.
-**Revenue model:** Flat onboarding fee EUR49-EUR99/client; optional referral only after proving the client actually needs paid software.
-**Realistic Month 1 revenue:** EUR0-EUR300 now; likely a stronger September/October spike if the quote-audit hook converts.
-**Biggest risk:** Many freelancers already get invoice/admin help inside a EUR25-EUR60/month accountant relationship, and fresh snippets explicitly tell businesses to coordinate with accountants, so direct willingness to pay may stay thin until the deadline is much closer or an accountant-referral audit channel opens.
-**Competitor landscape:** Many myDATA software vendors, accountants, and the free AADE timologio path exist; the gap is not software, it is plain-Greek decision support for the cheapest compliant choice and a check that the declaration/setup was actually completed.
-**Timing signal:** 1 Oct 2026 second wave creates a classic "educate now, sell near deadline" window, but June/July may still be early for broad direct conversion.
-**Grounded in:** 2026-06-26/27 scans: forum snippets show DIY myTimologio plus accountant oversight and fee-shopping around EUR25-EUR60/month, Naftemporiki/AADE snippets show compliance lag can persist even after businesses are already using a tool, and current coverage keeps pointing businesses back to accountants.
-**Score breakdown:** CAPITAL_ZERO:9 | GREECE_FIT:8 | SPEED:5 | MARKET:8 | GAP:4 | TIMING:8 | SOLO:9 = 7.3
-**Score history:** 2026-06-24:7.4 new; 2026-06-26:8.1 after wedge sharpened from software setup to cheapest-compliant clinic; 2026-06-26:7.9 after first attack showed trust/distribution risk; 2026-06-26:7.5 after real accountant pricing made the direct June/July wedge look thinner; 2026-06-26:7.4 after another Greek-first search still surfaced regulation/Q&A faster than direct buyer-intent; 2026-06-27:7.3 after snippets again centered accountants as the migration channel.
+### e-Invoicing Referral Audit for Micro-Freelancers - Score: 6.9/10
+**What it is:** Fixed-price second-opinion and declaration-check service that helps freelancers or their accountants confirm the cheapest compliant e-invoicing path and catch missed myDATA/declaration steps.
+**Why Greece specifically:** Greece's 1 Oct 2026 B2B e-invoicing wave still creates confusion for cost-sensitive micro-freelancers, but the sellable wedge has narrowed to audit/referral support rather than a public DTC setup clinic.
+**How to start tomorrow:** (1) Write a plain-Greek "send me the accountant/provider setup you were given" audit offer for accountant offices. (2) Offer referral partners a white-label or overflow check for confused clients. (3) Charge a flat audit fee when setup or declaration needs correction; escalate paid software only if clearly necessary.
+**Revenue model:** EUR39-EUR79 per audit or white-label support per office; optional referral only when the client clearly needs paid software.
+**Realistic Month 1 revenue:** EUR0-EUR200 now; stronger September/October if one accountant or referral partner opens.
+**Biggest risk:** Accountants may prefer to keep the work in-house and view the offer as too close to ordinary bookkeeping support.
+**Competitor landscape:** Many myDATA software vendors, accountants, and the free AADE timologio path exist; the surviving gap is a second-opinion declaration/process check inside trusted channels, not another public explainer.
+**Timing signal:** 1 Oct 2026 still creates a real deadline window, but the public-search DTC angle is already crowded; the cleaner shot is partner-led or closer to the deadline.
+**Grounded in:** 2026-06-26/27 scans: forum snippets show DIY myTimologio plus accountant oversight and fee-shopping around EUR25-EUR60/month, Naftemporiki/AADE snippets show compliance lag can persist even after businesses are already using a tool, and current search still points businesses toward accountants and providers rather than independent buyer pull.
+**Score breakdown:** CAPITAL_ZERO:9 | GREECE_FIT:8 | SPEED:5 | MARKET:7 | GAP:3 | TIMING:7 | SOLO:9 = 6.9
+**Score history:** 2026-06-24:7.4 new; 2026-06-26:8.1 after wedge sharpened from software setup to cheapest-compliant clinic; 2026-06-26:7.9 after first attack showed trust/distribution risk; 2026-06-26:7.5 after real accountant pricing made the direct June/July wedge look thinner; 2026-06-26:7.4 after another Greek-first search still surfaced regulation/Q&A faster than direct buyer-intent; 2026-06-27:7.3 after snippets again centered accountants as the migration channel; 2026-06-27:6.9 after killing the public DTC framing and keeping only the referral-audit version.

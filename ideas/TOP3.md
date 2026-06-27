@@ -1,5 +1,5 @@
 # TOP 3 - Greece Startup Intelligence
-*Last updated: 2026-06-27 | Pool size: 3 ideas | Avg score: 7.5*
+*Last updated: 2026-06-27 | Pool size: 3 ideas | Avg score: 7.4*
 
 ---
 
@@ -17,5 +17,5 @@
 
 ---
 
-## #3: e-Invoicing Cheapest-Path Clinic for Micro-Freelancers - 7.3
-**Simple version:** Help Greek freelancers pick the cheapest compliant e-invoicing path and verify they did not miss a declaration/setup step. | **Why now:** The 1 Oct 2026 wave is real, but the market keeps being routed through accountants, so this is more October referral/audit than June direct sale. | **Trending:** Down; accountant channel likely owns trust
+## #3: e-Invoicing Referral Audit for Micro-Freelancers - 6.9
+**Simple version:** Help freelancers or their accountants double-check the cheapest compliant e-invoicing path and catch missed setup/declaration steps. | **Why now:** The 1 Oct 2026 wave is real, but the public-search DTC clinic is dead; only a partner-led or late-deadline audit version still survives. | **Trending:** Down; public DTC version killed
