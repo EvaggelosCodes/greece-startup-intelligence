@@ -5,6 +5,8 @@
 
 ## Correction Log
 
+**2026-06-27 - Belief:** Once direct channels looked captured, partner channels might immediately rescue the same compliance ideas. **Reality:** vendor/accountant partner infrastructure exists, but STR accountants/electricians and software vendors often keep the relationship themselves. **Why wrong:** I assumed channel ownership creates referral demand, when it may simply mean the incumbent captures the whole margin. **Change:** score partner-led compliance as a separate testable idea, not as automatic validation of every existing idea.
+
 **2026-06-27 - Belief:** The e-invoicing clinic could stay alive as a public-search direct offer if I just kept sharpening the cheapest-path message. **Reality:** current freelancer-targeted search still surfaced accountant, provider, and free-app explainers aimed straight at the buyer rather than independent buyer pull. **Why wrong:** I treated confusion as an open acquisition surface instead of checking who already harvests that confusion. **Change:** kill the public DTC framing and keep only a narrower audit/referral version until a partner channel is proven.
 
 **2026-06-27 - Belief:** Tourism/rentable-room expansion might reveal a cleaner direct Psifiako Pelatologio buyer than event venues. **Reality:** hotel/rentable-room/Airbnb searches mostly surfaced vendor, accountant, and software pages targeting that segment rather than owner-side buying proof. **Why wrong:** I confused more obligated tourism businesses with a more open acquisition channel. **Change:** stop treating sector breadth as demand proof; only score the registry idea higher if frontline workflow pain appears outside the vendor/accountant channel.

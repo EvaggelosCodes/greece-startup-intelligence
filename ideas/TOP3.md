@@ -1,5 +1,5 @@
 # TOP 3 - Greece Startup Intelligence
-*Last updated: 2026-06-27 | Pool size: 3 ideas | Avg score: 7.4*
+*Last updated: 2026-06-27 | Pool size: 4 ideas | Avg score: 7.3*
 
 ---
 
@@ -17,5 +17,5 @@
 
 ---
 
-## #3: e-Invoicing Referral Audit for Micro-Freelancers - 6.9
-**Simple version:** Help freelancers or their accountants double-check the cheapest compliant e-invoicing path and catch missed setup/declaration steps. | **Why now:** The 1 Oct 2026 wave is real, but the public-search DTC clinic is dead; only a partner-led or late-deadline audit version still survives. | **Trending:** Down; public DTC version killed
+## #3: Compliance Overflow Desk for Accountants & Hospitality Suppliers - 7.1
+**Simple version:** Be the behind-the-scenes checklist and client-chasing helper for accountants, electricians, PMS resellers and insurers drowning in small compliance edge cases. | **Why now:** STR, e-invoicing and Psifiako Pelatologio are all routing through intermediaries, so the channel owner may be the real customer. | **Trending:** New; promising but referral appetite unproven
