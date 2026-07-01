@@ -6,9 +6,9 @@
 ## #1: STR Compliance Concierge - 7.4
 **Simple version:** Help Airbnb owners avoid EUR5,000+ fines by auditing what is missing and coordinating the right electrician, insurer and safety steps.
 **You could make:** EUR300-EUR1,200 in the first month
-**Why right now:** July urgency is real for active hosts, even if public demand is still hidden behind supplier-side content.
-**The catch:** Fresh search still surfaces managers, accountants, legal advisors and specialists before owner buying proof.
-**Trending:** Down; summer pain is real but the channel remains tight
+**Why right now:** July urgency is real for active hosts, and fresh host-group/FAQ snippets show practical "what do I do" and fine anxiety.
+**The catch:** This is a better test channel, not payment proof; owners may still choose free advice or specialists.
+**Trending:** Stable after the cut; next move depends on paid-checklist conversion
 
 ---
 
