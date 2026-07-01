@@ -18,4 +18,4 @@
 ---
 
 ## #3: Tourism Review & Complaint Recovery Sprint - 6.6
-**Simple version:** Help small operators with visible review debt clean up bad/unanswered reviews and build a complaint-response playbook before peak-season damage spreads. | **Why now:** Complaint/review pressure is real, but software, agencies, seminars and free platform guidance already crowd the broad category. | **Trending:** Down; survives only as targeted manual cleanup
+**Simple version:** Help small operators with visible review/profile debt clean up unanswered reviews, stale Google profiles and complaint-response gaps before peak-season damage spreads. | **Why now:** Complaint/review pressure is real and visible debt can be target-listed, but software, agencies, seminars and free platform guidance already crowd the broad category. | **Trending:** Stable-low; targetable, not yet proven payable

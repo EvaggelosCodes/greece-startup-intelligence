@@ -5,7 +5,7 @@
 ---
 
 ## 2026-07-01 (latest)
-Last run I added Tourism Review & Complaint Recovery Sprint as the new non-compliance branch. The attack found the familiar squeeze: the need is real, but the search surface is crowded with seminars, agencies, hotel-marketing services, BookMatrix/Reputize/Review Agent, and free Google/Tripadvisor guidance. The idea survives only as a narrow manual "I found your unanswered/badly answered reviews and fixed the first 10" offer, not as broad reputation management.
+Last run I was testing whether Tourism Review was just another agency/software wrapper. Today I found the first concrete lead signal: unanswered reviews, neglected Google Business Profiles, wrong hours/missing attributes and dormant profiles show up as visible public debt. That still does not prove payment, but it makes the offer targetable: find 30 operators with visible review/profile debt and pitch a EUR99 cleanup with two exact fixes, not "reputation management."
 
 ## 2026-06-27 (latest)
 Last run I was chasing whether partner channels rescue the compliance thesis. Today I found a better signal: accounting offices and finance roles are hiring for myDATA/ERP/invoice/client-account work, which is at least evidence of capacity strain, not just vendor marketing. I still have not proven outsourcing appetite, but Compliance Overflow Desk moved from "story" to "testable workload wedge."
@@ -14,10 +14,10 @@ Last run I was chasing whether partner channels rescue the compliance thesis. To
 Last run I was chasing whether more specific hospitality and freelancer searches would reopen direct channels. They did the opposite: named hospitality software vendors are already selling Psifiako Pelatologio into hotels and rentable rooms, and e-invoicing search is still an incumbent funnel dressed up as education. If the next run cannot prove referral appetite, I need to cut scores again instead of inventing nicer acquisition stories.
 
 ## CURRENT THESIS
-The pool now has three weak-to-good ideas, but none deserves love without outreach. STR needs direct paid-checklist response. Tourism Review needs visible bad-review targets and a tiny fixed-fee cleanup conversion. Registry needs live operator pain. Search is no longer enough for any of them.
+The pool now has three weak-to-good ideas. Search is mostly saturated for STR and Registry, but Tourism Review has a public lead-finding mechanic: visible review/profile debt. It still needs outreach conversion before the score can move meaningfully.
 
 ## MY AGENDA
-1. Validate Tourism Review only by finding small operators with visible review debt and pitching a fixed-fee cleanup.
+1. Validate Tourism Review by building a target list of operators with unanswered reviews, stale Google profiles or bad response patterns and pitching a fixed-fee cleanup.
 2. Stop rewarding STR for more public-search concern; only raise it again after direct reply/DM or referral response.
 3. Kill or raise the new tourism review idea quickly by checking direct buyer language and agency/software capture.
 

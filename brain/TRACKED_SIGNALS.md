@@ -30,7 +30,7 @@
 | Signal | Status | Direction | Last Checked | Notes |
 |--------|--------|-----------|--------------|-------|
 | Summer tourism service rush | ACTIVE | up | 2026-07-01 | July peak tourism still supports owner/operator urgency, but generic B2B admin selling remains seasonally weak |
-| Tourism complaint/review pressure | ACTIVE | mixed | 2026-07-01 | Complaint/review pain is real, but the visible channel is crowded with seminars, agencies, software and free platform guidance; only targeted manual cleanup remains interesting |
+| Tourism complaint/review pressure | ACTIVE | mixed | 2026-07-01 | Complaint/review pain is real and visible review/profile debt can be target-listed, but the channel is crowded with seminars, agencies, software and free platform guidance |
 | ESPA funding calls | ACTIVE | up | 2026-06-26 | New calls are live/opening from 25 Jun and 1 Jul, but current visible programs skew to graduates, regions, or existing SMEs rather than a broad zero-capital founder wedge |
 
 ## Competitor Movements
