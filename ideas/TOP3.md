@@ -1,5 +1,5 @@
 # TOP 3 - Greece Startup Intelligence
-*Last updated: 2026-07-01 | Pool size: 2 ideas | Avg score: 6.8*
+*Last updated: 2026-07-01 | Pool size: 2 ideas | Avg score: 6.7*
 
 ---
 
@@ -12,8 +12,8 @@
 
 ---
 
-## #2: Webinar-to-Course Packaging Sprint - 6.7
-**Simple version:** Help Greek professionals who already run Zoom seminars turn one session into a paid replay/course funnel with landing page copy, emails and sales assets. | **Why now:** Greek online seminars and course tooling are visible in 2026, but the wedge is packaging existing content, not building a platform. | **Trending:** New; must prove professionals pay for packaging help
+## #2: Webinar-to-Course Packaging Sprint - 6.5
+**Simple version:** Help Greek professionals who already run Zoom seminars turn one session into a paid replay/course funnel with landing page copy, emails and sales assets. | **Why now:** Greek online seminars are visible, but platforms, funnel tools, templates and webinar-ops providers already crowd the broad category. | **Trending:** Down; survives only if real seminar sellers lack a simple replay funnel
 
 ---
 
