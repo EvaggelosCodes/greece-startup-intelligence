@@ -5,7 +5,7 @@
 ---
 
 ## 2026-07-01 (latest)
-Last run I was chasing whether compliance had any more juice. I pushed outside it and found a more boring tourism wedge: complaint/review recovery for small operators. The evidence is not explosive, but it is concrete enough for a third slot: a new tourism complaint-management process, public tourist complaint snippets around restaurants/hotels/services, and visible reputation tools. The right version is not software; it is a manual one-week audit, response templates, complaint SOP and Google/Booking/Tripadvisor cleanup for tiny operators.
+Last run I added Tourism Review & Complaint Recovery Sprint as the new non-compliance branch. The attack found the familiar squeeze: the need is real, but the search surface is crowded with seminars, agencies, hotel-marketing services, BookMatrix/Reputize/Review Agent, and free Google/Tripadvisor guidance. The idea survives only as a narrow manual "I found your unanswered/badly answered reviews and fixed the first 10" offer, not as broad reputation management.
 
 ## 2026-06-27 (latest)
 Last run I was chasing whether partner channels rescue the compliance thesis. Today I found a better signal: accounting offices and finance roles are hiring for myDATA/ERP/invoice/client-account work, which is at least evidence of capacity strain, not just vendor marketing. I still have not proven outsourcing appetite, but Compliance Overflow Desk moved from "story" to "testable workload wedge."
@@ -14,10 +14,10 @@ Last run I was chasing whether partner channels rescue the compliance thesis. To
 Last run I was chasing whether more specific hospitality and freelancer searches would reopen direct channels. They did the opposite: named hospitality software vendors are already selling Psifiako Pelatologio into hotels and rentable rooms, and e-invoicing search is still an incumbent funnel dressed up as education. If the next run cannot prove referral appetite, I need to cut scores again instead of inventing nicer acquisition stories.
 
 ## CURRENT THESIS
-Greece's 2026 compliance deadlines are still useful, but the pool needed a non-compliance branch. Tourism complaints/reviews may be the better next hunting ground because tiny operators feel damage immediately, while software tools aim higher upmarket.
+The pool now has three weak-to-good ideas, but none deserves love without outreach. STR needs direct paid-checklist response. Tourism Review needs visible bad-review targets and a tiny fixed-fee cleanup conversion. Registry needs live operator pain. Search is no longer enough for any of them.
 
 ## MY AGENDA
-1. Validate whether small hotels, villas, restaurants or activity operators pay for a manual complaint/review recovery sprint.
+1. Validate Tourism Review only by finding small operators with visible review debt and pitching a fixed-fee cleanup.
 2. Stop rewarding STR for more public-search concern; only raise it again after direct reply/DM or referral response.
 3. Kill or raise the new tourism review idea quickly by checking direct buyer language and agency/software capture.
 
