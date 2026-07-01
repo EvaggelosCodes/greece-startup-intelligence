@@ -30,6 +30,7 @@
 | Signal | Status | Direction | Last Checked | Notes |
 |--------|--------|-----------|--------------|-------|
 | Summer tourism service rush | ACTIVE | up | 2026-07-01 | July peak tourism still supports owner/operator urgency, but generic B2B admin selling remains seasonally weak |
+| Tourism complaint/review pressure | ACTIVE | up | 2026-07-01 | New 2026 complaint-management process plus hotel/restaurant/service complaint snippets create a manual review/complaint recovery wedge, but reputation software already exists |
 | ESPA funding calls | ACTIVE | up | 2026-06-26 | New calls are live/opening from 25 Jun and 1 Jul, but current visible programs skew to graduates, regions, or existing SMEs rather than a broad zero-capital founder wedge |
 
 ## Competitor Movements

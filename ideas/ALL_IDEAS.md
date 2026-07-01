@@ -30,3 +30,17 @@
 **Score breakdown:** CAPITAL_ZERO:9 | GREECE_FIT:8 | SPEED:7 | MARKET:5 | GAP:2 | TIMING:8 | SOLO:8 = 6.7
 **Score history:** 2026-06-26:7.7 new from the Psifiako Pelatologio expansion and workflow-setup wedge; 2026-06-26:7.8 after fresher snippets showed event-data workflow burden; 2026-06-26:7.9 after tourism/accommodation expansion signal broadened buyer pool; 2026-06-26:7.8 after AADE app/vendor evidence raised channel-capture risk; 2026-06-27:7.7 after hotels/accommodation broadened the market but official app + vendor automation confirmed the channel stayed tight; 2026-06-27:7.6 after hotel/rentable-room searches showed tourism expansion is also vendor/accountant-owned; 2026-07-01:7.0 after July-side hotel/program/accountant snippets reinforced channel capture and summer B2B sluggishness; 2026-07-01:6.7 after repeated complaint/frontline-pain searches still failed to surface live operator pull.
 ---
+
+### Tourism Review & Complaint Recovery Sprint - Score: 6.8/10
+**What it is:** One-week manual service for small hotels, villas, restaurants and activity operators: audit Google/Booking/Tripadvisor reviews, draft Greek/English response templates, write a complaint-handling SOP, and flag repeat operational issues before they become Ministry complaints or public review damage.
+**Why Greece specifically:** Greece is in peak tourism season, a 2026 complaint-management process gives complaints more official shape, and small operators often live or die by reviews while lacking a trained front-desk/manager process.
+**How to start tomorrow:** (1) Pick 30 small hotels/villas/restaurants with recent unanswered or badly answered reviews. (2) Send a 3-line Loom/email showing two missed review-response fixes. (3) Offer a EUR99 first cleanup: 10 responses, 5 templates, and a one-page complaint playbook.
+**Revenue model:** EUR99 first sprint, EUR149-EUR250 deeper cleanup, optional EUR49/month review-response retainer for operators without software.
+**Realistic Month 1 revenue:** EUR300-EUR1,000 if 3-7 small operators buy the first sprint.
+**Biggest risk:** Reputation/review software and agencies already exist, so the founder must sell fast manual cleanup to tiny operators, not compete as another tool.
+**Competitor landscape:** BookMatrix, Review Agent, generic reputation software and agencies cover the software/AI layer; the gap is hands-on setup and response cleanup for owners who will not configure or pay for a platform.
+**Timing signal:** July peak season plus official complaint-channel visibility make bad reviews and complaints feel immediate.
+**Grounded in:** 2026-07-01 scan showing Ministry complaint/parapona process snippets, tourist complaint snippets around restaurants/hotels/services, Greek review-response guidance, and reputation tools already selling to hotels.
+**Score breakdown:** CAPITAL_ZERO:9 | GREECE_FIT:8 | SPEED:8 | MARKET:6 | GAP:3 | TIMING:8 | SOLO:8 = 6.8
+**Score history:** 2026-07-01:6.8 new after outside-compliance scan found complaint/review pressure but also visible software competition.
+---

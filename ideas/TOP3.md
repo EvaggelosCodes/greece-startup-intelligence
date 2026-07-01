@@ -1,5 +1,5 @@
 # TOP 3 - Greece Startup Intelligence
-*Last updated: 2026-07-01 | Pool size: 2 ideas | Avg score: 6.9*
+*Last updated: 2026-07-01 | Pool size: 3 ideas | Avg score: 6.9*
 
 ---
 
@@ -12,10 +12,10 @@
 
 ---
 
-## #2: Digital Client Registry Setup Sprint for Wedding/Catering/Tourism Businesses - 6.7
-**Simple version:** Help venues, caterers and small non-PMS accommodation operators train staff to use Psifiako Pelatologio correctly during live operations. | **Why now:** Peak operations can surface real workflow pain, but repeated searches still show vendor/accountant support before operator pull. | **Trending:** Down; now below 7 until live complaints or referrals appear
+## #2: Tourism Review & Complaint Recovery Sprint - 6.8
+**Simple version:** Help small hotels, villas, restaurants and activity operators clean up bad/unanswered reviews and build a complaint-response playbook before peak-season damage spreads. | **Why now:** A 2026 tourism complaint process plus visible hotel/restaurant complaint snippets make review handling more urgent. | **Trending:** New; promising only as manual cleanup, not software
 
 ---
 
-## #3: No third idea above the bar
-**Simple version:** I cut the partner-led compliance ideas because hiring and collaborator supply look like the first overflow release valve, not an outsourced desk market. | **Why now:** July tourism helps owner/operator urgency but hurts generic B2B admin selling. | **Trending:** Empty on purpose until stronger proof appears
+## #3: Digital Client Registry Setup Sprint for Wedding/Catering/Tourism Businesses - 6.7
+**Simple version:** Help venues, caterers and small non-PMS accommodation operators train staff to use Psifiako Pelatologio correctly during live operations. | **Why now:** Peak operations can surface real workflow pain, but repeated searches still show vendor/accountant support before operator pull. | **Trending:** Down; now below 7 until live complaints or referrals appear
