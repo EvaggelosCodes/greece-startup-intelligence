@@ -19,6 +19,7 @@
 | 8 | When AADE provides a free or commodity digital-compliance tool, the monetizable wedge shifts to workflow setup, declaration cleanup, cheapest-path advice, and staff training rather than software resale | 4 | 2026-06-26 | 2026-06-27 | HIGH |
 | 9 | In Greek compliance/admin niches, public-search demand often routes through incumbent intermediaries (accountants, PMS/software vendors, property managers), so the surviving wedge is execution, audit, or staff training inside those channels rather than another public explainer | 4 | 2026-06-27 | 2026-06-27 | HIGH |
 | 10 | When Greek accounting/compliance offices get overloaded, the first visible relief valve is hiring assistants or ad-hoc collaborator supply, not buying a standalone outsourced desk | 3 | 2026-07-01 | 2026-07-01 | MEDIUM |
+| 11 | In peak-season Greek tourism, visible operator pain often gets absorbed by PMS/agency bundles or in-house training before it becomes a standalone service a solo founder can sell, so public pain alone is not a wedge | 3 | 2026-07-01 | 2026-07-01 | MEDIUM |
 
 ---
 

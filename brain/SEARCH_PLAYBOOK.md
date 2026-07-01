@@ -47,5 +47,6 @@
 - 2026-07-01: To test outsourcing appetite, search the labor substitute too (`zititai voithos logisti`, `anazito synergasia`, `apomakrysmena`); if results fill with hiring and collaborator-supply snippets instead of offices seeking external case handling, the overflow wedge is weaker than the workload signal.
 - 2026-07-01: For STR paid-intent, host-group/FAQ snippets with `ti kano`, `prostimo`, `pyrasfaleia`, `palio akinito` are better than another law guide; the next proof is a reply/DM conversion test for a paid checklist.
 - 2026-07-01: Outside compliance, search for tourism pain as complaint surfaces (`parapona touristes`, `kritikes Google`, `kataggelies tourismou`) plus incumbent tools; if software exists, consider a manual sprint only when tiny operators still look exposed.
+- 2026-07-01: For tourism-ops ideas, pair the pain query with `timi`, software/agency names, and training/hiring surfaces; if PMS stacks, marketing bundles or workshops appear before operator complaints, the budget is already spoken for.
 
 ---

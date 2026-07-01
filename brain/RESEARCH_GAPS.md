@@ -30,7 +30,7 @@
 - [ ] Can STR Compliance Concierge convert accountant/electrician/insurer education pages into referral partnerships, or will those suppliers keep the whole relationship themselves?
 - [ ] Can the e-invoicing clinic sell as an accountant-referral declaration audit near October, or is that too close to ordinary accounting support?
 - [ ] Can registry workflow training sell through hotel/accountant/PMS referrals even if direct tourism demand is channel-owned?
-- [ ] Do non-PMS hotels or event operators show frontline Psifiako Pelatologio pain in July/August public complaints, or is even the pain invisible outside vendor/accountant content?
+- [ ] Which visible tourism-operator mistakes can be turned into a 48-hour fixed-fee outreach list that gets real replies, not just search evidence?
 
 ### LOW PRIORITY
 - [ ] What is the typical conversion rate for Greek Instagram business accounts?
@@ -60,3 +60,4 @@
 | Is there public evidence of workload pressure inside accounting/compliance channels? | Partial yes: recent assistant-accountant job snippets repeatedly ask for myDATA, ERP/Epsilon/SoftOne, invoice posting and client-account work, which suggests workload but not willingness to outsource | Kariera/Glassdoor/Jooble snippets | 2026-06-27 |
 | Are accountant offices hiring because they lack capacity for myDATA/compliance overflow, and would they outsource any of that work to a trusted external helper? | Current public-web evidence points more to hiring and collaborator supply than to productized outsourcing: assistant-accountant/myDATA roles are active and remote collaborator listings are easy to find, while explicit case-outsourcing proof stayed absent | Jooble/Kariera/Indeed/LogistesErgasia snippets | 2026-07-01 |
 | Is there any public owner-side channel for STR confusion beyond supplier explainers? | Partial yes: Greek host-group and FAQ snippets show owners asking practical "what do I do/fine/old property first step" questions around STR compliance. This gives a direct paid-checklist test channel, but still does not prove conversion. | GreekRentals/CapitalValue/PsaxnoMastora/Host snippets | 2026-07-01 |
+| Do non-PMS hotels or event operators show frontline Psifiako Pelatologio pain in July/August public complaints, or is even the pain invisible outside vendor/accountant content? | For now it looks invisible on the public web: a fresh operator-pain query still surfaced hotel software, rollout press and staff-training surfaces before owner-side workflow complaints, so the July direct offer should be treated as effectively closed. | Octorate/Athina984/Kariera snippets | 2026-07-01 |
