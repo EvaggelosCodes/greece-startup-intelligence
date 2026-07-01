@@ -24,7 +24,7 @@
 - [ ] What is the actual licensing timeline to start a food-related business in Greece?
 - [ ] What do high-spend tourists (American, Gulf) actually want that they can't find in Greece?
 - [ ] What is the cleanest acquisition channel for STR Compliance Concierge: owner Facebook groups, Airbnb host communities, or accountant/property-manager referrals?
-- [ ] Will STR owners pay for a fixed-fee compliance audit after seeing Q&A/social fear posts, or do they only consume free guidance? (2026-07-01 update: Greek host-group/FAQ snippets now show "τι κάνω"/fine/old-property confusion, so the next proof is replying/DMing a paid checklist offer, not more law-guide search)
+- [ ] Will STR owners pay for a fixed-fee compliance audit after seeing Q&A/social fear posts, or do they only consume free guidance? (2026-07-01 update: buying-language searches still route to guides/specialists/operators, so only direct reply/DM or referral response counts now)
 - [ ] Will STR owners accept a compliance audit/coordination service that explicitly routes specialist work to electricians/insurers/fire-safety suppliers, or do they expect one provider to handle everything?
 - [ ] Can STR Compliance Concierge convert accountant/electrician/insurer education pages into referral partnerships, or will those suppliers keep the whole relationship themselves?
 - [ ] Can the e-invoicing clinic sell as an accountant-referral declaration audit near October, or is that too close to ordinary accounting support?

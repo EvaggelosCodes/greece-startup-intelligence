@@ -17,10 +17,10 @@
 
 | Signal | Status | Direction | Last Checked | Notes |
 |--------|--------|-----------|--------------|-------|
-| Short-term rental regulation | ACTIVE | mixed | 2026-07-01 | Registration/safety/insurance demand is live and July urgency helps; fresh host-group/FAQ snippets show "what do I do" and fine anxiety, but payment proof still needs a direct paid-checklist test |
+| Short-term rental regulation | ACTIVE | down | 2026-07-01 | Registration/safety/insurance demand is live, but paid-intent searches still route to guides, specialists, insurers and STR operators; next proof must be direct conversion, not search |
 | e-invoicing B2B mandate | ACTIVE | up | 2026-06-27 | Remaining businesses face 1 Oct 2026 wave with transition to 31 Dec; snippets keep telling businesses to coordinate with accountants, so the direct clinic channel weakens while referral/audit stays possible |
 | e-invoicing cheapest-path anxiety | ACTIVE | up | 2026-06-27 | Free AADE timologio plus paid tool/cost anxiety creates an advisory wedge, but public search is still dominated by AADE/gov/provider instruction pages rather than buyer requests |
-| Digital client registry expansion | ACTIVE | mixed | 2026-07-01 | Hotels and organized accommodations stay on the roadmap, but fresh complaint searches still surface warning/vendor support pages before live operator pain; the surviving wedge is frontline workflow training only |
+| Digital client registry expansion | ACTIVE | down | 2026-07-01 | Hotels and organized accommodations stay on the roadmap, but repeated complaint searches still surface warning/vendor support pages before live operator pain; the frontline training wedge is thinning |
 | Compliance overflow partner channel | ACTIVE | down | 2026-07-01 | Partner infrastructure exists, but public-web evidence now points more to hiring assistants and using collaborator supply than to buying a separate outsourced desk |
 | Gig economy platform regulation | ACTIVE | up | 2026-06-27 | Greece appears to be drafting toward end-2026 transposition, but the likely buyers are platforms/employers, not a clean Monday-start founder wedge |
 | Freelancer tax reform | ACTIVE | up | 2026-06-24 | Under-25 0% tax helps new entrants; imputed income still hurts many freelancers |

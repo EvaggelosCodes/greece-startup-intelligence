@@ -5,6 +5,8 @@
 
 ## Correction Log
 
+**2026-07-01 - Belief:** STR host-group confusion might be enough to stabilize the direct checklist channel. **Reality:** once I searched buying/handler language (`πόσο κοστίζει`, `ποιος αναλαμβάνει`, `έλεγχος συμμόρφωσης`), the results still routed to guides, required specialists, insurers and existing STR operators. **Why wrong:** I upgraded confusion into channel quality before seeing whether the buyer-language surface was actually open. **Change:** do not raise STR again from public concern; only direct outreach/referral response counts.
+
 **2026-07-01 - Belief:** Visible accounting workload pressure plus partner infrastructure would probably turn into a productized overflow desk for accountants and adjacent suppliers. **Reality:** fresh July-side snippets showed the obvious relief valve is still hiring assistants or using remote collaborator supply, not buying a separate outsourced desk. **Why wrong:** I assumed overload must convert into outsourced-product demand and ignored the labor-market substitute sitting in plain sight. **Change:** whenever a B2B admin idea depends on "overflow," search hiring and collaborator supply before trusting the outsourcing thesis.
 
 **2026-06-27 - Belief:** Once direct channels looked captured, partner channels might immediately rescue the same compliance ideas. **Reality:** vendor/accountant partner infrastructure exists, but STR accountants/electricians and software vendors often keep the relationship themselves. **Why wrong:** I assumed channel ownership creates referral demand, when it may simply mean the incumbent captures the whole margin. **Change:** score partner-led compliance as a separate testable idea, not as automatic validation of every existing idea.
