@@ -48,5 +48,6 @@
 - 2026-07-01: For STR paid-intent, host-group/FAQ snippets with `ti kano`, `prostimo`, `pyrasfaleia`, `palio akinito` are better than another law guide; the next proof is a reply/DM conversion test for a paid checklist.
 - 2026-07-01: Outside compliance, search for tourism pain as complaint surfaces (`parapona touristes`, `kritikes Google`, `kataggelies tourismou`) plus incumbent tools; if software exists, consider a manual sprint only when tiny operators still look exposed.
 - 2026-07-01: For tourism-ops ideas, pair the pain query with `timi`, software/agency names, and training/hiring surfaces; if PMS stacks, marketing bundles or workshops appear before operator complaints, the budget is already spoken for.
+- 2026-07-01: For expert/course ideas, do not build an LMS. Search for people already selling Zoom/seminars/certificates, then test whether packaging, landing pages, replay products and email funnels are missing around that existing demand.
 
 ---

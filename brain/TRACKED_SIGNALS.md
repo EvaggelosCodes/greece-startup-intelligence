@@ -12,6 +12,7 @@
 | EU Recovery Fund disbursement pace | ACTIVE | stable | 2026-03-27 | Watch for new calls |
 | Greek startup funding rounds | ACTIVE | up | 2026-06-26 | Newmoney/FWD snippets point to EUR732.2M across 90+ Greek startups in 2025 plus roughly EUR700M visible local VC firepower in 2026, but it is mostly venture-scale capital not useful to zero-capital founders |
 | Greek inflation rate | ACTIVE | down | 2026-03-27 | Cooling from 2023 peaks |
+| Greek expert/course monetization | ACTIVE | mixed | 2026-07-01 | Greek Zoom seminars, certificates and course platforms are visible; opportunity is packaging existing expert content, but platform/tool layer already exists |
 
 ## Regulatory Signals
 

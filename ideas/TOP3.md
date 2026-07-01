@@ -1,5 +1,5 @@
 # TOP 3 - Greece Startup Intelligence
-*Last updated: 2026-07-01 | Pool size: 1 idea | Avg score: 6.9*
+*Last updated: 2026-07-01 | Pool size: 2 ideas | Avg score: 6.8*
 
 ---
 
@@ -12,10 +12,10 @@
 
 ---
 
-## #2: No survivor above 6.5 today
-**Reason:** Registry and tourism-review ideas both failed another channel-capture attack and were removed from the pool.
+## #2: Webinar-to-Course Packaging Sprint - 6.7
+**Simple version:** Help Greek professionals who already run Zoom seminars turn one session into a paid replay/course funnel with landing page copy, emails and sales assets. | **Why now:** Greek online seminars and course tooling are visible in 2026, but the wedge is packaging existing content, not building a platform. | **Trending:** New; must prove professionals pay for packaging help
 
 ---
 
 ## #3: No third slot until a new idea survives
-**Reason:** Today's evidence narrowed the pool instead of expanding it; the next addition must clear a higher bar than public pain alone.
+**Reason:** Registry and tourism-review ideas were killed; the next addition must clear a higher bar than public pain alone.
