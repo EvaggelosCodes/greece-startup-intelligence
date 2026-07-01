@@ -13,7 +13,7 @@
 ---
 
 ## #2: Webinar-to-Course Packaging Sprint - 6.5
-**Simple version:** Help Greek professionals who already run Zoom seminars turn one session into a paid replay/course funnel with landing page copy, emails and sales assets. | **Why now:** Greek online seminars are visible, but platforms, funnel tools, templates and webinar-ops providers already crowd the broad category. | **Trending:** Down; survives only if real seminar sellers lack a simple replay funnel
+**Simple version:** Help paid independent Greek professionals who already run Zoom seminars turn one session into a paid replay/course funnel with landing page copy, emails and sales assets. | **Why now:** Targets are findable, but many seminars are free/institutional or already packaged with replay. | **Trending:** Flat on the kill line; needs paid independent targets
 
 ---
 

@@ -14,7 +14,7 @@
 - [ ] If direct channels are captured, will accountants, property managers, insurers, electricians, or PMS/software resellers actually refer or white-label compliance workflow help?
 - [ ] Which intermediary is most likely to buy or refer overflow compliance help: accountants, electricians, insurers, PMS vendors, or property managers?
 - [ ] Is there a Greek-language online course platform that has real traction? Who are the top creators?
-- [ ] Can I find Greek professionals who already run paid Zoom seminars but lack replay/course/follow-up funnels, or is even that narrow wedge already owned by platforms, templates, agencies or webinar-ops providers?
+- [ ] Which Greek Zoom seminar sellers are paid, independent, and missing replay/follow-up funnels versus free/institutional or already packaged with replay?
 - [ ] What is the actual size of the Greek pet services market: vets, groomers, sitters, food?
 - [ ] How are micro-freelancers preparing for Oct 1 2026 e-invoicing: DIY, accountant, or unprepared? (2026-06-26 partial: snippets show a mix of DIY myTimologio + accountant oversight, fee-shopping from ~EUR100/quarter to EUR100+/month, confusion about whether a separate accountant is needed, and first-wave evidence that even tool users can still miss the declaration step)
 

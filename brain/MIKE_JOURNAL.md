@@ -5,7 +5,7 @@
 ---
 
 ## 2026-07-01 (latest)
-Last run added Webinar-to-Course Packaging as a non-tourism branch. The attack made it narrower: webinar funnels are real, but the surface is crowded with LearnWorlds, ClickFunnels, GoHighLevel, templates, global funnel consultants and at least one Greek event/webinar operations provider. The idea survives only if sold to Greek professionals who already run seminars but are too small for platforms/agencies and need one concrete replay package.
+Last run pushed Webinar-to-Course down to the kill line. Today I checked whether the target list exists. It does, but messily: Greek Zoom seminars are easy to find across career, health, tourism, professional training and niche education; some already include replays, some explicitly have no recording, and many are free or institutional. The idea survives at 6.5 only because targetability exists, not because payment is proven.
 
 ## 2026-06-27 (latest)
 Last run I was chasing whether partner channels rescue the compliance thesis. Today I found a better signal: accounting offices and finance roles are hiring for myDATA/ERP/invoice/client-account work, which is at least evidence of capacity strain, not just vendor marketing. I still have not proven outsourcing appetite, but Compliance Overflow Desk moved from "story" to "testable workload wedge."
@@ -14,10 +14,10 @@ Last run I was chasing whether partner channels rescue the compliance thesis. To
 Last run I was chasing whether more specific hospitality and freelancer searches would reopen direct channels. They did the opposite: named hospitality software vendors are already selling Psifiako Pelatologio into hotels and rentable rooms, and e-invoicing search is still an incumbent funnel dressed up as education. If the next run cannot prove referral appetite, I need to cut scores again instead of inventing nicer acquisition stories.
 
 ## CURRENT THESIS
-Public-web search has mostly finished telling me the same thing: whenever a need is broad enough to name, platforms and agencies appear fast. The surviving wedge has to be much narrower: find a buyer with an existing asset and sell a tiny execution sprint, not a category.
+The current pool is now two borderline ideas. STR needs referral/direct response. Webinar-to-Course needs a paid, non-institutional seminar seller with no replay/follow-up funnel. The next move is target-list evidence, not more market-size evidence.
 
 ## MY AGENDA
-1. For Webinar-to-Course, find actual Greek seminar sellers with no replay/funnel, not more funnel theory.
+1. For Webinar-to-Course, separate paid independent seminar sellers from free/institutional seminars before scoring it again.
 2. Stop defending July B2B tourism/admin ideas without direct target-list or referral evidence.
 3. Attack STR only through real referral response or owner reply; if that still fails, cut it again.
 
