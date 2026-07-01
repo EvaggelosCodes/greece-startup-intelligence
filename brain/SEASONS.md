@@ -24,6 +24,7 @@
 **Two-market rule:** tourism = supply-constrained in summer, demand-constrained in
 winter. A summer-only idea scores a -0.5 penalty unless it has an off-season version.
 
-**Right now (update if stale):** late June 2026 — peak summer ramping, diaspora
-arriving, B2B sluggish until September. Favour tourist- and diaspora-facing, fast-cash
-ideas. Park anything needing Greek businesses to buy until Sept.
+**Right now (update if stale):** July 2026 — peak tourism, diaspora on the ground,
+and summer urgency is real, but generic Greek B2B buying is sluggish until September.
+Favour tourist-facing or frontline operational pain; penalize admin ideas that need
+offices to adopt a new service in July/August.

@@ -17,11 +17,11 @@
 
 | Signal | Status | Direction | Last Checked | Notes |
 |--------|--------|-----------|--------------|-------|
-| Short-term rental regulation | ACTIVE | mixed | 2026-06-27 | Registration/safety/insurance demand is live; owner-side burden is visible, but acquisition evidence points more to accountant/electrician/insurer referrals than cold direct paid response |
+| Short-term rental regulation | ACTIVE | mixed | 2026-07-01 | Registration/safety/insurance demand is live and July urgency helps, but fresh search still surfaces manager/legal/accountant/insurer supply pages before owner buying signals |
 | e-invoicing B2B mandate | ACTIVE | up | 2026-06-27 | Remaining businesses face 1 Oct 2026 wave with transition to 31 Dec; snippets keep telling businesses to coordinate with accountants, so the direct clinic channel weakens while referral/audit stays possible |
 | e-invoicing cheapest-path anxiety | ACTIVE | up | 2026-06-27 | Free AADE timologio plus paid tool/cost anxiety creates an advisory wedge, but public search is still dominated by AADE/gov/provider instruction pages rather than buyer requests |
-| Digital client registry expansion | ACTIVE | mixed | 2026-06-27 | Hotels and organized accommodations now look firmly on the 2026 roadmap, and named PMS/hotel-software vendors are already marketing the path there too; the open wedge is narrower: non-PMS workflow training or referrals, not generic setup |
-| Compliance overflow partner channel | ACTIVE | up | 2026-06-27 | Partner/reseller infrastructure exists and accounting hiring snippets show myDATA/ERP workload, but proof that offices outsource overflow instead of hiring remains missing |
+| Digital client registry expansion | ACTIVE | mixed | 2026-07-01 | Hotels and organized accommodations stay on the roadmap, but fresh hotel/program/accountant snippets keep reinforcing vendor capture; the surviving wedge is frontline workflow training only |
+| Compliance overflow partner channel | ACTIVE | down | 2026-07-01 | Partner infrastructure exists, but public-web evidence now points more to hiring assistants and using collaborator supply than to buying a separate outsourced desk |
 | Gig economy platform regulation | ACTIVE | up | 2026-06-27 | Greece appears to be drafting toward end-2026 transposition, but the likely buyers are platforms/employers, not a clean Monday-start founder wedge |
 | Freelancer tax reform | ACTIVE | up | 2026-06-24 | Under-25 0% tax helps new entrants; imputed income still hurts many freelancers |
 
@@ -29,7 +29,7 @@
 
 | Signal | Status | Direction | Last Checked | Notes |
 |--------|--------|-----------|--------------|-------|
-| Summer tourism service rush | ACTIVE | up | 2026-06-26 | June-August urgency supports STR/pet-care tests |
+| Summer tourism service rush | ACTIVE | up | 2026-07-01 | July peak tourism still supports owner/operator urgency, but generic B2B admin selling remains seasonally weak |
 | ESPA funding calls | ACTIVE | up | 2026-06-26 | New calls are live/opening from 25 Jun and 1 Jul, but current visible programs skew to graduates, regions, or existing SMEs rather than a broad zero-capital founder wedge |
 
 ## Competitor Movements

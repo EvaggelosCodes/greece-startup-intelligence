@@ -13,7 +13,6 @@
 - [ ] Can an e-invoicing declaration-audit offer sell to SMEs near 1 Oct 2026, or is the visible lag mostly an enterprise/accountant-owned problem? (2026-06-26 partial: ~18k of 38k first-wave firms lagged, including ~3.3k already using tools)
 - [ ] If direct channels are captured, will accountants, property managers, insurers, electricians, or PMS/software resellers actually refer or white-label compliance workflow help?
 - [ ] Which intermediary is most likely to buy or refer overflow compliance help: accountants, electricians, insurers, PMS vendors, or property managers?
-- [ ] Are accountant offices hiring because they lack capacity for myDATA/compliance overflow, and would they outsource any of that work to a trusted external helper?
 - [ ] Is there a Greek-language online course platform that has real traction? Who are the top creators?
 - [ ] What is the actual size of the Greek pet services market: vets, groomers, sitters, food?
 - [ ] How are micro-freelancers preparing for Oct 1 2026 e-invoicing: DIY, accountant, or unprepared? (2026-06-26 partial: snippets show a mix of DIY myTimologio + accountant oversight, fee-shopping from ~EUR100/quarter to EUR100+/month, confusion about whether a separate accountant is needed, and first-wave evidence that even tool users can still miss the declaration step)
@@ -30,6 +29,7 @@
 - [ ] Can STR Compliance Concierge convert accountant/electrician/insurer education pages into referral partnerships, or will those suppliers keep the whole relationship themselves?
 - [ ] Can the e-invoicing clinic sell as an accountant-referral declaration audit near October, or is that too close to ordinary accounting support?
 - [ ] Can registry workflow training sell through hotel/accountant/PMS referrals even if direct tourism demand is channel-owned?
+- [ ] Do non-PMS hotels or event operators show frontline Psifiako Pelatologio pain in July/August public complaints, or is even the pain invisible outside vendor/accountant content?
 
 ### LOW PRIORITY
 - [ ] What is the typical conversion rate for Greek Instagram business accounts?
@@ -57,3 +57,4 @@
 | Can a standalone e-invoicing clinic acquire customers directly, or do accountants already own the trust/distribution channel? | Current public-search evidence keeps routing freelancers and SMEs through accountants, providers, and free-app explainers, so the direct clinic thesis is weak; any surviving wedge is audit/referral rather than public DTC setup | Pulse360/EntersoftOne/myinvoice365/Instagram snippets | 2026-06-27 |
 | If direct channels are captured, is there at least infrastructure for partner-led compliance help? | Partially: myDATA/e-invoicing software vendors advertise accountant/partner programs and PMS vendors bundle registry compliance, but STR accountants/electricians also market their own direct guidance, so referral willingness remains unproven | i-spirit/TESAE/HostHub/Oxygen/OD Accounting/GVEnergy snippets | 2026-06-27 |
 | Is there public evidence of workload pressure inside accounting/compliance channels? | Partial yes: recent assistant-accountant job snippets repeatedly ask for myDATA, ERP/Epsilon/SoftOne, invoice posting and client-account work, which suggests workload but not willingness to outsource | Kariera/Glassdoor/Jooble snippets | 2026-06-27 |
+| Are accountant offices hiring because they lack capacity for myDATA/compliance overflow, and would they outsource any of that work to a trusted external helper? | Current public-web evidence points more to hiring and collaborator supply than to productized outsourcing: assistant-accountant/myDATA roles are active and remote collaborator listings are easy to find, while explicit case-outsourcing proof stayed absent | Jooble/Kariera/Indeed/LogistesErgasia snippets | 2026-07-01 |

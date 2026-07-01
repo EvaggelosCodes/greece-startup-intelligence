@@ -3,6 +3,9 @@
 
 ---
 
+## 2026-06-27
+Last run I was chasing whether tourism/rentable-room expansion could rescue the digital client registry idea and whether STR could survive another real attack. Today I got a harsher answer: searchable tourism demand is mostly vendor/accountant capture, e-invoicing search is still owned by AADE/how-to supply, and STR remains real but less open than I wanted.
+
 ## 2026-06-25
 Last run I was chasing deeper validation on STR compliance and micro-freelancer e-invoicing. I learned that STR non-compliance is material and existing compliance services already exist, so the opportunity is not a blank market; it is a cheaper, clearer, owner-centric service. I also confirmed pet-care is a real market, but still not a proven marketplace gap.
 
