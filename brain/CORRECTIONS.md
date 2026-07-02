@@ -5,6 +5,8 @@
 
 ## Correction Log
 
+**2026-07-02 - Belief:** Rental-car deposit disputes might be cleaner than ferry claims because they have higher amounts and more specific public leads. **Reality:** the pain is real, but RentalDisputes already sells a generic EU/Greece car-rental dispute service at 25% success fee, and chargebacks/excess insurance/ECC routes are strong substitutes. **Why wrong:** I let better lead density obscure the already-exists test. **Change:** for any dispute-pack idea, search generic service + success fee before scoring the lead list.
+
 **2026-07-02 - Belief:** Ferry Passenger Claim Pack deserved one more pass because it might reveal enough Greece-specific leads. **Reality:** the pass still did not surface 10 recent detailed leads, while FairFerry already owns the generic ferry-claim service category. **Why wrong:** I let "some real cases" stand in for a repeatable outreach list. **Change:** kill/archive a 6.5 idea when its explicit next-pass gate fails; move to a higher-value adjacent lane instead.
 
 **2026-07-02 - Belief:** Ferry Passenger Claim Pack had no direct claim-pack competitor, only free official forms and booking-platform substitutes. **Reality:** FairFerry already offers ferry compensation handling with a 30% success fee. **Why wrong:** I searched Greece-specific ferry pain before searching the generic EU ferry-claim service category. **Change:** treat the idea as probation at 6.5 until a Greece-specific buyer-list advantage is proven.

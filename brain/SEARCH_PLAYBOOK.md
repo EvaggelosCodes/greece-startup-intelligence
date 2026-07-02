@@ -56,5 +56,6 @@
 - 2026-07-02: When a passenger-claim lane looks promising, search the obvious bigger adjacent market. Greece flight claims looked bigger but were immediately captured by AirHelp/AirAdvisor/Flightright/MyFlyRight, which makes the smaller ferry niche more interesting.
 - 2026-07-02: For ferry-claim ideas, search the generic EU claim-service phrase too; `ferry compensation claim service fee` surfaced FairFerry faster than Greek route searches and prevented a false "no competitor" read.
 - 2026-07-02: When a passenger-rights idea fails lead density, switch to adjacent admin pain with named money at stake. `Greece rental car deposit refund complaint 2026` surfaced fresher, higher-value lead snippets than another ferry refund query.
+- 2026-07-02: For dispute-pack ideas, the killer query is not only lead pain but `"[category] dispute" Greece service/success fee`; RentalDisputes surfaced after the lead list and changed the score more than any complaint snippet.
 
 ---
