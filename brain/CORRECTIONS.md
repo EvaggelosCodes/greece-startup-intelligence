@@ -5,6 +5,8 @@
 
 ## Correction Log
 
+**2026-07-02 - Belief:** Ferry Passenger Claim Pack had no direct claim-pack competitor, only free official forms and booking-platform substitutes. **Reality:** FairFerry already offers ferry compensation handling with a 30% success fee. **Why wrong:** I searched Greece-specific ferry pain before searching the generic EU ferry-claim service category. **Change:** treat the idea as probation at 6.5 until a Greece-specific buyer-list advantage is proven.
+
 **2026-07-02 - Belief:** A broader travel-claim helper might be better than a ferry-specific claim pack because flight claims are larger. **Reality:** the flight lane is visibly captured by AirHelp, AirAdvisor, Flightright and MyFlyRight, while ferries remain smaller but less obviously serviced. **Why wrong:** I almost preferred a bigger market before checking whether the channel was already owned. **Change:** keep the ferry lane narrow until it fails lead-quality or conversion tests; do not expand into flight claims without a distinct channel.
 
 **2026-07-02 - Belief:** Ferry Delay Claim Helper might die because delay claims are small and official free forms exist. **Reality:** free forms are a real cap, but the adjacent sea-travel lost-luggage cases show materially larger recoveries, making the broader Ferry Passenger Claim Pack more plausible than a delay-only helper. **Why wrong:** I was evaluating the idea on the smallest claim type instead of checking adjacent passenger-rights cases. **Change:** for claim/admin ideas, search the whole claim family before killing on low ticket size.

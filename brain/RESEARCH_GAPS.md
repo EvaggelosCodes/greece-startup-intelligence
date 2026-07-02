@@ -31,7 +31,7 @@
 - [ ] Which visible tourism-operator mistakes can be turned into a 48-hour fixed-fee outreach list that gets real replies, not just search evidence?
 - [ ] Which paid independent Greek seminar sellers price live Zoom seats above EUR50 while explicitly offering no replay or follow-up funnel?
 - [ ] Will delayed/lost-luggage ferry passengers pay EUR15-EUR35 for claim/admin help, or will free official forms, consumer associations and booking platforms satisfy them once they know the rule?
-- [ ] Can Ferry Passenger Claim Pack surface 10 recent, detailed lead posts/reviews where a useful eligibility reply would be credible rather than spammy?
+- [ ] Can Ferry Passenger Claim Pack surface 10 recent, detailed lead posts/reviews where a useful eligibility reply would be credible rather than spammy? Still unresolved after Run 5: snippets found several specific cases, but not 10 recent detailed cases; if next pass fails, kill or archive it.
 
 ### LOW PRIORITY
 - [ ] What is the typical conversion rate for Greek Instagram business accounts?
@@ -66,3 +66,4 @@
 | Can I find paid Greek seminar sellers rather than only free/institutional course targets? | Yes, but that alone does not save the idea: paid Zoom/webinar targets are visible, yet the market still skews institutional/trade-training, already-recorded, or event-tooled, so a generic packaging sprint remains weak. | Eventora/Cosmital/FooEvents plus prior seminar snippets | 2026-07-02 |
 | Is there a July lane with direct buyer pain, visible prices and weak incumbent capture outside the killed compliance/seminar theses? | Yes, but still unproven commercially: ferry passenger claims have angry passengers, 25%-50% delay compensation rules, higher-value lost-luggage examples, review/forum lead surfaces and no obvious dedicated claim-assist service in snippets. The unresolved gap is willingness to pay for done-for-you help versus using free official/consumer guidance. | Your Europe/YNANP/Minoan/EKPIZO/Enikonomia/Tripadvisor/Trustpilot/Reddit/Lawspot/Consumer Ombudsman snippets | 2026-07-02 |
 | Is there a better adjacent passenger-side claim lane than ferries? | Flight claims are bigger but already crowded: AirHelp, AirAdvisor, Flightright and MyFlyRight target Greece/Aegean/EU261 compensation and luggage claims directly, so the ferry wedge remains more open despite smaller claim size. | AirHelp/AirAdvisor/Flightright/MyFlyRight/Trustpilot/Tripadvisor snippets | 2026-07-02 |
+| Is the generic ferry claim-pack lane competitor-light? | No: FairFerry already offers ferry delay/cancellation claim handling with a 30% success fee, so the only possible wedge is Greece-route/bilingual/public-reply specificity. | FairFerry/Your Europe/ABTA/ECC Ireland snippets | 2026-07-02 |

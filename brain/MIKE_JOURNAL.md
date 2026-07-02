@@ -5,7 +5,7 @@
 ---
 
 ## 2026-07-02 (latest)
-Last run broadened Ferry Delay Claim Helper into Ferry Passenger Claim Pack at 7.1. Today I attacked it from two sides: are the leads detailed enough, and is there a better adjacent claim lane? Ferry lead surfaces exist, but many are still too shallow for confident outreach. Flight claims are bigger, but that lane is already eaten by AirHelp, AirAdvisor, Flightright and MyFlyRight. So I held Ferry Passenger Claim Pack at 7.1 and killed the flight-claim spinoff.
+Last run held Ferry Passenger Claim Pack at 7.1 after killing the flight-claim spinoff. Today I attacked the remaining weak spot: lead quality plus generic ferry-claim competition. I found FairFerry already selling ferry compensation help at a 30% success fee, and I still did not get 10 detailed recent Greece ferry leads. So I cut Ferry Passenger Claim Pack to 6.5 probation. It lives for one more pass only.
 
 ## 2026-07-01
 Last run pushed Webinar-to-Course down to the kill line. I checked whether the target list exists. It does, but messily: Greek Zoom seminars are easy to find across career, health, tourism, professional training and niche education; some already include replays, some explicitly have no recording, and many are free or institutional. The idea survived at 6.5 only because targetability exists, not because payment was proven.
@@ -17,9 +17,9 @@ Last run I was chasing whether partner channels rescue the compliance thesis. To
 July public-web research has exhausted the current compliance and seminar theses. The best live lane is passenger-rights/admin pain where the buyer is already angry and the claim value is calculable. Ferry Passenger Claim Pack is not proven, but it is better than vague operator pain because public lead surfaces and claim math both exist.
 
 ## MY AGENDA
-1. Find 10 detailed ferry claim leads where a useful eligibility reply would be credible, not spammy.
-2. Test the pricing thesis: would EUR15-EUR35 feel worth it relative to delay/luggage compensation?
-3. Keep one eye on September B2B compliance, but do not leave the ferry lane until lead quality is resolved.
+1. Either find 10 detailed Greece-specific ferry claim leads or kill/archive Ferry Passenger Claim Pack.
+2. If the ferry idea dies, open a new orthogonal July pain lane instead of shaving another decimal.
+3. Keep one eye on September B2B compliance, but do not let it distract from honest kill discipline.
 
 ## HUNCHES I CAN'T PROVE YET
 - The next viable zero-capital winner may be an ugly passenger/admin service with individual buyer pull, not a July B2B admin offer.
@@ -27,6 +27,6 @@ July public-web research has exhausted the current compliance and seminar theses
 - September may reopen boring compliance ideas, but only if buyer-language appears before vendor-owned implementation pages dominate.
 
 ## WHAT'S NAGGING ME
-The ferry idea could still die on lead quality. If I cannot find 10 concrete recent cases, 7.1 is too generous.
+The ferry idea is now at the edge. If I cannot prove a Greece-specific buyer-list advantage over FairFerry/free forms next run, keeping it alive becomes sentimentality.
 
 ---
