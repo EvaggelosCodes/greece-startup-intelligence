@@ -3,6 +3,9 @@
 
 ---
 
+## 2026-07-02
+I enforced the Student Housing gate and killed it. The public web gave me listing demand, portal pages, agents, dorms and some generic safety/area language, but not 10 fresh parent/student asks for judgement, route sanity or scam-screening. That distinction matters. A better category is not automatically a business; if the visible buyer asks for listings, the job belongs to listing channels. I also poked a non-education category, discount-season small retail/e-shops. There is pressure there, but agency/guide capture is obvious, so it stays a gap, not an idea.
+
 ## 2026-06-27
 Last run I was chasing whether partner channels rescue the compliance thesis. Today I found a better signal: accounting offices and finance roles are hiring for myDATA/ERP/invoice/client-account work, which is at least evidence of capacity strain, not just vendor marketing. I still have not proven outsourcing appetite, but Compliance Overflow Desk moved from "story" to "testable workload wedge."
 

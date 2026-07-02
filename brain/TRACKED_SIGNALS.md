@@ -19,7 +19,7 @@
 | Signal | Status | Direction | Last Checked | Notes |
 |--------|--------|-----------|--------------|-------|
 | Short-term rental regulation | ACTIVE | down | 2026-07-02 | Registration/safety/insurance demand is still real, but another handler-language attack surfaced managers, accountants and specialist bundles before buyer pull; public-web DTC acquisition now looks effectively closed |
-| e-invoicing B2B mandate | ACTIVE | up | 2026-07-02 | Remaining businesses face 1 Oct 2026 wave with transition to 31 Dec; the date is visible, but July-side snippets still tell businesses to coordinate with accountants/providers rather than showing buyer-language pull |
+| e-invoicing B2B mandate | ACTIVE | up | 2026-07-03 | Remaining businesses face the 1 Oct 2026 wave with transition to 31 Dec, and second-wave firms can opt in by 3 Aug 2026 for the early-switch incentive; even so, July-side snippets still tell businesses to coordinate with accountants/providers rather than showing buyer-language pull |
 | e-invoicing cheapest-path anxiety | ACTIVE | up | 2026-07-02 | Free AADE timologio plus paid tool/cost anxiety still create an advisory wedge, but public search remains dominated by AADE/gov/provider instruction pages rather than buyer requests |
 | Digital client registry expansion | ACTIVE | down | 2026-07-01 | Hotels and organized accommodations stay on the roadmap, but a fresh operator-pain query still surfaced hotel software, rollout press and staff-training surfaces before owner complaints; the July direct wedge now looks effectively closed |
 | Compliance overflow partner channel | ACTIVE | down | 2026-07-01 | Partner infrastructure exists, but public-web evidence now points more to hiring assistants and using collaborator supply than to buying a separate outsourced desk |
@@ -31,6 +31,7 @@
 | Signal | Status | Direction | Last Checked | Notes |
 |--------|--------|-----------|--------------|-------|
 | Summer tourism service rush | ACTIVE | up | 2026-07-01 | July peak tourism still supports owner/operator urgency, but generic B2B admin selling remains seasonally weak |
+| Peak-season tourism staffing urgency | ACTIVE | up | 2026-07-03 | Kariera and Jooble still show heavy hotel/restaurant seasonal hiring, but job boards and staffing intermediaries surface just as fast, so the obvious response channel is already mediated |
 | Tourism complaint/review pressure | ACTIVE | down | 2026-07-01 | Complaint/review pain is real and visible review/profile debt can be target-listed, but price/capture search now surfaces PMS/review software, agencies and complaint-handling workshops before buyer pull |
 | Ferry passenger-claim friction | ACTIVE | up | 2026-07-02 | Official/EU rights pages and recent Greek articles explain 25%-50% delay compensation and forms, SeaJets/Blue Star snippets show refund anger, and lost-luggage sea-travel examples show higher-value EUR500-EUR740 claims; test whether tourists pay for done-for-you help or just use free guidance |
 | Ferry claim-pack competition | ACTIVE | down | 2026-07-02 | FairFerry already offers ferry compensation handling with a 30% success fee; Greece-specific outreach may still be open, but the generic EU ferry-claim surface is not blank |

@@ -4,7 +4,7 @@
 ---
 
 ## #1: Empty by design
-**Reason:** The latest scan found a real flight-admin micro-friction, but no privacy-safe paid helper yet. The next idea must show buyer pull, weak substitutes, and a safe execution path before it enters the pool.
+**Reason:** The latest scan says urgency alone is not enough: e-invoicing and seasonal staffing still route through intermediaries. The next idea must show buyer pull, weak substitutes, and a safe execution path before it enters the pool.
 
 ---
 

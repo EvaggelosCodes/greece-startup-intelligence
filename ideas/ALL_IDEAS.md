@@ -3,4 +3,4 @@
 
 ---
 
-*No active ideas right now. The next survivor must pass buyer-list and substitute gates before entering the pool.*
+*No active ideas right now. The next survivor must pass buyer-verb, buyer-list, substitute, privacy-safe, and channel-mediation gates before entering the pool.*

@@ -9,10 +9,11 @@
 
 ### HIGH PRIORITY
 - [ ] Which direct-buyer July pain points in Greece show public willingness-to-pay without obvious platform, agency, software, or specialist capture?
-- [ ] Which September-side B2B/admin windows show pre-buy signals before August seasonality kills outreach?
 - [ ] Do wedding/catering/event businesses buy Psifiako Pelatologio workflow training directly, or is that channel already owned by software vendors/accountants?
+- [ ] Which retail before-state is visible enough for a non-agency fixed-fee sprint: broken promo math, stale Skroutz offers/feed, weak sale landing pages, or missing email/SMS sale flows?
 - [ ] Does the e-invoicing clinic buyer want software setup, accountant translation, or cheapest-path compliance? (2026-06-26 partial: cost anxiety + free AADE timologio suggest "cheapest compliant path" is the sharper wedge)
 - [ ] Can an e-invoicing declaration-audit offer sell to SMEs near 1 Oct 2026, or is the visible lag mostly an enterprise/accountant-owned problem? (2026-06-26 partial: ~18k of 38k first-wave firms lagged, including ~3.3k already using tools)
+- [ ] Can the 3 Aug 2026 early-switch incentive create an accountant/referral or reseller-led e-invoicing wedge even if DTC buyer-language stays invisible?
 - [ ] If direct channels are captured, will accountants, property managers, insurers, electricians, or PMS/software resellers actually refer or white-label compliance workflow help?
 - [ ] Which intermediary is most likely to buy or refer overflow compliance help: accountants, electricians, insurers, PMS vendors, or property managers?
 - [ ] Is there a Greek-language online course platform that has real traction? Who are the top creators?
@@ -36,6 +37,7 @@
 - [ ] Which tourist convenience problems in Athens/Piraeus are still open after luggage storage, transfers, review cleanup and claim/dispute packs are excluded?
 - [ ] Can low-cost flight admin help become a privacy-safe service without handling PNR/passport data: printable checklist, hostel print map, app-check reminder, or airline-specific no-fee guide?
 - [ ] Which tourist micro-frictions show both fee anxiety and a privacy-safe helper path, rather than needing personal travel documents or platform access?
+- [ ] Is there a post-hiring hospitality wedge downstream of seasonal staffing urgency (onboarding, emergency replacement logistics, staff housing handoff) that boards/agencies do not already own?
 
 ### LOW PRIORITY
 - [ ] What is the typical conversion rate for Greek Instagram business accounts?
@@ -80,3 +82,5 @@
 | Can Student Housing Parent Shortlist produce 10 fresh parent/student posts where the buyer asks for route, safety, scam-screening or area judgement rather than just "send me listings"? | No on the public-web pass: fresh snippets showed active listing posts, some area/safety language, and many supply-side pages, but not 10 clear buyer asks for judgement/scam-screening. The idea fails the one-pass probation gate. | Facebook/Spitogatos/Skiouraki/Tzeli/Oikotrust snippets | 2026-07-02 |
 | Which discount-season retail/e-shop wedge has buyer pull without collapsing into generic agency work: product-page cleanup, offer math, email/SMS setup, Skroutz feed hygiene, or local-store bundle planning? | Not proven yet: discount-season pressure exists, but public search is dominated by agencies, marketing guides and marketplace operations before direct buyer verbs. Keep only ultra-specific operational cleanup variants for future testing. | Marketup/Minimal/Athanasiadis/Skroutz/Capital/OT snippets | 2026-07-02 |
 | Which tourist convenience problems in Athens/Piraeus are still open after luggage storage, transfers, review cleanup and claim/dispute packs are excluded? | Partial answer: boarding-pass/check-in admin is a real micro-friction with fee anxiety, but baby gear, luggage and laundry are captured/commodity; the open question is whether flight-admin help can be made privacy-safe without touching bookings. | Athens Airport/Tripadvisor/Reddit/Facebook/BabyTraveller/Babonbo snippets | 2026-07-03 |
+| Is there a beach-day micro-wedge not owned by Plazz/Summerize: price transparency, free-beach alternatives, family accessibility, or last-minute local WhatsApp help? | Negative on the public-web complaint/access side: MyCoast already lets citizens check concession legality and file beach complaints, and reported use already includes free-access/accessibility issues. A founder beach-reporting helper would just wrap an official rail. | MyCoast/ERT/Naftemporiki/gov snippets | 2026-07-03 |
+| Which September-side B2B/admin windows show pre-buy signals before August seasonality kills outreach? | The clearest visible window is still the 1 Oct 2026 e-invoicing wave, sharpened by the 3 Aug early-switch incentive, but July search remains accountant/provider-led rather than a clean DTC buyer surface. | Taxheaven/Naftemporiki snippets | 2026-07-03 |
