@@ -10,7 +10,7 @@
 
 ---
 
-## THE 6 MOVES (use the one that fits the question)
+## THE 8 MOVES (use the one that fits the question)
 
 1. **Demand check** — Is it growing? `[category] google trends Greece` + `site:kariera.gr [role]` (jobs = real budget) + `site:skroutz.gr [product]` (price + volume). Growing trend + hiring + complaints = validated.
 
@@ -24,6 +24,15 @@
 
 6. **"Already exists?" test** — before any idea enters the pool: `[idea] ελλάδα` + skroutz + Google Maps in one search pass. Survives only if nothing or only bad players show up.
 
+7. **Buyer-list test** — for any zero-capital service, find the actual outreach surface:
+`[buyer type] [visible pain] Ελλάδα`, directories, event pages, Google profiles, job ads,
+Facebook/Instagram posts, or public review/profile debt. If I cannot name 10 plausible
+buyers from snippets, the idea is not yet a business.
+
+8. **Substitute-budget test** — before trusting pain, search what buyers already do:
+software, agencies, accountants, hiring, workshops, managers, specialists, templates.
+If substitutes appear before buyer requests, the budget is probably already spoken for.
+
 ---
 
 ## QUALITY BAR (each claim needs this, nothing more)
@@ -34,6 +43,10 @@
 | "Greeks pay €Y" | 1 real price point (more is better) |
 | "Right timing now" | a law/funding signal OR 3 converging snippets |
 | "Score is X.X" | each sub-score tied to 1 specific snippet |
+| "I can sell this Monday" | at least 10 reachable buyer targets OR 3 highly specific target examples |
+| "Manual service gap exists" | visible before-state + substitute-budget search did not already own the spend |
 
 ## LAZY RESEARCH = banned
 - Any claim with no source. "Growing demand" from one article. Fetching a page when a snippet would do. Generating an idea you could've had yesterday with no new search.
+- Treating targetability as demand. A visible target list is only permission to test, not validation.
+- Letting high CAPITAL_ZERO/SOLO scores rescue an idea with COMPETITION_GAP <= 2.

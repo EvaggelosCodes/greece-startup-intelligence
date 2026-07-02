@@ -140,7 +140,14 @@ just work the next ticket in the queue; he chases what he decided matters.
 One target each run MUST be adversarial to my own thesis (per my bias list): something
 that could prove my current thesis WRONG. Also check any ACTIVE signal stale 3+ days.
 
-### STEP 3: Targeted scan — search-first, last 24-48h ONLY
+**THESIS ESCAPE TRIGGER:** If the last 3 real runs mostly cut scores, killed ideas,
+or failed to add a stronger survivor, one of today's 3 targets MUST leave the current
+thesis entirely. Pick an unrelated high-priority gap, a different buyer type, or a
+killed-idea adjacency with a different acquisition channel. The goal is escaping local
+maxima, not novelty for its own sake. More searches inside a channel-captured thesis
+are usually procrastination.
+
+### STEP 3: Targeted scan — search-first, mode-aware
 **Before searching, open brain/SEARCH_PLAYBOOK.md** — reuse the query patterns that
 worked, avoid the ones that wasted tokens, and try one open craft experiment. I hunt
 smarter than last run or I wasted the playbook.
@@ -164,6 +171,17 @@ signals. A run that searched only in English missed the actual market.
 
 Run **at most 5 sharp queries**, each tied to a research target or active signal.
 Do NOT re-research what you already know — only what changed.
+
+Choose the research mode before querying:
+- **Current-signal mode** for news, regulation, deadlines, prices, funding and seasonal
+  shifts. Use fresh/date-heavy queries.
+- **Evergreen buyer-list mode** for service ideas. Fresh news matters less than whether
+  I can name reachable buyers with visible before-state pain. Search for target lists,
+  bad profiles, unanswered reviews, public posts, job ads, directories, event pages, or
+  other lead surfaces.
+
+If an idea cannot produce a reachable buyer list, do not keep it alive on broad market
+evidence alone.
 
 - 1 query per research target (from Step 2), in Greek, with `site:` filters where
   they fit the 12 core sources in RESEARCH_SOURCES.md (e.g. `site:kariera.gr [ρόλος]`)
@@ -199,7 +217,14 @@ generated yesterday because I didn't know this yet?"
 An idea with no connection to today's new learning is a lazy idea.
 Deprioritize it. Ground every idea in specific new evidence.
 
-Generate 3-5 candidate ideas from today's research.
+Generate 3-5 candidate ideas from today's research, but force diversity:
+- 1 candidate may be an improvement to an existing survivor.
+- 1 candidate MUST be orthogonal if the thesis escape trigger fired.
+- 1 candidate should come from a visible buyer list or before-state, not just a trend.
+- 1 candidate may be a killed-idea reversal only if the fatal flaw is genuinely different.
+
+Do not generate 3 variants of the same compliance/tourism/creator thesis. That is not
+idea flow; it is overfitting to the last search.
 
 ### STEP 6: Brutal scoring and killing
 For each candidate idea:
@@ -218,6 +243,17 @@ For each candidate idea:
    - **The FOUNDER test (brain/FOUNDER.md):** would THIS person — in Greece, no
      money, solo, needing cash now — realistically start this on Monday? If no, kill it.
 4. Only ideas surviving all 5 questions enter the pool
+
+**SURVIVAL GATES — averages are not allowed to hide fatal flaws.**
+- If COMPETITION_GAP <= 2, cap the total score at 6.4 unless I have direct outreach,
+  referral, or buyer-response proof.
+- If I cannot name at least 10 reachable buyer targets from public evidence, cap at 6.5.
+- If demand evidence is only "people are confused" or "articles exist", cap at 6.6.
+- If the obvious substitute is software, agency, hiring, training, accountant, manager,
+  or specialist bundle, search that substitute before scoring. If the substitute owns
+  the budget, kill or cap at 6.4.
+- Any idea sitting exactly at 6.5 gets one more pass only. If the next run does not find
+  a cleaner buyer list or conversion-style signal, kill it.
 
 ### STEP 7: Re-score existing ideas
 Read ALL_IDEAS.md. For each existing idea:

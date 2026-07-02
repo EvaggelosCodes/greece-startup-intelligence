@@ -14,7 +14,7 @@
 - [ ] If direct channels are captured, will accountants, property managers, insurers, electricians, or PMS/software resellers actually refer or white-label compliance workflow help?
 - [ ] Which intermediary is most likely to buy or refer overflow compliance help: accountants, electricians, insurers, PMS vendors, or property managers?
 - [ ] Is there a Greek-language online course platform that has real traction? Who are the top creators?
-- [ ] Which Greek Zoom seminar sellers are paid, independent, and missing replay/follow-up funnels versus free/institutional or already packaged with replay?
+- [ ] Which paid independent Greek Zoom seminar sellers lack replay/follow-up funnels enough to justify a EUR149 packaging sprint? (2026-07-02 partial: paid targets exist at EUR10-EUR95+, but many are institutional/free or already recorded)
 - [ ] What is the actual size of the Greek pet services market: vets, groomers, sitters, food?
 - [ ] How are micro-freelancers preparing for Oct 1 2026 e-invoicing: DIY, accountant, or unprepared? (2026-06-26 partial: snippets show a mix of DIY myTimologio + accountant oversight, fee-shopping from ~EUR100/quarter to EUR100+/month, confusion about whether a separate accountant is needed, and first-wave evidence that even tool users can still miss the declaration step)
 
@@ -25,13 +25,10 @@
 - [ ] What is the actual licensing timeline to start a food-related business in Greece?
 - [ ] What do high-spend tourists (American, Gulf) actually want that they can't find in Greece?
 - [ ] Will small tourism operators with visible review/profile debt (unanswered reviews, stale GBP, wrong hours, missing attributes) pay for a manual EUR99 cleanup, or do existing reputation/PMS tools, agencies and free platform guidance already own the budget?
-- [ ] What is the cleanest acquisition channel for STR Compliance Concierge: owner Facebook groups, Airbnb host communities, or accountant/property-manager referrals?
-- [ ] Will STR owners pay for a fixed-fee compliance audit after seeing Q&A/social fear posts, or do they only consume free guidance? (2026-07-01 update: buying-language searches still route to guides/specialists/operators, so only direct reply/DM or referral response counts now)
-- [ ] Will STR owners accept a compliance audit/coordination service that explicitly routes specialist work to electricians/insurers/fire-safety suppliers, or do they expect one provider to handle everything?
-- [ ] Can STR Compliance Concierge convert accountant/electrician/insurer education pages into referral partnerships, or will those suppliers keep the whole relationship themselves?
 - [ ] Can the e-invoicing clinic sell as an accountant-referral declaration audit near October, or is that too close to ordinary accounting support?
 - [ ] Can registry workflow training sell through hotel/accountant/PMS referrals even if direct tourism demand is channel-owned?
 - [ ] Which visible tourism-operator mistakes can be turned into a 48-hour fixed-fee outreach list that gets real replies, not just search evidence?
+- [ ] Which paid independent Greek seminar sellers price live Zoom seats above EUR50 while explicitly offering no replay or follow-up funnel?
 
 ### LOW PRIORITY
 - [ ] What is the typical conversion rate for Greek Instagram business accounts?
@@ -62,3 +59,5 @@
 | Are accountant offices hiring because they lack capacity for myDATA/compliance overflow, and would they outsource any of that work to a trusted external helper? | Current public-web evidence points more to hiring and collaborator supply than to productized outsourcing: assistant-accountant/myDATA roles are active and remote collaborator listings are easy to find, while explicit case-outsourcing proof stayed absent | Jooble/Kariera/Indeed/LogistesErgasia snippets | 2026-07-01 |
 | Is there any public owner-side channel for STR confusion beyond supplier explainers? | Partial yes: Greek host-group and FAQ snippets show owners asking practical "what do I do/fine/old property first step" questions around STR compliance. This gives a direct paid-checklist test channel, but still does not prove conversion. | GreekRentals/CapitalValue/PsaxnoMastora/Host snippets | 2026-07-01 |
 | Do non-PMS hotels or event operators show frontline Psifiako Pelatologio pain in July/August public complaints, or is even the pain invisible outside vendor/accountant content? | For now it looks invisible on the public web: a fresh operator-pain query still surfaced hotel software, rollout press and staff-training surfaces before owner-side workflow complaints, so the July direct offer should be treated as effectively closed. | Octorate/Athina984/Kariera snippets | 2026-07-01 |
+| Will STR owners pay for a fixed-fee compliance audit after seeing Q&A/social fear posts, or do they only consume free guidance? | Public-web evidence stays negative: fresh buying-language search still routes to AADE/POMIDA/insurance/guide surfaces and specialist/operator bundles before owner-side purchase intent, while a recent public-policy snippet even claims 98% listing registration. The remaining pain may still exist, but not as a broad public-web acquisition wedge. | AADE/gov/POMIDA/Groupama/HuffPost snippets | 2026-07-02 |
+| Can I find paid Greek seminar sellers rather than only free/institutional course targets? | Partial yes: paid Zoom/webinar targets appear at EUR10, EUR25, EUR30, EUR45, EUR70, EUR95+ in niches like teachers, Pilates/fitness, wellbeing, business and creator skills; the unresolved part is whether they lack replay/follow-up funnels and would pay for packaging. | Yarn/GreekPilatesAcademy/FreedomInsideOfYou/Instagram/Facebook/FutureBS snippets | 2026-07-02 |

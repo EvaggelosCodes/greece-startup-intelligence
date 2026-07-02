@@ -49,5 +49,7 @@
 - 2026-07-01: Outside compliance, search for tourism pain as complaint surfaces (`parapona touristes`, `kritikes Google`, `kataggelies tourismou`) plus incumbent tools; if software exists, consider a manual sprint only when tiny operators still look exposed.
 - 2026-07-01: For tourism-ops ideas, pair the pain query with `timi`, software/agency names, and training/hiring surfaces; if PMS stacks, marketing bundles or workshops appear before operator complaints, the budget is already spoken for.
 - 2026-07-01: For expert/course ideas, do not build an LMS. Search for people already selling Zoom/seminars/certificates, then test whether packaging, landing pages, replay products and email funnels are missing around that existing demand.
+- 2026-07-02: When an idea depends on "non-compliance at scale," pair the buyer-language query with a compliance-rate claim search and the official how-to surface; if mature guidance dominates and recent coverage claims high registration, cut MARKET/TIMING before hunting for prettier pain.
+- 2026-07-02: If 3+ runs only cut scores, force one orthogonal search outside the current thesis. Also run buyer-list + substitute-budget tests before letting any manual service survive above 6.5.
 
 ---
