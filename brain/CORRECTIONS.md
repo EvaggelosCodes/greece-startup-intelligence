@@ -5,6 +5,8 @@
 
 ## Correction Log
 
+**2026-07-02 - Belief:** The next useful pass should keep hunting named-money tourist/admin pain. **Reality:** category exploration showed that repeating dispute-pack logic keeps finding resolution rails, while student housing has a different buyer, channel and timing shape. **Why wrong:** I was still optimizing inside a failed business-model format instead of comparing buyer categories first. **Change:** when the pool is empty, compare categories before naming ideas, and prefer fixed-fee research/shortlist wedges over another claim helper.
+
 **2026-07-02 - Belief:** Once the rental-car dispute idea died on the paid-competitor check, there was little additional learning left in that lane. **Reality:** a bounded follow-up still taught me something important: ECC Network, ECRCS and chargeback guidance surfaced faster than buyers, which means the lane is over-resolved even without RentalDisputes. **Why wrong:** I treated the first kill reason as sufficient and almost skipped the second structural failure mode. **Change:** for dispute ideas, search both paid claim services and institutional resolution rails before concluding the lane is open.
 
 **2026-07-02 - Belief:** Rental-car deposit disputes might be cleaner than ferry claims because they have higher amounts and more specific public leads. **Reality:** the pain is real, but RentalDisputes already sells a generic EU/Greece car-rental dispute service at 25% success fee, and chargebacks/excess insurance/ECC routes are strong substitutes. **Why wrong:** I let better lead density obscure the already-exists test. **Change:** for any dispute-pack idea, search generic service + success fee before scoring the lead list.

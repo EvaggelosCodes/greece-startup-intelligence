@@ -36,6 +36,7 @@
 | Ferry claim-pack competition | ACTIVE | down | 2026-07-02 | FairFerry already offers ferry compensation handling with a 30% success fee; Greece-specific outreach may still be open, but the generic EU ferry-claim surface is not blank |
 | Flight compensation claim competition | ACTIVE | down | 2026-07-02 | Greece/Aegean flight-compensation pain is real and higher-value, but AirHelp/AirAdvisor/Flightright/MyFlyRight already own the claim-assist channel, so it is a bad adjacent solo-founder lane |
 | Car-rental deposit dispute pain | ACTIVE | down | 2026-07-02 | Pain and lead density are real, but RentalDisputes plus ECC/ECRCS, chargebacks, excess insurers and consumer bodies make the resolution layer too crowded for a generic paid pack |
+| Student housing parent search pressure | ACTIVE | up | 2026-07-02 | July/August is the pre-buy window for September student housing; parent pain is visible around high rents, scarce affordable listings, scam warnings and active Facebook/agent surfaces, but platforms and brokers are strong substitutes |
 | ESPA funding calls | ACTIVE | up | 2026-06-26 | New calls are live/opening from 25 Jun and 1 Jul, but current visible programs skew to graduates, regions, or existing SMEs rather than a broad zero-capital founder wedge |
 
 ## Competitor Movements

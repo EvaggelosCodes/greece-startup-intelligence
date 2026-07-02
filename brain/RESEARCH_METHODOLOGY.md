@@ -10,7 +10,11 @@
 
 ---
 
-## THE 8 MOVES (use the one that fits the question)
+## THE 9 MOVES (use the one that fits the question)
+
+0. **Category exploration** — When the pool is empty, compare categories before inventing
+   ideas. Search for buyer groups with money in motion, deadline pressure, public gathering
+   places, and weak substitutes. Output a ranked wedge or gap, not a polished idea.
 
 1. **Demand check** — Is it growing? `[category] google trends Greece` + `site:kariera.gr [role]` (jobs = real budget) + `site:skroutz.gr [product]` (price + volume). Growing trend + hiring + complaints = validated.
 
@@ -45,8 +49,11 @@ If substitutes appear before buyer requests, the budget is probably already spok
 | "Score is X.X" | each sub-score tied to 1 specific snippet |
 | "I can sell this Monday" | at least 10 reachable buyer targets OR 3 highly specific target examples |
 | "Manual service gap exists" | visible before-state + substitute-budget search did not already own the spend |
+| "Category deserves idea generation" | buyer has money moving now + reachable channel + weak substitute map |
 
 ## LAZY RESEARCH = banned
 - Any claim with no source. "Growing demand" from one article. Fetching a page when a snippet would do. Generating an idea you could've had yesterday with no new search.
 - Treating targetability as demand. A visible target list is only permission to test, not validation.
 - Letting high CAPITAL_ZERO/SOLO scores rescue an idea with COMPETITION_GAP <= 2.
+- Turning every complaint into an advice/claim/dispute pack. If that format keeps dying,
+  change category, buyer, channel, or business model before naming another one.

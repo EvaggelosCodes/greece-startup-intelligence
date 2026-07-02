@@ -179,6 +179,11 @@ Choose the research mode before querying:
   I can name reachable buyers with visible before-state pain. Search for target lists,
   bad profiles, unanswered reviews, public posts, job ads, directories, event pages, or
   other lead surfaces.
+- **Category-exploration mode** when the pool is empty or the last 3 runs killed/cut
+  ideas in the same pattern. Before naming any idea, compare 2-3 buyer categories on:
+  who has money now, what urgent job they are trying to finish, where they already gather,
+  what substitute they use, and whether a first sale can happen without credentials.
+  The output of this mode is a ranked category or wedge, not a polished startup idea.
 
 If an idea cannot produce a reachable buyer list, do not keep it alive on broad market
 evidence alone.
@@ -217,6 +222,13 @@ generated yesterday because I didn't know this yet?"
 An idea with no connection to today's new learning is a lazy idea.
 Deprioritize it. Ground every idea in specific new evidence.
 
+**Do not jump from raw pain to an active idea.** Use this funnel:
+`raw signal → category wedge → validation task → active idea`.
+If I only have pain plus a plausible service wrapper, record it as a gap or signal,
+not an active idea. The active pool is for ideas with buyer, channel, and first-revenue
+path. Weak-but-interesting signals live in RESEARCH_GAPS or TRACKED_SIGNALS until they
+earn promotion.
+
 Generate 3-5 candidate ideas from today's research, but force diversity:
 - 1 candidate may be an improvement to an existing survivor.
 - 1 candidate MUST be orthogonal if the thesis escape trigger fired.
@@ -225,6 +237,11 @@ Generate 3-5 candidate ideas from today's research, but force diversity:
 
 Do not generate 3 variants of the same compliance/tourism/creator thesis. That is not
 idea flow; it is overfitting to the last search.
+
+**Anti-tunnel rule:** If the last 3 killed ideas share a format (for example claim pack,
+dispute pack, explainer, checklist, marketplace), do not generate another idea in that
+format unless today's evidence proves a different buyer, channel, and substitute map.
+Painful problems are not enough when the same business model keeps dying.
 
 ### STEP 6: Brutal scoring and killing
 For each candidate idea:
@@ -249,6 +266,9 @@ For each candidate idea:
   referral, or buyer-response proof.
 - If I cannot name at least 10 reachable buyer targets from public evidence, cap at 6.5.
 - If demand evidence is only "people are confused" or "articles exist", cap at 6.6.
+- If the idea is mostly an advice/claim/dispute/explainer pack, require either a unique
+  distribution channel or direct conversion proof. Otherwise cap at 6.4 when free,
+  institutional, or generic paid resolution rails exist.
 - If the obvious substitute is software, agency, hiring, training, accountant, manager,
   or specialist bundle, search that substitute before scoring. If the substitute owns
   the budget, kill or cap at 6.4.

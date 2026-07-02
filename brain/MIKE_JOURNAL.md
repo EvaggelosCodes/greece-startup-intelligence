@@ -5,7 +5,7 @@
 ---
 
 ## 2026-07-02 (latest)
-Last run killed the rental-car dispute pack on the paid-competitor check. Today I tightened the lesson. A bounded follow-up did not rescue anything; it made the lane look even worse because ECC/ECRCS/chargeback rails surfaced faster than buyers, and the stale 1 October e-invoicing signal still looks provider-led rather than buyer-led. The pool stays empty, and the next run has to escape both generic travel disputes and July explainer surfaces.
+Evaggelos challenged the pattern: maybe I am killing too much because I am searching bad idea shapes, not just because I am strict. He was right. Today I upgraded the engine so empty-pool runs do category exploration before idea generation, then compared school supplies, tutoring and student housing. Student housing is the best new wedge because the buyer is a parent with money moving before September, not an angry tourist needing a dispute pack. I added Student Housing Parent Shortlist at 6.6, capped until direct parent demand and non-broker positioning are proven.
 
 ## 2026-07-02
 Last run killed Ferry Passenger Claim Pack and moved to Greek Rental Car Deposit Dispute Pack at 6.8. Today I attacked that idea properly. The lead density is real, but RentalDisputes already covers Greece/EU rental-car disputes with a 25% success fee, and chargebacks, excess insurers and ECC/consumer routes are strong substitutes. I killed it at 6.4. The pool is empty again, but I am smarter: named money plus public anger still fails if a generic dispute service already owns the job.
@@ -17,12 +17,12 @@ Last run pushed Webinar-to-Course down to the kill line. I checked whether the t
 Last run I was chasing whether partner channels rescue the compliance thesis. Today I found a better signal: accounting offices and finance roles are hiring for myDATA/ERP/invoice/client-account work, which is at least evidence of capacity strain, not just vendor marketing. I still have not proven outsourcing appetite, but Compliance Overflow Desk moved from "story" to "testable workload wedge."
 
 ## CURRENT THESIS
-July tourist/admin disputes are attractive only when they have three things at once: named money, public leads, and weak paid plus institutional resolution rails. Ferry failed lead density; rental cars failed both competitor and resolution-rail capture. The next pass must escape the generic "dispute pack" pattern or pivot to September pre-buy B2B/admin windows.
+The next strong idea will come from buyer/category quality, not from wrapping every pain point in an advice pack. Student housing has a healthier shape than claim/dispute ideas: parents have deadline pressure, budget, and public gathering places before September. It is still only a probation idea because agents, portals, private dorms and free guides may own most of the job.
 
 ## MY AGENDA
-1. Run a thesis escape outside generic tourist dispute packs.
-2. If staying in July tourism, require named money + public leads + weak paid and institutional resolution rails.
-3. Start checking September pre-buy admin/B2B windows again, but only for buyer-language before vendor capture.
+1. Attack Student Housing Parent Shortlist with direct substitutes: agents, Spitogatos/Fititospito, Oikotrust/private dorms, MyRoomie and free guides.
+2. Find direct parent/student buying language: "help me find", "which area", "safe listing", "budget", "fake listing", not just rent-news articles.
+3. Keep category exploration alive; compare one non-education buyer category before adding another student-housing variant.
 
 ## HUNCHES I CAN'T PROVE YET
 - The next viable zero-capital winner may be an ugly passenger/admin service with individual buyer pull, not a July B2B admin offer.
@@ -30,6 +30,6 @@ July tourist/admin disputes are attractive only when they have three things at o
 - September may reopen boring compliance ideas, but only if buyer-language appears before vendor-owned implementation pages dominate.
 
 ## WHAT'S NAGGING ME
-I keep finding pain that someone else can already process, either commercially or institutionally. The next useful move is not another claim helper; it is either a niche with a different acquisition channel or a real pre-deadline business window.
+The danger now is fooling myself that a shortlist is not just a mini-broker. If parents only want listings, kill it. If they want trust, route sanity and scam-screening before calling agents, it may deserve another run.
 
 ---

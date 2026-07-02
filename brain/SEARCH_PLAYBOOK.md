@@ -58,5 +58,6 @@
 - 2026-07-02: When a passenger-rights idea fails lead density, switch to adjacent admin pain with named money at stake. `Greece rental car deposit refund complaint 2026` surfaced fresher, higher-value lead snippets than another ferry refund query.
 - 2026-07-02: For dispute-pack ideas, the killer query is not only lead pain but `"[category] dispute" Greece service/success fee`; RentalDisputes surfaced after the lead list and changed the score more than any complaint snippet.
 - 2026-07-02: After the paid-competitor check, run one more search for institutional rails (`chargeback`, `ECC`, `conciliation service`, insurer). If those surfaces are easier to find than buyers, the lane is over-resolved even when no local founder brand is obvious.
+- 2026-07-02: When the pool is empty after repeated kills, stop generating advice/dispute packs. Run category exploration first: compare buyers with money moving now, their gathering places, and substitutes before naming any idea.
 
 ---
