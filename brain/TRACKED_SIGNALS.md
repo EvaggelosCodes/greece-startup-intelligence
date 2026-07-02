@@ -7,18 +7,18 @@
 
 | Signal | Status | Direction | Last Checked | Notes |
 |--------|--------|-----------|--------------|-------|
-| Greek consumer confidence trend | ACTIVE | up | 2026-03-27 | Watch for plateau |
+| Greek consumer confidence trend | ACTIVE | stable | 2026-07-02 | IOBE June 2026 snippet says overall economic climate improved slightly but consumer confidence stayed at roughly the same level |
 | Tourism 2026 season bookings vs 2025 | ACTIVE | up | 2026-07-01 | INSETE/Money-Tourism snippets point to roughly 30.5M summer seats (+8.4% vs 2025), but bookings are slowing and shifting further into last-minute behavior |
 | EU Recovery Fund disbursement pace | ACTIVE | stable | 2026-03-27 | Watch for new calls |
 | Greek startup funding rounds | ACTIVE | up | 2026-06-26 | Newmoney/FWD snippets point to EUR732.2M across 90+ Greek startups in 2025 plus roughly EUR700M visible local VC firepower in 2026, but it is mostly venture-scale capital not useful to zero-capital founders |
 | Greek inflation rate | ACTIVE | down | 2026-03-27 | Cooling from 2023 peaks |
-| Greek expert/course monetization | ACTIVE | mixed | 2026-07-02 | Paid Greek Zoom/webinar sellers are findable at low-to-mid ticket prices, but many targets are free/institutional or already recorded; only paid independent sellers without replay/funnel remain interesting |
+| Greek expert/course monetization | ACTIVE | down | 2026-07-02 | Paid Greek Zoom/webinar sellers are findable, but the visible market is still mostly institutional/trade-training or already tooled, and recording/material control is often deliberate rather than an execution miss |
 
 ## Regulatory Signals
 
 | Signal | Status | Direction | Last Checked | Notes |
 |--------|--------|-----------|--------------|-------|
-| Short-term rental regulation | ACTIVE | down | 2026-07-02 | Buying-language search still routes to AADE/POMIDA/insurance/guide surfaces and specialist/operator bundles before buyer pull, and a fresh public-policy snippet even claims 98% listing registration; the remaining opportunity looks like narrow safety/insurance coordination only |
+| Short-term rental regulation | ACTIVE | down | 2026-07-02 | Registration/safety/insurance demand is still real, but another handler-language attack surfaced managers, accountants and specialist bundles before buyer pull; public-web DTC acquisition now looks effectively closed |
 | e-invoicing B2B mandate | ACTIVE | up | 2026-06-27 | Remaining businesses face 1 Oct 2026 wave with transition to 31 Dec; snippets keep telling businesses to coordinate with accountants, so the direct clinic channel weakens while referral/audit stays possible |
 | e-invoicing cheapest-path anxiety | ACTIVE | up | 2026-06-27 | Free AADE timologio plus paid tool/cost anxiety creates an advisory wedge, but public search is still dominated by AADE/gov/provider instruction pages rather than buyer requests |
 | Digital client registry expansion | ACTIVE | down | 2026-07-01 | Hotels and organized accommodations stay on the roadmap, but a fresh operator-pain query still surfaced hotel software, rollout press and staff-training surfaces before owner complaints; the July direct wedge now looks effectively closed |

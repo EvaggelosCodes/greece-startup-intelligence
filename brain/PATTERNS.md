@@ -14,7 +14,6 @@
 | 3 | Greek islands are two different markets: summer (supply-constrained) vs winter (demand-constrained) | 2 | 2026-03-27 | 2026-03-27 | HIGH |
 | 4 | Greek SMEs are 5-7 years behind EU in digital tools; big gap, low willingness to pay | 2 | 2026-03-27 | 2026-03-27 | HIGH |
 | 5 | Tourism-adjacent beats pure-digital in Greece because cash flows are larger and faster | 2 | 2026-03-27 | 2026-03-27 | MEDIUM |
-| 6 | The informal economy is an opportunity disguised as a problem; formalizing any cash-based service is a wedge | 1 | 2026-03-27 | 2026-03-27 | MEDIUM |
 | 7 | A new compliance law with a hard deadline creates a zero-capital service window, but only if trust/distribution is still open and not already owned by accountants, vendors, managers or PMS tools | 5 | 2026-06-24 | 2026-06-27 | HIGH |
 | 8 | When AADE provides a free or commodity digital-compliance tool, the monetizable wedge shifts to workflow setup, declaration cleanup, cheapest-path advice, and staff training rather than software resale | 4 | 2026-06-26 | 2026-06-27 | HIGH |
 | 9 | In Greek compliance/admin niches, public-search demand often routes through incumbent intermediaries (accountants, PMS/software vendors, property managers), so the surviving wedge is execution, audit, or staff training inside those channels rather than another public explainer | 4 | 2026-06-27 | 2026-06-27 | HIGH |
@@ -29,6 +28,7 @@
 - Greeks may be warming to premium wellness/mental health services post-COVID; 1 signal so far
 - Digital nomads in Greece cluster in specific islands (Syros, Ikaria) not just Athens; unverified
 - EU-funded programs for "green economy" in Greece are systematically underapplied for; 1 signal
+- The informal economy may still be an opportunity disguised as a problem, but it lacks the cross-run evidence needed to stay in the main pattern set
 
 ---
 
