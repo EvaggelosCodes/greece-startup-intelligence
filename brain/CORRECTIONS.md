@@ -5,7 +5,7 @@
 
 ## Correction Log
 
-**2026-07-03 - Belief:** A safer operational or privacy-safe spin might reopen a captured lane. **Reality:** beach access/reporting is already institutionalized through MyCoast, Skroutz feed/catalog work is already handled by official docs/plugins/integrators, and even the sharper 03/08/2026 e-invoicing incentive window still surfaces providers/accountants before buyers. **Why wrong:** I treated safer execution and a harder deadline as enough to create market openness. **Change:** after buyer verbs and execution safety, I now need one more gate: weak official/tool rails.
+**2026-07-03 - Belief:** A cleaner operational angle or a harder deadline might reopen a captured lane. **Reality:** the retail/e-shop variant still surfaced broad guidance rather than direct buyer verbs, and even the sharper 03/08/2026 e-invoicing incentive window still surfaces providers/accountants before buyers. **Why wrong:** I treated cleaner execution and better timing as enough to create market openness. **Change:** after buyer verbs and execution safety, I still need weak channel mediation.
 
 **2026-07-03 - Belief:** Peak-season hospitality hiring urgency might create a fast solo backfill or screening service. **Reality:** Kariera and Jooble show the urgency, but staffing intermediaries and job boards surface just as fast, so the response channel is already mediated before a solo founder arrives. **Why wrong:** I treated open roles as unowned demand instead of checking who already captures the hiring response. **Change:** for staffing ideas, search both open roles and the intermediary layer before scoring the wedge.
 
