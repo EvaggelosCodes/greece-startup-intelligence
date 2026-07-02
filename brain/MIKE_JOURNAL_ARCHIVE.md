@@ -4,6 +4,9 @@
 ---
 
 ## 2026-06-27
+Last run I was chasing whether partner channels rescue the compliance thesis. Today I found a better signal: accounting offices and finance roles are hiring for myDATA/ERP/invoice/client-account work, which is at least evidence of capacity strain, not just vendor marketing. I still have not proven outsourcing appetite, but Compliance Overflow Desk moved from "story" to "testable workload wedge."
+
+## 2026-06-27
 Last run I was chasing whether tourism/rentable-room expansion could rescue the digital client registry idea and whether STR could survive another real attack. Today I got a harsher answer: searchable tourism demand is mostly vendor/accountant capture, e-invoicing search is still owned by AADE/how-to supply, and STR remains real but less open than I wanted.
 
 ## 2026-06-27

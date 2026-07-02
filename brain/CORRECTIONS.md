@@ -5,6 +5,8 @@
 
 ## Correction Log
 
+**2026-07-02 - Belief:** Once the rental-car dispute idea died on the paid-competitor check, there was little additional learning left in that lane. **Reality:** a bounded follow-up still taught me something important: ECC Network, ECRCS and chargeback guidance surfaced faster than buyers, which means the lane is over-resolved even without RentalDisputes. **Why wrong:** I treated the first kill reason as sufficient and almost skipped the second structural failure mode. **Change:** for dispute ideas, search both paid claim services and institutional resolution rails before concluding the lane is open.
+
 **2026-07-02 - Belief:** Rental-car deposit disputes might be cleaner than ferry claims because they have higher amounts and more specific public leads. **Reality:** the pain is real, but RentalDisputes already sells a generic EU/Greece car-rental dispute service at 25% success fee, and chargebacks/excess insurance/ECC routes are strong substitutes. **Why wrong:** I let better lead density obscure the already-exists test. **Change:** for any dispute-pack idea, search generic service + success fee before scoring the lead list.
 
 **2026-07-02 - Belief:** Ferry Passenger Claim Pack deserved one more pass because it might reveal enough Greece-specific leads. **Reality:** the pass still did not surface 10 recent detailed leads, while FairFerry already owns the generic ferry-claim service category. **Why wrong:** I let "some real cases" stand in for a repeatable outreach list. **Change:** kill/archive a 6.5 idea when its explicit next-pass gate fails; move to a higher-value adjacent lane instead.

@@ -19,8 +19,8 @@
 | Signal | Status | Direction | Last Checked | Notes |
 |--------|--------|-----------|--------------|-------|
 | Short-term rental regulation | ACTIVE | down | 2026-07-02 | Registration/safety/insurance demand is still real, but another handler-language attack surfaced managers, accountants and specialist bundles before buyer pull; public-web DTC acquisition now looks effectively closed |
-| e-invoicing B2B mandate | ACTIVE | up | 2026-06-27 | Remaining businesses face 1 Oct 2026 wave with transition to 31 Dec; snippets keep telling businesses to coordinate with accountants, so the direct clinic channel weakens while referral/audit stays possible |
-| e-invoicing cheapest-path anxiety | ACTIVE | up | 2026-06-27 | Free AADE timologio plus paid tool/cost anxiety creates an advisory wedge, but public search is still dominated by AADE/gov/provider instruction pages rather than buyer requests |
+| e-invoicing B2B mandate | ACTIVE | up | 2026-07-02 | Remaining businesses face 1 Oct 2026 wave with transition to 31 Dec; the date is visible, but July-side snippets still tell businesses to coordinate with accountants/providers rather than showing buyer-language pull |
+| e-invoicing cheapest-path anxiety | ACTIVE | up | 2026-07-02 | Free AADE timologio plus paid tool/cost anxiety still create an advisory wedge, but public search remains dominated by AADE/gov/provider instruction pages rather than buyer requests |
 | Digital client registry expansion | ACTIVE | down | 2026-07-01 | Hotels and organized accommodations stay on the roadmap, but a fresh operator-pain query still surfaced hotel software, rollout press and staff-training surfaces before owner complaints; the July direct wedge now looks effectively closed |
 | Compliance overflow partner channel | ACTIVE | down | 2026-07-01 | Partner infrastructure exists, but public-web evidence now points more to hiring assistants and using collaborator supply than to buying a separate outsourced desk |
 | Gig economy platform regulation | ACTIVE | up | 2026-06-27 | Greece appears to be drafting toward end-2026 transposition, but the likely buyers are platforms/employers, not a clean Monday-start founder wedge |
@@ -35,7 +35,7 @@
 | Ferry passenger-claim friction | ACTIVE | up | 2026-07-02 | Official/EU rights pages and recent Greek articles explain 25%-50% delay compensation and forms, SeaJets/Blue Star snippets show refund anger, and lost-luggage sea-travel examples show higher-value EUR500-EUR740 claims; test whether tourists pay for done-for-you help or just use free guidance |
 | Ferry claim-pack competition | ACTIVE | down | 2026-07-02 | FairFerry already offers ferry compensation handling with a 30% success fee; Greece-specific outreach may still be open, but the generic EU ferry-claim surface is not blank |
 | Flight compensation claim competition | ACTIVE | down | 2026-07-02 | Greece/Aegean flight-compensation pain is real and higher-value, but AirHelp/AirAdvisor/Flightright/MyFlyRight already own the claim-assist channel, so it is a bad adjacent solo-founder lane |
-| Car-rental deposit dispute pain | ACTIVE | down | 2026-07-02 | Pain and lead density are real, but RentalDisputes already targets Greece/EU car-rental disputes with a 25% success fee, while chargebacks, excess insurers and ECC/consumer bodies are strong substitutes |
+| Car-rental deposit dispute pain | ACTIVE | down | 2026-07-02 | Pain and lead density are real, but RentalDisputes plus ECC/ECRCS, chargebacks, excess insurers and consumer bodies make the resolution layer too crowded for a generic paid pack |
 | ESPA funding calls | ACTIVE | up | 2026-06-26 | New calls are live/opening from 25 Jun and 1 Jul, but current visible programs skew to graduates, regions, or existing SMEs rather than a broad zero-capital founder wedge |
 
 ## Competitor Movements

@@ -13,7 +13,7 @@
 | 2 | Personal referral is the only reliable zero-cost sales channel in Greece | 2 | 2026-03-27 | 2026-03-27 | HIGH |
 | 3 | Greek islands are two different markets: summer (supply-constrained) vs winter (demand-constrained) | 2 | 2026-03-27 | 2026-03-27 | HIGH |
 | 4 | Greek SMEs are 5-7 years behind EU in digital tools; big gap, low willingness to pay | 2 | 2026-03-27 | 2026-03-27 | HIGH |
-| 5 | Tourism-adjacent beats pure-digital in Greece because cash flows are larger and faster | 2 | 2026-03-27 | 2026-03-27 | MEDIUM |
+| 5 | In tourist consumer-dispute lanes, named money and angry reviews are not enough; if paid claim services and institutional resolution rails appear before buyer-language or a clean outreach list, the wedge is fake | 3 | 2026-07-02 | 2026-07-02 | MEDIUM |
 | 7 | A new compliance law with a hard deadline creates a zero-capital service window, but only if trust/distribution is still open and not already owned by accountants, vendors, managers or PMS tools | 5 | 2026-06-24 | 2026-06-27 | HIGH |
 | 8 | When AADE provides a free or commodity digital-compliance tool, the monetizable wedge shifts to workflow setup, declaration cleanup, cheapest-path advice, and staff training rather than software resale | 4 | 2026-06-26 | 2026-06-27 | HIGH |
 | 9 | In Greek compliance/admin niches, public-search demand often routes through incumbent intermediaries (accountants, PMS/software vendors, property managers), so the surviving wedge is execution, audit, or staff training inside those channels rather than another public explainer | 4 | 2026-06-27 | 2026-06-27 | HIGH |
