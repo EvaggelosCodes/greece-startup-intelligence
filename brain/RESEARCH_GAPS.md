@@ -11,7 +11,6 @@
 - [ ] Which direct-buyer July pain points in Greece show public willingness-to-pay without obvious platform, agency, software, or specialist capture?
 - [ ] Which September-side B2B/admin windows show pre-buy signals before August seasonality kills outreach?
 - [ ] Do wedding/catering/event businesses buy Psifiako Pelatologio workflow training directly, or is that channel already owned by software vendors/accountants?
-- [ ] Which discount-season retail/e-shop wedge has buyer pull without collapsing into generic agency work: product-page cleanup, offer math, email/SMS setup, Skroutz feed hygiene, or local-store bundle planning?
 - [ ] Does the e-invoicing clinic buyer want software setup, accountant translation, or cheapest-path compliance? (2026-06-26 partial: cost anxiety + free AADE timologio suggest "cheapest compliant path" is the sharper wedge)
 - [ ] Can an e-invoicing declaration-audit offer sell to SMEs near 1 Oct 2026, or is the visible lag mostly an enterprise/accountant-owned problem? (2026-06-26 partial: ~18k of 38k first-wave firms lagged, including ~3.3k already using tools)
 - [ ] If direct channels are captured, will accountants, property managers, insurers, electricians, or PMS/software resellers actually refer or white-label compliance workflow help?
@@ -33,6 +32,8 @@
 - [ ] Which paid independent Greek seminar sellers price live Zoom seats above EUR50 while explicitly offering no replay or follow-up funnel?
 - [ ] Will delayed/lost-luggage ferry passengers pay EUR15-EUR35 for claim/admin help, or will free official forms, consumer associations and booking platforms satisfy them once they know the rule?
 - [ ] Which July direct-buyer lane has named money at stake, public leads, and weak paid/institutional resolution rails rather than just a prettier dispute surface?
+- [ ] Is there a beach-day micro-wedge that is not owned by Plazz/Summerize: price transparency, free-beach alternatives, family accessibility, or last-minute local WhatsApp help?
+- [ ] Which tourist convenience problems in Athens/Piraeus are still open after luggage storage, transfers, review cleanup and claim/dispute packs are excluded?
 
 ### LOW PRIORITY
 - [ ] What is the typical conversion rate for Greek Instagram business accounts?
@@ -75,3 +76,4 @@
 | Which category beats generic dispute packs after the empty-pool reset? | Student housing is the best current category wedge: parents have money moving before September, search pressure is public, scam/area/rent uncertainty is concrete, and first sale can be a fixed-fee shortlist rather than brokerage. It remains capped because platforms, agents and private dorms are strong substitutes. | Newsbeast/Tanea/ProtoThema/BusinessDaily/Facebook/Fititospito/Oikotrust/MyRoomie snippets | 2026-07-02 |
 | Can a Student Housing Parent Shortlist sell as research/scam-screening without becoming brokerage already owned by agents, Spitogatos-style portals, Oikotrust/private dorms or MyRoomie? | Partial and fragile: the only credible wedge is transparent route/area/scam-screening research for parents, because listings are already owned by portals/agents/private dorms and fake paid-list scams make any "pay for leads" framing dangerous. | Spitogatos/Fititospito/Oikotrust/Facebook/Aftodioikisi/OT/Ministry housing-benefit snippets | 2026-07-02 |
 | Can Student Housing Parent Shortlist produce 10 fresh parent/student posts where the buyer asks for route, safety, scam-screening or area judgement rather than just "send me listings"? | No on the public-web pass: fresh snippets showed active listing posts, some area/safety language, and many supply-side pages, but not 10 clear buyer asks for judgement/scam-screening. The idea fails the one-pass probation gate. | Facebook/Spitogatos/Skiouraki/Tzeli/Oikotrust snippets | 2026-07-02 |
+| Which discount-season retail/e-shop wedge has buyer pull without collapsing into generic agency work: product-page cleanup, offer math, email/SMS setup, Skroutz feed hygiene, or local-store bundle planning? | Not proven yet: discount-season pressure exists, but public search is dominated by agencies, marketing guides and marketplace operations before direct buyer verbs. Keep only ultra-specific operational cleanup variants for future testing. | Marketup/Minimal/Athanasiadis/Skroutz/Capital/OT snippets | 2026-07-02 |

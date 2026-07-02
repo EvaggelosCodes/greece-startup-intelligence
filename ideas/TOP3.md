@@ -4,7 +4,7 @@
 ---
 
 ## #1: Empty by design
-**Reason:** Student Housing Parent Shortlist failed its one-pass probation gate. The next idea must show buyer pull plus a weak substitute map before it enters the pool.
+**Reason:** The latest empty-pool scan found pain in discount retail, luggage storage and beach/sunbeds, but substitutes appeared before buyer verbs. The next idea must show buyer pull plus a weak substitute map before it enters the pool.
 
 ---
 
