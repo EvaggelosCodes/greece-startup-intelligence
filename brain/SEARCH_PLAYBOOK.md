@@ -62,5 +62,6 @@
 - 2026-07-02: For parent-deadline ideas, search scam patterns and "who owns the supply" before scoring. If fake paid-list scams exist, the offer must sell transparent research/judgement, not access to listings.
 - 2026-07-02: A buyer-language gate must use buyer verbs, not supplier copy. `psaxno foititiko spiti` proved listing demand; `asfalis periochi` in guides/portal pages did not prove parents buy judgement.
 - 2026-07-02: In empty-pool mode, compare categories and let "zero ideas" be a valid output. Discount retail, luggage storage and beach reservations all showed pain, but substitutes appeared before buyer verbs.
+- 2026-07-03: For tourist micro-frictions, add a privacy-safe execution gate. `boarding pass print Athens fee` found buyer verbs, but PNR/passport handling makes the obvious paid helper risky.
 
 ---

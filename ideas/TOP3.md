@@ -1,10 +1,10 @@
 # TOP 3 - Greece Startup Intelligence
-*Last updated: 2026-07-02 | Pool size: 0 ideas | Avg score: 0.0*
+*Last updated: 2026-07-03 | Pool size: 0 ideas | Avg score: 0.0*
 
 ---
 
 ## #1: Empty by design
-**Reason:** The latest empty-pool scan found pain in discount retail, luggage storage and beach/sunbeds, but substitutes appeared before buyer verbs. The next idea must show buyer pull plus a weak substitute map before it enters the pool.
+**Reason:** The latest scan found a real flight-admin micro-friction, but no privacy-safe paid helper yet. The next idea must show buyer pull, weak substitutes, and a safe execution path before it enters the pool.
 
 ---
 

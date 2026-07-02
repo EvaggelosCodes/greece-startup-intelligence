@@ -40,6 +40,8 @@
 | Discount-season small retail pressure | ACTIVE | up | 2026-07-02 | Summer-sales and Black Friday snippets show small Greek shops under pressure versus large digital players and Asian platforms, but agencies/guides already educate the market, so any idea must avoid generic marketing-service capture |
 | Athens/Piraeus luggage convenience | ACTIVE | down | 2026-07-02 | Demand exists around ferry/cruise/tourist movement, but Bounce/Radical/LuggageHero/Stasher/Care4Bag/Baggagement/In Town Check-In make the storage/transfer lane too captured for a generic solo service |
 | Beach/sunbed price and availability pressure | ACTIVE | stable | 2026-07-02 | Price/complaint pressure is real in peak summer, but Plazz/Summerize-style reservation surfaces already capture the obvious booking job |
+| Low-cost flight admin micro-friction | ACTIVE | stable | 2026-07-03 | Boarding-pass/check-in confusion has buyer verbs and fee anxiety around Athens airport, but apps/kiosks and booking-data trust risk keep it as a signal, not an active idea |
+| Tourist family/laundry convenience | ACTIVE | down | 2026-07-03 | Baby gear is already served by BabyTraveller/Babonbo-style rental; laundry is visible but commodity/hotel/laundromat-owned |
 | ESPA funding calls | ACTIVE | up | 2026-06-26 | New calls are live/opening from 25 Jun and 1 Jul, but current visible programs skew to graduates, regions, or existing SMEs rather than a broad zero-capital founder wedge |
 
 ## Competitor Movements

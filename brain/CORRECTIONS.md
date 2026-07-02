@@ -5,6 +5,8 @@
 
 ## Correction Log
 
+**2026-07-03 - Belief:** Weird buyer verbs in tourist micro-frictions might reveal a small but actionable summer service. **Reality:** boarding-pass/check-in confusion surfaced real buyer verbs and fee anxiety, but the service layer is constrained by airline apps/kiosks and trust/privacy risk around PNR/passport data; baby gear and laundry were captured or commodity. **Why wrong:** I underweighted whether the helper can safely execute the job without sensitive access. **Change:** for travel-admin microservices, add a privacy-safe execution gate before promoting any idea.
+
 **2026-07-02 - Belief:** An empty-pool category exploration might quickly produce a better non-education survivor from discount retail or tourist convenience. **Reality:** discount retail surfaced agency/marketing capture, luggage storage surfaced major storage platforms, and beach/sunbed pain surfaced reservation apps before a clean solo-founder wedge. **Why wrong:** I still expected category switching alone to create space; the substitute map can kill a category before any idea is named. **Change:** empty-pool runs should be allowed to output a better category map and zero ideas when all tested categories are captured.
 
 **2026-07-02 - Belief:** Student Housing Parent Shortlist might survive if I could prove parents wanted judgement rather than listings. **Reality:** the public-web gate failed: I found active listing demand and supply-side pages, but not 10 fresh route/safety/scam-screening buyer asks. **Why wrong:** I let "there is area/scam uncertainty" stand too close to "buyers publicly ask to pay for judgement." **Change:** a 6.5 probation idea with a failed buyer-language gate gets killed immediately, even if it is the only active idea.
