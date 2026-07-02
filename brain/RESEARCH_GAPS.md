@@ -30,6 +30,7 @@
 - [ ] Can registry workflow training sell through hotel/accountant/PMS referrals even if direct tourism demand is channel-owned?
 - [ ] Which visible tourism-operator mistakes can be turned into a 48-hour fixed-fee outreach list that gets real replies, not just search evidence?
 - [ ] Which paid independent Greek seminar sellers price live Zoom seats above EUR50 while explicitly offering no replay or follow-up funnel?
+- [ ] Will delayed ferry passengers pay EUR15-EUR25 for claim/admin help, or will free official forms and booking platforms satisfy them once they know the rule?
 
 ### LOW PRIORITY
 - [ ] What is the typical conversion rate for Greek Instagram business accounts?
@@ -62,3 +63,4 @@
 | Do non-PMS hotels or event operators show frontline Psifiako Pelatologio pain in July/August public complaints, or is even the pain invisible outside vendor/accountant content? | For now it looks invisible on the public web: a fresh operator-pain query still surfaced hotel software, rollout press and staff-training surfaces before owner-side workflow complaints, so the July direct offer should be treated as effectively closed. | Octorate/Athina984/Kariera snippets | 2026-07-01 |
 | Will STR owners pay for a fixed-fee compliance audit after seeing Q&A/social fear posts, or do they only consume free guidance? | Current public-web evidence still routes owners to managers, accountants, guides and specialist handlers before buyer pull, so the DTC search channel should be treated as closed until direct outreach or referral response appears. | CapitalValue/Crucial Hospitality plus prior STR snippets | 2026-07-02 |
 | Can I find paid Greek seminar sellers rather than only free/institutional course targets? | Yes, but that alone does not save the idea: paid Zoom/webinar targets are visible, yet the market still skews institutional/trade-training, already-recorded, or event-tooled, so a generic packaging sprint remains weak. | Eventora/Cosmital/FooEvents plus prior seminar snippets | 2026-07-02 |
+| Is there a July lane with direct buyer pain, visible prices and weak incumbent capture outside the killed compliance/seminar theses? | Partial yes: ferry-delay/refund pain has visible angry passengers, 25%-50% compensation rules, review/forum lead surfaces and no obvious dedicated claim-assist service in snippets. The unresolved gap is willingness to pay for help versus using free official/consumer guidance. | Your Europe/YNANP/Minoan/EKPIZO/Enikonomia/Tripadvisor/Trustpilot/Reddit snippets | 2026-07-02 |

@@ -29,6 +29,7 @@
 - Digital nomads in Greece cluster in specific islands (Syros, Ikaria) not just Athens; unverified
 - EU-funded programs for "green economy" in Greece are systematically underapplied for; 1 signal
 - The informal economy may still be an opportunity disguised as a problem, but it lacks the cross-run evidence needed to stay in the main pattern set
+- Peak-season passenger-rights pain may be more sellable than operator-side tourism pain because the buyer is angry now, the claim value is calculable, and lead surfaces are public reviews/forums; needs willingness-to-pay proof
 
 ---
 

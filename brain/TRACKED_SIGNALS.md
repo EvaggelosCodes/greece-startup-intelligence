@@ -32,6 +32,7 @@
 |--------|--------|-----------|--------------|-------|
 | Summer tourism service rush | ACTIVE | up | 2026-07-01 | July peak tourism still supports owner/operator urgency, but generic B2B admin selling remains seasonally weak |
 | Tourism complaint/review pressure | ACTIVE | down | 2026-07-01 | Complaint/review pain is real and visible review/profile debt can be target-listed, but price/capture search now surfaces PMS/review software, agencies and complaint-handling workshops before buyer pull |
+| Ferry delay/refund claim friction | ACTIVE | up | 2026-07-02 | Official/EU rights pages and recent Greek articles explain 25%-50% compensation and forms, while SeaJets/Blue Star review snippets show refund-delay anger; test whether tourists pay for admin help or just use free guidance |
 | ESPA funding calls | ACTIVE | up | 2026-06-26 | New calls are live/opening from 25 Jun and 1 Jul, but current visible programs skew to graduates, regions, or existing SMEs rather than a broad zero-capital founder wedge |
 
 ## Competitor Movements
