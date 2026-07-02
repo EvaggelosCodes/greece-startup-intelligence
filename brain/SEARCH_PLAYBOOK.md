@@ -53,5 +53,6 @@
 - 2026-07-02: For seminar/course ideas, search `simmetoxi`, `oroi`, `choris eggrafi`, and event-platform snippets before assuming replay/follow-up is missing; if tooling and no-recording policies appear before buyer requests, the gap is fake.
 - 2026-07-02: To escape a dead thesis, search a right-now complaint plus a rules/price mechanic. `kathysterisi ploiou apozimiosi` surfaced a better summer wedge than another generic tourism complaint query because it tied anger to a calculable claim.
 - 2026-07-02: For small-ticket passenger-rights ideas, search adjacent higher-value cases before killing on low claim size. Ferry delays are small, but lost-luggage sea-travel cases showed EUR500-EUR740 examples, improving the claim-pack wedge.
+- 2026-07-02: When a passenger-claim lane looks promising, search the obvious bigger adjacent market. Greece flight claims looked bigger but were immediately captured by AirHelp/AirAdvisor/Flightright/MyFlyRight, which makes the smaller ferry niche more interesting.
 
 ---

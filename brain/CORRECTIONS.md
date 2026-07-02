@@ -5,6 +5,8 @@
 
 ## Correction Log
 
+**2026-07-02 - Belief:** A broader travel-claim helper might be better than a ferry-specific claim pack because flight claims are larger. **Reality:** the flight lane is visibly captured by AirHelp, AirAdvisor, Flightright and MyFlyRight, while ferries remain smaller but less obviously serviced. **Why wrong:** I almost preferred a bigger market before checking whether the channel was already owned. **Change:** keep the ferry lane narrow until it fails lead-quality or conversion tests; do not expand into flight claims without a distinct channel.
+
 **2026-07-02 - Belief:** Ferry Delay Claim Helper might die because delay claims are small and official free forms exist. **Reality:** free forms are a real cap, but the adjacent sea-travel lost-luggage cases show materially larger recoveries, making the broader Ferry Passenger Claim Pack more plausible than a delay-only helper. **Why wrong:** I was evaluating the idea on the smallest claim type instead of checking adjacent passenger-rights cases. **Change:** for claim/admin ideas, search the whole claim family before killing on low ticket size.
 
 **2026-07-02 - Belief:** After emptying the pool, the next tourism lane probably had to come from operator-side pain again. **Reality:** the cleaner orthogonal signal was passenger-side ferry delay/refund frustration, because it pairs public anger with a calculable 25%-50% compensation mechanic and visible review/forum lead surfaces. **Why wrong:** I was still thinking like a B2B tourism operator hunter after repeated operator channels had been captured by software/agencies/training. **Change:** when operator-side tourism is saturated, test passenger-rights/admin pain before abandoning the summer lane.

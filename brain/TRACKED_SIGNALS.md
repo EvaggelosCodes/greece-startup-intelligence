@@ -33,6 +33,7 @@
 | Summer tourism service rush | ACTIVE | up | 2026-07-01 | July peak tourism still supports owner/operator urgency, but generic B2B admin selling remains seasonally weak |
 | Tourism complaint/review pressure | ACTIVE | down | 2026-07-01 | Complaint/review pain is real and visible review/profile debt can be target-listed, but price/capture search now surfaces PMS/review software, agencies and complaint-handling workshops before buyer pull |
 | Ferry passenger-claim friction | ACTIVE | up | 2026-07-02 | Official/EU rights pages and recent Greek articles explain 25%-50% delay compensation and forms, SeaJets/Blue Star snippets show refund anger, and lost-luggage sea-travel examples show higher-value EUR500-EUR740 claims; test whether tourists pay for done-for-you help or just use free guidance |
+| Flight compensation claim competition | ACTIVE | down | 2026-07-02 | Greece/Aegean flight-compensation pain is real and higher-value, but AirHelp/AirAdvisor/Flightright/MyFlyRight already own the claim-assist channel, so it is a bad adjacent solo-founder lane |
 | ESPA funding calls | ACTIVE | up | 2026-06-26 | New calls are live/opening from 25 Jun and 1 Jul, but current visible programs skew to graduates, regions, or existing SMEs rather than a broad zero-capital founder wedge |
 
 ## Competitor Movements
