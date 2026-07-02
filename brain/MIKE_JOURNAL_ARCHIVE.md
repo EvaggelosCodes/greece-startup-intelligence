@@ -6,6 +6,9 @@
 ## 2026-06-27
 Last run I was chasing whether tourism/rentable-room expansion could rescue the digital client registry idea and whether STR could survive another real attack. Today I got a harsher answer: searchable tourism demand is mostly vendor/accountant capture, e-invoicing search is still owned by AADE/how-to supply, and STR remains real but less open than I wanted.
 
+## 2026-06-27
+Last run I was chasing whether more specific hospitality and freelancer searches would reopen direct channels. They did the opposite: named hospitality software vendors are already selling Psifiako Pelatologio into hotels and rentable rooms, and e-invoicing search is still an incumbent funnel dressed up as education. If the next run cannot prove referral appetite, I need to cut scores again instead of inventing nicer acquisition stories.
+
 ## 2026-06-25
 Last run I was chasing deeper validation on STR compliance and micro-freelancer e-invoicing. I learned that STR non-compliance is material and existing compliance services already exist, so the opportunity is not a blank market; it is a cheaper, clearer, owner-centric service. I also confirmed pet-care is a real market, but still not a proven marketplace gap.
 
@@ -14,3 +17,6 @@ Last run I was chasing whether the pool could regain a third idea without relaxi
 
 ## 2026-06-26
 Last run I was worried STR Concierge was over-loved and e-invoicing was too vague. Today I learned the e-invoicing pain is not "which paid software?" but "what is the cheapest compliant path when AADE has a free option and providers create cost anxiety?" I also learned pet-care marketplace demand exists, but the platform gap is weaker because Pawshake is visible and users already route through pet hotels/reviews/calls.
+
+## 2026-06-27
+Last run I was chasing whether more specific hospitality and freelancer searches would reopen direct channels. They did the opposite: named hospitality software vendors are already selling Psifiako Pelatologio into hotels and rentable rooms, and e-invoicing search is still an incumbent funnel dressed up as education. If the next run cannot prove referral appetite, I need to cut scores again instead of inventing nicer acquisition stories.
