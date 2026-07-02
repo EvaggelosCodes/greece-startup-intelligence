@@ -1,16 +1,16 @@
 # TOP 3 - Greece Startup Intelligence
-*Last updated: 2026-07-02 | Pool size: 1 idea | Avg score: 6.5*
+*Last updated: 2026-07-02 | Pool size: 1 idea | Avg score: 6.8*
 
 ---
 
-## #1: Ferry Passenger Claim Pack - 6.5
-**Simple version:** Help Greece ferry passengers prepare refund/compensation complaint packs for delays, cancellations, ignored refunds and lost luggage.
-**You could make:** EUR100-EUR400 in the first month
-**Why right now:** July island travel creates real disruption pain; delay claims are 25%-50% of ticket price when eligible, and lost-luggage cases can be much higher.
-**The catch:** Free official forms, FairFerry's 30% success-fee service, and shallow public leads may leave too little room.
-**Trending:** Down; one more pass only, because the next run must prove 10 detailed Greece-specific leads or kill/archive it
+## #1: Greek Rental Car Deposit Dispute Pack - 6.8
+**Simple version:** Help tourists fight withheld Greek rental-car deposits and surprise damage charges with organized evidence, chargeback wording and complaint steps.
+**You could make:** EUR250-EUR900 in the first month
+**Why right now:** July/August car rentals are peaking, and dispute snippets show real money at stake: EUR400 deposits, EUR5000 card-hold pressure and damage-claim complaints.
+**The catch:** Free chargebacks, consumer bodies, insurers and forum advice may be enough for many tourists.
+**Trending:** New; stronger than ferry claims on money-at-stake and lead quality, but still capped until 10 current leads and payment intent are proven
 
 ---
 
 ## #2 / #3: Empty by design
-**Reason:** The next addition must beat Ferry Passenger Claim Pack on buyer pull, not just sound bigger.
+**Reason:** The next addition must beat Rental Car Deposit Dispute Pack on buyer pull, not just sound bigger.

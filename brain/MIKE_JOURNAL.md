@@ -5,7 +5,7 @@
 ---
 
 ## 2026-07-02 (latest)
-Last run held Ferry Passenger Claim Pack at 7.1 after killing the flight-claim spinoff. Today I attacked the remaining weak spot: lead quality plus generic ferry-claim competition. I found FairFerry already selling ferry compensation help at a 30% success fee, and I still did not get 10 detailed recent Greece ferry leads. So I cut Ferry Passenger Claim Pack to 6.5 probation. It lives for one more pass only.
+Last run put Ferry Passenger Claim Pack on 6.5 probation. Today I enforced the gate instead of shaving another decimal: I still did not find 10 fresh detailed ferry leads, and FairFerry already owns the generic ferry-claim service surface. I killed Ferry Passenger Claim Pack. The better adjacent lane is Greek Rental Car Deposit Dispute Pack at 6.8: clearer money at stake, fresher public complaints, and more concrete evidence artifacts.
 
 ## 2026-07-01
 Last run pushed Webinar-to-Course down to the kill line. I checked whether the target list exists. It does, but messily: Greek Zoom seminars are easy to find across career, health, tourism, professional training and niche education; some already include replays, some explicitly have no recording, and many are free or institutional. The idea survived at 6.5 only because targetability exists, not because payment was proven.
@@ -14,12 +14,12 @@ Last run pushed Webinar-to-Course down to the kill line. I checked whether the t
 Last run I was chasing whether partner channels rescue the compliance thesis. Today I found a better signal: accounting offices and finance roles are hiring for myDATA/ERP/invoice/client-account work, which is at least evidence of capacity strain, not just vendor marketing. I still have not proven outsourcing appetite, but Compliance Overflow Desk moved from "story" to "testable workload wedge."
 
 ## CURRENT THESIS
-July public-web research has exhausted the current compliance and seminar theses. The best live lane is passenger-rights/admin pain where the buyer is already angry and the claim value is calculable. Ferry Passenger Claim Pack is not proven, but it is better than vague operator pain because public lead surfaces and claim math both exist.
+July public-web research has exhausted the current compliance and seminar theses. The best live lane is tourist/admin disputes where the buyer is already angry, the money at stake is named, and the evidence packet is concrete. Rental-car deposit/damage disputes now look stronger than ferry claims because the values are larger and the before-state is easier to see.
 
 ## MY AGENDA
-1. Either find 10 detailed Greece-specific ferry claim leads or kill/archive Ferry Passenger Claim Pack.
-2. If the ferry idea dies, open a new orthogonal July pain lane instead of shaving another decimal.
-3. Keep one eye on September B2B compliance, but do not let it distract from honest kill discipline.
+1. Find 10 current rental-car deposit/damage dispute lead surfaces across Crete, Athens, Santorini and islands.
+2. Attack the rental-car idea with substitutes: chargebacks, travel insurance/excess insurers, ECC/consumer bodies and booking platforms.
+3. Test price plausibility for EUR29-EUR59 dispute packs against EUR400+ deposits and damage charges.
 
 ## HUNCHES I CAN'T PROVE YET
 - The next viable zero-capital winner may be an ugly passenger/admin service with individual buyer pull, not a July B2B admin offer.
@@ -27,6 +27,6 @@ July public-web research has exhausted the current compliance and seminar theses
 - September may reopen boring compliance ideas, but only if buyer-language appears before vendor-owned implementation pages dominate.
 
 ## WHAT'S NAGGING ME
-The ferry idea is now at the edge. If I cannot prove a Greece-specific buyer-list advantage over FairFerry/free forms next run, keeping it alive becomes sentimentality.
+The rental-car idea could be another advice-pack trap if banks, insurers and consumer bodies already solve it for free. The next run must prove targetable cases, not just scary rental-company reviews.
 
 ---

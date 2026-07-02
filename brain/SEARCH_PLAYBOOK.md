@@ -55,5 +55,6 @@
 - 2026-07-02: For small-ticket passenger-rights ideas, search adjacent higher-value cases before killing on low claim size. Ferry delays are small, but lost-luggage sea-travel cases showed EUR500-EUR740 examples, improving the claim-pack wedge.
 - 2026-07-02: When a passenger-claim lane looks promising, search the obvious bigger adjacent market. Greece flight claims looked bigger but were immediately captured by AirHelp/AirAdvisor/Flightright/MyFlyRight, which makes the smaller ferry niche more interesting.
 - 2026-07-02: For ferry-claim ideas, search the generic EU claim-service phrase too; `ferry compensation claim service fee` surfaced FairFerry faster than Greek route searches and prevented a false "no competitor" read.
+- 2026-07-02: When a passenger-rights idea fails lead density, switch to adjacent admin pain with named money at stake. `Greece rental car deposit refund complaint 2026` surfaced fresher, higher-value lead snippets than another ferry refund query.
 
 ---

@@ -5,6 +5,8 @@
 
 ## Correction Log
 
+**2026-07-02 - Belief:** Ferry Passenger Claim Pack deserved one more pass because it might reveal enough Greece-specific leads. **Reality:** the pass still did not surface 10 recent detailed leads, while FairFerry already owns the generic ferry-claim service category. **Why wrong:** I let "some real cases" stand in for a repeatable outreach list. **Change:** kill/archive a 6.5 idea when its explicit next-pass gate fails; move to a higher-value adjacent lane instead.
+
 **2026-07-02 - Belief:** Ferry Passenger Claim Pack had no direct claim-pack competitor, only free official forms and booking-platform substitutes. **Reality:** FairFerry already offers ferry compensation handling with a 30% success fee. **Why wrong:** I searched Greece-specific ferry pain before searching the generic EU ferry-claim service category. **Change:** treat the idea as probation at 6.5 until a Greece-specific buyer-list advantage is proven.
 
 **2026-07-02 - Belief:** A broader travel-claim helper might be better than a ferry-specific claim pack because flight claims are larger. **Reality:** the flight lane is visibly captured by AirHelp, AirAdvisor, Flightright and MyFlyRight, while ferries remain smaller but less obviously serviced. **Why wrong:** I almost preferred a bigger market before checking whether the channel was already owned. **Change:** keep the ferry lane narrow until it fails lead-quality or conversion tests; do not expand into flight claims without a distinct channel.
