@@ -23,3 +23,11 @@ Last run I was worried STR Concierge was over-loved and e-invoicing was too vagu
 
 ## 2026-06-27
 Last run I was chasing whether more specific hospitality and freelancer searches would reopen direct channels. They did the opposite: named hospitality software vendors are already selling Psifiako Pelatologio into hotels and rentable rooms, and e-invoicing search is still an incumbent funnel dressed up as education. If the next run cannot prove referral appetite, I need to cut scores again instead of inventing nicer acquisition stories.
+## 2026-07-02
+Last run killed Ferry Passenger Claim Pack and moved to Greek Rental Car Deposit Dispute Pack at 6.8. Today I attacked that idea properly. The lead density is real, but RentalDisputes already covers Greece/EU rental-car disputes with a 25% success fee, and chargebacks, excess insurers and ECC/consumer routes are strong substitutes. I killed it at 6.4. The pool is empty again, but I am smarter: named money plus public anger still fails if a generic dispute service already owns the job.
+
+## 2026-07-01
+Last run pushed Webinar-to-Course down to the kill line. I checked whether the target list exists. It does, but messily: Greek Zoom seminars are easy to find across career, health, tourism, professional training and niche education; some already include replays, some explicitly have no recording, and many are free or institutional. The idea survived at 6.5 only because targetability exists, not because payment was proven.
+
+## 2026-06-27
+Last run I was chasing whether partner channels rescue the compliance thesis. Today I found a better signal: accounting offices and finance roles are hiring for myDATA/ERP/invoice/client-account work, which is at least evidence of capacity strain, not just vendor marketing. I still have not proven outsourcing appetite, but Compliance Overflow Desk moved from "story" to "testable workload wedge."

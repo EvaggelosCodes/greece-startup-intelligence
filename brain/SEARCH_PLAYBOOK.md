@@ -60,5 +60,6 @@
 - 2026-07-02: After the paid-competitor check, run one more search for institutional rails (`chargeback`, `ECC`, `conciliation service`, insurer). If those surfaces are easier to find than buyers, the lane is over-resolved even when no local founder brand is obvious.
 - 2026-07-02: When the pool is empty after repeated kills, stop generating advice/dispute packs. Run category exploration first: compare buyers with money moving now, their gathering places, and substitutes before naming any idea.
 - 2026-07-02: For parent-deadline ideas, search scam patterns and "who owns the supply" before scoring. If fake paid-list scams exist, the offer must sell transparent research/judgement, not access to listings.
+- 2026-07-02: A buyer-language gate must use buyer verbs, not supplier copy. `psaxno foititiko spiti` proved listing demand; `asfalis periochi` in guides/portal pages did not prove parents buy judgement.
 
 ---
