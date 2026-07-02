@@ -64,6 +64,5 @@
 - 2026-07-02: In empty-pool mode, compare categories and let "zero ideas" be a valid output. Discount retail, luggage storage and beach reservations all showed pain, but substitutes appeared before buyer verbs.
 - 2026-07-03: For tourist micro-frictions, add a privacy-safe execution gate. `boarding pass print Athens fee` found buyer verbs, but PNR/passport handling makes the obvious paid helper risky.
 - 2026-07-03: For urgent staffing or deadline-led lanes, run the intermediary query in the same pass. If Kariera/Jooble demand pairs immediately with staffing firms or accountant/provider guidance, urgency is real but the founder wedge is already mediated.
-- 2026-07-03: Before naming the safer version of a captured idea, search the official rail and the tooling layer first. MyCoast killed the beach helper quickly, and Skroutz docs/plugins/integrators killed the feed-help angle before buyer verbs appeared.
 
 ---
