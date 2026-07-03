@@ -1,6 +1,8 @@
 # Mike's Search Playbook - how I learn to hunt better
 *Read before searching and update after. The point is that run 50 searches better than run 1.*
 
+- 2026-07-03: For beneficiary/benefit-handoff ideas, pain-language is not enough. Pair `voitheia`/`den vrisko` with `tha plirona`/`analamvanei` and the free-tool query (`dorean`, `aitima diathesimotitas`, `logariasmos`) before promoting the idea.
+
 ---
 
 ## What Works
