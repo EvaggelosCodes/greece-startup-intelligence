@@ -21,16 +21,16 @@
 ### Student Housing Parent Shortlist - Score: 6.4/10 - Status: PROBATION
 **What it is:** A transparent fixed-fee shortlist/scam-screening report for parents helping students find housing before the September rush.
 **Why Greece specifically:** Greek student housing is seasonal, family-driven, rent-stressed and scam-sensitive around university results.
-**How to start tomorrow:** Build one sample "safe shortlist" for a city route; post in parent/student housing groups asking if parents want area/scam-screening rather than listings; DM 20 parents who ask for housing help.
+**How to start tomorrow:** Use `ideas/validation/STUDENT_HOUSING_VALIDATION.md`: build one sample "safe shortlist" for a city route; post in parent/student housing groups asking if parents want area/scam-screening rather than listings; DM 20 parents who ask for housing help.
 **Revenue model:** EUR25-EUR49 per city/route shortlist or scam-screened candidate list.
 **Realistic Month 1 revenue:** EUR0-EUR250 unless direct parent replies prove they pay for judgement, not listings.
 **Biggest risk:** Portals, agents, private dorms and Facebook groups own listing supply, while paid-list scams poison trust.
-**Next validation action:** Find 10 parents/students who ask for area, safety, route or scam judgement and get 3 explicit "I would pay" replies.
+**Next validation action:** Run the 48h validation kit: contact 20 relevant parents/students, get 5+ sample requests or city/budget replies, and keep only if 3+ explicitly say they would pay EUR25-EUR49 for judgement/scam-screening.
 **Competitor landscape:** Spitogatos, Fititospito, agents, Oikotrust/private dorms and Facebook groups cover supply; the only possible wedge is transparent judgement.
 **Timing signal:** July-August is pre-September housing pressure, with families starting to search before results and move-in rush.
 **Grounded in:** Prior runs found real parent/student housing pressure but not enough judgement-language to keep it active.
 **Score breakdown:** CAPITAL_ZERO:10 | GREECE_FIT:8 | SPEED:7 | MARKET:6 | GAP:4 | TIMING:8 | SOLO:8
-**Score history:** 2026-07-02:6.5 -> 6.4 after buyer-language gate failed; revived as probation because one outreach test can settle whether parents buy judgement.
+**Score history:** 2026-07-02:6.5 -> 6.4 after buyer-language gate failed; revived as probation because one outreach test can settle whether parents buy judgement. 2026-07-03: held 6.4 and added validation kit focused on judgement, not paid listing access.
 ---
 
 ### Ferry Passenger Claim Pack - Score: 6.4/10 - Status: PROBATION

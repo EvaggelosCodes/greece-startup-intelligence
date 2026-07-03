@@ -18,7 +18,7 @@
 **You could make:** EUR0-EUR250 in month 1 unless parent replies prove they pay for judgement, not listings.
 **Why right now:** Families start panicking before September, and student housing has rent/scam/location uncertainty.
 **The catch:** Portals, agents and Facebook groups own listings; paid-list scams make trust fragile.
-**Next 48-hour test:** Find 10 parents/students asking for safety/route/scam judgement and get 3 explicit paid-interest replies.
+**Next 48-hour test:** Use `ideas/validation/STUDENT_HOUSING_VALIDATION.md`; contact 20 relevant parents/students, get 5 sample requests or city/budget replies, and keep only if 3 explicitly say they would pay for judgement/scam-screening.
 **Trending:** stable | proof needed: judgement demand
 
 ---
