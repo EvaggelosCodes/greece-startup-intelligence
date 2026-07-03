@@ -3,4 +3,4 @@
 
 ---
 
-*No active ideas right now. The latest retail, e-invoicing and seasonal-staffing attacks also died on channel mediation. The next survivor must pass buyer-verb, buyer-list, substitute, privacy-safe, and channel-mediation gates before entering the pool.*
+*No active ideas right now. The latest bounded scan killed the tempting airline check-in rescue, new-founder tax clinic, and STR emergency-dispatch wrappers: airline product rails own the first lane, accountant/comparison content owns the second, and cleaning/locksmith vendors own the third. The next survivor must pass buyer-verb, buyer-list, substitute, privacy-safe, channel-mediation, emergency-vendor, and platform-workaround gates before entering the pool.*

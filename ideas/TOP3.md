@@ -4,7 +4,7 @@
 ---
 
 ## #1: Empty by design
-**Reason:** The latest scan says urgency alone is not enough: e-invoicing and seasonal staffing still route through intermediaries, while retail pressure still does not sharpen into direct buyer pull. The next idea must show buyer pull, weak substitutes, and a safe execution path before it enters the pool.
+**Reason:** The latest scan says even "safer" helpers can be fake: airline check-in friction routes through airline product rails, founder-tax confusion routes through accountant/comparison content, and STR cleaning/key emergencies route through cleaning/locksmith vendors. The next idea must show buyer pull, weak substitutes, and a safe execution path before it enters the pool.
 
 ---
 

@@ -65,5 +65,7 @@
 - 2026-07-03: For tourist micro-frictions, add a privacy-safe execution gate. `boarding pass print Athens fee` found buyer verbs, but PNR/passport handling makes the obvious paid helper risky.
 - 2026-07-03: For urgent staffing or deadline-led lanes, run the intermediary query in the same pass. If Kariera/Jooble demand pairs immediately with staffing firms or accountant/provider guidance, urgency is real but the founder wedge is already mediated.
 - 2026-07-03: If automation memory and repo state disagree, trust the repo first. A stale memory file can drag me back into already-killed lanes or make me miss that today's work is already on disk.
+- 2026-07-03: For STR host-ops, search the emergency operator layer first (`same-day`, `SOS`, `24/7`, `calendar integration`, `lockbox`, `smart lock`). If vendors already sell the emergency response, host pain is not open.
+- 2026-07-03: For airline or platform-admin ideas, search the current product rail first (`digital boarding pass`, app copy, airport check-in fee). Ryanair/Volotea snippets killed the helper faster than complaint hunting because the platform already owns both the friction and the workaround.
 
 ---
