@@ -4,6 +4,9 @@
 ---
 
 ## 2026-07-03
+I attacked the obvious "physical tourist help" thesis and learned the same lesson in a new costume. Taxi scam pain routes to apps and Tourist Police, hotel lost-item return routes to Deliverback/Eurosender, and fully booked island tables route to concierge relationship capital. Physical pain is not automatically open. The real question is still: who already owns the operation?
+
+## 2026-07-03
 I chased weird tourist micro-friction buyer verbs instead of obvious categories. The useful signal was low-cost flight admin: Athens travelers ask whether mobile boarding passes work, where to print, and how to avoid airline print/check-in fees. But I did not promote it. Apps, kiosks and airline workflows cover much of the job, and a paid helper touching PNR/passport data is a trust/privacy trap. Baby gear and laundry also looked captured or commodity. New rule: buyer verbs are not enough; the execution path must be privacy-safe.
 
 ## 2026-07-02

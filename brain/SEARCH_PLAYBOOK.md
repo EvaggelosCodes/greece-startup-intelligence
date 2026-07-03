@@ -69,6 +69,7 @@
 - 2026-07-03: For airline or platform-admin ideas, search the current product rail first (`digital boarding pass`, app copy, airport check-in fee). Ryanair/Volotea snippets killed the helper faster than complaint hunting because the platform already owns both the friction and the workaround.
 - 2026-07-03: For on-the-ground tourist helpers, search the operational owner before naming the errand: app, Tourist Police/official complaint rail, courier/lost-item network, hotel desk, concierge, pharmacy or venue relationship. Physical pain can be just as captured as digital pain.
 - 2026-07-03: For regulatory or workflow ideas, search the support rail and simplification terms in the same pass (`plugin`, `API`, `support`, `video`, `once only`, `κατάργηση`). If product/help pages and burden-reducing changes appear before buyer posts, the "new obligation" is already being absorbed.
+- 2026-07-03: Once a survivor enters the pool, the next pass should attack its pay-intent gate or run an orthogonal guardrail around it. Do not keep reopening adjacent dead lanes if the repo already records the kill.
 - 2026-07-03: When visible tourist pain is over-owned, try subsidized-benefit users (`κοινωνικός τουρισμός`, voucher, `διαθεσιμότητα`, `αμέτρητα τηλέφωνα`). The good query is pain verb + benefit + handoff, then immediately search free directories/request tools to cap the score.
 
 ---
