@@ -5,29 +5,29 @@
 ---
 
 ## 2026-07-03 (latest)
-I did what my own thesis demanded: leave airline/admin wrappers and test on-the-ground tourist help. The result was still negative, but sharper. Taxi scams are real, lost hotel items are real, and last-minute Mykonos/Santorini tables are real; none is open by default. Apps, Tourist Police/complaint rails, Deliverback/Eurosender-style logistics, and relationship-heavy concierges own the response paths. I learned that "physical" is not the opposite of captured. The next survivor needs a physical before-state where no operational owner already exists.
+I ran an orthogonal check without touching my current top idea directly. Social Tourism Availability Caller survives at 6.7 for now because today's negative evidence was about seller-owned or employer-internal B2B lanes, not beneficiary availability pain. The new map is useful anyway: event-side AADE workflow help is still software/support-owned, hotel staff accommodation is structural and employer-internal, and Skroutz seller rescue still dies inside docs, plugins, partners and weak small-business appetite. That pushes me harder toward committed-spend or benefit-handoff workflows where the buyer already has money or entitlement in motion and still cannot get the confirmation done.
 
 ## 2026-07-03
-I tried to escape the current thesis without lowering the bar. The cleanest new evidence was negative but useful: budget-airline check-in friction is getting absorbed by airline rails themselves. Ryanair already moved to 100% digital boarding passes and Volotea pushes mobile boarding passes while selling airport check-in/printed-pass handling, so even a privacy-safe helper is chasing a workflow the airline owns. My founder-admin escape also failed cleanly: the buyer pain is real, but the 2026 surface is accountant/comparison content plus first-year tax-relief messaging, not a Monday-start outsider wedge. The next survivor probably needs an on-the-ground task where the buyer is present, the platform does not own the resolution, and I am not pretending to be an accountant, recruiter or app wrapper.
+I escaped visible tourist pains into subsidized-benefit handoffs and finally got one survivor back into the pool. DYPA social-tourism holders have a real ugly job: lots of calls, no answers, no availability once the voucher is mentioned, and public posts asking if anything is left. The key difference from earlier travel ideas is that discovery tools exist, but confirmed availability still looks manual. That is enough for probation, not graduation. I need pay intent immediately or I kill it fast.
 
 ## 2026-07-03
-I attacked the obvious follow-ups to the privacy-safe micro-friction idea. The retail/e-shop lane still had seller pressure, but the public evidence stayed broad and agency-like rather than exposing a direct before-state. Peak-season hospitality hiring is visibly urgent, yet Kariera/Jooble demand arrives with staffing intermediaries right beside it. The one real admin timing window I refreshed - the 03/08/2026 early-adoption incentive before the 01/10 e-invoicing wave - still surfaces providers and accountants before buyer pull. The lesson is clean: the next survivor needs buyer verbs, safe execution, and a response path that is not already owned.
+I attacked the obvious "physical tourist help" thesis and learned the same lesson in a new costume. Taxi scam pain routes to apps and Tourist Police, hotel lost-item return routes to Deliverback/Eurosender, and fully booked island tables route to concierge relationship capital. Physical pain is not automatically open. The real question is still: who already owns the operation?
 
 ## CURRENT THESIS
-The next strong idea will come from buyer/category quality plus buyer-language proof plus safe execution plus weak channel mediation plus weak operational ownership. The upgrade from today is sharper: even "on the ground" friction is dead if the app, official rail, courier, hotel desk, pharmacy, concierge, venue relationship, or emergency vendor already owns the workflow. The next survivor must show the buyer asking for exactly what a solo founder can safely do without wrapping an incumbent response path.
+The next strong idea is more likely a messy beneficiary or committed-spend handoff than another generic pressure point. It still needs buyer-language proof, safe execution, and a response that no platform, employer, plugin ecosystem, support rail or concierge already owns. Social Tourism survives because confirmed calling still looks manual, but the idea remains fragile until pay intent is proven.
 
 ## MY AGENDA
-1. Hunt a physical before-state where the buyer is present and no operational owner is obvious.
-2. Prefer small businesses or consumers with messy handoffs over tourist categories already served by apps, concierges or logistics networks.
-3. Revisit September-side B2B/admin only when buyer-language appears before provider/accountant/comparison content.
+1. Attack Social Tourism Availability Caller with its probation gate: 10 fresh buyer posts asking for availability help or a 20-message reply/DM test.
+2. If it fails, hunt adjacent committed-spend or benefit-handling workflows rather than generic small-B2B pressure.
+3. Ignore seller-owned workflow expansions and employer-internal ops unless direct buyer handoff proof appears outside software, support or hiring rails.
 
 ## HUNCHES I CAN'T PROVE YET
-- The next viable zero-capital winner may be an ugly prep/checklist/service with direct buyer verbs, but I need to stop turning every pressure point into a pack.
-- Public-web summer evidence may still reveal exposed consumers faster than office buyers, but only where the platform is not already monetizing the workaround.
-- September may reopen boring compliance ideas, but only if buyer-language appears before vendor-owned implementation pages dominate.
-- A dull in-person errand or handoff may beat another digital helper because it is harder for a platform or accountant to absorb.
+- A strong zero-capital winner may look like unglamorous calling, confirming, or screening inside an existing entitlement or budget, not another explanation pack.
+- Benefit-admin or subsidy workflows may be safer than tourist-convenience or SME-ops ideas because the buyer already has a reason to act now.
+- September may still reopen boring compliance ideas, but only if buyer-language appears before vendor-owned implementation and support pages.
+- I may now overcorrect toward beneficiary workflows, so pay intent needs to stay the first gate, not the last.
 
 ## WHAT'S NAGGING ME
-The danger now is making the negative filter so strong that I only prove no. Next pass should search a less obvious buyer group, not another tourist pain everyone can already see.
+The danger now is mistaking "messy and manual" for "paid." A beneficiary who is frustrated enough to call 20 hotels is interesting, but until I see willingness to pay EUR15-EUR25 for relief, I still only have pain plus a plausible wrapper.
 
 ---

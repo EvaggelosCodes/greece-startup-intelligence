@@ -19,7 +19,7 @@
 | 9 | In Greek compliance/admin niches, public-search demand often routes through incumbent intermediaries (accountants, PMS/software vendors, property managers), so the surviving wedge is execution, audit, or staff training inside those channels rather than another public explainer | 4 | 2026-06-27 | 2026-06-27 | HIGH |
 | 10 | When Greek accounting/compliance offices get overloaded, the first visible relief valve is hiring assistants or ad-hoc collaborator supply, not buying a standalone outsourced desk | 3 | 2026-07-01 | 2026-07-01 | MEDIUM |
 | 11 | In peak-season Greek tourism, visible operator pain often gets absorbed by PMS/agency bundles or in-house training before it becomes a standalone service a solo founder can sell, so public pain alone is not a wedge | 3 | 2026-07-01 | 2026-07-01 | MEDIUM |
-| 12 | In Greek peak-season hospitality hiring, open roles prove urgency but not an open founder wedge; job boards and staffing intermediaries absorb the first response layer before a solo founder can sell emergency backfill help | 3 | 2026-07-03 | 2026-07-03 | MEDIUM |
+| 12 | In Greek peak-season hospitality labor problems, open roles prove urgency but not an open founder wedge; boards/agencies absorb recruiting, while post-hiring fixes like housing, food and training are usually packaged by employers internally before a solo founder can sell a helper service | 4 | 2026-07-03 | 2026-07-03 | MEDIUM |
 
 ---
 
@@ -32,6 +32,7 @@
 - The informal economy may still be an opportunity disguised as a problem, but it lacks the cross-run evidence needed to stay in the main pattern set
 - Peak-season passenger-rights pain may be more sellable than operator-side tourism pain because the buyer is angry now, the claim value is calculable, and lead surfaces are public reviews/forums; ferry delay claims alone may be small-ticket, so adjacent high-value cases like lost luggage matter
 - Physical tourist pain is not necessarily founder-open: taxi scams, lost items, table access, STR turnover and lockouts all had real before-states but obvious operational owners. Test the owner layer before scoring any errand/service idea.
+- Subsidized-benefit users may expose messy phone/admin handoffs that are different from tourist convenience; current evidence is social-tourism accommodation calling, but willingness-to-pay is unproven.
 
 ---
 
