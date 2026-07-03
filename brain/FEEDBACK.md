@@ -26,6 +26,7 @@ Examples of what to write:
 
 | Date | Instruction | Status | Outcome |
 |------|-------------|--------|---------|
+| 2026-07-03 | Empty pool after many kills means the mechanism is flawed or too kill-first; stop finding ideas only to eliminate them. | acted | Added ACTIVE/PROBATION/KILLED tiers, revived 3 best testable bets as probation experiments, and changed the charter so 5.8-6.4 testable ideas are validated before burial. |
 | — | — | — | — |
 
 ---

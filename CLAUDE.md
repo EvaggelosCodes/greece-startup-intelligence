@@ -251,15 +251,19 @@ For each candidate idea:
    same kill reason probably applies — don't waste a full scoring pass, just note the
    rhyme and kill or fix it. Comparing across time is my edge; a one-shot prompt can't.
 1. Score on 7 dimensions (see framework below)
-2. Kill anything under 6.5 immediately — log in KILLED_IDEAS.md with reason
-3. For survivors, run the 5 adversarial questions:
+2. Classify, do not only kill:
+   - **8.0+ = ACTION CANDIDATE.** Attack hard, then graduate only after 2 survived attacks.
+   - **6.5-7.9 = ACTIVE.** Strong enough to stay in the pool while I keep testing.
+   - **5.8-6.4 = PROBATION EXPERIMENT** if it has all three: real buyer pain, a concrete 48-hour validation action Evaggelos could do for €0, and no fatal legal/trust/supply blocker. Keep at most 3. These are not recommendations yet; they are testable bets.
+   - **Under 5.8 or fatal flaw = KILLED.**
+3. For active/probation survivors, run the 5 adversarial questions:
    - Is there already a direct Greek competitor? (search in Greek AND English)
    - Is an EU/global company entering this space in Greece?
    - Is there ACTUAL demand evidence — not theoretical, real?
    - What is the single most likely reason this fails? Is it fatal?
    - **The FOUNDER test (brain/FOUNDER.md):** would THIS person — in Greece, no
      money, solo, needing cash now — realistically start this on Monday? If no, kill it.
-4. Only ideas surviving all 5 questions enter the pool
+4. Ideas can enter the pool as `ACTIVE` or `PROBATION`. Never leave the pool empty if there are testable 5.8-6.4 experiments with concrete next actions; mark the uncertainty honestly instead.
 
 **SURVIVAL GATES — averages are not allowed to hide fatal flaws.**
 - If COMPETITION_GAP <= 2, cap the total score at 6.4 unless I have direct outreach,
@@ -272,8 +276,10 @@ For each candidate idea:
 - If the obvious substitute is software, agency, hiring, training, accountant, manager,
   or specialist bundle, search that substitute before scoring. If the substitute owns
   the budget, kill or cap at 6.4.
-- Any idea sitting exactly at 6.5 gets one more pass only. If the next run does not find
-  a cleaner buyer list or conversion-style signal, kill it.
+- Any `PROBATION` idea gets one direct validation gate, not endless desk research. If the next
+  meaningful run or user action does not find buyer response, a cleaner buyer list, or
+  conversion-style signal, kill it. But do not kill testable ideas merely because public
+  search cannot prove conversion; public search is weaker than outreach.
 
 ### STEP 7: Re-score existing ideas
 Read ALL_IDEAS.md. For each existing idea:
@@ -281,9 +287,10 @@ Read ALL_IDEAS.md. For each existing idea:
 - Has a competitor appeared that kills it?
 - Has a tailwind strengthened or weakened?
 
-Update scores. Move any idea that now scores under 6.5 to KILLED_IDEAS.md.
-This is how the pool gets better over time — not by adding more, but by
-raising the bar.
+Update scores. Move ideas with fatal flaws or no concrete next validation action to
+KILLED_IDEAS.md. Move weak-but-testable ideas to `PROBATION`, not the graveyard.
+This is how the pool gets better over time: by raising the bar while still keeping
+real experiments alive long enough to learn from the market.
 
 ### STEP 7.5: Attack my darling (mandatory self-challenge)
 Take my current #1 and try to KILL it — not poke it, kill it. Spend one real search
@@ -294,7 +301,8 @@ or demand I assumed). State out loud: "If this idea is a trap, here's the trap."
   hand Evaggelos a dud with conviction.
 A score I haven't attacked is just me flattering myself (see MIKE.md). No darling
 graduates until it has survived this on two separate runs.
-- Add new ideas scoring 6.5+
+- Add new ideas scoring 6.5+ as `ACTIVE`; add 5.8-6.4 ideas only as `PROBATION` if they
+  have a concrete 48-hour validation action.
 - If pool at 15: archive lowest scorer, add new one
 - Keep sorted by score, highest first
 - Regenerate TOP3.md if top 3 changed
@@ -328,8 +336,8 @@ next run. If the file now holds >3 entries, move the oldest to MIKE_JOURNAL_ARCH
 **Key findings:** [2-4 bullets, the new stuff only]
 **Wrong about today:** [≥1 thing, or why nothing]
 **Updates:** facts +[n] | gaps resolved: [..] | new gaps: [..] | signals: [..] | corrections: [n]
-**Ideas:** added [name:score..] | killed [name:reason..] | re-scored [name old→new..]
-**Pool:** [count] ideas, top = [name score]
+**Ideas:** added [name:score/status..] | killed [name:reason..] | re-scored [name old→new..]
+**Pool:** [count] ideas, top = [name score/status]
 **Tomorrow:** [2-3 targets]
 **Smarter how:** [one concrete sentence — required]
 ```
@@ -381,9 +389,10 @@ Score each idea 1-10 on these 7 dimensions:
    10=100% solo | 7=solo + occasional freelancer | 5=needs part-time | 1=needs team
 
 **TOTAL = average of all 7**
-- 8.0+ = PRIORITY 🟢
-- 6.5–7.9 = GOOD 🟡
-- Under 6.5 = KILLED immediately
+- 8.0+ = PRIORITY / ACTION CANDIDATE 🟢
+- 6.5-7.9 = ACTIVE 🟡
+- 5.8-6.4 = PROBATION EXPERIMENT if it has a concrete 48-hour validation action 🟠
+- Under 5.8 or fatal flaw = KILLED
 
 **Bonuses** (+0.3 each, max +1.0):
 - Network effects improve it over time
@@ -402,13 +411,14 @@ Score each idea 1-10 on these 7 dimensions:
 ## IDEA FORMAT (ALL_IDEAS.md)
 
 ```
-### [IDEA NAME] — Score: X.X/10 🟢/🟡
+### [IDEA NAME] — Score: X.X/10 🟢/🟡/🟠 — Status: ACTIVE/PROBATION
 **What it is:** One sentence, plain language
 **Why Greece specifically:** Why HERE and not Germany
 **How to start tomorrow:** 3 steps, zero money
 **Revenue model:** Exactly how money comes in, and when
 **Realistic Month 1 revenue:** €X–€Y with reasoning
 **Biggest risk:** The one thing that kills it
+**Next validation action:** The exact €0 test Evaggelos can run in 48 hours
 **Competitor landscape:** What exists, what the gap is
 **Timing signal:** What specifically makes this the right moment
 **Grounded in:** Which specific research finding enabled this idea
