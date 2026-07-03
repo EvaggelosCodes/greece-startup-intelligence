@@ -3,6 +3,7 @@
 
 - 2026-07-03: For beneficiary/benefit-handoff ideas, pain-language is not enough. Pair `voitheia`/`den vrisko` with `tha plirona`/`analamvanei` and the free-tool query (`dorean`, `aitima diathesimotitas`, `logariasmos`) before promoting the idea.
 - 2026-07-03: Pay language is not enough either. `anazito kapoion freelancer na analavei` surfaced real WooCommerce demand, but agencies/platforms dominated immediately. Promotion needs pay language + weak substitute ownership + a reachable channel edge.
+- 2026-07-03: One vivid direct ask is not a market. Pet sitting had repeat asks but platform/hotel capture; fishing-lure repair had specificity but weak repeatability. For direct-post niches, require at least repeatable lead density + weak owner layer before scoring.
 
 ---
 

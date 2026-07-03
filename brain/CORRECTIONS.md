@@ -5,6 +5,8 @@
 
 ## Correction Log
 
+**2026-07-03 - Belief:** A narrow direct-post niche might finally escape agency/platform capture if the buyer sentence is specific enough. **Reality:** pet sitting had direct asks but too much platform/hotel/sitter supply, while fishing-lure repair had a charming specific ask but weak repeatability and existing hobby/shop supply. **Why wrong:** I let specificity feel like edge. **Change:** require repeatable lead density plus weak substitute ownership before promoting any direct-post niche.
+
 **2026-07-03 - Belief:** After killing a pain-without-pay idea, the next survivor should start from explicit pay language. **Reality:** WooCommerce/e-shop completion did show explicit buyer pay language, but it immediately routed into agencies, price guides and freelancer platforms. **Why wrong:** I treated pay language as the missing master key after Social Tourism, but it is only one gate. **Change:** require pay language plus weak substitute ownership plus a reachable first-sale channel before activation.
 
 **2026-07-03 - Belief:** Social Tourism Availability Caller might stay alive if I could find more pain posts around repeated calls and no availability. **Reality:** more pain did appear, but pay intent did not, and Koinonikos Tourismos Plus/free tools already offer direct availability requests and organization. **Why wrong:** I let "manual and annoying" sit too close to "paid relief" after a long empty-pool stretch. **Change:** for beneficiary workflows, search pay language and free request/organization tools in the same pass before activating an idea.
