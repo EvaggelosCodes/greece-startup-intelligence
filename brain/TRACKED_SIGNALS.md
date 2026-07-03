@@ -46,6 +46,9 @@
 | Tourist family/laundry convenience | ACTIVE | down | 2026-07-03 | Baby gear is already served by BabyTraveller/Babonbo-style rental; laundry is visible but commodity/hotel/laundromat-owned |
 | STR same-day turnover pressure | ACTIVE | down | 2026-07-03 | Hosts ask for cleaners and urgent turnover is real, but cleaning operators already sell last-minute SOS, same-day turnover, calendar integration, linen/laundry and damage-report workflows |
 | Airbnb key/access emergency pressure | ACTIVE | down | 2026-07-03 | Lockbox/key failure pain is real, but locksmiths and smart-lock vendors already own emergency access and prevention |
+| Athens taxi-scam tourist friction | ACTIVE | down | 2026-07-03 | Scam pain is current, but app-controlled rides, Tourist Police 1571 and public complaint/advice rails own the first response |
+| Hotel lost-item return friction | ACTIVE | down | 2026-07-03 | Real traveler pain, but Deliverback and Eurosender-style lost-item shipping already own the workflow, including Greek hotel examples |
+| VIP restaurant reservation scarcity | ACTIVE | down | 2026-07-03 | Fully booked Mykonos/Santorini tables are real, but paid concierges sell access through venue relationships, which a zero-capital founder lacks |
 | ESPA funding calls | ACTIVE | stable | 2026-07-03 | Current visible July programs still skew to regional modernization, microcredit, experience programs and existing-business tracks rather than a broad zero-capital founder wedge |
 
 ## Competitor Movements

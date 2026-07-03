@@ -36,9 +36,10 @@
 - [ ] Is there a beach-day micro-wedge that is not owned by Plazz/Summerize: price transparency, free-beach alternatives, family accessibility, or last-minute local WhatsApp help?
 - [ ] Which tourist convenience problems in Athens/Piraeus are still open after luggage storage, transfers, review cleanup and claim/dispute packs are excluded?
 - [ ] Which tourist micro-frictions show both fee anxiety and a privacy-safe helper path, rather than needing personal travel documents or platform access?
-- [ ] Which on-the-ground tourist help jobs stay open after arrival and are not already monetized by airline, airport, booking or app rails?
+- [ ] Which on-the-ground tourist help jobs stay open after arrival and are not already monetized by airline, airport, booking, app, official, courier or concierge rails?
 - [ ] Is there a post-hiring hospitality wedge downstream of seasonal staffing urgency (onboarding, emergency replacement logistics, staff housing handoff) that boards/agencies do not already own?
 - [ ] Which STR host operations are still exposed after cleaning/turnover, key access, compliance, review cleanup and listing management are excluded?
+- [ ] Which tourist physical handoff or errand has a reachable payer and no obvious owner among taxi apps, tourist police, couriers, hotel desks, concierges, pharmacies or venue relationships?
 
 ### LOW PRIORITY
 - [ ] What is the typical conversion rate for Greek Instagram business accounts?
@@ -86,3 +87,4 @@
 | Which tourist convenience problems in Athens/Piraeus are still open after luggage storage, transfers, review cleanup and claim/dispute packs are excluded? | Partial answer: boarding-pass/check-in admin is a real micro-friction with fee anxiety, but baby gear, luggage and laundry are captured/commodity; the open question is whether flight-admin help can be made privacy-safe without touching bookings. | Athens Airport/Tripadvisor/Reddit/Facebook/BabyTraveller/Babonbo snippets | 2026-07-03 |
 | Which September-side B2B/admin windows show pre-buy signals before August seasonality kills outreach? | The clearest visible window is still the 1 Oct 2026 e-invoicing wave, sharpened by the 3 Aug early-switch incentive, but July search remains accountant/provider-led rather than a clean DTC buyer surface. | Taxheaven/Naftemporiki snippets | 2026-07-03 |
 | Is there a July STR host-operations wedge where the buyer controls the before-state and the founder can help without regulated access or platform control? | Negative for cleaning/turnover and key/access: both have real urgency and buyer verbs, but cleaning firms already sell same-day turnover/linen/SOS workflows and locksmith/smart-lock suppliers already own lockout/access incidents. | Car.gr/Nannuka/Facebook/L-iT Cleaning/NextStay/A-Lock/KeyShop snippets | 2026-07-03 |
+| Which on-the-ground tourist help jobs stay open after arrival and are not already monetized by airline, airport, booking or app rails? | Negative for the obvious tested lanes: Athens taxi scams have app/police/complaint rails, hotel lost-item return has Deliverback/Eurosender-style shipping, and Mykonos/Santorini table scarcity is already owned by relationship-heavy concierges. | Dnews/Reddit/Instagram/LithosCrete/Deliverback/Eurosender/Concierge Unique/L4Luxury snippets | 2026-07-03 |

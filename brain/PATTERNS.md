@@ -31,6 +31,7 @@
 - EU-funded programs for "green economy" in Greece are systematically underapplied for; 1 signal
 - The informal economy may still be an opportunity disguised as a problem, but it lacks the cross-run evidence needed to stay in the main pattern set
 - Peak-season passenger-rights pain may be more sellable than operator-side tourism pain because the buyer is angry now, the claim value is calculable, and lead surfaces are public reviews/forums; ferry delay claims alone may be small-ticket, so adjacent high-value cases like lost luggage matter
+- Physical tourist pain is not necessarily founder-open: taxi scams, lost items, table access, STR turnover and lockouts all had real before-states but obvious operational owners. Test the owner layer before scoring any errand/service idea.
 
 ---
 
