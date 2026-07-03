@@ -53,12 +53,14 @@
 | VIP restaurant reservation scarcity | ACTIVE | down | 2026-07-03 | Fully booked Mykonos/Santorini tables are real, but paid concierges sell access through venue relationships, which a zero-capital founder lacks |
 | Social-tourism accommodation availability friction | ACTIVE | down | 2026-07-03 | Pain is real, but the paid caller wedge failed its public pay-intent gate: Koinonikos Tourismos Plus/free request tools already offer direct availability requests and organization, while no credible EUR15-EUR25 willingness-to-pay surfaced |
 | Spiti Mou II document/approval pressure | ACTIVE | down | 2026-07-03 | High-stakes committed spend, but banks, lawyers, engineers and loan advisors own the eligibility/document/legal/technical workflow; no clean solo-founder helper edge surfaced |
+| Parent-voucher / childcare application rush | ACTIVE | up | 2026-07-03 | EETAA/KDAP 2026-2027 applications and up-to-EUR500/month support are surfacing, but the public surface is center/application info rather than explicit paid-help demand |
+| Home-upgrade subsidy document workflow | ACTIVE | down | 2026-07-03 | Anavathmizo/Exoikonomo/Spiti Mou follow-on searches surfaced gov, bank, engineer and technical-advisor rails plus dated/closed windows, so a solo document concierge looks institutionally owned |
 | WooCommerce/e-shop completion demand | ACTIVE | down | 2026-07-03 | Direct buyer pay language exists on freelancer surfaces, but agencies, price guides, rebuild services and freelancer platforms dominate the response path |
 | Pet sitting / pet boarding demand | ACTIVE | down | 2026-07-03 | Direct asks exist, especially around travel, but platforms, pet hotels, local sitters and pet-care services already own discovery and trust |
 | Tiny hobby repair/custom asks | ACTIVE | down | 2026-07-03 | Fishing-lure/tackle repair/custom work produced one direct ask, but the lane is too small and already served by shops, workshops and hobby groups |
 | Vacation plant / house check-in | ACTIVE | down | 2026-07-03 | Occasional travel-period pay language exists, but Greek signal is thin, low-ticket and high-trust; pet sitters, cleaners, house sitters and neighbors absorb the job |
 | Ad-hoc interpreter / appointment companion | ACTIVE | down | 2026-07-03 | Hourly/direct demand exists, including one-hour interpreter asks and tenders, but professional interpreters, NGOs/procurement and translation networks own the supply layer |
-| ESPA funding calls | ACTIVE | stable | 2026-07-03 | Current visible July programs still skew to regional modernization, microcredit, experience programs and existing-business tracks rather than a broad zero-capital founder wedge |
+| ESPA funding calls | ACTIVE | stable | 2026-07-03 | Fresh July programming/open-call snippets still skew to institutional, regional, employment and sector-specific digital-service calls rather than a broad solo-founder wedge |
 
 ## Competitor Movements
 

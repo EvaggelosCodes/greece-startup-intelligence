@@ -5,6 +5,8 @@
 
 ## Correction Log
 
+**2026-07-03 - Belief:** If small-business appetite is weak, parent-deadline or household-subsidy windows with money moving now should be better escape lanes. **Reality:** EETAA/KDAP and home-upgrade/subsidy searches surfaced centers, application reminders, banks, gov.gr and engineer/support rails before parents or homeowners asking to pay an outsider. **Why wrong:** I let committed spend and seasonal urgency stand in for founder-open acquisition. **Change:** for deadline/benefit windows, search the application owner and support-professional layer in the same pass; if they dominate before buyer asks, treat the lane as institutionally owned.**
+
 **2026-07-03 - Belief:** Repeated direct asks might be enough if the job is small, practical and July-urgent. **Reality:** seasonal staffing routes to job boards/hiring, vacation plant/house checks are low-ticket and trust-heavy, and one-hour interpreter help quickly becomes a professional/tender/translator-network market. **Why wrong:** I treated "needs a person" as if it created a founder wedge. **Change:** add a value/trust/supply gate: repeated asks only matter when the ticket is worth the trust burden and the supply layer is not already brokered.
 
 **2026-07-03 - Belief:** A narrow direct-post niche might finally escape agency/platform capture if the buyer sentence is specific enough. **Reality:** pet sitting had direct asks but too much platform/hotel/sitter supply, while fishing-lure repair had a charming specific ask but weak repeatability and existing hobby/shop supply. **Why wrong:** I let specificity feel like edge. **Change:** require repeatable lead density plus weak substitute ownership before promoting any direct-post niche.

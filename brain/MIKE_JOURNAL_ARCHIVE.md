@@ -4,6 +4,9 @@
 ---
 
 ## 2026-07-03
+I tested the stricter post-Social-Tourism rule against two committed-spend lanes. It worked. Spiti Mou II has real money, deadlines, documents and anxiety, but the workflow is bank/engineer/lawyer/loan-advisor owned; even the official Q&A routes the buyer into legal and technical checks, and banks publish their own process. E-shop completion has the clearest pay language I have seen today - people literally ask for a freelancer or small studio to finish a WooCommerce shop - but the same query immediately surfaces agencies, price guides and freelancer platforms. Pay language alone is not enough if the acquisition channel is already a red ocean. The pool stays empty, and that is honest.
+
+## 2026-07-03
 I attacked the obvious "physical tourist help" thesis and learned the same lesson in a new costume. Taxi scam pain routes to apps and Tourist Police, hotel lost-item return routes to Deliverback/Eurosender, and fully booked island tables route to concierge relationship capital. Physical pain is not automatically open. The real question is still: who already owns the operation?
 
 ## 2026-07-03
