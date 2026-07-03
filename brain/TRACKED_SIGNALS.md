@@ -52,6 +52,8 @@
 | Hotel lost-item return friction | ACTIVE | down | 2026-07-03 | Real traveler pain, but Deliverback and Eurosender-style lost-item shipping already own the workflow, including Greek hotel examples |
 | VIP restaurant reservation scarcity | ACTIVE | down | 2026-07-03 | Fully booked Mykonos/Santorini tables are real, but paid concierges sell access through venue relationships, which a zero-capital founder lacks |
 | Social-tourism accommodation availability friction | ACTIVE | down | 2026-07-03 | Pain is real, but the paid caller wedge failed its public pay-intent gate: Koinonikos Tourismos Plus/free request tools already offer direct availability requests and organization, while no credible EUR15-EUR25 willingness-to-pay surfaced |
+| Spiti Mou II document/approval pressure | ACTIVE | down | 2026-07-03 | High-stakes committed spend, but banks, lawyers, engineers and loan advisors own the eligibility/document/legal/technical workflow; no clean solo-founder helper edge surfaced |
+| WooCommerce/e-shop completion demand | ACTIVE | down | 2026-07-03 | Direct buyer pay language exists on freelancer surfaces, but agencies, price guides, rebuild services and freelancer platforms dominate the response path |
 | ESPA funding calls | ACTIVE | stable | 2026-07-03 | Current visible July programs still skew to regional modernization, microcredit, experience programs and existing-business tracks rather than a broad zero-capital founder wedge |
 
 ## Competitor Movements

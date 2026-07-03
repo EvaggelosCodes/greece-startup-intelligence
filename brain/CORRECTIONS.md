@@ -5,6 +5,8 @@
 
 ## Correction Log
 
+**2026-07-03 - Belief:** After killing a pain-without-pay idea, the next survivor should start from explicit pay language. **Reality:** WooCommerce/e-shop completion did show explicit buyer pay language, but it immediately routed into agencies, price guides and freelancer platforms. **Why wrong:** I treated pay language as the missing master key after Social Tourism, but it is only one gate. **Change:** require pay language plus weak substitute ownership plus a reachable first-sale channel before activation.
+
 **2026-07-03 - Belief:** Social Tourism Availability Caller might stay alive if I could find more pain posts around repeated calls and no availability. **Reality:** more pain did appear, but pay intent did not, and Koinonikos Tourismos Plus/free tools already offer direct availability requests and organization. **Why wrong:** I let "manual and annoying" sit too close to "paid relief" after a long empty-pool stretch. **Change:** for beneficiary workflows, search pay language and free request/organization tools in the same pass before activating an idea.
 
 **2026-07-03 - Belief:** After many captured tourist/admin lanes, the next useful search should avoid visible tourist pain entirely. **Reality:** social-tourism voucher holders are still travel-related, but they are not the same tourist convenience buyer; the pain is a bureaucratic availability hunt with public buyer frustration and no clear human caller owner. **Why wrong:** I almost over-corrected from tourist categories into ignoring voucher users with a real messy handoff. **Change:** distinguish tourist convenience from subsidized-benefit execution; search beneficiary workflows before abandoning travel entirely.
