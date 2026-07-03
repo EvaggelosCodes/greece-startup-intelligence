@@ -56,6 +56,8 @@
 | WooCommerce/e-shop completion demand | ACTIVE | down | 2026-07-03 | Direct buyer pay language exists on freelancer surfaces, but agencies, price guides, rebuild services and freelancer platforms dominate the response path |
 | Pet sitting / pet boarding demand | ACTIVE | down | 2026-07-03 | Direct asks exist, especially around travel, but platforms, pet hotels, local sitters and pet-care services already own discovery and trust |
 | Tiny hobby repair/custom asks | ACTIVE | down | 2026-07-03 | Fishing-lure/tackle repair/custom work produced one direct ask, but the lane is too small and already served by shops, workshops and hobby groups |
+| Vacation plant / house check-in | ACTIVE | down | 2026-07-03 | Occasional travel-period pay language exists, but Greek signal is thin, low-ticket and high-trust; pet sitters, cleaners, house sitters and neighbors absorb the job |
+| Ad-hoc interpreter / appointment companion | ACTIVE | down | 2026-07-03 | Hourly/direct demand exists, including one-hour interpreter asks and tenders, but professional interpreters, NGOs/procurement and translation networks own the supply layer |
 | ESPA funding calls | ACTIVE | stable | 2026-07-03 | Current visible July programs still skew to regional modernization, microcredit, experience programs and existing-business tracks rather than a broad zero-capital founder wedge |
 
 ## Competitor Movements

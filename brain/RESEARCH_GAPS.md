@@ -42,6 +42,7 @@
 - [ ] Which direct-post niches have repeatable lead density, not just one charming buyer sentence?
 - [ ] Which STR host operations are still exposed after cleaning/turnover, key access, compliance, review cleanup and listing management are excluded?
 - [ ] Which tourist physical handoff or errand has a reachable payer and no obvious owner among taxi apps, tourist police, couriers, hotel desks, concierges, pharmacies or venue relationships?
+- [ ] Which direct asks are high-ticket enough to overcome trust/supply friction without becoming a brokered professional market?
 
 ### LOW PRIORITY
 - [ ] What is the typical conversion rate for Greek Instagram business accounts?
@@ -96,3 +97,4 @@
 | Will social-tourism voucher holders pay EUR15-EUR25 for a confirmed-availability calling report, or do free maps/request forms satisfy them once discovered? | Public search says no for now: buyer frustration persists, but no credible pay-intent surfaced, while Koinonikos Tourismos Plus/free directory tools already offer direct availability requests, favorites, comments and organization through a free account. Only direct outreach can revive the paid-caller version. | Koinonikos Tourismos Plus/koinonikakatalimata/Travelstories/Facebook snippets | 2026-07-03 |
 | Which committed-spend/benefit handoffs show payment or price language before generic provider capture? | Spiti Mou II has money and anxiety but is bank/professional-owned; e-shop completion has pay language but is agency/freelancer-platform crowded. Neither becomes active without a narrower channel edge. | HDB/bank snippets/Freelancer.gr/Symbols/Digital Challenge snippets | 2026-07-03 |
 | Can pet sitting/boarding or tiny hobby repair/custom posts reveal direct-pay niches outside platforms? | Negative for now: pet sitting has direct asks but is platform/hotel/sitter-owned, while fishing-lure/custom repair has one charming ask but too little repeatable lead density and existing shop/group supply. | Facebook/PetBacker/Petsly/Nannuka/MyBestie/NerdFishing/XO/Donax snippets | 2026-07-03 |
+| Do small practical direct asks become founder-open if they repeat across house/plant sitting, seasonal staffing, or one-hour interpreter help? | Mostly no: seasonal jobs route to job boards/hiring, vacation plant/house checks are low-ticket and trust-heavy, and interpreter help has hourly demand but is already a brokered professional/procurement market. | Indeed/Facebook/PetBacker/ARSIS/KETHEA/AADE snippets | 2026-07-03 |

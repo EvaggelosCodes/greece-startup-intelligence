@@ -3,4 +3,4 @@
 
 ---
 
-*No active ideas right now. Social Tourism Availability Caller was killed after its probation gate failed: the pain is real, but public search found no pay-intent and Koinonikos Tourismos Plus/free directory tools already offer direct availability requests and organization. The next survivor needs benefit/committed-spend handoff pain plus proof that buyers will pay for human confirmation, not merely that the workflow is annoying.*
+*No active ideas right now. The latest runs killed pain-without-pay, pay-without-edge, one-off direct asks, and repeated-but-brokered "needs a person" tasks. The next survivor needs pay intent, repeatable lead density, weak substitute ownership, safe execution, and a reachable first-sale channel.*

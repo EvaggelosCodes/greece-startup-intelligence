@@ -4,7 +4,7 @@
 ---
 
 ## #1: Empty by design
-**Reason:** Social Tourism Availability Caller failed its probation gate. The pain is real, but no public pay-intent surfaced, and free availability-request/organization tools already cover much of the job. The next idea must show pay intent before entering the pool.
+**Reason:** The latest direct-ask scans also failed: pet sitting, plant/house checks, seasonal staffing and one-hour interpreter help all had some real demand smell, but each was either low-ticket/high-trust or already captured by platforms, job boards, specialists or professional networks. The next idea must show pay intent, repeatable lead density, weak substitutes and a reachable first-sale channel before entering the pool.
 
 ---
 
