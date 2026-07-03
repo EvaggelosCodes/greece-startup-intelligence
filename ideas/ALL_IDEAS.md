@@ -6,16 +6,16 @@
 ### Social Tourism Availability Caller - Score: 6.4/10 - Status: PROBATION
 **What it is:** A fixed-fee caller who finds 3-5 actually available DYPA/OPEKA social-tourism accommodation options for voucher holders who are tired of calling hotels.
 **Why Greece specifically:** Greek social-tourism vouchers create a compressed summer phone/admin hunt with Greek providers, rules and availability friction.
-**How to start tomorrow:** Post/comment in 3 relevant Facebook/Reddit/Insomnia threads offering a free first search for 2 users; DM 20 voucher holders who complain about no availability; ask whether they would pay EUR15-EUR25 only after a confirmed options report.
+**How to start tomorrow:** Use `ideas/validation/SOCIAL_TOURISM_VALIDATION.md`: post/comment in 3 relevant Facebook/Reddit/Insomnia threads offering a free first search for 2 users; DM 20 voucher holders who complain about no availability; ask whether they would pay EUR15-EUR25 only after a confirmed options report.
 **Revenue model:** EUR15-EUR25 per confirmed-options report; possibly success fee only if at least 3 viable options are found.
 **Realistic Month 1 revenue:** EUR0-EUR300 until conversion is proven; this is a validation bet, not a recommendation.
 **Biggest risk:** Public search did not prove willingness to pay, and free request/list tools already solve part of the job.
-**Next validation action:** Get 20 direct replies from voucher holders and record whether at least 3 say they would pay for confirmed calling help.
+**Next validation action:** Run the 48h validation kit: contact 20 relevant leads, get 3+ engagements, and keep only if 1+ says they would pay EUR15-EUR25 after seeing confirmed options.
 **Competitor landscape:** Koinonikos Tourismos Plus and related free directories/request tools are strong substitutes; no clear paid human-caller proof yet.
 **Timing signal:** July 2026 social-tourism voucher window and repeated "no availability / no answers" pain.
 **Grounded in:** Prior runs found repeated beneficiary frustration but failed the public pay-intent gate.
 **Score breakdown:** CAPITAL_ZERO:10 | GREECE_FIT:9 | SPEED:8 | MARKET:5 | GAP:4 | TIMING:8 | SOLO:8
-**Score history:** 2026-07-03:6.7 -> 6.4 after free tools/no public pay-intent; revived as probation because it has the clearest direct validation action.
+**Score history:** 2026-07-03:6.7 -> 6.4 after free tools/no public pay-intent; revived as probation because it has the clearest direct validation action. 2026-07-03: held 6.4 after a validation-kit pass found more free-tool pressure but enough lead surfaces to justify one outreach test.
 ---
 
 ### Student Housing Parent Shortlist - Score: 6.4/10 - Status: PROBATION

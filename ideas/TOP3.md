@@ -8,7 +8,7 @@
 **You could make:** EUR0-EUR300 in month 1 unless direct replies prove conversion.
 **Why right now:** July voucher users are actively trying to find availability and getting no answers/no rooms.
 **The catch:** Free request/list tools exist, and public search did not prove people will pay EUR15-EUR25.
-**Next 48-hour test:** DM/comment to 20 voucher holders with a free first search; keep only if 3 say they would pay after seeing confirmed options.
+**Next 48-hour test:** Use `ideas/validation/SOCIAL_TOURISM_VALIDATION.md`; DM/comment to 20 voucher holders with a free first search; keep only if 3 engage and 1 says they would pay after seeing confirmed options.
 **Trending:** stable | proof needed: pay intent
 
 ---

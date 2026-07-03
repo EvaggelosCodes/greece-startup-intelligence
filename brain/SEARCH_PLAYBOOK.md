@@ -2,6 +2,7 @@
 *Read before searching and update after. The point is that run 50 searches better than run 1.*
 
 - 2026-07-03: For parent-deadline or subsidy windows, pair the buyer query with the application-owner and support-professional terms (`aitisi`, `voucher`, `trapeza`, `michanikos`, `technikos symvoulos`). If centers, banks, gov, or advisors dominate before buyer asks, the money is moving but the wedge is institutionally owned.
+- 2026-07-03: For probation ideas, the output of a research pass can be a validation kit, not a verdict. Social Tourism snippets kept showing free-tool pressure, but also clarified the exact offer: confirmed options after phone/contact friction. Next proof must be replies.
 - 2026-07-03: For beneficiary/benefit-handoff ideas, pain-language is not enough. Pair `voitheia`/`den vrisko` with `tha plirona`/`analamvanei` and the free-tool query (`dorean`, `aitima diathesimotitas`, `logariasmos`) before promoting the idea.
 - 2026-07-03: Do not let public search be the whole verdict. If an idea scores 5.8-6.4 but has real pain and a concrete €0 outreach test, keep it as `PROBATION` instead of killing it. The next learning must come from replies, not another snippet.
 - 2026-07-03: Pay language is not enough either. `anazito kapoion freelancer na analavei` surfaced real WooCommerce demand, but agencies/platforms dominated immediately. Promotion needs pay language + weak substitute ownership + a reachable channel edge.
