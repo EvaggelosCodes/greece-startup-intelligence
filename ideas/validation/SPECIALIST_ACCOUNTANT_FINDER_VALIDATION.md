@@ -56,12 +56,41 @@ Priority 2 - online earners:
 
 ## Supply Bench Search Targets
 
+- Investor-tax pages that explicitly mention crypto, ETF, UCITS, investment tax, annual statements, dividends, or documents investors need to keep.
 - E-commerce/Amazon accounting pages that mention marketplaces, payment gateways, EU sales, OSS/IOSS, Amazon or Shopify.
 - Creator/influencer accounting pages that mention YouTube, TikTok, Patreon, OnlyFans, Twitch, affiliate income or sponsorships.
 - Online accounting offices with starting prices around EUR100/month or a first consultation path.
 - Offices that explain remote-worker, foreign-client, Stripe/PayPal or platform-income handling.
 
 Do not include an accountant in the shortlist because they wrote generic content. Include only if they confirm the exact case by message or phone.
+
+## Candidate Supply To Verify First
+
+- AT Office: current 2026 Crypto & ETF tax guide says the office often receives private-client questions and explains investor documents, UCITS/ETF distinction and crypto/ETF reporting.
+- KRS: publishes investment-tax content and broader accounting/tax advisory positioning.
+- Kolidas: candidate for later e-commerce/Amazon cases, not necessarily investor-tax cases.
+- At Office e-commerce page: candidate for marketplace/Amazon and e-commerce expansion cases.
+- TaxPoint / SK Advisors: candidate for creator, influencer, YouTube, OnlyFans and platform-income expansion cases.
+
+These are not approved suppliers yet. They are the first offices to call/message with the verification questions.
+
+## Tiny Paid Pilot Offer
+
+Name: Foreign Broker Tax-Ready Accountant Match
+
+Price test: EUR29 early pilot, EUR49 normal.
+
+Promise:
+- I collect your case in a short form.
+- I tell you which documents accountants usually ask to see for matching purposes.
+- I contact accountant offices and return 3-5 who say they handle your exact type of case.
+- If no accountant accepts the case, you pay nothing.
+
+Non-promise:
+- I do not tell you what to declare.
+- I do not say your current accountant is wrong.
+- I do not file anything.
+- The accountant gives the tax advice and does the filing.
 
 ## Public Reply Script
 
