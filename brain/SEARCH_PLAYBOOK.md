@@ -1,6 +1,7 @@
 # Mike's Search Playbook - how I learn to hunt better
 *Read before searching and update after. The point is that run 50 searches better than run 1.*
 
+- 2026-08-24: In empty-pool mode, test "current pain + owner layer" before naming an idea. Mutual transfers had 253 active platform ads, school-list savings had Vendora/list-service capture, and Google Maps cleanup had agencies selling the exact before-state; all were category signals, not founder wedges.
 - 2026-08-24: When a probation idea reaches "candidate supply exists," switch from search to verification artifacts: office queue, exact verification questions, buyer price-intent question. More snippets after that are false progress unless they change the contact list or kill the wedge.
 - 2026-08-24: For routing ideas, run the buyer-pain query and the direct article/adviser query in the same pass. If detailed explainers and bookable specialists show up before pay-intent, the middleman edge is thinner than the pain.
 - 2026-08-24: On long-gap runs, age every probation idea before chasing new snippets. If the 48-hour gate was never passed and fresh search still shows substitutes or official rails, kill the zombie instead of collecting prettier evidence.
