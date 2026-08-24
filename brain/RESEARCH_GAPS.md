@@ -9,6 +9,8 @@
 
 ### HIGH PRIORITY
 - [ ] Which direct-buyer late-August or September pain points in Greece show public willingness-to-pay without obvious platform, agency, software, institutional, or specialist capture?
+- [ ] Will Greeks with Amazon KDP, IBKR/DEGIRO/Revolut, creator income, Stripe/PayPal, or foreign-client income pay EUR29-EUR49 for a verified specialist-accountant shortlist, or will they just ask Reddit and search accountant SEO pages?
+- [ ] Can 5+ Greek accountant offices be verified in 48 hours as accepting specific online-earner niches without turning the founder into a regulated adviser?
 - [ ] Which September paid-help surfaces are not already inside Nannuka, Jooble, Haulx/Douleutaras, accountant/provider, official-benefit, or other broker rails?
 - [ ] Which parent-deadline categories show parents publicly asking to pay for outside help after the August housing rush, not just consuming guides, scam warnings, and owner advice?
 - [ ] If Q3 2026 small-business appetite is weakening and August is structurally bad for B2B adoption, which September buyer categories still have committed spend now instead of generic SME "pressure"? (2026-07-03 partial: EETAA/KDAP and home-upgrade/subsidy windows have money moving, but the public web is already center/bank/application owned rather than founder-open)
@@ -58,6 +60,7 @@
 
 | Gap | Answer | Source | Date Resolved |
 |-----|--------|--------|---------------|
+| Does "paid helper missing outside owned rails" show up anywhere after September pay/pricing lanes failed? | Partial yes: online earners/investors show specialist-accountant discovery pain. A July 2026 KDP seller said their accountant cannot handle Amazon and other accountants had no idea; IBKR/DEGIRO/Revolut posts repeat that ordinary accountants may not know the case. But specialist accounting supply exists, so this is only probation until buyer replies and accountant bench verification happen. | r/PersonalFinanceGreece/r/greece/Kavallaris/Plat-is/SK Advisors snippets | 2026-08-24 |
 | Do September-facing paid-demand categories produce founder-open ideas after the zombie-pool reset? | No on this public-web pass: back-to-school study/parallel support, e-invoicing setup, and student moving all showed pay/pricing/timing, but each owner layer appeared immediately - Nannuka/Jooble/job boards, accountants/providers/software, and mover/quote platforms. Paid demand inside an incumbent surface is not edge. | Nannuka/Jooble/Kolidas/i-spirit/Haulx/Douleutaras snippets | 2026-08-24 |
 | Is Greek e-commerce underdeveloped? | No; skroutz.gr has 8M monthly users, market is mature | skroutz.gr | 2026-03-27 |
 | What do 2025-26 STR rules say? | Law 5170/2025: EU reg number 20 May 2026, Athens freeze to Thessaloniki Mar 2026, fines EUR5k+ | LiFO/taxheaven | 2026-06-24 |
