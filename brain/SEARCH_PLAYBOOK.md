@@ -39,6 +39,7 @@
 - Which Psifiako Pelatologio search proves direct setup demand versus vendor-owned demand?
 
 ## Recent Observations
+- 2026-08-24: September pay/pricing can be a trap. Back-to-school study/parallel support showed EUR5-EUR15/hour and EUR500+ asks, e-invoicing setup showed EUR150+/EUR300/EUR70 anchors, and student moving showed EUR70-EUR220/EUR120-EUR400 ranges. All were real, but all were channel-owned. Search the owner layer before scoring the idea.
 - 2026-06-25: STR compliance firms already exist; low-price owner-centric positioning matters more than "no competitor."
 - 2026-06-25: Pet-care looks real as a market but still needs marketplace-gap proof.
 - 2026-06-26: The e-invoicing wedge sharpened from paid software setup to "cheapest compliant path" because AADE timologio is free and paid tools/cost anxiety are visible.

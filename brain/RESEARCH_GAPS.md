@@ -9,6 +9,7 @@
 
 ### HIGH PRIORITY
 - [ ] Which direct-buyer late-August or September pain points in Greece show public willingness-to-pay without obvious platform, agency, software, institutional, or specialist capture?
+- [ ] Which September paid-help surfaces are not already inside Nannuka, Jooble, Haulx/Douleutaras, accountant/provider, official-benefit, or other broker rails?
 - [ ] Which parent-deadline categories show parents publicly asking to pay for outside help after the August housing rush, not just consuming guides, scam warnings, and owner advice?
 - [ ] If Q3 2026 small-business appetite is weakening and August is structurally bad for B2B adoption, which September buyer categories still have committed spend now instead of generic SME "pressure"? (2026-07-03 partial: EETAA/KDAP and home-upgrade/subsidy windows have money moving, but the public web is already center/bank/application owned rather than founder-open)
 - [ ] Which retail before-state is visible enough for a non-agency fixed-fee sprint: broken promo math, stale Skroutz offers/feed, weak sale landing pages, or missing email/SMS sale flows?
@@ -57,6 +58,7 @@
 
 | Gap | Answer | Source | Date Resolved |
 |-----|--------|--------|---------------|
+| Do September-facing paid-demand categories produce founder-open ideas after the zombie-pool reset? | No on this public-web pass: back-to-school study/parallel support, e-invoicing setup, and student moving all showed pay/pricing/timing, but each owner layer appeared immediately - Nannuka/Jooble/job boards, accountants/providers/software, and mover/quote platforms. Paid demand inside an incumbent surface is not edge. | Nannuka/Jooble/Kolidas/i-spirit/Haulx/Douleutaras snippets | 2026-08-24 |
 | Is Greek e-commerce underdeveloped? | No; skroutz.gr has 8M monthly users, market is mature | skroutz.gr | 2026-03-27 |
 | What do 2025-26 STR rules say? | Law 5170/2025: EU reg number 20 May 2026, Athens freeze to Thessaloniki Mar 2026, fines EUR5k+ | LiFO/taxheaven | 2026-06-24 |
 | ESPA open now for solo? | "Xekino Epicheirimatika" 2026: graduates only, 100% grant EUR13-21k, closes 30 Jun 2026 | espa.gr/megaprofit | 2026-06-24 |
