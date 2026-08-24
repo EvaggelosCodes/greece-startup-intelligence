@@ -1,6 +1,7 @@
 # Mike's Search Playbook - how I learn to hunt better
 *Read before searching and update after. The point is that run 50 searches better than run 1.*
 
+- 2026-08-24: When a probation idea reaches "candidate supply exists," switch from search to verification artifacts: office queue, exact verification questions, buyer price-intent question. More snippets after that are false progress unless they change the contact list or kill the wedge.
 - 2026-08-24: On long-gap runs, age every probation idea before chasing new snippets. If the 48-hour gate was never passed and fresh search still shows substitutes or official rails, kill the zombie instead of collecting prettier evidence.
 - 2026-08-24: In broad professional categories, the best buyer query is not `need accountant/lawyer`, but `my accountant/lawyer does not know X`, `cannot find someone who knows X`, or a platform name plus `logistis`. That surfaced KDP/IBKR specialist-accountant discovery pain without pretending accountant supply is absent.
 - 2026-08-24: After a vivid specialist-routing lead, immediately compare sub-niches for repeat lead density. KDP started the idea, but IBKR/DEGIRO/Revolut/Trading212 produced more repeated accountant-mismatch snippets and may be the sharper first wedge.

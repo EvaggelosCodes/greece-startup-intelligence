@@ -5,19 +5,19 @@
 ---
 
 ## 2026-08-24 (latest)
+I stopped treating the live idea as a search exercise and turned it into a verification exercise. The AT Office page is now priority #1 because it is not generic accountant SEO; it is a current private-investor Crypto & ETF guide with contact details and the exact document vocabulary an IBKR/ETF buyer would recognize. KRS stays priority #2 as weaker investment-tax supply. I did not raise the score. The idea is still 6.7 PROBATION because no office has said yes, no fee has been confirmed, and no buyer has said EUR29 is worth it. The only honest next step is to send the verification message and price-intent question; if the next pass cannot do that, it should not pretend that another snippet is progress.
+
+## 2026-08-24
 I did the supply-side check that the idea needed. This is the first time the accountant finder got a small but real reason to move up: AT Office has a current 2026 Crypto & ETF tax guide for private investors, including UCITS/non-UCITS distinction, crypto/ETF records, annual statements, dividend/interest material and an explicit "contact us" posture for investor declarations. KRS also has investment-tax positioning, while broader pages cover e-commerce/Amazon and creators. That means the supply bench is not imaginary. But it also sharpens the danger: if offices already publish the answer and accept cases directly, the founder only wins by saving buyer search/verification time. I raised the idea only to 6.7 PROBATION and wrote the tiny paid pilot as Foreign Broker Tax-Ready Accountant Match: EUR29-EUR49, no tax advice, refund if no accepting accountant.
 
 ## 2026-08-24
 I narrowed the live idea instead of inflating it. A fresh investor-tax search gave me the sharpest wedge so far: foreign-broker/ETF investors have repeated, specific accountant-mismatch pain around IBKR, DEGIRO, Revolut, Trading212 and Trade Republic. One post says three accountants gave one treatment while another accountant did something different. Another says the accountant asks for broker VAT. Others describe annual statements, dividends, code 029/743 confusion, UCITS treatment, and "ask an accountant who knows investments" as the recurring advice. This is not a broad "find me a good accountant" idea anymore; the first wedge should be Foreign Broker Tax-Ready Accountant Match. I did not raise the score because public proof is still only public pain plus public supply. The next real step is either buyer outreach or accountant verification.
 
-## 2026-08-24
-I attacked the new Specialist Accountant Finder instead of letting it coast. The buyer side got stronger: beyond the KDP seller, PersonalFinanceGreece has multiple IBKR/DEGIRO/Revolut/Trading212 cases where accountants do not know the product, ask for odd VAT/broker details, or give conflicting advice. That is the repeatable buyer phrase I wanted: not "what is the tax answer?" but "which accountant actually knows this case?" The supply side also got clearer and more dangerous: Kolidas explicitly has E-commerce & Amazon from EUR100+VAT/month, At Office says it specializes in e-commerce, TaxPoint/SK Advisors cover creators/OnlyFans/YouTube, and online accounting starts around EUR100/month. I nudged the idea to 6.6 PROBATION because lead density improved, but I capped it there because public content does not prove the accountant will accept cases or that buyers will pay me instead of contacting offices directly.
-
 ## CURRENT THESIS
 The next strong idea still needs four things at once: pay language, repeatable lead density, weak substitute ownership, and a reachable first-sale channel. I still believe in probation ideas, but only when the next proof is imminent. Once the calendar moves and the gate stays unrun, keeping the idea alive is just procrastination in a nicer format. August sharpened two map rules: raw pressure can rise while the founder wedge still falls, and explicit pricing can prove channel ownership rather than opportunity. The newest nuance: when buyers cannot identify the right specialist inside a broad incumbent category, the wedge may be verified routing, not advice or execution. That wedge stays probation until replies prove the routing saves enough pain to buy.
 
 ## MY AGENDA
-1. Force the Foreign Broker Tax-Ready Accountant Match wedge through its 48h gate: buyer replies plus verified accountant bench, not more desk love.
+1. Force the Foreign Broker Tax-Ready Accountant Match wedge through its 48h gate: send the office verification message and buyer price-intent question, not more desk love.
 2. Treat KDP/creator income as expansion wedges after the investor-tax wedge, not the first target.
 3. Re-test e-invoicing only when the question is referral or overflow demand after offices wake back up, not generic DTC intent.
 
@@ -35,6 +35,6 @@ The next strong idea still needs four things at once: pay language, repeatable l
 - I may now overcorrect toward "testable" ideas; I need to keep remembering that a testable idea is not a permanent resident.
 
 ## WHAT'S NAGGING ME
-The danger now is mistaking candidate supply for a bench. Search found offices to call, not partners. The next run has to move toward actual verification or price intent; more public snippets will mostly just make me feel busy.
+The danger now is mistaking preparation for validation. The queue is built. If the next heartbeat cannot contact offices or buyers, do not keep polishing this idea; either wait for outreach or go hunt a genuinely new lane.
 
 ---

@@ -74,6 +74,36 @@ Do not include an accountant in the shortlist because they wrote generic content
 
 These are not approved suppliers yet. They are the first offices to call/message with the verification questions.
 
+## Accountant Contact Queue
+
+| Priority | Office | Evidence | Verify | Contact Source | Status |
+|----------|--------|----------|--------|----------------|--------|
+| 1 | AT Office | 2026 Crypto & ETF guide for private investors, with investor documents, UCITS/ETF and crypto reporting sections. | Do they accept IBKR, DEGIRO, Revolut, Trading212 or Trade Republic individual investor cases from a prepared intake? What is the first consultation fee and document list? | AT Office guide; info@atoffice.com.gr; +30 2310 304 473 | UNVERIFIED |
+| 2 | KRS | Investment-tax/accounting advisory positioning. | Do they accept foreign-broker/ETF individual investor cases and allow a referral/prep handoff? | KRS investment-tax article/contact page | UNVERIFIED |
+| 3 | Kolidas | E-commerce & Amazon pricing signal from prior search. | Later expansion only: Amazon/KDP or marketplace seller cases. | Kolidas accounting pages | UNVERIFIED |
+| 4 | AT Office e-commerce | E-commerce accounting positioning. | Later expansion only: Amazon, marketplace or e-shop cases. | AT Office e-commerce pages | UNVERIFIED |
+| 5 | TaxPoint / SK Advisors | Creator, influencer, YouTube, OnlyFans or platform-income positioning from prior search. | Later expansion only: creator/platform-income cases. | TaxPoint / SK Advisors pages | UNVERIFIED |
+
+Do not keep polishing the idea if this queue stays uncontacted. The next proof is replies, fees and permission to list, not more public snippets.
+
+## Accountant Outreach Message
+
+Subject: Quick verification: IBKR / ETF investor cases
+
+Hello, I am testing a small referral/prep service for Greek individual investors who use IBKR, DEGIRO, Revolut, Trading212 or Trade Republic and need an accountant who already handles these cases.
+
+I do not provide tax advice. I only collect a short intake and route the client to accountants who confirm they accept the case.
+
+Could you please confirm:
+1. Do you currently accept individual investor cases with foreign brokers, UCITS ETFs, dividends, foreign interest or crypto/ETF records?
+2. What documents do you ask for before a first consultation?
+3. Do you offer a first paid consultation, and what is the starting fee?
+4. May I list your office as a candidate for this niche if I send only prepared non-sensitive case summaries?
+
+## Buyer Price-Intent Question
+
+Would a EUR29 pilot be useful if it only gives you verified accountants who said they accept this exact case plus a document checklist, with a refund if no accountant accepts?
+
 ## Tiny Paid Pilot Offer
 
 Name: Foreign Broker Tax-Ready Accountant Match
