@@ -31,6 +31,14 @@ If buyers engage but accountants cannot be verified, kill or reframe as content.
 - Instagram/TikTok creator-tax comments only when a user asks for "who knows this?" not generic tax fear.
 - Facebook groups for freelancers, e-shop owners, KDP/self-publishing and creators.
 
+## High-Signal Public Examples To Reply To First
+
+- KDP seller who needs an accountant who knows Amazon because their current accountant cannot handle it.
+- Revolut-to-IBKR investor who says they cannot find an accountant who knows.
+- IBKR/VUAA investor whose accountant did not know the ETF product and asked for translated documents.
+- Trading212/UCITS investor with an "old-school" accountant and specific code 029/743 uncertainty.
+- IBKR/Revolut/Trade Republic investors reporting conflicting guidance from multiple accountants.
+
 ## Accountant Verification Questions
 
 1. Do you currently handle clients with [Amazon KDP / IBKR / creator income / Stripe-PayPal foreign clients]?
@@ -38,6 +46,15 @@ If buyers engage but accountants cannot be verified, kill or reframe as content.
 3. Do you offer a first paid consultation or only ongoing monthly accounting?
 4. What is the starting monthly fee or consultation fee?
 5. Can I list you as accepting this niche if I send a prepared case summary?
+
+## Supply Bench Search Targets
+
+- E-commerce/Amazon accounting pages that mention marketplaces, payment gateways, EU sales, OSS/IOSS, Amazon or Shopify.
+- Creator/influencer accounting pages that mention YouTube, TikTok, Patreon, OnlyFans, Twitch, affiliate income or sponsorships.
+- Online accounting offices with starting prices around EUR100/month or a first consultation path.
+- Offices that explain remote-worker, foreign-client, Stripe/PayPal or platform-income handling.
+
+Do not include an accountant in the shortlist because they wrote generic content. Include only if they confirm the exact case by message or phone.
 
 ## Public Reply Script
 

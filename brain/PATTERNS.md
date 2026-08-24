@@ -34,7 +34,7 @@
 - Physical tourist pain is not necessarily founder-open: taxi scams, lost items, table access, STR turnover and lockouts all had real before-states but obvious operational owners. Test the owner layer before scoring any errand/service idea.
 - Subsidized-benefit users may expose messy phone/admin handoffs that are different from tourist convenience, but Social Tourism showed the trap: if free request/organization tools exist and no pay language surfaces, frustration is not enough for an active idea.
 - "Needs a person" markets split in two bad directions: low-ticket/high-trust home tasks or already-brokered skill markets. The next exception must prove high ticket, trust access, and weak supply brokerage.
-- "My current professional does not know this niche" may be a better zero-capital wedge than generic professional matching. The first signal is specialist-accountant discovery for KDP/IBKR/creator/foreign-client income, but it needs buyer replies and verified supply before promotion.
+- "My current professional does not know this niche" may be a better zero-capital wedge than generic professional matching. Specialist-accountant discovery now has repeat signals across KDP plus IBKR/DEGIRO/Revolut/Trading212/ETF cases, but it still needs buyer replies and verified supply before promotion.
 
 ---
 
