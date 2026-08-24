@@ -8,9 +8,11 @@
 
 Will Greeks with nonstandard online income/assets pay for a verified accountant shortlist and prep pack, instead of asking Reddit and guessing?
 
-Target cases:
+First wedge:
+- IBKR, DEGIRO, Revolut, Trading212, Trade Republic, ETFs, US stocks, foreign-broker statements.
+
+Later target cases:
 - Amazon KDP / Amazon seller income.
-- IBKR, DEGIRO, Revolut, ETFs, US stocks.
 - YouTube, TikTok, Instagram, OnlyFans, affiliates, sponsorships.
 - Foreign clients, Stripe, PayPal, Upwork/Fiverr.
 
@@ -33,11 +35,16 @@ If buyers engage but accountants cannot be verified, kill or reframe as content.
 
 ## High-Signal Public Examples To Reply To First
 
-- KDP seller who needs an accountant who knows Amazon because their current accountant cannot handle it.
+Priority 1 - foreign-broker / ETF investors:
 - Revolut-to-IBKR investor who says they cannot find an accountant who knows.
 - IBKR/VUAA investor whose accountant did not know the ETF product and asked for translated documents.
 - Trading212/UCITS investor with an "old-school" accountant and specific code 029/743 uncertainty.
 - IBKR/Revolut/Trade Republic investors reporting conflicting guidance from multiple accountants.
+- Investors asking whether their accountant is right about broker VAT, code 029, code 743, UCITS gains, dividends, or foreign interest.
+
+Priority 2 - online earners:
+- KDP seller who needs an accountant who knows Amazon because their current accountant cannot handle it.
+- Creator/platform earners asking who understands YouTube, TikTok, OnlyFans, Patreon, affiliates, sponsorships, Stripe or PayPal.
 
 ## Accountant Verification Questions
 
@@ -67,9 +74,20 @@ Do not include an accountant in the shortlist because they wrote generic content
 ## Safety Rules
 
 - Do not give tax, legal or investment advice.
+- Do not say which tax code to use, whether something is taxable, whether the accountant is wrong, or whether an ETF/stock treatment is correct.
 - Do not ask for Taxisnet, passwords, full tax returns, bank screenshots, ID, or sensitive documents.
 - Ask only for generic case type, platform, country of client/platform, annual range band, and whether they already have accountant.
 - Make clear the accountant is the professional responsible for advice and filing.
+
+## Investor Case Intake Fields
+
+- Broker/platforms used: IBKR, DEGIRO, Revolut, Trading212, Trade Republic, other.
+- Asset type: UCITS ETF, US stocks, dividends, interest, MMF/cash yield, crypto, other.
+- Action this year: buys only, sales, dividends, interest, transfers, account opening.
+- Existing accountant status: none, does not know, gave conflicting answer, asked for documents, asks for broker VAT/code issue.
+- Documents available: annual statement, activity statement, dividend/interest report, deposits/withdrawals summary.
+
+This intake is only to help accountants decide whether they accept the case. It is not a tax conclusion.
 
 ## Decision After Test
 
