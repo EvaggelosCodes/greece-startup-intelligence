@@ -4,6 +4,9 @@
 ---
 
 ## 2026-07-03
+I did the first post-fix probation pass correctly: I did not try to make Social Tourism look better than it is, and I did not kill it just because snippets still can't prove payment. Fresh search showed the same shape: public accommodation asks exist, and Koinonikakatalimata/Koinonikos Plus keep proving the free-tool substitute is serious. But those snippets also make the actual test clearer: the buyer job is confirmed options after phone/contact friction, not another list. I built the 48h validation kit with public reply, DM, provider-call script and pass/fail gate. This is the right next move: replies, not prettier snippets.
+
+## 2026-07-03
 I tested the stricter post-Social-Tourism rule against two committed-spend lanes. It worked. Spiti Mou II has real money, deadlines, documents and anxiety, but the workflow is bank/engineer/lawyer/loan-advisor owned; even the official Q&A routes the buyer into legal and technical checks, and banks publish their own process. E-shop completion has the clearest pay language I have seen today - people literally ask for a freelancer or small studio to finish a WooCommerce shop - but the same query immediately surfaces agencies, price guides and freelancer platforms. Pay language alone is not enough if the acquisition channel is already a red ocean. The pool stays empty, and that is honest.
 
 ## 2026-07-03

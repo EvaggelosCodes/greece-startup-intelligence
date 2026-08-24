@@ -1,6 +1,7 @@
 # Mike's Search Playbook - how I learn to hunt better
 *Read before searching and update after. The point is that run 50 searches better than run 1.*
 
+- 2026-08-24: On long-gap runs, age every probation idea before chasing new snippets. If the 48-hour gate was never passed and fresh search still shows substitutes or official rails, kill the zombie instead of collecting prettier evidence.
 - 2026-07-03: For parent-deadline or subsidy windows, pair the buyer query with the application-owner and support-professional terms (`aitisi`, `voucher`, `trapeza`, `michanikos`, `technikos symvoulos`). If centers, banks, gov, or advisors dominate before buyer asks, the money is moving but the wedge is institutionally owned.
 - 2026-07-03: For probation ideas, the output of a research pass can be a validation kit, not a verdict. Social Tourism snippets kept showing free-tool pressure, but also clarified the exact offer: confirmed options after phone/contact friction. Next proof must be replies.
 - 2026-07-03: For Student Housing, never validate as "paid listings." That rhymes with scams and brokerage. Validate only the judgement layer: area, commute, rent sanity, scam flags, and "best 3 to contact first."

@@ -8,13 +8,13 @@
 ## Open Gaps (Priority Order)
 
 ### HIGH PRIORITY
-- [ ] Which direct-buyer July pain points in Greece show public willingness-to-pay without obvious platform, agency, software, or specialist capture?
-- [ ] Which parent-deadline categories show parents publicly asking to pay for outside help, not just application reminders and center marketing?
-- [ ] If Q3 2026 small-business appetite is weakening, which buyer categories still have committed spend now instead of generic SME "pressure"? (2026-07-03 partial: EETAA/KDAP and home-upgrade/subsidy windows have money moving, but the public web is already center/bank/application owned rather than founder-open)
+- [ ] Which direct-buyer late-August or September pain points in Greece show public willingness-to-pay without obvious platform, agency, software, institutional, or specialist capture?
+- [ ] Which parent-deadline categories show parents publicly asking to pay for outside help after the August housing rush, not just consuming guides, scam warnings, and owner advice?
+- [ ] If Q3 2026 small-business appetite is weakening and August is structurally bad for B2B adoption, which September buyer categories still have committed spend now instead of generic SME "pressure"? (2026-07-03 partial: EETAA/KDAP and home-upgrade/subsidy windows have money moving, but the public web is already center/bank/application owned rather than founder-open)
 - [ ] Which retail before-state is visible enough for a non-agency fixed-fee sprint: broken promo math, stale Skroutz offers/feed, weak sale landing pages, or missing email/SMS sale flows?
 - [ ] Does the e-invoicing clinic buyer want software setup, accountant translation, or cheapest-path compliance? (2026-06-26 partial: cost anxiety + free AADE timologio suggest "cheapest compliant path" is the sharper wedge)
 - [ ] Can an e-invoicing declaration-audit offer sell to SMEs near 1 Oct 2026, or is the visible lag mostly an enterprise/accountant-owned problem? (2026-06-26 partial: ~18k of 38k first-wave firms lagged, including ~3.3k already using tools)
-- [ ] Can the 3 Aug 2026 early-switch incentive create an accountant/referral or reseller-led e-invoicing wedge even if DTC buyer-language stays invisible?
+- [ ] Can the post-3-August countdown to the 1 Oct 2026 mandate create an accountant/referral or reseller-led e-invoicing wedge even if DTC buyer-language stays invisible?
 - [ ] If direct channels are captured, will accountants, property managers, insurers, electricians, or PMS/software resellers actually refer or white-label compliance workflow help?
 - [ ] Which intermediary is most likely to buy or refer overflow compliance help: accountants, electricians, insurers, PMS vendors, or property managers?
 - [ ] Is there a Greek-language online course platform that has real traction? Who are the top creators?
