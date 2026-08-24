@@ -28,5 +28,5 @@
 **You could make:** EUR0-EUR200 in month 1 unless fresh ferry complaints convert.
 **Why right now:** Peak ferry season creates current refund, delay and baggage frustration.
 **The catch:** FairFerry and free official/consumer routes already exist, and prior lead density was weak.
-**Next 48-hour test:** Reply to 20 current ferry complaints with a free eligibility check; keep only if 3 engage and 1 would pay for claim prep.
+**Next 48-hour test:** Use `ideas/validation/FERRY_CLAIM_VALIDATION.md`; reply to 20 current ferry complaints with a free eligibility check; keep only if 3 engage and 1 would pay for claim prep.
 **Trending:** weakening | proof needed: current lead conversion

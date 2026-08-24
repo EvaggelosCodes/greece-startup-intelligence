@@ -36,14 +36,14 @@
 ### Ferry Passenger Claim Pack - Score: 6.4/10 - Status: PROBATION
 **What it is:** A Greek/English done-for-you claim-prep service for ferry delays, cancellations, refunds or sea-travel lost-luggage cases.
 **Why Greece specifically:** Greek island ferries create summer passenger-rights friction across Greek operators, ports and tourists.
-**How to start tomorrow:** Reply helpfully to 20 recent SeaJets/Blue Star/ferry refund complaints with a free eligibility check; offer EUR15-EUR35 claim preparation only if the case qualifies.
+**How to start tomorrow:** Use `ideas/validation/FERRY_CLAIM_VALIDATION.md`: reply helpfully to 20 recent SeaJets/Blue Star/ferry refund complaints with a free eligibility check; offer EUR15-EUR35 claim preparation only if the case qualifies.
 **Revenue model:** Fixed EUR15-EUR35 claim pack or small success fee for higher-value baggage/refund cases.
 **Realistic Month 1 revenue:** EUR0-EUR200 unless fresh cases convert; claim values can be small.
 **Biggest risk:** FairFerry already exists, official/free consumer routes are strong, and prior searches did not find 10 fresh detailed leads.
-**Next validation action:** Build a list of 20 current ferry complaint leads and test whether 3 accept a free eligibility check and 1 would pay for claim prep.
+**Next validation action:** Run the 48h validation kit: find/reply to 20 current ferry complaint leads, get 3+ free eligibility-check acceptances, and keep only if 1+ says they would pay EUR15-EUR35 for claim prep.
 **Competitor landscape:** FairFerry, official ferry rights forms, consumer bodies and booking-platform routes cap the generic version.
 **Timing signal:** Peak ferry season creates current delays/refunds and angry public complaint surfaces.
 **Grounded in:** Prior runs found ferry passenger-rights pain and calculable compensation, then found FairFerry and insufficient lead density.
 **Score breakdown:** CAPITAL_ZERO:10 | GREECE_FIT:8 | SPEED:7 | MARKET:5 | GAP:4 | TIMING:8 | SOLO:7
-**Score history:** 2026-07-02:6.5 -> 6.4 after FairFerry/lead-density gate failed; revived as probation because current disruption outreach can prove or end it.
+**Score history:** 2026-07-02:6.5 -> 6.4 after FairFerry/lead-density gate failed; revived as probation because current disruption outreach can prove or end it. 2026-07-03: held 6.4 and added validation kit limited to claim prep, translation and organization, not legal representation.
 ---
