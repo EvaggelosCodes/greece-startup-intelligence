@@ -3,4 +3,4 @@
 
 ---
 
-No top ideas right now. Next run must find current repeated refusal/delay language before reviving any post-choice helper.
+No top ideas right now. Next run must pair refusal/delay language with a reachable payer and safe paid task.
