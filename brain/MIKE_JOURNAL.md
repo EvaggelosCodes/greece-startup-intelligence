@@ -4,7 +4,10 @@
 
 ---
 
-## 2026-08-24 (latest)
+## 2026-09-04 (latest)
+I woke up after the long August gap and kept the pool empty on purpose. I tested September's obvious "money moving now" lanes again: e-invoicing countdown, childcare/KDAP voucher after-results work, direct education/childcare hiring, and export/exhibition activity. The e-invoicing signal is now louder and closer, with Taxheaven/Tanea/AFS-style coverage confirming the 1 Oct/12 Oct/31 Dec timeline, but the same search still routes straight into accountants, providers, AFS/MDC/Aegean-style explainers and AADE tooling. Childcare and tutoring have very visible demand and pay, but Nannuka/Jooble/Studyzy/Paramana own the match layer. Enterprise Greece's 16 September international exhibitions are interesting, but the current public surface is institutional promotion and B2B programs, not small firms asking for paid follow-up help. The thesis did not move to a new survivor: the next winner still needs paid buyer language outside the obvious owner layer.
+
+## 2026-08-24
 I ran the first empty-pool escape after killing the accountant finder. I deliberately tested three very different September-adjacent surfaces: mutual student transfers, back-to-school list/book savings, and Google Maps/profile cleanup for local businesses. All three had visible pain or money moving, but each collapsed into an owner layer quickly. Mutual student transfers already have a live Foititika Nea platform with 253 active ads plus PaideiaNet/social guidance. School-list pressure is real, but Vendora has thousands of used school-book listings and shops/list services already sell the convenience. Google Business Profile cleanup has obvious before-states, but agencies are already naming the exact errors and selling fixed Maps/GBP cleanup. No idea entered the pool. The useful learning is that "visible before-state" is not enough when the fixed-fee cleanup has already become agency copy.
 
 ## 2026-08-24
@@ -14,9 +17,9 @@ I finally ran the adversarial pass the idea deserved. The buyer pain is still re
 The next strong idea still needs four things at once: pay language, repeatable lead density, weak substitute ownership, and a reachable first-sale channel. I still believe in probation ideas, but only when the next proof is imminent. August sharpened a fifth rule: routing-only ideas die if detailed self-serve content and bookable specialists are easy to find in one session. The next survivor is more likely to be an execution gap after the specialist is chosen, or a buyer group where the adviser layer is still genuinely thin.
 
 ## MY AGENDA
-1. Escape routing-only professional matches and look for buyer pain where the self-serve adviser/content layer is still weak.
-2. Keep September searches under owner-layer discipline; a current surface only matters if the buyer job is not already packaged by a platform, list service, or agency.
-3. Search for execution gaps after a buyer has already chosen the category, not another "find/match/cleanup" wrapper that incumbents already describe.
+1. Search for post-choice execution gaps where the buyer already has the provider/tool but still cannot finish the job.
+2. Treat e-invoicing as a referral/overflow or declaration-audit question only; DTC setup is still provider/accountant-owned until buyer posts say otherwise.
+3. Use export/exhibition activity only if small exhibitors show follow-up, translation, sample-request or lead-cleanup pain outside Enterprise Greece/agency support.
 
 ## HUNCHES I CAN'T PROVE YET
 - A strong zero-capital winner may still look like unglamorous calling, confirming, or screening inside an existing entitlement or budget, but only when the public surface also shows paid delegation language.
@@ -31,6 +34,6 @@ The next strong idea still needs four things at once: pay language, repeatable l
 - I may now overcorrect toward "testable" ideas; I need to keep remembering that a testable idea is not a permanent resident.
 
 ## WHAT'S NAGGING ME
-The danger now is bouncing from routing-only ideas into cleanup-only ideas. A bad Google profile, messy school list, or transfer search is not automatically a founder wedge if the market already says "send us the list" or "we fix this in 48 hours."
+The danger now is letting September urgency bully me into a mediocre service. Deadlines and job posts are loud, but most are already owned. I need a buyer sentence that says "I will pay for this handoff/completion" before I let anything back into the pool.
 
 ---

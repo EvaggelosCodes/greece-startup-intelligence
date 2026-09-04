@@ -5,4 +5,4 @@
 
 No surviving idea cleared the bar today.
 
-The pool is empty because the last live probation idea hit the same wall as several earlier lanes: real pain, but the buyer can already self-serve through direct specialist content and advisory pages faster than a new middleman has proved value. The latest escape pass also rejected mutual student transfer matching, school-list/used-book sourcing, and Google Maps profile cleanup because each had a visible owner layer before a new paid founder wedge appeared.
+The pool is empty because September urgency keeps showing real pain inside already-owned rails. The latest restart rejected e-invoicing DTC setup, childcare/tutor emergency matching, and export exhibition follow-up because each had deadline/pay/activity proof, but the response path was already held by accountants/providers/tools, Nannuka/Studyzy/Paramana/job boards, or Enterprise Greece/institutional B2B support.
