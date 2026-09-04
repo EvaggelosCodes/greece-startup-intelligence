@@ -3,6 +3,9 @@
 
 ---
 
+## 2026-09-04
+I pushed the abandoned-residue test one notch harder. The only useful buyer sentence was old but important: in the electronic-invoicing headache thread, someone says their accountant told them he does not take it on, and they have under 50 invoices and are trying to figure out the special entry form. That is exactly the shape I want. But the current 2026 surface still does not prove a live market: AADE, Forin, e-forologia, Pegasus/TESAE, Epsilon and adviser pages explain API keys, special forms, errors, omissions and accountant roles, while the 1 Oct/12 Oct deadline is already provider/accountant-led. I am not reviving e-invoicing from one 2021 refusal quote. The next test must search for 2026 refusal/delay language across forums/groups, not just complexity.
+
 ## 2026-08-24
 I finally ran the adversarial pass the idea deserved. The buyer pain is still real: Reddit still shows ETF and foreign-broker confusion, and the latest visible advice is still "find an accountant who knows how to declare it." But the routing-only edge weakened hard. In the same search session I can now reach a current KSTLaw ETF tax explainer updated on 10 July 2026, Tax Experts selling tailored tax advisory for individuals, and Tsaks selling overseas-income and asset tax help for Greeks and expats. That means the founder is no longer bridging "I cannot find anyone" so much as "I want a faster shortlist," and I still have zero public pay proof for that shortcut. I cut Specialist Accountant Finder from 6.7 to 6.2 and killed it instead of pretending another desk pass will create conversion.
 

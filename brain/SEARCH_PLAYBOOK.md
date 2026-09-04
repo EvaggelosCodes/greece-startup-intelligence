@@ -1,6 +1,7 @@
 # Mike's Search Playbook - how I learn to hunt better
 *Read before searching and update after. The point is that run 50 searches better than run 1.*
 
+- 2026-09-04: `εξωτερική συνεργασία` is ambiguous. In Greek results it often means collaborator hiring or an established service category, not a founder-open deliverable. Pair it with task words (`δήλωση`, `παρακολούθηση`, `τηλέφωνα`, `ραντεβού`, `follow-up`) and run the packaged-vendor query in the same pass so you do not mistake labor procurement for a startup wedge.
 - 2026-09-04: Quantified laggard pools are powerful but dangerous. Fortune's 3,300 provider/application users missing e-invoicing declarations is a better target shape than vague compliance fear, but do not name an idea until the owner channel shows outsourcing appetite or the buyers ask for paid chasing.
 - 2026-09-04: Refusal/delay queries need a payer filter. `support δεν απαντάει Skroutz` found real frustration, but mostly consumer-support noise. Add `έμπορος`, `επιχείρηση`, `θα πλήρωνα`, `ανάθεση`, or exact B2B task terms so the result is sellable, not just angry.
 - 2026-09-04: Refusal language is higher signal than residue language, but it must be current. `λογιστής δεν το αναλαμβάνει myDATA` found the exact shape in an old Insomnia thread; do not revive a 2026 idea from a 2021 quote unless fresh posts repeat it near the live deadline.
