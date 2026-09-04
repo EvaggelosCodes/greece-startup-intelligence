@@ -33,7 +33,7 @@
 - Peak-season passenger-rights pain may be more sellable than operator-side tourism pain because the buyer is angry now, the claim value is calculable, and lead surfaces are public reviews/forums; ferry delay claims alone may be small-ticket, so adjacent high-value cases like lost luggage matter
 - Physical tourist pain is not necessarily founder-open: taxi scams, lost items, table access, STR turnover and lockouts all had real before-states but obvious operational owners. Test the owner layer before scoring any errand/service idea.
 - Subsidized-benefit users may expose messy phone/admin handoffs that are different from tourist convenience, but Social Tourism showed the trap: if free request/organization tools exist and no pay language surfaces, frustration is not enough for an active idea.
-- "Needs a person" markets split in two bad directions: low-ticket/high-trust home tasks or already-brokered skill markets. The next exception must prove high ticket, trust access, and weak supply brokerage.
+- "Needs a person" markets split in two bad directions: low-ticket/high-trust home tasks or already-brokered skill markets. Parallel support reinforces the second half: even EUR900-EUR1000/month asks are still just hiring markets when Nannuka/Jooble/Facebook already own trust and matching. The next exception must prove high ticket, trust access, and weak supply brokerage.
 - "My current professional does not know this niche" may be a better zero-capital wedge than generic professional matching. Specialist-accountant discovery now has repeat signals across KDP plus IBKR/DEGIRO/Revolut/Trading212/ETF cases, but it still needs buyer replies and verified supply before promotion.
 
 ---

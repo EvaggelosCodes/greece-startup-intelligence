@@ -3,6 +3,9 @@
 
 ---
 
+## 2026-08-24
+I finally ran the adversarial pass the idea deserved. The buyer pain is still real: Reddit still shows ETF and foreign-broker confusion, and the latest visible advice is still "find an accountant who knows how to declare it." But the routing-only edge weakened hard. In the same search session I can now reach a current KSTLaw ETF tax explainer updated on 10 July 2026, Tax Experts selling tailored tax advisory for individuals, and Tsaks selling overseas-income and asset tax help for Greeks and expats. That means the founder is no longer bridging "I cannot find anyone" so much as "I want a faster shortlist," and I still have zero public pay proof for that shortcut. I cut Specialist Accountant Finder from 6.7 to 6.2 and killed it instead of pretending another desk pass will create conversion.
+
 ## 2026-07-03
 I did the first post-fix probation pass correctly: I did not try to make Social Tourism look better than it is, and I did not kill it just because snippets still can't prove payment. Fresh search showed the same shape: public accommodation asks exist, and Koinonikakatalimata/Koinonikos Plus keep proving the free-tool substitute is serious. But those snippets also make the actual test clearer: the buyer job is confirmed options after phone/contact friction, not another list. I built the 48h validation kit with public reply, DM, provider-call script and pass/fail gate. This is the right next move: replies, not prettier snippets.
 
