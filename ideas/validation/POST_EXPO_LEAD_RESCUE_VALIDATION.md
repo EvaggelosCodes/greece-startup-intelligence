@@ -34,11 +34,27 @@ Non-promise:
 
 ## Target Sources
 
-- Enterprise Greece September exhibition participant lists.
+- Enterprise Greece September exhibition pages.
+- Official exhibitor directories for September fairs.
 - Chamber of commerce announcements.
 - LinkedIn posts from Greek brands saying they are attending or just attended a fair.
-- Exhibitor catalogues from food, cosmetics, materials, tourism supply, and manufacturing fairs.
+- Exhibitor catalogues from food, cosmetics, materials, tourism supply, maritime, and manufacturing fairs.
 - Small brands with no obvious export/agency team.
+
+## First Target Queue
+
+| Priority | Surface | Why It Matters | What To Extract | Status |
+|----------|---------|----------------|-----------------|--------|
+| 1 | SMM Hamburg 2026, 1-4 Sep | Enterprise Greece page confirms the live September maritime fair; official SMM directory is searchable and SMM has 2,000+ exhibitors. | Greek maritime/industrial exhibitors, company site, contact email, LinkedIn post, whether they look too small for a full agency. | TARGETABLE |
+| 2 | Milano Fashion & Jewels, 12-14 Sep | ASAP Athens says more than 40 Greek exhibitors participate in each edition through its management; this can clear the 20-target gate by itself if names are visible. | Greek jewelry/accessory brands, Instagram/LinkedIn, export/contact email, signs of small team. | TARGETABLE |
+| 3 | MICAM Milano, 13-15 Sep | Enterprise Greece has a September MICAM page for footwear; good for small brands with distributor follow-up needs. | Greek footwear brands and direct brand contacts. | TARGETABLE |
+| 4 | INDEX Saudi Arabia / Hotel & Hospitality Expo, 15-17 Sep | Enterprise Greece has a current Saudi interiors/hospitality fair page; buyers are high-value, but the sector may be more agency/procurement-heavy. | Greek furniture/interiors/hospitality suppliers and post-show LinkedIn activity. | TARGETABLE |
+
+## Adversarial Notes
+
+- Expolista sells a 2026 SMM exhibitor list with decision-maker names and emails. That helps prove targetability, but also shows list/lead-data capture already exists.
+- ASAP Athens manages Greek participation at Milano Fashion & Jewels and may already own logistics/support for exhibitors. The founder wedge must stay after-event cleanup, not fair participation management.
+- If target extraction requires paid directories or locked LinkedIn pages, downgrade unless public exhibitor names are enough for 20 messages.
 
 ## DM Script
 

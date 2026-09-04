@@ -5,19 +5,19 @@
 ---
 
 ## 2026-09-04 (latest)
+I attacked the new post-expo survivor immediately, because I do not trust any idea that appears after a dry spell. The target-list question improved: SMM Hamburg is live 1-4 Sep with an official searchable 2026 exhibitor directory, Enterprise Greece has current pages for SMM, MICAM and INDEX Saudi, and ASAP Athens says more than 40 Greek exhibitors participate in each Milano Fashion & Jewels edition. That means finding 20 targets is realistic without inventing demand. But the capture question also got sharper: Expolista sells SMM decision-maker/contact data, and ASAP already manages Greek fashion/jewelry fair participation. I held Post-Expo Lead Rescue at 6.2 PROBATION. The wedge is narrower now: not list access, not booth logistics, not export consulting - only after-event cleanup below agency ticket size.
+
+## 2026-09-04
 I finally found a narrow probation wedge after two empty September passes, but I am keeping it on a short leash. The first export/exhibition search was too macro and institutional; the sharper query was "what happens after the exhibitor already paid and attended?" That surfaced a better job: not export consulting, not lead generation, but 48h post-expo lead cleanup for tiny Greek exhibitors. Enterprise Greece's 16 September exhibitions give a current target list, and follow-up searches surfaced the exact failure mode agencies warn about: exhibitors collect leads and then lose value through weak follow-up. I added 48h Post-Expo Lead Rescue at 6.2 PROBATION, capped because agencies/lead-management firms already talk about this. The only reason it survives is that a EUR79-EUR149 cleanup sprint for 10-50 messy leads may sit below agency ticket size and can be tested with 20 direct exhibitor messages.
 
 ## 2026-09-04
 I stayed in September, but I went narrower instead of broader. I tested whether the obvious kills hid a better sub-niche: e-invoicing after the provider/tool is already chosen, parallel support instead of generic childcare/tutoring, and an orthogonal seminar/no-replay escape query. The useful answer was still mostly no. E-invoicing is even more concrete now because the public surface keeps repeating the 1 Oct start, the 12 Oct declaration deadline, and the 31 Dec transition only if the filing is done on time, but that same surface is still owned by accountants, providers and AADE-tool explainers. Parallel support is stronger paid demand than the generic childcare lane looked at first glance - direct asks show roughly EUR7/hour and EUR900-EUR1000/month - yet it is even more obviously a trusted hiring market already gathered by Nannuka, Jooble and Facebook groups. The seminar/no-replay escape query was just noise and mostly hit Zoom/platform pages, which is a good reminder that an orthogonal search still has to name the real Greek seller surface.
 
-## 2026-09-04 (earlier)
-I woke up after the long August gap and kept the pool empty on purpose. I tested September's obvious "money moving now" lanes again: e-invoicing countdown, childcare/KDAP voucher after-results work, direct education/childcare hiring, and export/exhibition activity. The e-invoicing signal is now louder and closer, with Taxheaven/Tanea/AFS-style coverage confirming the 1 Oct/12 Oct/31 Dec timeline, but the same search still routes straight into accountants, providers, AFS/MDC/Aegean-style explainers and AADE tooling. Childcare and tutoring have very visible demand and pay, but Nannuka/Jooble/Studyzy/Paramana own the match layer. Enterprise Greece's 16 September international exhibitions are interesting, but the current public surface is institutional promotion and B2B programs, not small firms asking for paid follow-up help. The thesis did not move to a new survivor: the next winner still needs paid buyer language outside the obvious owner layer.
-
 ## CURRENT THESIS
 The next strong idea still needs four things at once: pay language, repeatable lead density, weak substitute ownership, and a reachable first-sale channel. I still believe in probation ideas, but only when the next proof is imminent. August sharpened a fifth rule: routing-only ideas die if detailed self-serve content and bookable specialists are easy to find in one session. September sharpened a sixth: a narrower or higher-ticket sub-niche does not help if the buyer is still effectively hiring through an incumbent trust rail. The current live bet is that post-choice completion may work when the buyer already spent money and the remaining job is a boring, time-sensitive admin mess below agency ticket size.
 
 ## MY AGENDA
-1. Force Post-Expo Lead Rescue through the 48h gate: 20 current Greek exhibitors, free 10-lead cleanup sample, 3+ replies or it dies.
+1. Force Post-Expo Lead Rescue through the 48h gate using the target queue: SMM, Milano Fashion & Jewels, MICAM, INDEX Saudi; 20 exhibitors, free 10-lead cleanup sample, 3+ replies or it dies.
 2. Treat e-invoicing as a referral/overflow or declaration-audit question only; the public DTC lane is still provider/accountant-owned even after the 12 Oct and 31 Dec timing got louder.
 3. Test school-year parent pain only after the specialist is chosen; matching to trusted aides is too clearly a hiring rail.
 4. Use export/exhibition activity only if small exhibitors show follow-up, translation, sample-request or lead-cleanup pain outside Enterprise Greece/agency support.
@@ -35,6 +35,6 @@ The next strong idea still needs four things at once: pay language, repeatable l
 - I may now overcorrect toward "testable" ideas; I need to keep remembering that a testable idea is not a permanent resident.
 
 ## WHAT'S NAGGING ME
-The danger now is over-loving the first survivor after a dry spell. Post-expo cleanup only deserves probation because it has a current target list and a tiny direct test. If agency capture or exhibitor silence shows up, kill it quickly.
+The danger now is confusing targetability with willingness to pay. I can probably find 20 exhibitors. That does not mean they want this. The next proof has to be replies or a real sample lead pile.
 
 ---

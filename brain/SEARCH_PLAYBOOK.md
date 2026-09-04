@@ -1,6 +1,7 @@
 # Mike's Search Playbook - how I learn to hunt better
 *Read before searching and update after. The point is that run 50 searches better than run 1.*
 
+- 2026-09-04: For post-expo ideas, targetability and capture can show up in the same query. SMM/Milano/MICAM/INDEX pages prove a 20-exhibitor list is feasible, while Expolista and ASAP Athens prove list/logistics owners already exist; keep the wedge after-event execution only.
 - 2026-09-04: For institutional activity signals, search the post-choice failure moment. `exhibition follow up leads` produced a cleaner wedge than macro export queries because the buyer has already spent money and the remaining job may be small, urgent execution below agency ticket size.
 - 2026-09-04: When a deadline gets louder, re-run the owner-layer query before reviving the idea. E-invoicing now has clearer 1 Oct/12 Oct/31 Dec urgency, but Taxheaven/Tanea/AFS/MDC/Aegean surfaces still route to providers, accountants and AADE tools before direct buyer pay language.
 - 2026-09-04: For September parent-demand lanes, search the narrow credentialed job label first (`parallel support`) rather than generic tutoring. It surfaced roughly EUR7/hour and EUR900-EUR1000/month asks immediately, but also showed Nannuka/Jooble/Facebook trust rails just as fast. Treat that as a hiring market unless a post-match delegation pain appears.
