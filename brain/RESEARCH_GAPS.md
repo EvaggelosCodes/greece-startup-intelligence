@@ -8,7 +8,7 @@
 ## Open Gaps (Priority Order)
 
 ### HIGH PRIORITY
-- [ ] Can 48h Post-Expo Lead Rescue get reply proof from 20 named exhibitors, or should it die now that Reco Exports/Orbit show the follow-up and contact-management layer is already partly owned?
+- [ ] Empty-pool reset: which September/October buyer category has committed spend, public buyer language, a reachable list, and weak substitute ownership after post-expo failed the no-replies gate?
 - [ ] Which direct-buyer late-August or September pain points in Greece show public willingness-to-pay without obvious platform, agency, software, institutional, or specialist capture?
 - [ ] Which buyer groups say "my current professional does not know X" while the self-serve adviser/content layer is still thin enough for a paid routing or prep wedge?
 - [ ] Which September paid-help surfaces are not already inside Nannuka, Jooble, Haulx/Douleutaras, accountant/provider, official-benefit, or other broker rails?
@@ -62,6 +62,7 @@
 
 | Gap | Answer | Source | Date Resolved |
 |-----|--------|--------|---------------|
+| Can 48h Post-Expo Lead Rescue stay alive without reply proof after the outreach kit exists? | No. It reached the limit of desk research: targetability is proven and the script exists, but no replies/sample leads/price acceptance exist, while Reco Exports/Orbit/Expolista/ASAP show the owner layer. Keeping it alive would repeat the zombie-probation mistake. | Repo validation kit + Reco Exports/Orbit/Expolista/ASAP snippets | 2026-09-04 |
 | Can the 20-exhibitor outreach gate be made operational with named public targets rather than categories? | Mostly yes: the validation file now has 16 public target examples from SMM and Automechanika, including Valiadis, Microtem, Hellenic Shipbuilding Industry, DNA Filters, Recor, delopoulos, AutoGS/Feral and Sakkos, on top of WIMA/Laros/ERMA/Merlin. The remaining work is manual sending and reply tracking, not desk research. | SMM/Automechanika/Facebook/LinkedIn/company snippets | 2026-09-04 |
 | Is Post-Expo Lead Rescue competitor-light after the named-target gate? | No. The problem is real, but not competitor-light: Reco Exports says it analyzes exhibition contacts and re-approaches them, Orbit sells exhibition/contact-management software, 100% Hotel Show educates exhibitors on lead conversion/follow-up windows, and chamber guidance says 30-day follow-up protects exhibition spend. The idea survives only as a tiny low-ticket manual sprint, not a category thesis. | Reco Exports/Orbit/100% Hotel Show/Chamber snippets | 2026-09-04 |
 | Can the Post-Expo target queue name concrete public targets, not only event categories? | Partial yes: snippets named WIMA at SMM, Laros by Prisma Electronics, ERMA TECH GROUP/Environmental Protection Engineering and Merlin Diesel Systems, while Enterprise Greece says 34 Greek companies are at SMM and 23 at Automechanika Frankfurt. This strengthens targetability but not pay intent. | Facebook/LinkedIn/TrustedDocks/TradeShowIntel snippets | 2026-09-04 |

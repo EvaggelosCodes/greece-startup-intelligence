@@ -5,19 +5,19 @@
 ---
 
 ## 2026-09-04 (latest)
+I killed Post-Expo Lead Rescue. That feels harsh because the test is beautifully ready, but that is exactly the point: the next proof is not knowable from my chair. I have 16 targets, a message, and a narrow offer; without replies, keeping it in the pool is just old zombie-probation behavior wearing a better shirt. I also ran a September escape check on elder-care coverage: the money is very real, with EUR8/hour and EUR1000-EUR1400/month snippets, but Nannuka/Jooble own the trust rail just like parallel support. The pool is empty again, but cleaner: the next run must compare categories instead of nursing a 6.0 idea that needs human outreach.
+
+## 2026-09-04
 I converted the post-expo gate from "probably targetable" into an actual outreach kit. The new searches surfaced enough named public examples to make the 20-message test real: Valiadis, Microtem, Hellenic Shipbuilding Industry, DNA Filters, Recor, delopoulos, AutoGS/Feral and Sakkos joined the earlier WIMA/Laros/ERMA/Merlin list. I did not raise the score, because this is still reachability, not demand. Post-Expo Lead Rescue stays 6.0 PROBATION. My next move is binary: send/use the script in the validation file and judge replies, or kill it.
 
 ## 2026-09-04
 I finally did the owner-layer attack the post-expo idea deserved. The painful job is real: Greek snippets around 100% Hotel Show and older chamber/export guidance explicitly say follow-up is where exhibition value is converted or lost. But I also found the trap: Reco Exports already sells the exact verbs - analyzing exhibition contacts and re-approaching them - while Orbit sells software for scattered customer/contact files. I dropped Post-Expo Lead Rescue from 6.2 to 6.0 PROBATION. It is still not dead, but the only honest next proof is not another article; it is 20 direct messages to tiny exhibitors and 3+ replies or one sample lead pile.
 
-## 2026-09-04
-I pushed the post-expo idea one step closer to a real market test. The concrete target question improved again: public snippets now name WIMA, Laros by Prisma Electronics, ERMA TECH GROUP/Environmental Protection Engineering and Merlin Diesel Systems around SMM, while Enterprise Greece says 34 Greek companies are at SMM and 23 are going to Automechanika Frankfurt. That is enough to say the 20-target outreach gate is feasible. I still did not raise the score because this is targetability, not willingness to pay. The score stays 6.2 PROBATION until real exhibitors reply, share a sample lead pile, or say EUR79-EUR149 is reasonable.
-
 ## CURRENT THESIS
-The next strong idea still needs four things at once: pay language, repeatable lead density, weak substitute ownership, and a reachable first-sale channel. I still believe in probation ideas, but only when the next proof is imminent. August sharpened a fifth rule: routing-only ideas die if detailed self-serve content and bookable specialists are easy to find in one session. September sharpened a sixth: a narrower or higher-ticket sub-niche does not help if the buyer is still effectively hiring through an incumbent trust rail. The current live bet is that post-choice completion may work when the buyer already spent money and the remaining job is a boring, time-sensitive admin mess below agency ticket size.
+The next strong idea still needs four things at once: pay language, repeatable lead density, weak substitute ownership, and a reachable first-sale channel. I still believe in probation ideas, but only when the next proof can happen inside the system or Evaggelos has actually run the outreach. August sharpened a fifth rule: routing-only ideas die if detailed self-serve content and bookable specialists are easy to find in one session. September sharpened a sixth: a narrower or higher-ticket sub-niche does not help if the buyer is still effectively hiring through an incumbent trust rail. September now sharpened a seventh: a sendable outreach kit is not evidence.
 
 ## MY AGENDA
-1. Force Post-Expo Lead Rescue through the 48h gate using the target queue: SMM, Automechanika, Milano Fashion & Jewels, MICAM, INDEX Saudi; 20 exhibitors, free 10-lead cleanup sample, 3+ replies or it dies.
+1. Empty-pool reset: compare 3 September/October categories with money moving now, buyer language, reachable lead surfaces and weak substitutes before naming an idea.
 2. Treat e-invoicing as a referral/overflow or declaration-audit question only; the public DTC lane is still provider/accountant-owned even after the 12 Oct and 31 Dec timing got louder.
 3. Test school-year parent pain only after the specialist is chosen; matching to trusted aides is too clearly a hiring rail.
 4. Use export/exhibition activity only if small exhibitors show follow-up, translation, sample-request or lead-cleanup pain outside Enterprise Greece/agency support.
@@ -35,6 +35,6 @@ The next strong idea still needs four things at once: pay language, repeatable l
 - I may now overcorrect toward "testable" ideas; I need to keep remembering that a testable idea is not a permanent resident.
 
 ## WHAT'S NAGGING ME
-The danger now is pretending I can learn more from search than from the first 20 messages. I have the offer, target examples, and script. More desk research without replies is camouflage.
+The danger now is swinging between two failures: empty-pool paralysis and probation zombies. The next good move is category exploration with stricter ownership checks, then one testable bet only if the first sale path is cleaner than the graveyard.
 
 ---

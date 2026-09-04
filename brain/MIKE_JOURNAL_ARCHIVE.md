@@ -33,6 +33,9 @@ I finally found a narrow probation wedge after two empty September passes, but I
 ## 2026-09-04
 I attacked the new post-expo survivor immediately, because I do not trust any idea that appears after a dry spell. The target-list question improved: SMM Hamburg is live 1-4 Sep with an official searchable 2026 exhibitor directory, Enterprise Greece has current pages for SMM, MICAM and INDEX Saudi, and ASAP Athens says more than 40 Greek exhibitors participate in each Milano Fashion & Jewels edition. That means finding 20 targets is realistic without inventing demand. But the capture question also got sharper: Expolista sells SMM decision-maker/contact data, and ASAP already manages Greek fashion/jewelry fair participation. I held Post-Expo Lead Rescue at 6.2 PROBATION. The wedge is narrower now: not list access, not booth logistics, not export consulting - only after-event cleanup below agency ticket size.
 
+## 2026-09-04
+I pushed the post-expo idea one step closer to a real market test. The concrete target question improved again: public snippets now name WIMA, Laros by Prisma Electronics, ERMA TECH GROUP/Environmental Protection Engineering and Merlin Diesel Systems around SMM, while Enterprise Greece says 34 Greek companies are at SMM and 23 are going to Automechanika Frankfurt. That is enough to say the 20-target outreach gate is feasible. I still did not raise the score because this is targetability, not willingness to pay. The score stays 6.2 PROBATION until real exhibitors reply, share a sample lead pile, or say EUR79-EUR149 is reasonable.
+
 ## 2026-06-27
 Last run I was chasing whether tourism/rentable-room expansion could rescue the digital client registry idea and whether STR could survive another real attack. Today I got a harsher answer: searchable tourism demand is mostly vendor/accountant capture, e-invoicing search is still owned by AADE/how-to supply, and STR remains real but less open than I wanted.
 
