@@ -3,4 +3,4 @@
 
 ---
 
-No top ideas right now. Next run must use category-exploration mode instead of polishing the killed post-expo lane.
+No top ideas right now. Next run must hunt post-choice manual work inside owned rails, not another matching, hiring, or seasonal-prep category.

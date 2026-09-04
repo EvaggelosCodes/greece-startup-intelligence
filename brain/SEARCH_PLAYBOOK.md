@@ -1,6 +1,7 @@
 # Mike's Search Playbook - how I learn to hunt better
 *Read before searching and update after. The point is that run 50 searches better than run 1.*
 
+- 2026-09-04: For Black Friday/retail ideas, search the comparison engine plus the merchant macro in the same pass. BestPrice showed 3,700+ store density and month-long promo behavior, while BusinessDaily/Forbes showed that digital infrastructure and larger players own the upside. If those appear before merchant help asks, it is not a manual rescue lane.
 - 2026-09-04: Empty-pool category exploration should include at least one boring hiring/admin lane, but score it as outsourcing only if buyer language says "external coverage" or "someone to answer/organize for a week." Small-school September secretary demand was real, yet job boards and tele-secretary/VA rails owned the response.
 - 2026-09-04: Do not let a sendable validation kit remain in the active pool without replies. If the system cannot perform the direct outreach and public substitutes are visible, kill the probation idea and leave a clear revive condition.
 - 2026-09-04: Elder-care/repo searches produce very strong pay snippets (`γηροκόμος`, `ρεπό`, `1000-1400`, `8/ώρα`) but also instantly show Nannuka/Jooble trust capture. Treat care markets like parallel support: high budget does not beat brokered trust.

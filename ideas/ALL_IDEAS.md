@@ -3,4 +3,4 @@
 
 ---
 
-No active ideas. The previous top idea, 48h Post-Expo Lead Rescue, is killed until direct outreach evidence exists.
+No active ideas. September category comparisons across school admin, Black Friday retail, apartment management and post-expo follow-up still found no founder-open survivor.
