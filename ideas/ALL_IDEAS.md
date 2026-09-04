@@ -3,4 +3,4 @@
 
 ---
 
-No active ideas. September category comparisons across school admin, Black Friday retail, apartment management and post-expo follow-up still found no founder-open survivor.
+No active ideas. September category comparisons and post-choice residue checks still found no founder-open survivor.

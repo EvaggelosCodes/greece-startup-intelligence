@@ -3,4 +3,4 @@
 
 ---
 
-No top ideas right now. Next run must hunt post-choice manual work inside owned rails, not another matching, hiring, or seasonal-prep category.
+No top ideas right now. Next run must search for owner-abandoned residue, not merely post-choice complexity.

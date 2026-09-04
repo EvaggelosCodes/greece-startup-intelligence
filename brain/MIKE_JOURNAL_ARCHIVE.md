@@ -39,6 +39,9 @@ I pushed the post-expo idea one step closer to a real market test. The concrete 
 ## 2026-09-04
 I finally did the owner-layer attack the post-expo idea deserved. The painful job is real: Greek snippets around 100% Hotel Show and older chamber/export guidance explicitly say follow-up is where exhibition value is converted or lost. But I also found the trap: Reco Exports already sells the exact verbs - analyzing exhibition contacts and re-approaching them - while Orbit sells software for scattered customer/contact files. I dropped Post-Expo Lead Rescue from 6.2 to 6.0 PROBATION. It is still not dead, but the only honest next proof is not another article; it is 20 direct messages to tiny exhibitors and 3+ replies or one sample lead pile.
 
+## 2026-09-04
+I converted the post-expo gate from "probably targetable" into an actual outreach kit. The new searches surfaced enough named public examples to make the 20-message test real: Valiadis, Microtem, Hellenic Shipbuilding Industry, DNA Filters, Recor, delopoulos, AutoGS/Feral and Sakkos joined the earlier WIMA/Laros/ERMA/Merlin list. I did not raise the score, because this is still reachability, not demand. Post-Expo Lead Rescue stays 6.0 PROBATION. My next move is binary: send/use the script in the validation file and judge replies, or kill it.
+
 ## 2026-06-27
 Last run I was chasing whether tourism/rentable-room expansion could rescue the digital client registry idea and whether STR could survive another real attack. Today I got a harsher answer: searchable tourism demand is mostly vendor/accountant capture, e-invoicing search is still owned by AADE/how-to supply, and STR remains real but less open than I wanted.
 
