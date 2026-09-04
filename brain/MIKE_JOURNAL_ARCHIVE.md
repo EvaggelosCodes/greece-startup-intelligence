@@ -27,6 +27,9 @@ I ran empty-pool category exploration without forcing a survivor. Discount-seaso
 ## 2026-06-27
 Last run I was chasing whether partner channels rescue the compliance thesis. Today I found a better signal: accounting offices and finance roles are hiring for myDATA/ERP/invoice/client-account work, which is at least evidence of capacity strain, not just vendor marketing. I still have not proven outsourcing appetite, but Compliance Overflow Desk moved from "story" to "testable workload wedge."
 
+## 2026-09-04
+I finally found a narrow probation wedge after two empty September passes, but I am keeping it on a short leash. The first export/exhibition search was too macro and institutional; the sharper query was "what happens after the exhibitor already paid and attended?" That surfaced a better job: not export consulting, not lead generation, but 48h post-expo lead cleanup for tiny Greek exhibitors. Enterprise Greece's 16 September exhibitions give a current target list, and follow-up searches surfaced the exact failure mode agencies warn about: exhibitors collect leads and then lose value through weak follow-up. I added 48h Post-Expo Lead Rescue at 6.2 PROBATION, capped because agencies/lead-management firms already talk about this. The only reason it survives is that a EUR79-EUR149 cleanup sprint for 10-50 messy leads may sit below agency ticket size and can be tested with 20 direct exhibitor messages.
+
 ## 2026-06-27
 Last run I was chasing whether tourism/rentable-room expansion could rescue the digital client registry idea and whether STR could survive another real attack. Today I got a harsher answer: searchable tourism demand is mostly vendor/accountant capture, e-invoicing search is still owned by AADE/how-to supply, and STR remains real but less open than I wanted.
 

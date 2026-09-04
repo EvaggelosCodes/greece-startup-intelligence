@@ -8,6 +8,7 @@
 ## Open Gaps (Priority Order)
 
 ### HIGH PRIORITY
+- [ ] Can 48h Post-Expo Lead Rescue get reply proof from 20 named exhibitors, or should it die now that Reco Exports/Orbit show the follow-up and contact-management layer is already partly owned?
 - [ ] Which direct-buyer late-August or September pain points in Greece show public willingness-to-pay without obvious platform, agency, software, institutional, or specialist capture?
 - [ ] Which buyer groups say "my current professional does not know X" while the self-serve adviser/content layer is still thin enough for a paid routing or prep wedge?
 - [ ] Which September paid-help surfaces are not already inside Nannuka, Jooble, Haulx/Douleutaras, accountant/provider, official-benefit, or other broker rails?
@@ -61,6 +62,7 @@
 
 | Gap | Answer | Source | Date Resolved |
 |-----|--------|--------|---------------|
+| Is Post-Expo Lead Rescue competitor-light after the named-target gate? | No. The problem is real, but not competitor-light: Reco Exports says it analyzes exhibition contacts and re-approaches them, Orbit sells exhibition/contact-management software, 100% Hotel Show educates exhibitors on lead conversion/follow-up windows, and chamber guidance says 30-day follow-up protects exhibition spend. The idea survives only as a tiny low-ticket manual sprint, not a category thesis. | Reco Exports/Orbit/100% Hotel Show/Chamber snippets | 2026-09-04 |
 | Can the Post-Expo target queue name concrete public targets, not only event categories? | Partial yes: snippets named WIMA at SMM, Laros by Prisma Electronics, ERMA TECH GROUP/Environmental Protection Engineering and Merlin Diesel Systems, while Enterprise Greece says 34 Greek companies are at SMM and 23 at Automechanika Frankfurt. This strengthens targetability but not pay intent. | Facebook/LinkedIn/TrustedDocks/TradeShowIntel snippets | 2026-09-04 |
 | Can Post-Expo Lead Rescue produce a realistic 20-exhibitor target list without buying data? | Partial yes: Enterprise Greece pages identify live September fairs (SMM, MICAM, INDEX Saudi), the official SMM directory is searchable, and ASAP Athens says more than 40 Greek exhibitors participate in each Milano Fashion & Jewels edition. But Expolista sells SMM decision-maker data and ASAP may own Greek-fashion fair support, so targetability and capture both increased. | Enterprise Greece/SMM/ASAP Athens/Expolista snippets | 2026-09-04 |
 | Do exhibitors in September 2026 public surfaces ever show paid follow-up pain outside Enterprise Greece, consultants or institutional export support, or is exhibition activity only a macro signal? | Partial yes: the macro query alone was institution-owned, but the post-choice query surfaced the real failure mode - exhibitors collect leads and then lose value through weak follow-up. Agencies already educate this market, so it is only a 6.2 probation wedge: small-ticket, 48h lead cleanup for tiny exhibitors below agency ticket size. | Enterprise Greece/BusinessDaily/HelloLead/Valis/agency snippets | 2026-09-04 |

@@ -62,6 +62,15 @@ Non-promise:
 
 These are proof that a public target list can be started. They are not proof that anyone wants the service.
 
+## Competitor/Substitute Pressure
+
+- Reco Exports explicitly offers exhibition support that includes analyzing exhibition contacts and re-approaching them based on defined goals.
+- Orbit Expo advertises exhibition/contact-management software around scattered customer/contact files and contact history.
+- 100% Hotel Show frames follow-up as the valuable conversion window after the show, which confirms the job but also shows the industry educates around it.
+- Chamber/export guidance says follow-up in the first 30 days protects the value of exhibition participation.
+
+This lowers the score from 6.2 to 6.0. The idea is still testable only as a tiny manual sprint below consultant/software scope.
+
 ## Adversarial Notes
 
 - Expolista sells a 2026 SMM exhibitor list with decision-maker names and emails. That helps prove targetability, but also shows list/lead-data capture already exists.
