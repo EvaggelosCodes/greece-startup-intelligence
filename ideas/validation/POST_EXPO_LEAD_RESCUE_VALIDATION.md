@@ -49,6 +49,18 @@ Non-promise:
 | 2 | Milano Fashion & Jewels, 12-14 Sep | ASAP Athens says more than 40 Greek exhibitors participate in each edition through its management; this can clear the 20-target gate by itself if names are visible. | Greek jewelry/accessory brands, Instagram/LinkedIn, export/contact email, signs of small team. | TARGETABLE |
 | 3 | MICAM Milano, 13-15 Sep | Enterprise Greece has a September MICAM page for footwear; good for small brands with distributor follow-up needs. | Greek footwear brands and direct brand contacts. | TARGETABLE |
 | 4 | INDEX Saudi Arabia / Hotel & Hospitality Expo, 15-17 Sep | Enterprise Greece has a current Saudi interiors/hospitality fair page; buyers are high-value, but the sector may be more agency/procurement-heavy. | Greek furniture/interiors/hospitality suppliers and post-show LinkedIn activity. | TARGETABLE |
+| 5 | Automechanika Frankfurt, 8-12 Sep | Enterprise Greece says this is the first Greek National Pavilion at Automechanika, with 23 Greek companies. | Greek automotive parts/equipment companies; prioritize smaller manufacturers with direct contact pages. | TARGETABLE |
+
+## Public Target Examples Found
+
+- WIMA at SMM Hamburg 2026, Hall B7 stand 318.
+- Enterprise Greece LinkedIn: 34 Greek companies at SMM Hamburg 2026.
+- Enterprise Greece LinkedIn: 23 Greek companies at Automechanika Frankfurt 2026.
+- Laros by Prisma Electronics: SMM 2026 exhibitor, Hall B6 stand 612.
+- ERMA TECH GROUP / Environmental Protection Engineering: SMM 2026 Greek pavilion activity.
+- Merlin Diesel Systems: SMM Hamburg 2026 exhibitor profile.
+
+These are proof that a public target list can be started. They are not proof that anyone wants the service.
 
 ## Adversarial Notes
 
