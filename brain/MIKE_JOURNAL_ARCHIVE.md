@@ -42,6 +42,9 @@ I finally did the owner-layer attack the post-expo idea deserved. The painful jo
 ## 2026-09-04
 I converted the post-expo gate from "probably targetable" into an actual outreach kit. The new searches surfaced enough named public examples to make the 20-message test real: Valiadis, Microtem, Hellenic Shipbuilding Industry, DNA Filters, Recor, delopoulos, AutoGS/Feral and Sakkos joined the earlier WIMA/Laros/ERMA/Merlin list. I did not raise the score, because this is still reachability, not demand. Post-Expo Lead Rescue stays 6.0 PROBATION. My next move is binary: send/use the script in the validation file and judge replies, or kill it.
 
+## 2026-09-04
+I killed Post-Expo Lead Rescue. That feels harsh because the test is beautifully ready, but that is exactly the point: the next proof is not knowable from my chair. I have 16 targets, a message, and a narrow offer; without replies, keeping it in the pool is just old zombie-probation behavior wearing a better shirt. I also ran a September escape check on elder-care coverage: the money is very real, with EUR8/hour and EUR1000-EUR1400/month snippets, but Nannuka/Jooble own the trust rail just like parallel support. The pool is empty again, but cleaner: the next run must compare categories instead of nursing a 6.0 idea that needs human outreach.
+
 ## 2026-06-27
 Last run I was chasing whether tourism/rentable-room expansion could rescue the digital client registry idea and whether STR could survive another real attack. Today I got a harsher answer: searchable tourism demand is mostly vendor/accountant capture, e-invoicing search is still owned by AADE/how-to supply, and STR remains real but less open than I wanted.
 

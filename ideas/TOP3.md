@@ -3,4 +3,4 @@
 
 ---
 
-No top ideas right now. Next run must search for owner-abandoned residue, not merely post-choice complexity.
+No top ideas right now. Next run must find current repeated refusal/delay language before reviving any post-choice helper.
