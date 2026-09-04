@@ -5,6 +5,8 @@
 
 ## Correction Log
 
+**2026-09-04 - Belief:** A quantified post-choice laggard pool, like 3,300 provider/application users missing the e-invoicing declaration, might be enough to revive a declaration-chaser idea. **Reality:** the number is strong, but the visible surface is still provider/accountant education and AADE warning, not outsourcing appetite or direct buyer pay language. **Why wrong:** I almost let quantified urgency substitute for channel proof. **Change:** quantified laggard pools become partner-channel gaps first; only promote them if the owner channel wants chasing help or buyers ask for paid rescue.**
+
 **2026-09-04 - Belief:** If I find fresh refusal/delay language, the post-choice helper might revive. **Reality:** fresh delay/frustration language can still be consumer-support noise: Skroutz support complaints showed stuck users and chatbot loops, but not a reachable business payer or safe paid task. **Why wrong:** I was optimizing for the right verb but forgot the payer filter. **Change:** refusal searches must include payer and task terms, not only support-failure language.**
 
 **2026-09-04 - Belief:** An exact "my accountant will not take it on" quote might be enough to revive the e-invoicing/helper thesis near the 2026 deadline. **Reality:** the quote exists, but it is from a 2021 Insomnia thread; current 2026 snippets show urgency and complexity but still mostly route through AADE, provider, ERP and accountant documentation. **Why wrong:** I was tempted to let the shape of a perfect buyer sentence outweigh its staleness. **Change:** refusal language must be current or repeated before it can overcome a captured owner layer.**

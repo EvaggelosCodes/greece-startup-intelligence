@@ -3,4 +3,4 @@
 
 ---
 
-No top ideas right now. Next run must pair refusal/delay language with a reachable payer and safe paid task.
+No top ideas right now. Next run must prove partner-channel outsourcing appetite before reviving quantified compliance laggard ideas.
