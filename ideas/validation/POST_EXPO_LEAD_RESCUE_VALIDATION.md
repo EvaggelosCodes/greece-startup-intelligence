@@ -54,13 +54,37 @@ Non-promise:
 ## Public Target Examples Found
 
 - WIMA at SMM Hamburg 2026, Hall B7 stand 318.
+- Laros by Prisma Electronics: SMM 2026 exhibitor, Hall B6 stand 612/616.
+- ERMA TECH GROUP / Environmental Protection Engineering: SMM 2026 Greek pavilion activity.
+- Merlin Diesel Systems: SMM Hamburg exhibitor profile, Hall A4 stand 421 in 2024 guide snippet.
+- Valiadis Motors: SMM Hamburg 2026, Greek headquarters in Lykovrisi, contact snippet shows valiadis@valiadis.gr.
+- Microtem / Internaftiki: SMM Hamburg 2026, Hall A4 Booth A4.309; also Posidonia Greece presence through Greek partner Internaftiki.
+- Hellenic Shipbuilding Industry: SMM Hamburg 2026, Hall B3 stand 204.
+- Diving Status: public SMM 2026 attendance post.
 - Enterprise Greece LinkedIn: 34 Greek companies at SMM Hamburg 2026.
 - Enterprise Greece LinkedIn: 23 Greek companies at Automechanika Frankfurt 2026.
-- Laros by Prisma Electronics: SMM 2026 exhibitor, Hall B6 stand 612.
-- ERMA TECH GROUP / Environmental Protection Engineering: SMM 2026 Greek pavilion activity.
-- Merlin Diesel Systems: SMM Hamburg 2026 exhibitor profile.
+- DNA Filters: Automechanika Frankfurt 2026, Hall 5.0 Booth D90, Nikaia, Greece; contact snippet shows effie@dnafilters.com.
+- ELDON'S SA: Automechanika Frankfurt 2026 exhibitor; headquarters in Athens.
+- Recor Batteries: Greek Industry of Accumulators, Automechanika Frankfurt 2026; contact snippet shows export@recorbatteries.gr.
+- delopoulos S.A.: Automechanika Frankfurt 2026, Hall 12 Stand A40.
+- AutoGS / Feral: Automechanika Frankfurt 2026, Hall 3.1 Stand F64; contact snippet shows sales@feral.gr.
+- Sakkos Automotive: Automechanika Frankfurt 2026, Hall 4.1 Stand G77; contact snippet shows export@sakkos-automotive.gr.
 
-These are proof that a public target list can be started. They are not proof that anyone wants the service.
+These are proof that a public target list can be started and that the 20-message gate is operationally feasible. They are not proof that anyone wants the service.
+
+## First Outreach Script
+
+Subject: Quick 10-lead cleanup after [FAIR]?
+
+Hi [Name],
+
+I saw you exhibited at [FAIR]. I am testing a very small post-expo service for Greek exhibitors: I clean 10 messy leads/business cards/WhatsApp notes into a simple spreadsheet, add priority tags, and draft Greek/English follow-up messages within 48 hours.
+
+No charge for the first 10 leads. If useful, the full cleanup for 10-50 leads would be EUR79-EUR149.
+
+Would it be useful if I cleaned a small sample for you?
+
+Gate: send to 20 targets. Keep the idea only if 3+ reply, 1+ sends a real/sanitized sample, or 1+ says EUR79-EUR149 is reasonable. Otherwise kill it.
 
 ## Competitor/Substitute Pressure
 
@@ -87,6 +111,6 @@ Would you like me to clean 10 sample leads for free so you can see if it is usef
 
 ## Scoring Notes
 
-Current score: 6.2 PROBATION.
+Current score: 6.0 PROBATION.
 
-Cap reason: agencies and lead-management providers already discuss expo follow-up. The only reason to test is that a tiny, fast, post-event execution sprint may be below their ticket size and realistic for a zero-capital founder.
+Cap reason: agencies, export consultants, lead-management providers and contact-management software already discuss or sell parts of expo follow-up. The only reason to test is that a tiny, fast, post-event execution sprint may be below their ticket size and realistic for a zero-capital founder.

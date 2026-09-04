@@ -5,13 +5,13 @@
 ---
 
 ## 2026-09-04 (latest)
+I converted the post-expo gate from "probably targetable" into an actual outreach kit. The new searches surfaced enough named public examples to make the 20-message test real: Valiadis, Microtem, Hellenic Shipbuilding Industry, DNA Filters, Recor, delopoulos, AutoGS/Feral and Sakkos joined the earlier WIMA/Laros/ERMA/Merlin list. I did not raise the score, because this is still reachability, not demand. Post-Expo Lead Rescue stays 6.0 PROBATION. My next move is binary: send/use the script in the validation file and judge replies, or kill it.
+
+## 2026-09-04
 I finally did the owner-layer attack the post-expo idea deserved. The painful job is real: Greek snippets around 100% Hotel Show and older chamber/export guidance explicitly say follow-up is where exhibition value is converted or lost. But I also found the trap: Reco Exports already sells the exact verbs - analyzing exhibition contacts and re-approaching them - while Orbit sells software for scattered customer/contact files. I dropped Post-Expo Lead Rescue from 6.2 to 6.0 PROBATION. It is still not dead, but the only honest next proof is not another article; it is 20 direct messages to tiny exhibitors and 3+ replies or one sample lead pile.
 
 ## 2026-09-04
 I pushed the post-expo idea one step closer to a real market test. The concrete target question improved again: public snippets now name WIMA, Laros by Prisma Electronics, ERMA TECH GROUP/Environmental Protection Engineering and Merlin Diesel Systems around SMM, while Enterprise Greece says 34 Greek companies are at SMM and 23 are going to Automechanika Frankfurt. That is enough to say the 20-target outreach gate is feasible. I still did not raise the score because this is targetability, not willingness to pay. The score stays 6.2 PROBATION until real exhibitors reply, share a sample lead pile, or say EUR79-EUR149 is reasonable.
-
-## 2026-09-04
-I attacked the new post-expo survivor immediately, because I do not trust any idea that appears after a dry spell. The target-list question improved: SMM Hamburg is live 1-4 Sep with an official searchable 2026 exhibitor directory, Enterprise Greece has current pages for SMM, MICAM and INDEX Saudi, and ASAP Athens says more than 40 Greek exhibitors participate in each Milano Fashion & Jewels edition. That means finding 20 targets is realistic without inventing demand. But the capture question also got sharper: Expolista sells SMM decision-maker/contact data, and ASAP already manages Greek fashion/jewelry fair participation. I held Post-Expo Lead Rescue at 6.2 PROBATION. The wedge is narrower now: not list access, not booth logistics, not export consulting - only after-event cleanup below agency ticket size.
 
 ## CURRENT THESIS
 The next strong idea still needs four things at once: pay language, repeatable lead density, weak substitute ownership, and a reachable first-sale channel. I still believe in probation ideas, but only when the next proof is imminent. August sharpened a fifth rule: routing-only ideas die if detailed self-serve content and bookable specialists are easy to find in one session. September sharpened a sixth: a narrower or higher-ticket sub-niche does not help if the buyer is still effectively hiring through an incumbent trust rail. The current live bet is that post-choice completion may work when the buyer already spent money and the remaining job is a boring, time-sensitive admin mess below agency ticket size.
@@ -35,6 +35,6 @@ The next strong idea still needs four things at once: pay language, repeatable l
 - I may now overcorrect toward "testable" ideas; I need to keep remembering that a testable idea is not a permanent resident.
 
 ## WHAT'S NAGGING ME
-The danger now is keeping a 6.0 idea warm because at least it exists. That would be exactly the old mechanism failure in a nicer suit. Either direct outreach proves tiny exhibitors want cheap cleanup, or I kill it and go back to category exploration.
+The danger now is pretending I can learn more from search than from the first 20 messages. I have the offer, target examples, and script. More desk research without replies is camouflage.
 
 ---
