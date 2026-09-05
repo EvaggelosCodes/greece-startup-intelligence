@@ -1,5 +1,6 @@
 # Research Log
 *One line per run.*
+- 2026-09-05 R4 | Tested the R3 gate by excluding Freelancer aggregate pages and searching canonical project URLs for distinct open Greek list/product/research tasks. Result was negative for platform microtasks: most Greek-adjacent canonical pages were stale, completed or in progress. The best fragment was Greece-based genealogy/local-archive help, scored 6.4 and kept out of the pool under the 6.5 floor because repeatability and substitutes remain unresolved. Theme: canonical buyer freshness beats platform page volume.
 - 2026-09-05 R3 | Audited repeat paid-task density and platform exclusion, escaped to household digitization, attempted overdue RRF check (inconclusive); cluster gap partially resolved as duplicate expired evidence, added 0, rejected 3 candidates including list revival 6.1→5.7, correction 1, top none. Theme: distinct open buyers and actual budget fields beat syndicated snippets; capped active learning memory.
 
 

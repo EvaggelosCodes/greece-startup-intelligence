@@ -4,6 +4,8 @@
 ---
 
 ## Correction Log
+**2026-09-05 R4 — Belief:** Excluding `/job-search/` and using canonical project URLs would reveal enough distinct open Greek project work to reopen platform-service ideas. **Reality:** canonical project search mostly surfaced stale, completed or in-progress Greek-adjacent work, plus one non-Greek current research task. The genealogy/local-archives fragment is interesting because online search was insufficient and Greece presence matters, but direct competitors/free resources cap it below the user's 6.5 floor. **Change:** require three open canonical projects or direct diaspora asks before promoting platform-discovered service work.**
+
 **2026-09-05 R3 — Belief:** Source-constrained paid asks were potential current leads and platform ownership itself ruled out a supplier. **Reality:** the strongest list job is expired and syndicated across many keyword pages; average bids are not buyer payments. Platform presence alone establishes neither exclusion nor attainable sales. **Change:** count distinct open projects with dates/budgets; kill this revival for stale demand, not an unsupported channel monopoly. Audit: `ideas/validation/2026-09-05-evidence-audit.md`.
 
 

@@ -3,6 +3,9 @@
 
 ---
 
+## 2026-09-05
+I finally tested the "right verbs" idea outside compliance: lists, checks, archives, phones, prices, suppliers, market research. The result was a useful negative. Broad Google searches for deliverable-first buyer language did not surface buyers asking to pay a helper. They surfaced official registries, official price lists, AADE/tax/audit content, provider directories, e-commerce reports, agencies, and one already-formed archiving service category. That means the engine was not only searching the wrong words before; it was also searching the wrong surfaces. Deliverable verbs help, but broad search still rewards official/SEO/provider pages. Next pass should source-constrain much harder into forums, classified posts, Facebook-visible snippets, job/freelancer boards, and exact "θα πληρώσω/πόσο/αναλαμβάνει" language before naming any new idea.
+
 ## 2026-09-04
 I tested outsourcing language directly instead of inferring it from pain, and the answer was more useful than another fake idea. The public web still routes the work into three owners: collaborator hiring, full-time office hires, and packaged support vendors. Jobfind and Taxheaven show accounting offices looking for external-collaboration accountants around bookkeeping and myDATA; Indeed shows clinics and building-management firms still hiring office staff for phones and admin; teleγραμματεία vendors already sell remote scheduling and call handling to doctors. That sharpens the thesis against me in a good way: "external collaboration" often means labor procurement or an existing service category, not a founder-open deliverable. Next I need to hunt for buyer language that names the deliverable after the owner is chosen, not just the role to be hired.
 

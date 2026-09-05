@@ -6,11 +6,11 @@
 ---
 
 ## Open Gaps (Priority Order)
-R3 2026-09-05 partial resolution: indexed list-job repetition does NOT establish a current cluster; the strongest therapy-center anchor is expired. Live demand remains open, not disproven. RRF check inconclusive.
+R4 2026-09-05 partial resolution: canonical Freelancer project search did not find three distinct open Greek list/product tasks; most Greek-adjacent canonical pages were stale, completed or in progress. Genealogy/local-archive help remains a sharper diaspora gap because location/language friction is real.
 
 
 ### HIGH PRIORITY
-- [ ] Can canonical Greek project pages excluding `/job-search/` yield three distinct OPEN paid list/product tasks with dates, scope and buyer budget? Then verify supplier bid access and fees; do not count average bids as budgets.
+- [ ] Do diaspora Greeks or family-history buyers repeatedly ask for Greece-based archive/local-record help after online search fails, and can Evaggelos sell a narrow records request/report without pretending to be a professional genealogist?
 - [ ] Do households request paid digital-file sorting AFTER conversion, with no analog equipment needed? Require distinct recent buyers, not nostalgia articles.
 
 - [ ] Which source-constrained paid asks repeat by job shape at least 3-5 times in one reachable channel, rather than appearing as one-off errands or commodity platform tasks?
@@ -70,6 +70,7 @@ R3 2026-09-05 partial resolution: indexed list-job repetition does NOT establish
 
 | Gap | Answer | Source | Date Resolved |
 |-----|--------|--------|---------------|
+| Can canonical Greek project pages excluding `/job-search/` yield three distinct OPEN paid list/product tasks with dates, scope and buyer budget? | No on this pass. Canonical Freelancer project search mostly surfaced stale Greek-adjacent work such as a typing job posted almost 10 years ago, old meta/livescore/law-editing projects, and one current but non-Greek generic US-history research task. It did not produce three distinct open Greek list/product tasks. | Freelancer canonical project snippets | 2026-09-05 |
 | Which source-constrained Greek buyer surfaces show deliverable-first paid asks, rather than broad-search registries, official lists, reports or agency SEO? | Partial yes, but not enough to add an idea. Freelancer.gr snippets surfaced an Excel-list job for Greek therapy/health centers and translation/product-description tasks; Facebook-visible snippets surfaced paid Greek-language practice, pet-food forwarding, housing contract takeover, travel/admin and small errand asks. The search surface is better, but the asks are either atomized, trust-heavy, or already inside freelancer/social-market channels. | Freelancer.gr/Facebook-visible/Insomnia snippets | 2026-09-05 |
 | Which Greek buyer surfaces use deliverable language rather than role language when they ask for outside help on a narrow operational task? | Partial negative on broad public search. Deliverable words improved the hypothesis but not the result quality: searches for lists, supplier prices, market research, checks and archiving surfaced official registries, official price lists, AADE/tax/audit content, provider directories, e-commerce reports and agency/service SEO before buyer posts. The next gap is source-constrained buyer surfaces, not broader deliverable wording. | support.gov.gr/AADE/Fortune/Agrotypos/Arhivix/Allazo Thermosifona/GR.EC.A/Advisable/Ministry price-list snippets | 2026-09-05 |
 | Do accountants or e-invoicing providers want outside chasing/organization for the 3,300 first-wave businesses that already use a provider/application but had not filed the required declaration? | No on the public-web pass. Searches found accountant/myDATA hiring and external-collaboration accountant roles, providers educating businesses and accountants, and Xo.gr-style accountants selling myDATA support. That proves workload and service supply, but not outsourcing appetite for a narrow declaration-chasing deliverable. | Jobfind/Taxheaven/i-spirit/Epsilon/Lido/Xo.gr/Jooble snippets | 2026-09-04 |
