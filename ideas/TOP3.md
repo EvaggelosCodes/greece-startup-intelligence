@@ -3,4 +3,4 @@
 
 ---
 
-No top ideas right now. Next run must prove partner-channel outsourcing appetite before reviving quantified compliance laggard ideas.
+No top ideas right now. Next run must leave e-invoicing unless partner outsourcing appears and search deliverable-first buyer language in unrelated categories.
