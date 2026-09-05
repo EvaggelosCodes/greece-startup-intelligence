@@ -3,4 +3,4 @@
 
 ---
 
-No top ideas right now. The latest deliverable-first pass killed supplier-list and document-archive candidates because broad search returned registries, price lists, reports and vendors rather than buyer pull. Next run must source-constrain to forums, groups, classifieds and freelancer/job posts with pay verbs.
+No top ideas right now. The latest source-constrained pass found better pay language but not a survivor: list-building appears as commodity Freelancer.gr work, and Facebook pay asks were tiny errands or personal-trust jobs. Next run must find repeated same-job density before any probation slot reopens.

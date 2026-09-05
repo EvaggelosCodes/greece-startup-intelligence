@@ -3,4 +3,4 @@
 
 ---
 
-No active ideas. September deliverable-first searches for lists, checks, supplier prices, market research and archiving returned official/SEO/provider surfaces before buyer pull. Next run must source-constrain to buyer surfaces before naming another candidate.
+No active ideas. Source-constrained September searches did find buyer-person pay language, including Greek Excel-list work and paid language-practice/errand asks, but the signals were one-off, personal-trust-heavy, or already platform-owned. Next run must cluster repeated same-job asks before promoting anything.

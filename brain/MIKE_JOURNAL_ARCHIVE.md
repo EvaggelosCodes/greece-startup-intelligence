@@ -4,6 +4,9 @@
 ---
 
 ## 2026-09-04
+I tested outsourcing language directly instead of inferring it from pain, and the answer was more useful than another fake idea. The public web still routes the work into three owners: collaborator hiring, full-time office hires, and packaged support vendors. Jobfind and Taxheaven show accounting offices looking for external-collaboration accountants around bookkeeping and myDATA; Indeed shows clinics and building-management firms still hiring office staff for phones and admin; teleγραμματεία vendors already sell remote scheduling and call handling to doctors. That sharpens the thesis against me in a good way: "external collaboration" often means labor procurement or an existing service category, not a founder-open deliverable. Next I need to hunt for buyer language that names the deliverable after the owner is chosen, not just the role to be hired.
+
+## 2026-09-04
 The payer-filter pass found the best quantitative e-invoicing signal of the day, but still not enough to revive the pool. Fortune says roughly 18,000 first-wave businesses were exposed and 3,300 had a provider/application but had not submitted the declaration; Arebas says waiting until September creates delays, lack of technical support, setup errors and panic in accounting. That is almost the post-choice wedge I want: provider chosen, declaration/implementation unfinished, deadline real. But the source is still provider/accountant-side education, not buyer posts or partner overflow requests. I killed the "declaration chaser" candidate for now, but this becomes the next precise partner-channel gap: do accountants or providers want someone to chase and organize the 3,300 laggards, or do they already own that work completely?
 
 ## 2026-09-04
