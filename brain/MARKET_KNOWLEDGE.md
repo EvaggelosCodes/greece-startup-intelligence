@@ -11,6 +11,7 @@ STABLE_FACT | Greece receives roughly EUR30B in EU structural/RRF funds through 
 TRACKED_SIGNAL | Greek startup funding stayed strong into 2026: snippets point to EUR732.2M invested in 90+ Greek startups in 2025, 18 active VCs, and roughly EUR700M additional local fund firepower, but the money skews to venture-scale AI/SaaS/HealthTech rather than Monday-start zero-capital founders | Newmoney/FWD Greece snippets | medium | 2026-06-26 | 2026-06-26
 TRACKED_SIGNAL | June 2026 macro tone improved slightly, but consumer confidence stayed flat, which weakens any lazy thesis that discretionary buyers are suddenly opening up | Naftemporiki/IOBE snippets | medium | 2026-07-02 | 2026-07-02
 TRACKED_SIGNAL | July 2026 visible ESPA/programming pages still skew to institutional, regional, employment and sector-specific digital-service calls rather than a broad zero-capital founder wedge, so grant-chasing remains a slow-cycle consultant lane, not Monday-start cash | espa snippets | medium | 2026-07-03 | 2026-07-03
+TRACKED_SIGNAL | Greek business formation stayed noisy in Q1 2026: Fortune/ELSTAT snippets point to 40,251 new business registrations versus 36,909 in Q1 2025, while bankruptcies also rose about 40.9%. This is macro churn, not a founder-open service idea by itself. | Fortune/ELSTAT snippets | medium | 2026-09-05 | 2026-09-05
 
 ## Tourism
 STABLE_FACT | Tourism is roughly 25% of Greek GDP with about 30M visitors/year | INSETE | high | 2026-03-27 | 2026-03-27

@@ -4,6 +4,9 @@
 ---
 
 ## 2026-09-04
+The payer-filter pass found the best quantitative e-invoicing signal of the day, but still not enough to revive the pool. Fortune says roughly 18,000 first-wave businesses were exposed and 3,300 had a provider/application but had not submitted the declaration; Arebas says waiting until September creates delays, lack of technical support, setup errors and panic in accounting. That is almost the post-choice wedge I want: provider chosen, declaration/implementation unfinished, deadline real. But the source is still provider/accountant-side education, not buyer posts or partner overflow requests. I killed the "declaration chaser" candidate for now, but this becomes the next precise partner-channel gap: do accountants or providers want someone to chase and organize the 3,300 laggards, or do they already own that work completely?
+
+## 2026-09-04
 I pushed the abandoned-residue test one notch harder. The only useful buyer sentence was old but important: in the electronic-invoicing headache thread, someone says their accountant told them he does not take it on, and they have under 50 invoices and are trying to figure out the special entry form. That is exactly the shape I want. But the current 2026 surface still does not prove a live market: AADE, Forin, e-forologia, Pegasus/TESAE, Epsilon and adviser pages explain API keys, special forms, errors, omissions and accountant roles, while the 1 Oct/12 Oct deadline is already provider/accountant-led. I am not reviving e-invoicing from one 2021 refusal quote. The next test must search for 2026 refusal/delay language across forums/groups, not just complexity.
 
 ## 2026-08-24

@@ -8,6 +8,7 @@
 ## Open Gaps (Priority Order)
 
 ### HIGH PRIORITY
+- [ ] Which source-constrained Greek buyer surfaces show deliverable-first paid asks, rather than broad-search registries, official lists, reports or agency SEO?
 - [ ] Which current refusal/delay complaints also identify a reachable payer and safe paid task, rather than only a stuck consumer or provider-support complaint?
 - [ ] Which partner channels show client overflow plus an explicit subcontractable deliverable, rather than hiring roles or publishing vendor education?
 - [ ] Empty-pool reset: which September/October buyer category has committed spend, public buyer language, a reachable list, and weak substitute ownership after post-expo failed the no-replies gate?
@@ -23,7 +24,6 @@
 - [ ] Do exhibitors in September 2026 public surfaces ever show paid follow-up pain outside Enterprise Greece, consultants or institutional export support, or is exhibition activity only a macro signal?
 - [ ] If direct channels are captured, will accountants, property managers, insurers, electricians, or PMS/software resellers actually refer or white-label compliance workflow help?
 - [ ] Which intermediary is most likely to buy or refer overflow compliance help: accountants, electricians, insurers, PMS vendors, or property managers?
-- [ ] Which Greek buyer surfaces use deliverable language rather than role language when they ask for outside help on a narrow operational task?
 - [ ] Is there a Greek-language online course platform that has real traction? Who are the top creators?
 - [ ] What is the actual size of the Greek pet services market: vets, groomers, sitters, food?
 - [ ] How are micro-freelancers preparing for Oct 1 2026 e-invoicing: DIY, accountant, or unprepared? (2026-06-26 partial: snippets show a mix of DIY myTimologio + accountant oversight, fee-shopping from ~EUR100/quarter to EUR100+/month, confusion about whether a separate accountant is needed, and first-wave evidence that even tool users can still miss the declaration step)
@@ -64,6 +64,7 @@
 
 | Gap | Answer | Source | Date Resolved |
 |-----|--------|--------|---------------|
+| Which Greek buyer surfaces use deliverable language rather than role language when they ask for outside help on a narrow operational task? | Partial negative on broad public search. Deliverable words improved the hypothesis but not the result quality: searches for lists, supplier prices, market research, checks and archiving surfaced official registries, official price lists, AADE/tax/audit content, provider directories, e-commerce reports and agency/service SEO before buyer posts. The next gap is source-constrained buyer surfaces, not broader deliverable wording. | support.gov.gr/AADE/Fortune/Agrotypos/Arhivix/Allazo Thermosifona/GR.EC.A/Advisable/Ministry price-list snippets | 2026-09-05 |
 | Do accountants or e-invoicing providers want outside chasing/organization for the 3,300 first-wave businesses that already use a provider/application but had not filed the required declaration? | No on the public-web pass. Searches found accountant/myDATA hiring and external-collaboration accountant roles, providers educating businesses and accountants, and Xo.gr-style accountants selling myDATA support. That proves workload and service supply, but not outsourcing appetite for a narrow declaration-chasing deliverable. | Jobfind/Taxheaven/i-spirit/Epsilon/Lido/Xo.gr/Jooble snippets | 2026-09-04 |
 | Which Greek buyer posts use outsourcing verbs ("να απαντάει τηλέφωνα", "εξωτερική συνεργασία", "ανάθεση", "overflow", "για μια εβδομάδα") rather than hiring verbs for September admin overload? | Current September search was negative for a founder-open lane. Accounting-side results show external-collaboration myDATA/bookkeeping listings, while clinics and building-management still hire office staff or use tele-secretary vendors. Outsourcing language alone did not produce a clean paid overflow task. | Jobfind/Taxheaven/Indeed/ELIA MCS snippets | 2026-09-04 |
 | Can an e-invoicing declaration-audit offer sell to SMEs near 1 Oct 2026, or is the visible lag mostly an enterprise/accountant-owned problem? | Still mostly owner-channel captured. Fortune's 2026 snippet gives a strong laggard pool: 18,000 exposed first-wave businesses and 3,300 already using a provider/application but missing the declaration. Arebas says late adopters face delays, lack of technical support, setup errors and accounting panic. But the visible buyer language remains provider/accountant education, not SMEs paying outsiders or providers outsourcing the chasing. | Fortune/Arebas/Taxheaven/AADE/provider snippets | 2026-09-04 |

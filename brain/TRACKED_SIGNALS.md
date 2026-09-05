@@ -12,6 +12,7 @@
 | Greek small-business hiring appetite | ACTIVE | down | 2026-09-04 | A fresh September re-check still points to the same Q3 2026 ManpowerGroup warning: Greece's NEO stays at 7, 50% of employers plan to hold staffing flat, and firms with 10-49 employees are at their weakest hiring outlook in four years. This remains a weak backdrop for generic small-B2B service selling. |
 | EU Recovery Fund disbursement pace | ACTIVE | stable | 2026-03-27 | Watch for new calls |
 | Greek startup funding rounds | ACTIVE | up | 2026-06-26 | Newmoney/FWD snippets point to EUR732.2M across 90+ Greek startups in 2025 plus roughly EUR700M visible local VC firepower in 2026, but it is mostly venture-scale capital not useful to zero-capital founders |
+| Greek business formation churn | ACTIVE | up | 2026-09-05 | Fortune/ELSTAT snippets point to 40,251 new business registrations in Q1 2026 versus 36,909 in Q1 2025, but bankruptcies also rose about 40.9%. Useful macro churn, not direct idea proof. |
 | Greek inflation rate | ACTIVE | down | 2026-03-27 | Cooling from 2023 peaks |
 | Greek expert/course monetization | ACTIVE | down | 2026-07-02 | Paid Greek Zoom/webinar sellers are findable, but the visible market is still mostly institutional/trade-training or already tooled, and recording/material control is often deliberate rather than an execution miss |
 
