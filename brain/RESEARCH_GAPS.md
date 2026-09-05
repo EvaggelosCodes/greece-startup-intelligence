@@ -6,8 +6,13 @@
 ---
 
 ## Open Gaps (Priority Order)
+R3 2026-09-05 partial resolution: indexed list-job repetition does NOT establish a current cluster; the strongest therapy-center anchor is expired. Live demand remains open, not disproven. RRF check inconclusive.
+
 
 ### HIGH PRIORITY
+- [ ] Can canonical Greek project pages excluding `/job-search/` yield three distinct OPEN paid list/product tasks with dates, scope and buyer budget? Then verify supplier bid access and fees; do not count average bids as budgets.
+- [ ] Do households request paid digital-file sorting AFTER conversion, with no analog equipment needed? Require distinct recent buyers, not nostalgia articles.
+
 - [ ] Which source-constrained paid asks repeat by job shape at least 3-5 times in one reachable channel, rather than appearing as one-off errands or commodity platform tasks?
 - [ ] Which source-constrained Greek buyer surfaces show deliverable-first paid asks, rather than broad-search registries, official lists, reports or agency SEO?
 - [ ] Which current refusal/delay complaints also identify a reachable payer and safe paid task, rather than only a stuck consumer or provider-support complaint?

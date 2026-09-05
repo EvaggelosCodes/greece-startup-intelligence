@@ -4,7 +4,9 @@
 ---
 
 ## THE ONE RULE: Triangulate from snippets
-- 1 source = HYPOTHESIS. 2 = TRACKED_SIGNAL. 3+ = STABLE_FACT.
+- 2026-09-05 evidence guardrail: count independent origins, not duplicate/syndicated pages. Check project status and event date; crawl date is not freshness. Label asking price, buyer budget, average bid and completed payment separately. Platform existence proves competition, not supplier exclusion. Analyst scores with missing evidence must be marked provisional.
+
+- 1 independent origin = HYPOTHESIS. 2 = TRACKED_SIGNAL. 3+ agreeing independent origins may establish a STABLE_FACT within the observed scope; duplicated snippets never add evidence.
 - Get all 3 from **search snippets**, not page fetches. Three agreeing snippets = done.
 - Fetch a page only when a specific number you need is in none of the snippets.
 
@@ -43,7 +45,7 @@ If substitutes appear before buyer requests, the budget is probably already spok
 | Claim | Minimum evidence |
 |-------|------------------|
 | "Demand exists" | trend up + 1 complaint + jobs signal (1-2 searches) |
-| "No real competitor" | 1 "already exists?" search came up empty/weak |
+| "No competitor found in this scan" | One targeted search; absence is scoped uncertainty, never proof of no competition |
 | "Greeks pay €Y" | 1 real price point (more is better) |
 | "Right timing now" | a law/funding signal OR 3 converging snippets |
 | "Score is X.X" | each sub-score tied to 1 specific snippet |

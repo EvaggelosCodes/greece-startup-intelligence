@@ -10,7 +10,7 @@
 | # | Pattern | Evidence Count | First Seen | Last Reinforced | Confidence |
 |---|---------|---------------|------------|-----------------|------------|
 | 1 | Greeks resist subscriptions, accept one-time/annual payments | 3 | 2026-03-27 | 2026-03-27 | HIGH |
-| 2 | Personal referral is the only reliable zero-cost sales channel in Greece | 2 | 2026-03-27 | 2026-03-27 | HIGH |
+
 | 3 | Greek islands are two different markets: summer (supply-constrained) vs winter (demand-constrained) | 2 | 2026-03-27 | 2026-03-27 | HIGH |
 | 4 | Greek SMEs are 5-7 years behind EU in digital tools; big gap, low willingness to pay | 2 | 2026-03-27 | 2026-03-27 | HIGH |
 | 5 | In tourist consumer-dispute lanes, named money and angry reviews are not enough; if paid claim services and institutional resolution rails appear before buyer-language or a clean outreach list, the wedge is fake | 3 | 2026-07-02 | 2026-07-02 | MEDIUM |
@@ -24,6 +24,8 @@
 ---
 
 ## Patterns Under Investigation
+
+- 2026-09-05 R3: Referral may be valuable, but the old assertion that it is the ONLY reliable zero-cost channel lacked traceable evidence. Demoted; live marketplace supplier access and economics remain untested.
 *Possible patterns; need more evidence before promoting*
 
 - Greeks may be warming to premium wellness/mental health services post-COVID; 1 signal so far

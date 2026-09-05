@@ -1,5 +1,7 @@
 # Research Log
 *One line per run.*
+- 2026-09-05 R3 | Audited repeat paid-task density and platform exclusion, escaped to household digitization, attempted overdue RRF check (inconclusive); cluster gap partially resolved as duplicate expired evidence, added 0, rejected 3 candidates including list revival 6.1→5.7, correction 1, top none. Theme: distinct open buyers and actual budget fields beat syndicated snippets; capped active learning memory.
+
 
 - 2026-09-05 | Source-constrained the empty-pool hunt into Insomnia, Facebook-visible snippets and Freelancer.gr. This did surface buyer-person pay language: Excel-list work for Greek therapy/health centers, paid Greek practice time, small errands/forwarding and contract takeover asks. Added 0 ideas, killed 2 candidates, resolved 1 gap, corrections 1, top none. Theme: source quality improved, but one-off or platform-owned paid tasks need repeated same-job density before probation.
 - 2026-09-05 | Tested deliverable-first buyer language outside compliance: lists, supplier prices, market research, checks and archiving. Broad public search returned official registries, price lists, reports, tax/audit content, provider directories and agency/service SEO rather than direct buyer pull. Added 0 ideas, killed 2 candidates, resolved 1 gap, corrections 1, top none. Theme: better verbs still fail if the source surface is official/SEO noise.

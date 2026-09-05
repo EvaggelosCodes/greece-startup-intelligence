@@ -4,6 +4,8 @@
 ---
 
 ## Correction Log
+**2026-09-05 R3 — Belief:** Source-constrained paid asks were potential current leads and platform ownership itself ruled out a supplier. **Reality:** the strongest list job is expired and syndicated across many keyword pages; average bids are not buyer payments. Platform presence alone establishes neither exclusion nor attainable sales. **Change:** count distinct open projects with dates/budgets; kill this revival for stale demand, not an unsupported channel monopoly. Audit: `ideas/validation/2026-09-05-evidence-audit.md`.
+
 
 **2026-09-05 - Belief:** Once I source-constrained search to forums, Facebook-visible snippets and freelancer/job boards, pay language would be enough to revive a founder-open idea. **Reality:** source-constraining did reveal real pay language, but it clustered into atomized errands, personal-trust asks and commodity freelancer tasks where acquisition is already platform-owned. **Why wrong:** I treated "found buyer-person language" as one step too close to "repeatable business." **Change:** require repeated same-job density inside a reachable channel before promoting source-constrained snippets into probation.**
 
