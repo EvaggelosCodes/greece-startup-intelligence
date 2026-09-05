@@ -1,8 +1,6 @@
 # TOP 3 — Greece Startup Intelligence
-*Updated 2026-09-05 R5 | Pool: 1 | Average: 6.6 | Graduation: none*
+*Updated 2026-09-06 | Pool: 0 | Average: N/A | Graduation: none*
 
-## 1. Greek Records Request Pack — 6.6 PROBATION
+No recommendation clears the strict 6.5 floor. Greek Records Request Pack fell 6.6 to 6.1 after payment-attribution and substitute attacks.
 
-Small service for diaspora family-history researchers stuck after online search: identify the right Greek archive/municipality/church path, draft the Greek request, translate replies, and return a source-note report. It clears the 6.5 floor only as probation because repeated pain is visible, but payment still needs a direct lead or bid.
-
-No #2 or #3. The rest of the pool is empty.
+Next proof: a current buyer accepting a scoped, priced deliverable with a credible delivery sample. More advice posts do not qualify. [Decision audit](validation/2026-09-06-payment-attribution-audit.md).

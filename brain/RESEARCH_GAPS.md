@@ -6,12 +6,12 @@
 ---
 
 ## Open Gaps (Priority Order)
-R5 2026-09-05 partial resolution: Greek genealogy/local-record pain repeats across diaspora surfaces and has enough location/language friction for a 6.6 probation idea, but payment proof remains thin.
+R6 2026-09-06 partial resolution: Greek genealogy pay intent strengthened with explicit "for hire"/"hire someone who speaks Greek" snippets. Next proof must be direct response, bid, or sample-report feedback.
 
 
 ### HIGH PRIORITY
-- [ ] Will diaspora Greek genealogy buyers pay for a narrow records-request/report pack, not full genealogy or citizenship/legal advice? Need 3 paid-intent leads, one serious reply, or a sample-report response.
-- [ ] Do households request paid digital-file sorting AFTER conversion, with no analog equipment needed? Require distinct recent buyers, not nostalgia articles.
+- [ ] Will diaspora Greek genealogy buyers reply to or pay for a EUR49-EUR99 records-request/report pack? Need one direct bid/offer response or sample-report feedback; no more generic evidence collection.
+- [ ] Source-constrain household digital-file sorting to classifieds/forums before pay terms; 2026-09-06 broad query produced irrelevant PDFs, so demand remains unknown.
 
 - [ ] Which source-constrained paid asks repeat by job shape at least 3-5 times in one reachable channel, rather than appearing as one-off errands or commodity platform tasks?
 - [ ] Which source-constrained Greek buyer surfaces show deliverable-first paid asks, rather than broad-search registries, official lists, reports or agency SEO?
@@ -70,6 +70,7 @@ R5 2026-09-05 partial resolution: Greek genealogy/local-record pain repeats acro
 
 | Gap | Answer | Source | Date Resolved |
 |-----|--------|--------|---------------|
+| Will diaspora Greek genealogy buyers pay for a narrow records-request/report pack, not full genealogy or citizenship/legal advice? | Partial yes on public pay intent. Search now shows explicit hiring language: people ask for a Greek genealogist in Greece for hire, say they tried to hire a researcher in Greece but it is not going well, and ask whether they should hire someone who speaks Greek to inquire at record offices in person. That is enough for 6.8 probation, but direct reply/payment remains unresolved. | Facebook-visible/MyHeritage/Freelancer snippets | 2026-09-06 |
 | Do diaspora Greeks or family-history buyers repeatedly ask for Greece-based archive/local-record help after online search fails, and can Evaggelos sell a narrow records request/report without pretending to be a professional genealogist? | Partial yes on repeated pain and safe scope. Reddit and Facebook-visible Greek genealogy snippets repeatedly show people stuck after online search, unable to read Greek or identify which local/GAK/church archive to contact. MyHeritage says archive/notarial work may require an in-person visit or hiring a researcher; one Reddit comment says the seeker will probably have to pay someone. This supports a narrow archive-request/report pack, but direct payment proof remains the next gate. | Reddit/Facebook-visible/MyHeritage/Freelancer snippets | 2026-09-05 |
 | Can canonical Greek project pages excluding `/job-search/` yield three distinct OPEN paid list/product tasks with dates, scope and buyer budget? | No on this pass. Canonical Freelancer project search mostly surfaced stale Greek-adjacent work such as a typing job posted almost 10 years ago, old meta/livescore/law-editing projects, and one current but non-Greek generic US-history research task. It did not produce three distinct open Greek list/product tasks. | Freelancer canonical project snippets | 2026-09-05 |
 | Which source-constrained Greek buyer surfaces show deliverable-first paid asks, rather than broad-search registries, official lists, reports or agency SEO? | Partial yes, but not enough to add an idea. Freelancer.gr snippets surfaced an Excel-list job for Greek therapy/health centers and translation/product-description tasks; Facebook-visible snippets surfaced paid Greek-language practice, pet-food forwarding, housing contract takeover, travel/admin and small errand asks. The search surface is better, but the asks are either atomized, trust-heavy, or already inside freelancer/social-market channels. | Freelancer.gr/Facebook-visible/Insomnia snippets | 2026-09-05 |

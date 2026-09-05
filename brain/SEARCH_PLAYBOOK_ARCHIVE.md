@@ -114,3 +114,5 @@
 - 2026-07-03: When visible tourist pain is over-owned, try subsidized-benefit users (`κοινωνικός τουρισμός`, voucher, `διαθεσιμότητα`, `αμέτρητα τηλέφωνα`). The good query is pain verb + benefit + handoff, then immediately search free directories/request tools to cap the score.
 
 ---
+
+- 2026-08-24: Specialist supply pages are candidate contacts, not a verified bench. Ask whether a buyer can already reach the specialist directly.

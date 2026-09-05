@@ -107,3 +107,12 @@
 - REGULATORY_BLOCK: Licensing/permits block day-1 revenue.
 
 ---
+
+## 2026-09-06 — Payment attribution audit
+| Idea | Seven scores (capital/fit/speed/market/gap/timing/solo) | Final | Exact reason / revival gate |
+|---|---|---|---|
+| Greek Records Request Pack | 9/9/4/4/3/5/9 = 43/7 | 6.1 (was 6.6) | Under strict 6.5 floor; advice to hire is not pay intent, ten-target cap was missed, informational substitute and local researchers weaken gap. Revive only with accepted priced scope and credible delivery proof. No outreach rejection observed. |
+| Lesvos Archive Visit Runner | 5/9/3/3/4/5/6 = 35/7 | 5.0 | Historical named buyer; travel, access, skill and budget unknown. Same flaw as R4 archive helper. Needs live paid scope and local delivery economics. |
+| Household Digital Photo Sorting | 9/4/3/2/3/5/9 = 35/7 | 5.0 | No qualifying buyer/price from weak broad query; insufficient evidence, not proof of absent demand or fatal competition. Needs source-constrained direct asks. |
+
+Evidence and provisional score rationales: [audit](validation/2026-09-06-payment-attribution-audit.md).

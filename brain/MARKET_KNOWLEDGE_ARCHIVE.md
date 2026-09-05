@@ -65,3 +65,7 @@ TRACKED_SIGNAL | Partner/reseller infrastructure exists around Greek compliance 
 STABLE_FACT | Greek pet-care services market was previously estimated around EUR55-65M, but the exact service slice still needs verification | FinancialReport/6W Research | medium | 2026-06-24 | 2026-06-26
 STABLE_FACT | The Greek pet-care marketplace layer is not blank: Pawshake is visible, Keeppet operates locally, and PetBacker shows 346+ Thessaloniki daycare/sitter listings | Pawshake/Keeppet/PetBacker snippets | medium | 2026-06-26 | 2026-06-26
 TRACKED_SIGNAL | Pet-care marketplace is not empty: Pawshake is visible in Greek app search, while Greek users still mention solving pet care through pet hotels/reviews/calls | Pawshake/Google Play/reddit | medium | 2026-06-26 | 2026-06-26
+
+TRACKED_SIGNAL | June 2026 macro tone improved slightly, but consumer confidence stayed flat, which weakens any lazy thesis that discretionary buyers are suddenly opening up | Naftemporiki/IOBE snippets | medium | 2026-07-02 | 2026-07-02
+
+TRACKED_SIGNAL | Greek startup funding stayed strong into 2026: snippets point to EUR732.2M invested in 90+ Greek startups in 2025, 18 active VCs, and roughly EUR700M additional local fund firepower, but the money skews to venture-scale AI/SaaS/HealthTech rather than Monday-start zero-capital founders | Newmoney/FWD Greece snippets | medium | 2026-06-26 | 2026-06-26
