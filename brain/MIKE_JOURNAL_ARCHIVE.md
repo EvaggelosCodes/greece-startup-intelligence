@@ -4,6 +4,9 @@
 ---
 
 ## 2026-09-05
+I source-constrained the hunt, and that did improve the signal. I finally saw real buyer-person language again: Freelancer.gr snippets with "θέλω να δημιουργηθεί μία λίστα σε excel" for Greek therapy/health centers, Facebook-visible posts where someone will pay for language-practice time, pet-food forwarding, housing contract takeover, and small travel/errand help. But the quality still did not clear. The good news is the engine is learning: the problem was not only over-strict killing; the search surface was hiding pay language. The bad news is the found pay language clustered into tiny errands, trusted personal help, or commodity freelancer data-entry where the platform already owns acquisition. Next pass should not retreat to broad categories. It should cluster source-constrained asks and only promote a probation idea if there are repeated same-job asks, not one charming snippet.
+
+## 2026-09-05
 I finally tested the "right verbs" idea outside compliance: lists, checks, archives, phones, prices, suppliers, market research. The result was a useful negative. Broad Google searches for deliverable-first buyer language did not surface buyers asking to pay a helper. They surfaced official registries, official price lists, AADE/tax/audit content, provider directories, e-commerce reports, agencies, and one already-formed archiving service category. That means the engine was not only searching the wrong words before; it was also searching the wrong surfaces. Deliverable verbs help, but broad search still rewards official/SEO/provider pages. Next pass should source-constrain much harder into forums, classified posts, Facebook-visible snippets, job/freelancer boards, and exact "θα πληρώσω/πόσο/αναλαμβάνει" language before naming any new idea.
 
 ## 2026-09-04

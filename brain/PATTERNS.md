@@ -25,6 +25,7 @@
 
 ## Patterns Under Investigation
 
+- 2026-09-05 R5: Diaspora service wedges may work when online research fails because Greek-language/local-archive access is still offline or non-digitized. Needs payment proof before promotion to a durable pattern.
 - 2026-09-05 R3: Referral may be valuable, but the old assertion that it is the ONLY reliable zero-cost channel lacked traceable evidence. Demoted; live marketplace supplier access and economics remain untested.
 *Possible patterns; need more evidence before promoting*
 

@@ -1,6 +1,7 @@
 # Mike's Search Playbook
 *12 retained lessons; older detail archived.*
 
+- 2026-09-05 R5: A good probation idea can come from location/language friction plus repeated stuck-buyer posts, even if direct pay language is thin. Greek genealogy cleared only because multiple diaspora buyers hit the same non-digitized/archive/Greek-language wall and at least one source says hiring/paying a researcher may be needed. Cap it until pay-intent or replies appear.
 - 2026-09-05 R4: Canonical project pages beat aggregate result pages. `site:freelancer.com/projects/ Greece Greek ...` mostly surfaced old/completed/in-progress Greek-adjacent work even when crawled today. Count only open, dated, budgeted projects tied to distinct buyers.
 - 2026-09-05 R3: Deduplicate marketplace snippets by project ID/title/buyer; check open/expired status before counting demand. Average bid is a supplier offer, never proof of buyer budget or payment. `/job-search/` pages repeated one expired therapy-center job across unrelated keywords.
 - 2026-09-05 R3: Marketplace presence is not a fatal supplier-service flaw. Check bid access, fees, live jobs, reply rates and achievable margin before calling a channel closed; competition still lowers GAP.
@@ -12,4 +13,3 @@
 - 2026-09-04: Post-choice work is not automatically abandoned. Check whether the incumbent already includes the proposed cleanup or emergency handling.
 - 2026-09-04: Event+hall+stand+contact queries make outreach lists; sendable lists and scripts are test artifacts, not reply or conversion evidence.
 - 2026-08-24: Specialist supply pages are candidate contacts, not a verified bench. Ask whether a buyer can already reach the specialist directly.
-- 2026-07-03: Use Greek first, five sharp queries, zero fetches unless a missing decisive field requires one; uncertain negative search results are scoped failures, not absence of demand.

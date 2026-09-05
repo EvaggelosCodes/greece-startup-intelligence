@@ -6,11 +6,11 @@
 ---
 
 ## Open Gaps (Priority Order)
-R4 2026-09-05 partial resolution: canonical Freelancer project search did not find three distinct open Greek list/product tasks; most Greek-adjacent canonical pages were stale, completed or in progress. Genealogy/local-archive help remains a sharper diaspora gap because location/language friction is real.
+R5 2026-09-05 partial resolution: Greek genealogy/local-record pain repeats across diaspora surfaces and has enough location/language friction for a 6.6 probation idea, but payment proof remains thin.
 
 
 ### HIGH PRIORITY
-- [ ] Do diaspora Greeks or family-history buyers repeatedly ask for Greece-based archive/local-record help after online search fails, and can Evaggelos sell a narrow records request/report without pretending to be a professional genealogist?
+- [ ] Will diaspora Greek genealogy buyers pay for a narrow records-request/report pack, not full genealogy or citizenship/legal advice? Need 3 paid-intent leads, one serious reply, or a sample-report response.
 - [ ] Do households request paid digital-file sorting AFTER conversion, with no analog equipment needed? Require distinct recent buyers, not nostalgia articles.
 
 - [ ] Which source-constrained paid asks repeat by job shape at least 3-5 times in one reachable channel, rather than appearing as one-off errands or commodity platform tasks?
@@ -70,6 +70,7 @@ R4 2026-09-05 partial resolution: canonical Freelancer project search did not fi
 
 | Gap | Answer | Source | Date Resolved |
 |-----|--------|--------|---------------|
+| Do diaspora Greeks or family-history buyers repeatedly ask for Greece-based archive/local-record help after online search fails, and can Evaggelos sell a narrow records request/report without pretending to be a professional genealogist? | Partial yes on repeated pain and safe scope. Reddit and Facebook-visible Greek genealogy snippets repeatedly show people stuck after online search, unable to read Greek or identify which local/GAK/church archive to contact. MyHeritage says archive/notarial work may require an in-person visit or hiring a researcher; one Reddit comment says the seeker will probably have to pay someone. This supports a narrow archive-request/report pack, but direct payment proof remains the next gate. | Reddit/Facebook-visible/MyHeritage/Freelancer snippets | 2026-09-05 |
 | Can canonical Greek project pages excluding `/job-search/` yield three distinct OPEN paid list/product tasks with dates, scope and buyer budget? | No on this pass. Canonical Freelancer project search mostly surfaced stale Greek-adjacent work such as a typing job posted almost 10 years ago, old meta/livescore/law-editing projects, and one current but non-Greek generic US-history research task. It did not produce three distinct open Greek list/product tasks. | Freelancer canonical project snippets | 2026-09-05 |
 | Which source-constrained Greek buyer surfaces show deliverable-first paid asks, rather than broad-search registries, official lists, reports or agency SEO? | Partial yes, but not enough to add an idea. Freelancer.gr snippets surfaced an Excel-list job for Greek therapy/health centers and translation/product-description tasks; Facebook-visible snippets surfaced paid Greek-language practice, pet-food forwarding, housing contract takeover, travel/admin and small errand asks. The search surface is better, but the asks are either atomized, trust-heavy, or already inside freelancer/social-market channels. | Freelancer.gr/Facebook-visible/Insomnia snippets | 2026-09-05 |
 | Which Greek buyer surfaces use deliverable language rather than role language when they ask for outside help on a narrow operational task? | Partial negative on broad public search. Deliverable words improved the hypothesis but not the result quality: searches for lists, supplier prices, market research, checks and archiving surfaced official registries, official price lists, AADE/tax/audit content, provider directories, e-commerce reports and agency/service SEO before buyer posts. The next gap is source-constrained buyer surfaces, not broader deliverable wording. | support.gov.gr/AADE/Fortune/Agrotypos/Arhivix/Allazo Thermosifona/GR.EC.A/Advisable/Ministry price-list snippets | 2026-09-05 |
