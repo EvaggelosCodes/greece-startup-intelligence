@@ -3,6 +3,9 @@
 
 ---
 
+## 2026-09-06 attribution audit
+I re-scored the pack to 6.1 and killed it under the strict floor. My traceable Greek results show advice and historical intent; the concurrent R6 reports stronger Facebook asks but supplies no URLs/dates or accepted remote scope. I preserve that contrary evidence without treating EUR49/EUR99 proposed prices as sales. Both earlier 6.6 and R6 6.8 missed the ten-target cap. Remote drafting is not onsite retrieval. Household query failure remains unknown demand, and no outreach means no observed rejection.
+
 ## 2026-09-05 R5
 The genealogy/local-archives fragment earned a probation slot after the non-platform diaspora pass. The repeatability problem improved: current/recent Reddit and Facebook-visible snippets show multiple Greek-family-history buyers stuck on exactly the same blocker - they have Ellis Island/naturalization/family clues, but cannot read Greek, do not know which GAK/local/church archive to ask, or need someone in Greece because records are not digitized. One Reddit comment says plainly that the seeker will probably have to pay someone; MyHeritage says notarial and archive work often requires visiting in person or hiring a researcher. This is not a huge SaaS idea. It is a small, service-first wedge: a fixed-fee "Greek records direction + archive request pack" for diaspora families, never legal/citizenship advice and never pretending to be a professional genealogist. It clears 6.6 PROBATION because repeated pain, location/language friction and a direct platform lead exist; the next proof must be a 48h offer test or 3 more paid-intent leads.
 

@@ -1,6 +1,7 @@
 # Mike's Search Playbook
 *12 retained lessons; older detail archived.*
 
+- 2026-09-06 R8: For platform contractor wedges, require at least two independent buyer/channel surfaces before probation, then stop treating advertised rates as proof. The validation unit is accepted access + live queue + realized labor-hour yield after QA, not audio-minute pay or crawled snippets.
 - 2026-09-06 R7: Remote scope is necessary but not enough. Greek genealogy transcription beats archive navigation on deliverability, but old will/letter requests and budget-unclear transcription projects still fail the strict floor. Require fresh date + buyer + scope + quote/budget before reviving.
 - 2026-09-06 contractor access: Search a vendor’s supplier application/pay page after project discovery; distinguish audio-minute rates from labor-hour earnings, and applicant access from acceptance/live queue. Official date queries returning old PDFs leave the current signal unknown.
 - 2026-09-06: Attribute pay verbs to the original buyer, country and original post date; replies recommending hiring are not budgets. Greek genealogy price terms attracted genetics noise; household broad pay terms found PDFs. Source-constrain first, then add task/pay terms.
@@ -12,4 +13,3 @@
 - 2026-09-04: Pair outside-help verbs with deliverable nouns; external collaboration and workload often mean role hiring, not a discrete subcontract.
 - 2026-09-04: Refusal language needs freshness, a reachable payer and a safe paid task; consumer support anger alone does not establish a service buyer.
 - 2026-09-04: Quantified laggards and seasonal urgency need channel proof. Search official owner/support and substitutes before assigning a timing bonus.
-- 2026-09-04: Post-choice work is not automatically abandoned. Check whether the incumbent already includes the proposed cleanup or emergency handling.

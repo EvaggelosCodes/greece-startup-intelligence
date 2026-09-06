@@ -4,6 +4,8 @@
 ---
 
 ## Correction Log
+**2026-09-06 R8 — Belief:** GoTranscript alone could not clear contractor transcription above 5.4, so the lane should stay dead until direct acceptance. **Reality:** the single-vendor verdict was right, but a second-buyer pass changed the unit of analysis: Upwork, Appen/CrowdGen-style roles and remote hiring snippets show a repeatable Greek-native task stack. **Change:** promote only as 6.6 PROBATION and test accepted access, live queue and realized labor-hour yield; never confuse application pages or audio-minute rates with income.
+
 **2026-09-06 contractor access:** I overgeneralized intermediary presence into exclusion. GoTranscript explicitly solicits Greek contractors: it can be the buyer. Advertised pay is per audio minute, not labor minute; access, acceptance, task inventory and realized yield are separate gates. This does not validate income or revive genealogy. See ideas/validation/2026-09-06-contractor-access-audit.md.
 
 **2026-09-06 — Belief:** R5 pay/hire language and repeated archive pain justified 6.6. **Reality:** the March Greek thread has hiring advice from a respondent; the Lesvos ask is historical; fresh explicit hiring concerns Lithuania. R5 also exceeded the 6.5 ten-target cap. **Change:** record speaker, country, original date, scope and budget for each lead; score remote drafting separately from physical retrieval; kill at 6.1 under strict floor. No outreach means no observed rejection. Audit: `ideas/validation/2026-09-06-payment-attribution-audit.md`.
