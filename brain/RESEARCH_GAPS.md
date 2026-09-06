@@ -6,10 +6,14 @@
 ---
 
 ## Open Gaps (Priority Order)
-R6 2026-09-06 partial resolution: Greek genealogy pay intent strengthened with explicit "for hire"/"hire someone who speaks Greek" snippets. Next proof must be direct response, bid, or sample-report feedback.
+R6 claim superseded by attribution audit: unlinked hiring snippets do not establish accepted remote-pack scope. Keep payment unresolved; see 2026-09-06 payment-attribution audit.
 
 
 ### HIGH PRIORITY
+- [ ] Contractor access gate: can a timed accurate Greek sample qualify for available paid work, and does a second independent vendor offer comparable access? Advertised rates alone are insufficient.
+- [ ] Oldest-signal queue: check March Wolt expansion through a specific supplier-access question; March nomad signal also remains overdue.
+- [x] Does platform presence automatically block a solo supplier? No: GoTranscript advertises Greek contractor applications (2026-09-06); screening, queue and earnings remain unknown.
+
 - [ ] Will diaspora Greek genealogy buyers reply to or pay for a EUR49-EUR99 records-request/report pack? Need one direct bid/offer response or sample-report feedback; no more generic evidence collection.
 - [ ] Source-constrain household digital-file sorting to classifieds/forums before pay terms; 2026-09-06 broad query produced irrelevant PDFs, so demand remains unknown.
 

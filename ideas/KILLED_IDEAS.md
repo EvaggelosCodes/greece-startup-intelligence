@@ -7,6 +7,8 @@
 
 | Date Killed | Idea | Score | Kill Reason | Kill Type | Revisit? |
 |-------------|------|-------|-------------|-----------|----------|
+| 2026-09-06 R7 | Greek Genealogy Transcription Bite | 6.2 | Remote transcription/translation is better scoped than archive navigation because it can solve a concrete file-level task without travel. Search found requests for Greek wills/old family letters and a 100-hour Greek transcription project, but the strongest dated will request is 3 years old, the 100-hour project lacks a clean current buyer/budget, and Hellenic genealogy groups plus GreekAncestry/Rizes/translation suppliers already absorb much of the work. | UNVERIFIED_DEMAND | Revisit only with fresh dated transcription/translation posts that include scope and quote/budget, or a direct sample accepted by a buyer |
+| 2026-09-06 | Greek Records Request Pack | 6.1 | Re-scored after payment-attribution audit. Greek archive pain is real, but the March 2026 hire/pay language was respondent advice, the Lesvos ask is historical, fresh explicit hiring demand was Lithuanian not Greek, and Greek Ancestry/Sparti2034/FHW show guide and supplier substitutes. Remote drafting does not prove onsite retrieval demand. | UNVERIFIED_DEMAND | Current buyer accepting scoped/priced remote deliverable with credible sample path |
 | 2026-09-05 R4 | Greek Genealogy Local Archive Helper | 6.4 | Best fragment from canonical platform search: a recent snippet says the buyer needs someone physically in Greece and familiar with genealogy to verify family-tree connections through immigration and local-council archives. It has location/language friction and a clear deliverable, but one buyer is not repeatability, and substitutes are visible: FamilySearch/free guides, GreekAncestry/MyHeritage records, LegacyTree-style onsite genealogist networks and Spartan Roots-style record services. Under the user's 6.5 floor it cannot enter the pool. | TIMING_BAD | Revisit if 3+ diaspora/local-record asks appear or Evaggelos sends/bids a narrow records-request/report offer and gets a reply |
 | 2026-09-05 R3 | Therapy-Center Excel Lead List Desk — revival rejected | 5.7 (was 6.1) | 10/6/3/4/3/5/9 = 40/7; strongest request expired and repeated on aggregate pages, no current cluster or paid-price proof. Platform ownership alone is NOT the kill. | STALE_SIGNAL | Three distinct open projects with dates/budgets or one actual paid order; see R3 audit |
 | 2026-09-05 R3 | Greek E-shop Product Entry Batch | 5.7 | 10/5/3/4/3/6/9 = 40/7; historical aggregate task fragment lacks verified live buyer, price and scope; rhymes with e-shop completion/feed cleanup. | UNVERIFIED_DEMAND | Distinct open buyer tasks plus deliverable sample and supplier economics |
@@ -116,3 +118,12 @@
 | Household Digital Photo Sorting | 9/4/3/2/3/5/9 = 35/7 | 5.0 | No qualifying buyer/price from weak broad query; insufficient evidence, not proof of absent demand or fatal competition. Needs source-constrained direct asks. |
 
 Evidence and provisional score rationales: [audit](validation/2026-09-06-payment-attribution-audit.md).
+
+## 2026-09-06 — Contractor access run
+| Candidate | Capital/fit/speed/market/gap/timing/solo | Final | Exact reason |
+|---|---|---|---|
+| Greek contractor transcription | 9/7/5/3/3/5/9 | 5.4 | 41/7 minus 0.5 single-client penalty; below floor. Applicant access advertised, acceptance/queue/working-hour yield unknown. |
+| Greek podcast annotation | 9/7/3/2/3/5/9 | 5.4 | 38/7; canonical USD10–30 project closed and ten months old; expired-task rhyme. |
+| Household organizing helper | 9/4/3/2/3/5/8 | 4.9 | 34/7; no qualifying priced buyer retained; insufficient evidence, not absent demand. |
+
+Provisional scores and revival gates: [contractor audit](validation/2026-09-06-contractor-access-audit.md).

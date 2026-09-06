@@ -7,7 +7,7 @@
 
 | Signal | Status | Direction | Last Checked | Notes |
 |--------|--------|-----------|--------------|-------|
-| Greek consumer confidence trend | ACTIVE | stable | 2026-07-02 | IOBE June 2026 snippet says overall economic climate improved slightly but consumer confidence stayed at roughly the same level |
+| Greek consumer confidence trend | ACTIVE | unknown | 2026-09-06 | August query returned older IOBE reports; current direction unverified, not refreshed from June. |
 | Tourism 2026 season bookings vs 2025 | ACTIVE | up | 2026-07-01 | INSETE/Money-Tourism snippets point to roughly 30.5M summer seats (+8.4% vs 2025), but bookings are slowing and shifting further into last-minute behavior |
 | Greek small-business hiring appetite | ACTIVE | down | 2026-09-04 | A fresh September re-check still points to the same Q3 2026 ManpowerGroup warning: Greece's NEO stays at 7, 50% of employers plan to hold staffing flat, and firms with 10-49 employees are at their weakest hiring outlook in four years. This remains a weak backdrop for generic small-B2B service selling. |
 | EU Recovery Fund disbursement pace | ACTIVE | unknown | 2026-09-05 | Official September query returned no qualifying result; check attempted, latest disbursement unverified. Do not retain the March stable direction as current evidence. |
@@ -28,7 +28,7 @@
 | Digital client registry expansion | ACTIVE | down | 2026-07-03 | Hotels, organized accommodations, and wedding/catering businesses stay on the roadmap, but fresh 2026 search still surfaced rollout press plus software, support and accountant-facing surfaces before owner complaints; the direct workflow-training wedge still looks seller-owned |
 | Compliance overflow partner channel | ACTIVE | down | 2026-09-04 | Fresh outsourcing-language search still points to collaborator hiring and vendor rails, not an outside overflow desk: Jobfind/Taxheaven surface external-collaboration accountant listings, while i-spirit/Epsilon-style myDATA vendors frame the accountant/software stack as the handling layer. |
 | Gig economy platform regulation | ACTIVE | up | 2026-06-27 | Greece appears to be drafting toward end-2026 transposition, but the likely buyers are platforms/employers, not a clean Monday-start founder wedge |
-| Freelancer tax reform | ACTIVE | up | 2026-06-24 | Under-25 0% tax helps new entrants; imputed income still hurts many freelancers |
+| Freelancer tax reform | ACTIVE | unknown | 2026-09-06 | AADE law/circular found, but snippets do not establish full age/income/effective-date conditions. Prior broad under-25 claim is not an action-ready tax conclusion. |
 
 ## Seasonal Signals
 
@@ -85,3 +85,5 @@
 | International nomad platforms entering Greece | ACTIVE | unknown | 2026-03-27 | Less urgent after visa barrier increased |
 
 ---
+
+| Greek transcription contractor access | ACTIVE | unproven | 2026-09-06 | GoTranscript advertises applications and audio-minute pay; founder acceptance, live tasks and labor-hour yield unknown. See contractor-access audit. |

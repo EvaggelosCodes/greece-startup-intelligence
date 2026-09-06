@@ -4,6 +4,8 @@
 ---
 
 ## Correction Log
+**2026-09-06 contractor access:** I overgeneralized intermediary presence into exclusion. GoTranscript explicitly solicits Greek contractors: it can be the buyer. Advertised pay is per audio minute, not labor minute; access, acceptance, task inventory and realized yield are separate gates. This does not validate income or revive genealogy. See ideas/validation/2026-09-06-contractor-access-audit.md.
+
 **2026-09-06 — Belief:** R5 pay/hire language and repeated archive pain justified 6.6. **Reality:** the March Greek thread has hiring advice from a respondent; the Lesvos ask is historical; fresh explicit hiring concerns Lithuania. R5 also exceeded the 6.5 ten-target cap. **Change:** record speaker, country, original date, scope and budget for each lead; score remote drafting separately from physical retrieval; kill at 6.1 under strict floor. No outreach means no observed rejection. Audit: `ideas/validation/2026-09-06-payment-attribution-audit.md`.
 
 **2026-09-06 R6 — Belief:** Greek Records Request Pack still needed several more generic diaspora-pain searches before it deserved a stronger score. **Reality:** the useful search was narrower: exact hire/pay language. It found "for hire", "tried to hire a researcher in Greece", and "hire someone who speaks Greek to inquire at record offices in person." **Change:** after repeated pain is established, stop broad validation and move to direct offer, bid, or sample artifact.**
