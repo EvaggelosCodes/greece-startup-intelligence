@@ -82,9 +82,9 @@
 | Signal | Status | Direction | Last Checked | Notes |
 |--------|--------|-----------|--------------|-------|
 | Greek pet-care booking supply | ACTIVE | up | 2026-06-26 | Pawshake, Keeppet, and PetBacker indicate the supply layer is more crowded than expected; generic marketplace thesis weakened |
-| Wolt Greece expansion | ACTIVE | coverage confirmed; growth unknown | 2026-09-07 | Official FAQ lists regional/island cities; does not prove recent expansion, acceptance or immediate activation. See score-and-supplier audit. |
-| International nomad platforms entering Greece | ACTIVE | presence confirmed, growth unknown | 2026-09-07 | Flatio Greek landlord landing pages found; one vendor, no entry date or volume evidence. Visa claim not reverified. |
+| Wolt Greece expansion | ACTIVE | access constrained | 2026-09-07 | Greek FAQ lists many cities but no dated expansion; onboarding advertised as weeks to eight months, so immediate revenue is not reliable. See supplier-economics audit. |
+| International nomad platforms entering Greece | ACTIVE | unknown | 2026-09-07 | Our query inconclusive; concurrent access-state audit establishes Flatio Greek landlord presence. Entry date and new supplier economics remain unknown; see that audit. |
 
 ---
 
-| Greek transcription contractor access | ACTIVE | unresolved | 2026-09-07 | Greek hiring landing page and general waitlist/application text conflict; actual language-specific state and acceptance unknown. |
+| Greek transcription contractor access | ACTIVE | unproven | 2026-09-07 | Traceable USD30/valid-audio-hour buyer post; application access differs from acceptance. Upwork Connects, QA and unpaid time need measurement; stack killed 6.3 on rubric correction. |

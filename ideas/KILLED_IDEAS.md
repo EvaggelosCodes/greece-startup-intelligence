@@ -155,3 +155,5 @@ Provisional estimates and source attribution: [audit](validation/2026-09-07-scor
 | Furniture assembly referral dispatcher | 9/5/3/3/2/6/8 | 5.1 | No bench, referral economics or buyer relationship; matching graveyard rhyme. |
 
 Task stack remains killed at 6.3. [Sources, provisional rationales and revival gates](validation/2026-09-07-access-state-local-services.md).
+
+| Digital Work Card Sector Setup Check (concurrent R10) | 9/9/6/7/4/8/6 | 6.4 cap (was 6.5) | Checklist/advice-pack cap applies: provider/accountant rails exist, no unique distribution or conversion; same compliance-precheck flaw. Inherited legal timing/TAM unverified in this run. Original R10 evidence preserved; supplier audit explains revival gate. |

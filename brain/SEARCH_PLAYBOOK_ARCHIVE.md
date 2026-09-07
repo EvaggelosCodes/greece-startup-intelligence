@@ -123,3 +123,4 @@
 - 2026-09-04: Refusal language needs freshness, a reachable payer and a safe paid task; consumer support anger alone does not establish a service buyer.
 
 - 2026-09-04: Pair outside-help verbs with deliverable nouns; external collaboration and workload often mean role hiring, not a discrete subcontract.
+- 2026-09-05 R3: Three copies are one observation. Require independent origins and consistent scope before promoting a stable fact; crawl dates do not date the underlying event.

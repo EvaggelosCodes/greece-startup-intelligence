@@ -1,6 +1,7 @@
 # Mike's Search Playbook
 *12 retained lessons; older detail archived.*
 
+- 2026-09-07: Pair canonical buyer project searches with supplier onboarding; record original date, pay unit and bid friction before SPEED/MARKET_SIZE. August availability is not renewed by crawling; multiple DataPlus posts may share a buyer; job-board counts are not TAM.
 - 2026-09-07 access state: Pair language hiring pages with application-state pages; conflicting indexed waitlist/open text leaves access unresolved. A failed forum query merits one service-plus-price substitute query; same-day provider promises test differentiation, not buyer demand.
 - 2026-09-07 score audit: Exact project-title search recovered canonical rate and client activity after over-filtered budget query failed; parse header budget versus body rate and preserve MARKET_SIZE as TAM, never category job count. Selina caused villa-name collisions; use operator/domain filters for nomad supply.
 - 2026-09-07 R9: For live platform work, search the category page plus exact Greek task terms. Category snippets like Upwork "431 open transcription jobs" and "Greek project posted 2 days ago" expose freshness/volume; exact job snippets expose budget, proposals and buyer activity.
@@ -12,4 +13,3 @@
 - 2026-09-05 R4: Canonical project pages beat aggregate result pages. `site:freelancer.com/projects/ Greece Greek ...` mostly surfaced old/completed/in-progress Greek-adjacent work even when crawled today. Count only open, dated, budgeted projects tied to distinct buyers.
 - 2026-09-05 R3: Deduplicate marketplace snippets by project ID/title/buyer; check open/expired status before counting demand. Average bid is a supplier offer, never proof of buyer budget or payment. `/job-search/` pages repeated one expired therapy-center job across unrelated keywords.
 - 2026-09-05 R3: Marketplace presence is not a fatal supplier-service flaw. Check bid access, fees, live jobs, reply rates and achievable margin before calling a channel closed; competition still lowers GAP.
-- 2026-09-05 R3: Three copies are one observation. Require independent origins and consistent scope before promoting a stable fact; crawl dates do not date the underlying event.

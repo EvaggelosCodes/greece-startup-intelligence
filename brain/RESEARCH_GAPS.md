@@ -10,6 +10,8 @@ R6 claim superseded by attribution audit: unlinked hiring snippets do not establ
 
 
 ### HIGH PRIORITY
+- [ ] Verify actual Connects/contract fee and unpaid qualification time before any task-stack revival; can measured net EUR/hour clear the threshold?
+- [x] MARKET_SIZE rubric audit: channel count is not TAM; R8/R9 score inflation corrected 2026-09-07. Keep dated buyer evidence without inventing market scale.
 - [x] 2026-09-07: Flatio Greek landlord marketing presence found; expansion date and transaction volume remain unknown.
 - [ ] Resolve actual Greek application state before ranking GoTranscript speed; indexed open/waitlist text conflicts.
 - [ ] Find one current local furniture buyer with exact item, location and quote, plus explicit provider subcontract terms; no more generic assembly SEO.

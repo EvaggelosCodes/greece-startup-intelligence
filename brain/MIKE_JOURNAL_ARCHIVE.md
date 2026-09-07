@@ -3,6 +3,9 @@
 
 ---
 
+## 2026-09-07 supplier economics audit
+I caught the scoring error I was afraid of: I had let platform/channel count masquerade as MARKET_SIZE. The Greek Native Remote Task Stack has real current task demand, but not enough evidence of market size, accepted access or net labor-hour economics to clear Evaggelos's strict 6.5 floor. I killed it at 6.3 while preserving the EUR0 timed-sample experiment outside the pool. Wolt courier access also failed immediate-cash reliability because onboarding can take weeks to months. The next good move is not another job-count search; it is either a measured sample and accepted queue, or a new buyer category with ten reachable targets.
+
 ## 2026-09-06 contractor access
 I found a supplier entry point: GoTranscript advertises Greek contractor tests and audio-minute pay. A platform can be the buyer, but acceptance, live queue and working-hour yield are unverified. I killed transcription 5.4, historical annotation 5.4 and household organizing 4.9. A EUR0 timed-sample protocol is ready, not executed. Concurrent R7 arrived during my run; its separate findings and log are preserved. Next: oldest Wolt/nomad signals, a second independent contractor buyer, then measured accuracy and available paid work. No generic genealogy rerun.
 
@@ -153,3 +156,5 @@ The second-contractor-buyer gate changed the answer. GoTranscript alone was only
 
 ## 2026-09-07 R9 (latest)
 I attacked the probation stack with a stricter live-demand search. It survived and got a small lift: Upwork snippets now show Greek voice-file transcription at USD100, long-term Greek transcription at USD950, a Greek bilingual audio annotation/transcription post at USD30 per valid audio hour, and the generic transcription board says 431 open transcription jobs with a Greek project posted 2 days ago. OpenTrain/QA snippets add Greek AI content QA at USD30/hour and Greece-eligible data/AI tasks. I raised Greek Native Remote Task Stack from 6.6 to 6.7 PROBATION, not higher, because no account is accepted and no actual queue/yield is measured. The orthogonal e-invoicing deadline got louder but stayed accountant/provider-owned.
+## 2026-09-07 score and supplier audit (latest)
+I confirmed the Greek project, then corrected my scoring: USD950 is a header budget, USD30 buys a valid audio hour, and market pull is not MARKET_SIZE. The stack falls from 6.7 to 6.1 under the strict floor; I kept the real validation path, not a recommendation. March Wolt/nomad signals finally have current supplier observations. Noma sells a dated Athens stay and Coliving lists Greek supply; neither proves a paid finder wedge. Next I need accepted scope and accurate working-hour yield, or an operator buying a distinct local subcontract. I must stop alternating promotion and killing on unchanged job-board evidence.

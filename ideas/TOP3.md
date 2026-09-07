@@ -1,8 +1,6 @@
 # TOP 3 — Greece Startup Intelligence
-*Updated 2026-09-07 score audit | Pool: 0 | Average: N/A | Graduation: none*
+*Updated 2026-09-07 closing audit | Pool 0 | Average n/a | Graduation none*
 
-No recommendation clears the user's 6.5 floor. Greek Native Remote Task Stack falls 6.7 to 6.1 after correcting the market-size score; the canonical request is real but its budget is not income.
+No recommendation clears the strict 6.5 floor. Greek Native Remote Task Stack is 6.3; concurrent Digital Work Card Sector Setup Check is capped at 6.4 because its checklist competes with accountant/provider support without unique distribution or conversion proof.
 
-Most useful next test, not a recommendation: independently assessed timed Greek sample, accepted priced scope, and realized EUR/hour after application and QA time. [Audit and calculation](validation/2026-09-07-score-and-supplier-audit.md). No sample or application has been executed.
-
-2026-09-07 access-state run: pool remains 0; task stack unchanged at 6.3. Three local-service/platform-wrapper candidates rejected. [Evidence and scores](validation/2026-09-07-access-state-local-services.md).
+Next useful proof is measured task economics or a real referral/accepted paid scope, depending on the lane. Original concurrent research is retained; no legal deadline was independently verified in this audit. [Evidence and scores](validation/2026-09-07-supplier-economics-audit.md).

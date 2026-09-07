@@ -154,3 +154,5 @@
 **2026-09-07 score audit:** R9 substituted market pull for MARKET_SIZE and raised a stack above the ten-buyer cap. Canonical Upwork confirms a real request but USD950 is a header budget, USD30 is per valid audio hour; neither is realized income. Re-score 6.7 to 6.1, strict-floor kill, retain unrun validation. No failed outreach inferred. More independent surfaces improve confidence in existence, not TAM or access. See ideas/validation/2026-09-07-score-and-supplier-audit.md.
 
 **2026-09-07 access state:** I treated a language hiring landing page as applicant access. Greek GoTranscript marketing and general waitlist/application text conflict; neither proves Greek closure or acceptance. Check actual language-specific application state before ranking speed. Flatio Greek presence is visible, but repeated location pages do not establish new expansion. See access-state audit.
+
+**2026-09-07 closing cap audit:** Concurrent R10 checklist scored 6.5 despite provider/accountant rails and no distinct channel/reply proof. Apply charter advice-pack cap 6.4; preserve research but reject promotion. A non-legal label does not establish distribution.
