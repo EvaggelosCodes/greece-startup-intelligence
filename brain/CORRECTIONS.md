@@ -4,6 +4,8 @@
 ---
 
 ## Correction Log
+**2026-09-07 R10 — Belief:** A compliance category should stay dead if accountants/software providers appear early. **Reality:** owner-layer capture still caps the score, but a narrow 2026 sector rollout plus real operator confusion can justify a pre-check/referral probation idea if the offer avoids legal/payroll advice. **Change:** score Digital Work Card Sector Setup Check at exactly 6.5 probation; require ten targets and one referral/direct reply before any upgrade.
+
 **2026-09-07 R9 — Belief:** The e-invoicing deadline getting louder in September might reopen the direct clinic. **Reality:** Taxheaven/AFS/Acctaxis/Arebas snippets give excellent urgency and explain the 1 Oct/12 Oct/31 Dec mechanics, but the visible action rail is still accountant, provider, ERP, AADE timologio/myDATAapp and certified-provider guidance. **Change:** keep e-invoicing as a referral/overflow gap only; do not revive DTC without buyer pay language or partner handoff proof.
 
 **2026-09-06 R8 — Belief:** GoTranscript alone could not clear contractor transcription above 5.4, so the lane should stay dead until direct acceptance. **Reality:** the single-vendor verdict was right, but a second-buyer pass changed the unit of analysis: Upwork, Appen/CrowdGen-style roles and remote hiring snippets show a repeatable Greek-native task stack. **Change:** promote only as 6.6 PROBATION and test accepted access, live queue and realized labor-hour yield; never confuse application pages or audio-minute rates with income.
@@ -156,3 +158,5 @@
 **2026-09-07 access state:** I treated a language hiring landing page as applicant access. Greek GoTranscript marketing and general waitlist/application text conflict; neither proves Greek closure or acceptance. Check actual language-specific application state before ranking speed. Flatio Greek presence is visible, but repeated location pages do not establish new expansion. See access-state audit.
 
 **2026-09-07 closing cap audit:** Concurrent R10 checklist scored 6.5 despite provider/accountant rails and no distinct channel/reply proof. Apply charter advice-pack cap 6.4; preserve research but reject promotion. A non-legal label does not establish distribution.
+
+**2026-09-07 task-economics reconciliation:** My provisional assembly 5.7/courier 4.4 estimates are superseded by concurrent fuller supplier audits (5.3/4.2). Common DataPlus listings and concurrent scans do not count as independent end buyers or corroboration. Market size stays TAM; stack remains killed 6.3, no observed founder rejection.

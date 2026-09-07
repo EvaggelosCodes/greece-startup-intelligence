@@ -7,6 +7,7 @@
 
 | Signal | Status | Direction | Last Checked | Notes |
 |--------|--------|-----------|--------------|-------|
+| Digital Work Card sector rollout | ACTIVE | up | 2026-09-07 | Ministry/Taxheaven/Forin snippets show 29 Jun-15 Nov 2026 rollout for salons/beauty, laundries, cleaners/facility, health/support and related sectors; Facebook snippets show real salon/Ergani confusion and EUR50 setup offers exist. Watch direct/referral replies, not more guides. |
 | Greek-native remote task demand | ACTIVE | up | 2026-09-07 | R9 found stronger current platform demand: Upwork Greek voice transcription USD100, long-term Greek transcription USD950, Greek bilingual annotation/transcription USD30 per valid audio hour, plus Greek QA/OpenTrain at USD30/hour. Still not proof of accepted access, live queue or labor-hour yield. |
 | Greek consumer confidence trend | ACTIVE | unknown | 2026-09-06 | August query returned older IOBE reports; current direction unverified, not refreshed from June. |
 | Tourism 2026 season bookings vs 2025 | ACTIVE | up | 2026-07-01 | INSETE/Money-Tourism snippets point to roughly 30.5M summer seats (+8.4% vs 2025), but bookings are slowing and shifting further into last-minute behavior |

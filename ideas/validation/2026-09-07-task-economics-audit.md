@@ -31,3 +31,6 @@ Keep the prior EUR0 sample protocol unrun. Founder test: transcribe five minutes
 
 ## Query craft
 Queries: Greek transcription work/CrowdGen/GoTranscript pay; Upwork Greek transcription September 2026; Greek Wolt cities/equipment (typed site:wolt.com with an extra colon, so domain constraint not dependable; retained only first-party results); Greek student assembly price/IKEA/Douleutaras; Kathimerini September digital nomads. Greek first, then international buyer queries. Searches mixed regions and original dates; exclude US/Ireland/Cyprus prices. Exactly five queries; no additional fetches needed.
+
+## Closing concurrency reconciliation
+Concurrent commits through 8281799 arrived during this run and included this audit file. Preserve their stronger Wolt onboarding/access and Flatio findings. Stack remains 6.3; use concurrent assembly 5.3 and courier 4.2 as current conservative scores rather than this scan's provisional 5.7/4.4. Voice-only candidate 5.2 remains a separate kill. These overlapping observations are not independent corroboration. No new query.

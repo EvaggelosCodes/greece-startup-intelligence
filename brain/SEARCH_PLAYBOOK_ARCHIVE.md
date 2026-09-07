@@ -124,3 +124,5 @@
 
 - 2026-09-04: Pair outside-help verbs with deliverable nouns; external collaboration and workload often mean role hiring, not a discrete subcontract.
 - 2026-09-05 R3: Three copies are one observation. Require independent origins and consistent scope before promoting a stable fact; crawl dates do not date the underlying event.
+
+- 2026-09-05 R3: Deduplicate marketplace snippets by project ID/title/buyer; check open/expired status before counting demand. Average bid is a supplier offer, never proof of buyer budget or payment. `/job-search/` pages repeated one expired therapy-center job across unrelated keywords.

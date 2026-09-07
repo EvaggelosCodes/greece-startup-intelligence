@@ -10,6 +10,8 @@ R6 claim superseded by attribution audit: unlinked hiring snippets do not establ
 
 
 ### HIGH PRIORITY
+- [ ] Digital Work Card pre-check gate: can ten named affected businesses be listed and contacted safely, and will any operator or accountant/provider accept a EUR49-EUR79 readiness check rather than routing everything to payroll software/accounting?
+- [x] Empty-pool category escape: R10 found Digital Work Card sector setup as a 6.5 probation wedge; website accessibility had real law/price signals but was too agency-owned and partly SME-exempt.
 - [ ] Verify actual Connects/contract fee and unpaid qualification time before any task-stack revival; can measured net EUR/hour clear the threshold?
 - [x] MARKET_SIZE rubric audit: channel count is not TAM; R8/R9 score inflation corrected 2026-09-07. Keep dated buyer evidence without inventing market scale.
 - [x] 2026-09-07: Flatio Greek landlord marketing presence found; expansion date and transaction volume remain unknown.
@@ -82,6 +84,7 @@ R6 claim superseded by attribution audit: unlinked hiring snippets do not establ
 
 | Gap | Answer | Source | Date Resolved |
 |-----|--------|--------|---------------|
+| Which direct-buyer September category has money, reachable targets and weak enough substitutes after task-stack scoring failed? | Digital Work Card sector setup is the best current probation wedge. Official 2026 rollout covers salons/beauty/laundries/cleaners/health/support sectors, Facebook snippets show Ergani confusion, and EUR50 setup offers show a price surface. It clears only 6.5 because accountants and software providers still own trust. Accessibility was rejected as more agency-owned. | Ministry/Taxheaven/Forin/Facebook/Reused/provider snippets | 2026-09-07 |
 | Does the Greek Native Remote Task Stack still have current buyer demand after the R8 promotion? | Yes, with stronger evidence. Upwork snippets show USD100 Greek voice-file transcription, USD950 long-term Greek transcription, USD30/valid-audio-hour Greek bilingual annotation and a Greek transcription project posted 2 days ago; OpenTrain shows Greek QA at USD30/hour. This lifts market pull, but does not prove accepted access or earned hourly yield. | Upwork/OpenTrain/Greek QA snippets | 2026-09-07 |
 | Does a second independent Greek-language contractor buyer exist beyond GoTranscript? | Partial yes. GoTranscript alone was one advertised application path, but current searches added Upwork Greek transcription/annotation projects, Appen/CrowdGen-style Greek specialist roles and remote Greek transcriber hiring snippets. This supports Greek Native Remote Task Stack at 6.6 probation, while acceptance, queue and realized hourly yield remain unresolved. | GoTranscript/Upwork/Appen/CrowdGen/Facebook-visible snippets | 2026-09-06 |
 | Will diaspora Greek genealogy buyers pay for a narrow records-request/report pack, not full genealogy or citizenship/legal advice? | Partial yes on public pay intent. Search now shows explicit hiring language: people ask for a Greek genealogist in Greece for hire, say they tried to hire a researcher in Greece but it is not going well, and ask whether they should hire someone who speaks Greek to inquire at record offices in person. That is enough for 6.8 probation, but direct reply/payment remains unresolved. | Facebook-visible/MyHeritage/Freelancer snippets | 2026-09-06 |
@@ -162,3 +165,7 @@ R6 claim superseded by attribution audit: unlinked hiring snippets do not establ
 - [x] Does R9 market-pull evidence justify MARKET_SIZE 8 or 6.7? No; charter dimension and ten-target cap were misapplied. Stack 6.1 killed under user floor.
 - [ ] New: does a dated Greek coliving operator explicitly buy local subcontract tasks outside its accommodation/community bundle? Require operator-authored scope and budget, not a guest shortlist wrapper.
 - [ ] Stack revival: accepted priced scope, independently assessed sample accuracy and realized EUR/hour; no automatic resurrection from more job snippets.
+
+### 2026-09-07 task-economics reconciliation
+- [ ] Distinguish independent upstream buyers behind shared DataPlus tasks before crediting diversification; resolve via procurement identity or accepted contracts, not listing count. Founder sample remains unrun.
+- [x] This scan located canonical task units and IKEA Greek assembly price; concurrent stronger supplier/access findings preserved.
