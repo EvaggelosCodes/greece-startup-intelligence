@@ -1,4 +1,4 @@
-# 2026-09-06 R8 Validation — Greek Native Remote Task Stack
+# 2026-09-06/R9 Validation — Greek Native Remote Task Stack
 
 ## Candidate
 Greek Native Remote Task Stack: a zero-capital, laptop-only supplier stack across Greek transcription, audio annotation, QA, voice recording and translation tasks.
@@ -13,18 +13,26 @@ Prior runs were right to kill Greek genealogy transcription as a consumer idea: 
 - Facebook-visible remote hiring snippets advertise freelance Greek transcribers with assessment and transcription rates.
 - TranscribeMe/general transcription pages prove broader remote task-market existence, but are not Greek-specific enough to carry the score alone.
 
+## 2026-09-07 Reinforcement
+- Upwork snippet: "Transcription of Voice Files into Greek", posted 18 Aug 2026, worldwide, USD100 fixed price.
+- Upwork snippet: "Greek Transcription Needed - Long Term Project", posted 15 Aug 2026, USD950 fixed price, 20-50 proposals, 18 interviewing, 31 invites sent.
+- Upwork snippet: "Greek Bilingual Audio Annotation & Transcription Specialist", posted 4 days ago, USD30 per valid audio hour and 98% accuracy requirement.
+- Upwork transcription category snippet: 431 open transcription jobs and a Greek audio transcription project posted 2 days ago.
+- OpenTrain snippet: Greek Quality Assurance Lead, remote for Greece, USD30/hour, posted 9 Jul 2026.
+- E-invoicing escape search reinforced deadline pressure but showed Taxheaven/AFS/Acctaxis/Arebas/provider-accountant guidance before buyer pay language, so it remains a signal, not a new idea.
+
 ## Scoring
 | Dimension | Score | Reason |
 |---|---:|---|
 | Capital zero | 9 | Laptop-only; no inventory, office or ads required for the first test. |
 | Greece fit | 7 | Greek-native skill is the edge, although many buyers are global platforms rather than Greek local buyers. |
 | Speed | 6 | Applications/bids can start today, but approval and response delays are real. |
-| Market pull | 7 | Multiple current buyer/channel surfaces, including recent Upwork tasks and contractor pages. |
+| Market pull | 8 | Multiple current buyer/channel surfaces with explicit budgets/rates: Upwork, GoTranscript and AI/QA job surfaces. |
 | Gap | 5 | Crowded with platforms and freelancers; edge is execution, availability and Greek accuracy, not defensibility. |
 | Timing | 6 | Current September/August 2026 snippets plus AI/audio-data demand support near-term activity. |
 | Solo fit | 9 | One person can test and deliver the first work. |
 
-Raw average: 7.0. Strict cap: 6.6 PROBATION because platform acceptance, live queue and actual labor-hour economics are not proven.
+Raw average after R9: 7.1. Strict cap: 6.7 PROBATION because platform acceptance, live queue and actual labor-hour economics are not proven.
 
 ## Validation Gate
 1. Run a EUR0 timed Greek transcription sample: 5 minutes of audio, record actual time, error rate and fatigue.

@@ -7,6 +7,7 @@
 
 | Signal | Status | Direction | Last Checked | Notes |
 |--------|--------|-----------|--------------|-------|
+| Greek-native remote task demand | ACTIVE | up | 2026-09-07 | R9 found stronger current platform demand: Upwork Greek voice transcription USD100, long-term Greek transcription USD950, Greek bilingual annotation/transcription USD30 per valid audio hour, plus Greek QA/OpenTrain at USD30/hour. Still not proof of accepted access, live queue or labor-hour yield. |
 | Greek consumer confidence trend | ACTIVE | unknown | 2026-09-06 | August query returned older IOBE reports; current direction unverified, not refreshed from June. |
 | Tourism 2026 season bookings vs 2025 | ACTIVE | up | 2026-07-01 | INSETE/Money-Tourism snippets point to roughly 30.5M summer seats (+8.4% vs 2025), but bookings are slowing and shifting further into last-minute behavior |
 | Greek small-business hiring appetite | ACTIVE | down | 2026-09-04 | A fresh September re-check still points to the same Q3 2026 ManpowerGroup warning: Greece's NEO stays at 7, 50% of employers plan to hold staffing flat, and firms with 10-49 employees are at their weakest hiring outlook in four years. This remains a weak backdrop for generic small-B2B service selling. |
@@ -21,7 +22,7 @@
 | Signal | Status | Direction | Last Checked | Notes |
 |--------|--------|-----------|--------------|-------|
 | Short-term rental regulation | ACTIVE | down | 2026-07-02 | Registration/safety/insurance demand is still real, but another handler-language attack surfaced managers, accountants and specialist bundles before buyer pull; public-web DTC acquisition now looks effectively closed |
-| e-invoicing B2B mandate | ACTIVE | up | 2026-09-04 | Early-September coverage makes the 1 Oct/12 Oct/31 Dec 2026 timeline louder and more concrete, including the grace-period condition that the declaration must be filed on time. But the public surface still looks press, provider, accountant and AADE-tool led rather than explicit direct SME buying language. |
+| e-invoicing B2B mandate | ACTIVE | up | 2026-09-07 | September coverage is now very loud: Taxheaven, AFS, Acctaxis and Arebas repeat the 1 Oct start, 10-day/12 Oct declaration and 31 Dec transition condition. But the public surface still looks accountant/provider/ERP/AADE-led rather than explicit direct SME buying language. |
 | e-invoicing setup/referral window | ACTIVE | down | 2026-09-04 | Strongest current opening is not DTC: Fortune says 3,300 first-wave businesses already used a provider/application but had not filed the required declaration, and Arebas warns September laggards face support delays/setup errors. But this is still provider/accountant-channel evidence, not buyer pay language or partner outsourcing proof. |
 | New-founder tax/form-choice anxiety | ACTIVE | down | 2026-07-03 | Founder-side pain is visible, but the 2026 surface is dominated by accountant/comparison content and first-year tax-relief guidance rather than a clear outsider-service wedge |
 | e-invoicing cheapest-path anxiety | ACTIVE | up | 2026-07-02 | Free AADE timologio plus paid tool/cost anxiety still create an advisory wedge, but public search remains dominated by AADE/gov/provider instruction pages rather than buyer requests |

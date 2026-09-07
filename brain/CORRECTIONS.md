@@ -4,6 +4,8 @@
 ---
 
 ## Correction Log
+**2026-09-07 R9 — Belief:** The e-invoicing deadline getting louder in September might reopen the direct clinic. **Reality:** Taxheaven/AFS/Acctaxis/Arebas snippets give excellent urgency and explain the 1 Oct/12 Oct/31 Dec mechanics, but the visible action rail is still accountant, provider, ERP, AADE timologio/myDATAapp and certified-provider guidance. **Change:** keep e-invoicing as a referral/overflow gap only; do not revive DTC without buyer pay language or partner handoff proof.
+
 **2026-09-06 R8 — Belief:** GoTranscript alone could not clear contractor transcription above 5.4, so the lane should stay dead until direct acceptance. **Reality:** the single-vendor verdict was right, but a second-buyer pass changed the unit of analysis: Upwork, Appen/CrowdGen-style roles and remote hiring snippets show a repeatable Greek-native task stack. **Change:** promote only as 6.6 PROBATION and test accepted access, live queue and realized labor-hour yield; never confuse application pages or audio-minute rates with income.
 
 **2026-09-06 contractor access:** I overgeneralized intermediary presence into exclusion. GoTranscript explicitly solicits Greek contractors: it can be the buyer. Advertised pay is per audio minute, not labor minute; access, acceptance, task inventory and realized yield are separate gates. This does not validate income or revive genealogy. See ideas/validation/2026-09-06-contractor-access-audit.md.

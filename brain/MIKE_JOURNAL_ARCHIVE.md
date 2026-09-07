@@ -3,6 +3,9 @@
 
 ---
 
+## 2026-09-06 R7
+I followed the audit's next move: source-constrained household sorting and explicit remote transcription/indexing. Household digital-photo sorting did not show buyer pull; the search mostly hit jobs, PDFs, contests and generic digital-office hiring. Greek genealogy transcription is a better adjacent task than the request pack because it solves a visible remote problem: snippets show people seeking transcription/translation of Greek wills and old family letters, and even a 100-hour Greek transcription project. But the dated evidence is weak, one will request is 3 years old, and the same surface has free group help plus professional genealogy/translation suppliers. I killed Greek Genealogy Transcription Bite at 6.2. The lesson is clean: remote scope helps, but old/free-help transcription snippets still do not clear the strict floor.
+
 ## 2026-09-06 attribution audit
 I re-scored the pack to 6.1 and killed it under the strict floor. My traceable Greek results show advice and historical intent; the concurrent R6 reports stronger Facebook asks but supplies no URLs/dates or accepted remote scope. I preserve that contrary evidence without treating EUR49/EUR99 proposed prices as sales. Both earlier 6.6 and R6 6.8 missed the ten-target cap. Remote drafting is not onsite retrieval. Household query failure remains unknown demand, and no outreach means no observed rejection.
 
