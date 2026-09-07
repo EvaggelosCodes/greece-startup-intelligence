@@ -1,6 +1,6 @@
 # Active Idea Pool
-*Updated 2026-09-07 supplier-economics audit | Strict user floor: 6.5 | Pool: 0.*
+*Updated 2026-09-07 score audit. Strict user floor: 6.5. Pool: 0.*
 
-Greek Native Remote Task Stack re-scored 6.6 (concurrent R9: 6.7) to **6.3, KILLED**. Current scoped buyer demand exists, but MARKET_SIZE was incorrectly scored as channel count; fewer than ten distinct buyers, acceptance and labor-hour economics remain unverified. No outreach rejection was observed.
+Greek Native Remote Task Stack re-scored 6.7 to 6.1 and moved to KILLED_IDEAS. Its real buyer request remains useful for an optional validation test; no account acceptance, queue or yield was measured. R9 history is preserved in its validation file; market-pull substitution and ten-target cap are corrected in [audit](validation/2026-09-07-score-and-supplier-audit.md).
 
-The EUR0 timed-sample experiment remains available outside the pool. [Evidence, all seven scores and revival gate](validation/2026-09-07-supplier-economics-audit.md). Other killed ideas remain killed; no candidate cleared 6.5.
+No survivor, no graduation. Revival requires new evidence at the failed gate, not more generic job listings.

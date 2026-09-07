@@ -96,3 +96,5 @@
 
 - 2026-09-06 | Contractor access: chased household/subcontract/earnings gaps, resolved automatic platform exclusion negatively; added 0, killed transcription 5.4, annotation 5.4, household organizing 4.9; correction 1; top none, pool 0. Theme: application access is not accepted work or working-hour income; oldest March signals remain overdue.
 - 2026-09-07 | Supplier economics audit: resolved Wolt onboarding timing and MARKET_SIZE rubric error; added 0, killed task stack 6.3, healthcare validation 5.3, courier route 4.2; correction 1; top none, pool 0. Theme: dated buyer budgets improve demand evidence, not TAM or measured income; nomad entry remains unknown.
+
+- 2026-09-07 score-and-supplier audit | Resolved score-definition and March supplier-check gaps; added 0, killed stack 6.1 (was 6.7), courier 4.5, nomad shortlist 5.6; correction 1; top none/pool 0. Theme: canonical rate versus budget, MARKET_SIZE versus job-count evidence; accepted work remains untested.

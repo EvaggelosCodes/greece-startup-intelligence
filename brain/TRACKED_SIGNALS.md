@@ -82,8 +82,8 @@
 | Signal | Status | Direction | Last Checked | Notes |
 |--------|--------|-----------|--------------|-------|
 | Greek pet-care booking supply | ACTIVE | up | 2026-06-26 | Pawshake, Keeppet, and PetBacker indicate the supply layer is more crowded than expected; generic marketplace thesis weakened |
-| Wolt Greece expansion | ACTIVE | up | 2026-03-27 | Watch beyond Athens/Thessaloniki |
-| International nomad platforms entering Greece | ACTIVE | unknown | 2026-03-27 | Less urgent after visa barrier increased |
+| Wolt Greece expansion | ACTIVE | coverage confirmed; growth unknown | 2026-09-07 | Official FAQ lists regional/island cities; does not prove recent expansion, acceptance or immediate activation. See score-and-supplier audit. |
+| International nomad platforms entering Greece | ACTIVE | supply confirmed; entry trend unknown | 2026-09-07 | Noma dated Sep–Oct Athens edition and Coliving Greek inventory found; asking prices, not realized occupancy or founder-helper demand. |
 
 ---
 

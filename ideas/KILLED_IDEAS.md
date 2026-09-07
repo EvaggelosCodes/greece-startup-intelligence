@@ -137,3 +137,12 @@ Provisional scores and revival gates: [contractor audit](validation/2026-09-06-c
 | Wolt courier first-cash route | 6/5/2/5/3/5/7 | 4.2 after single-client penalty | Official onboarding weeks to eight months, vehicle/setup unknown; application access cannot promise immediate income. |
 
 [Evidence, provisional score rationale and revival gates](validation/2026-09-07-supplier-economics-audit.md).
+
+## 2026-09-07 — Score and supplier audit
+| Candidate | Capital/fit/speed/market/gap/timing/solo | Final | Exact reason / revival gate |
+|---|---|---|---|
+| Greek Native Remote Task Stack | 9/7/5/4/4/5/9 | 6.1, was 6.7 | 43/7; market pull was mis-scored as market size; ten-buyer cap missed. Real request, unmeasured access/yield. Strict user floor; revive on accepted priced scope and measured accurate economics, not another snippet. |
+| Wolt regional courier supplier | 5/6/4/4/3/5/8 | 4.5 | 35/7 minus 0.5 single-platform penalty; equipment/start costs, local activation and earnings unverified. Supplier-access lesson does not imply a Monday income path. |
+| Athens nomad accommodation shortlist | 9/6/3/4/2/6/9 | 5.6 | 39/7; priced accommodation is not paid finder demand; Noma/Coliving substitutes and killed student-shortlist rhyme. Needs direct paid judgement scope or different operator subcontract buyer. |
+
+Provisional estimates and source attribution: [audit](validation/2026-09-07-score-and-supplier-audit.md). No outreach rejection observed.

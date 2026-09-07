@@ -118,3 +118,6 @@
 - 2026-08-24: Specialist supply pages are candidate contacts, not a verified bench. Ask whether a buyer can already reach the specialist directly.
 
 - 2026-09-06 R6: Once a probation idea has repeated pain, search exact hiring language before another broad pass. Greek genealogy strengthened on "for hire", "tried to hire a researcher in Greece", and "hire someone who speaks Greek to inquire at record offices in person." After this point, only direct offer/bid/sample feedback is real progress.
+
+## 2026-09-07 cap maintenance
+- 2026-09-04: Refusal language needs freshness, a reachable payer and a safe paid task; consumer support anger alone does not establish a service buyer.

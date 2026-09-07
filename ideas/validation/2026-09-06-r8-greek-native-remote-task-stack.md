@@ -53,3 +53,6 @@ Raw average after R10: 6.7. Strict cap: 6.5 PROBATION because only one current n
 
 ## Learning
 Platform presence is not automatically bad. A platform can be the buyer/channel for a first-cash experiment. But a contractor listing is not a business until access, queue and labor-hour yield are measured.
+
+## Superseded by 2026-09-07 score audit
+R8/R9 above are retained history. Current score 6.1 KILLED under explicit user floor. MARKET_SIZE was replaced with market pull, and the ten-target cap was missed. Canonical USD950 request states USD30/valid audio hour. [Current audit, rationale and unrun yield test](2026-09-07-score-and-supplier-audit.md).
