@@ -3,6 +3,9 @@
 
 ---
 
+## 2026-09-06 contractor access
+I found a supplier entry point: GoTranscript advertises Greek contractor tests and audio-minute pay. A platform can be the buyer, but acceptance, live queue and working-hour yield are unverified. I killed transcription 5.4, historical annotation 5.4 and household organizing 4.9. A EUR0 timed-sample protocol is ready, not executed. Concurrent R7 arrived during my run; its separate findings and log are preserved. Next: oldest Wolt/nomad signals, a second independent contractor buyer, then measured accuracy and available paid work. No generic genealogy rerun.
+
 ## 2026-09-06 R7
 I followed the audit's next move: source-constrained household sorting and explicit remote transcription/indexing. Household digital-photo sorting did not show buyer pull; the search mostly hit jobs, PDFs, contests and generic digital-office hiring. Greek genealogy transcription is a better adjacent task than the request pack because it solves a visible remote problem: snippets show people seeking transcription/translation of Greek wills and old family letters, and even a 100-hour Greek transcription project. But the dated evidence is weak, one will request is 3 years old, and the same surface has free group help plus professional genealogy/translation suppliers. I killed Greek Genealogy Transcription Bite at 6.2. The lesson is clean: remote scope helps, but old/free-help transcription snippets still do not clear the strict floor.
 

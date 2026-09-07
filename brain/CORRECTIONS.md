@@ -148,3 +148,5 @@
 **2026-06-25 - Belief:** There were no existing STR compliance-service firms in Greece. **Reality:** multiple firms already offer partial bundles. **Why wrong:** research showed active providers, so the gap is smaller and pricing must be more competitive. **Change:** focus on differentiated low-price, owner-centric compliance help rather than assuming a blank market.
 
 ---
+
+**2026-09-07 supplier economics — Belief:** R8/R9 channel plurality justified MARKET_SIZE 7/8 and total 6.6/6.7. **Reality:** MARKET_SIZE is TAM, not market pull; a few projects do not establish hundreds of thousands of buyers, and the ten-target cap was missed. Current USD30/valid-audio-hour demand is traceable but access and net hourly income remain untested; Upwork most-job bidding requires Connects. **Change:** score size separately from demand quality, preserve advertised/accepted/earned states, and model unpaid time. Stack 6.3 killed under strict user floor, not because an unrun test failed. See supplier-economics audit.

@@ -21,24 +21,29 @@ Prior runs were right to kill Greek genealogy transcription as a consumer idea: 
 - OpenTrain snippet: Greek Quality Assurance Lead, remote for Greece, USD30/hour, posted 9 Jul 2026.
 - E-invoicing escape search reinforced deadline pressure but showed Taxheaven/AFS/Acctaxis/Arebas/provider-accountant guidance before buyer pay language, so it remains a signal, not a new idea.
 
+## 2026-09-07 R10 adversarial audit
+- The two strongest current Upwork records returned today both name DataPlus: the 3 September bilingual annotation post offers 100 valid hours at USD30 per valid annotated hour with 98%+ accuracy, and the August long-term listing uses the same USD30/valid-hour rate. They may be one buyer's repeated campaign, not two independent buyers.
+- This is strong evidence of a current price/scope and a weak basis for buyer diversity. Other snippets remain leads until their named buyer, original date and scope are independently traceable.
+
 ## Scoring
 | Dimension | Score | Reason |
 |---|---:|---|
 | Capital zero | 9 | Laptop-only; no inventory, office or ads required for the first test. |
-| Greece fit | 7 | Greek-native skill is the edge, although many buyers are global platforms rather than Greek local buyers. |
+| Greece fit | 6 | Greek-native skill is the edge, although buyers are global platforms rather than Greek local buyers. |
 | Speed | 6 | Applications/bids can start today, but approval and response delays are real. |
-| Market pull | 8 | Multiple current buyer/channel surfaces with explicit budgets/rates: Upwork, GoTranscript and AI/QA job surfaces. |
+| Market pull | 6 | One named current buyer has a real priced, large scope; GoTranscript proves an application path, but apparent Upwork repetition may be the same client and other leads are not yet attributed. |
 | Gap | 5 | Crowded with platforms and freelancers; edge is execution, availability and Greek accuracy, not defensibility. |
 | Timing | 6 | Current September/August 2026 snippets plus AI/audio-data demand support near-term activity. |
 | Solo fit | 9 | One person can test and deliver the first work. |
 
-Raw average after R9: 7.1. Strict cap: 6.7 PROBATION because platform acceptance, live queue and actual labor-hour economics are not proven.
+Raw average after R10: 6.7. Strict cap: 6.5 PROBATION because only one current named buyer is attributable, and acceptance, live queue and actual labor-hour economics are not proven.
 
 ## Validation Gate
 1. Run a EUR0 timed Greek transcription sample: 5 minutes of audio, record actual time, error rate and fatigue.
 2. Verify one accepted application/bid path: GoTranscript, Upwork or Appen/CrowdGen-style role.
 3. Confirm live work availability or buyer response after acceptance/bid.
 4. Calculate effective hourly yield after QA, not advertised audio-minute pay.
+5. Find a dated named buyer not tied to DataPlus before calling this a repeatable stack.
 
 ## Kill Conditions
 - No acceptance or reachable buyer after the first application/bid batch.

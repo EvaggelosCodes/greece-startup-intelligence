@@ -128,3 +128,12 @@ Evidence and provisional score rationales: [audit](validation/2026-09-06-payment
 | Household organizing helper | 9/4/3/2/3/5/8 | 4.9 | 34/7; no qualifying priced buyer retained; insufficient evidence, not absent demand. |
 
 Provisional scores and revival gates: [contractor audit](validation/2026-09-06-contractor-access-audit.md).
+
+## 2026-09-07 — Supplier economics audit
+| Candidate | Capital/fit/speed/market/gap/timing/solo | Final | Exact reason |
+|---|---|---|---|
+| Greek Native Remote Task Stack | 9/7/5/4/4/6/9 | 6.3 (was 6.6; concurrent R9 6.7) | Below strict 6.5; prior MARKET_SIZE measured channel count, not TAM. Accepted access, independent buyers and measured yield missing; no observed rejection. |
+| Greek healthcare phone/data validation contractor | 9/7/4/3/3/5/6 | 5.3 | Concrete buyer task but no price/current start proof and approximately 40-hour weekly availability requirement; rhymes with role-vs-deliverable kills. |
+| Wolt courier first-cash route | 6/5/2/5/3/5/7 | 4.2 after single-client penalty | Official onboarding weeks to eight months, vehicle/setup unknown; application access cannot promise immediate income. |
+
+[Evidence, provisional score rationale and revival gates](validation/2026-09-07-supplier-economics-audit.md).
