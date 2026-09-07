@@ -98,3 +98,5 @@
 - 2026-09-07 | Supplier economics audit: resolved Wolt onboarding timing and MARKET_SIZE rubric error; added 0, killed task stack 6.3, healthcare validation 5.3, courier route 4.2; correction 1; top none, pool 0. Theme: dated buyer budgets improve demand evidence, not TAM or measured income; nomad entry remains unknown.
 
 - 2026-09-07 score-and-supplier audit | Resolved score-definition and March supplier-check gaps; added 0, killed stack 6.1 (was 6.7), courier 4.5, nomad shortlist 5.6; correction 1; top none/pool 0. Theme: canonical rate versus budget, MARKET_SIZE versus job-count evidence; accepted work remains untested.
+
+- 2026-09-07 | Access-state/local-services: resolved Flatio Greek marketing presence, application state unresolved; added 0, killed assembly 5.3, landlord setup 5.3, referral dispatcher 5.1; task stack unchanged 6.3 killed, correction 1, top none. Theme: application marketing is not live access; provider prices are not buyer leads.

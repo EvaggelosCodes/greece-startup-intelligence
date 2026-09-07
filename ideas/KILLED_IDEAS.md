@@ -146,3 +146,12 @@ Provisional scores and revival gates: [contractor audit](validation/2026-09-06-c
 | Athens nomad accommodation shortlist | 9/6/3/4/2/6/9 | 5.6 | 39/7; priced accommodation is not paid finder demand; Noma/Coliving substitutes and killed student-shortlist rhyme. Needs direct paid judgement scope or different operator subcontract buyer. |
 
 Provisional estimates and source attribution: [audit](validation/2026-09-07-score-and-supplier-audit.md). No outreach rejection observed.
+
+## 2026-09-07 — Access state and local services
+| Candidate | Capital/fit/speed/market/gap/timing/solo | Final | Exact reason |
+|---|---|---|---|
+| Small flat-pack assembly service | 7/5/5/4/3/6/7 | 5.3 | Below 6.5; no live buyer list or demonstrated tools/skill/travel economics; EUR25–30 asking prices and same-day supply weaken margin/differentiation. |
+| Greek landlord Flatio listing setup | 9/6/3/3/2/6/8 | 5.3 | No paid delegation; free listing and platform workflow undermine generic wrapper. |
+| Furniture assembly referral dispatcher | 9/5/3/3/2/6/8 | 5.1 | No bench, referral economics or buyer relationship; matching graveyard rhyme. |
+
+Task stack remains killed at 6.3. [Sources, provisional rationales and revival gates](validation/2026-09-07-access-state-local-services.md).

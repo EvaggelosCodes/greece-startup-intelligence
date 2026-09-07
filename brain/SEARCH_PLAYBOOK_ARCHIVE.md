@@ -121,3 +121,5 @@
 
 ## 2026-09-07 cap maintenance
 - 2026-09-04: Refusal language needs freshness, a reachable payer and a safe paid task; consumer support anger alone does not establish a service buyer.
+
+- 2026-09-04: Pair outside-help verbs with deliverable nouns; external collaboration and workload often mean role hiring, not a discrete subcontract.

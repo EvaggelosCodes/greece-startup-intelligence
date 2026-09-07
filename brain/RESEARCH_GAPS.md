@@ -10,10 +10,14 @@ R6 claim superseded by attribution audit: unlinked hiring snippets do not establ
 
 
 ### HIGH PRIORITY
+- [x] 2026-09-07: Flatio Greek landlord marketing presence found; expansion date and transaction volume remain unknown.
+- [ ] Resolve actual Greek application state before ranking GoTranscript speed; indexed open/waitlist text conflicts.
+- [ ] Find one current local furniture buyer with exact item, location and quote, plus explicit provider subcontract terms; no more generic assembly SEO.
+
 - [ ] Greek Native Remote Task Stack gate: can a timed accurate Greek sample qualify for accepted live work, and does realized labor-hour yield exceed EUR5 after QA/corrections? R9 found stronger live Upwork/OpenTrain demand; advertised audio-minute and valid-audio-hour rates still are not realized income.
 - [ ] Greek task-stack channel ranking: which first channel is fastest for Evaggelos specifically - Upwork bid, GoTranscript test, Appen/CrowdGen application, or OpenTrain/QA role? Need rank by friction, account requirements, response time, and cash probability.
-- [ ] Oldest-signal queue: check March Wolt expansion through a specific supplier-access question; March nomad signal also remains overdue.
-- [x] Does a second independent Greek-language contractor buyer exist beyond GoTranscript? Partial yes: current Upwork Greek transcription/annotation posts, Appen/CrowdGen-style Greek specialist listings and remote Greek transcriber hiring snippets make this a 6.6 probation stack. Acceptance, queue and hourly yield remain open.
+- [ ] Oldest-signal queue: check March Wolt expansion through a specific supplier-access question; Nomad presence checked 2026-09-07: Flatio markets Greek landlords; entry date and growth unknown.
+- [x] Does a second independent Greek-language contractor buyer exist beyond GoTranscript? Partial yes: current Upwork Greek transcription/annotation posts, Appen/CrowdGen-style Greek specialist listings and remote Greek transcriber hiring snippets previously prompted 6.6 probation; supplier audit superseded this at 6.3 killed. Acceptance, queue and hourly yield remain open.
 - [x] Does platform presence automatically block a solo supplier? No: GoTranscript advertises Greek contractor applications (2026-09-06); screening, queue and earnings remain unknown.
 
 - [ ] Will diaspora Greek genealogy buyers reply to or pay for a EUR49-EUR99 records-request/report pack? Need one direct bid/offer response or sample-report feedback; no more generic evidence collection.

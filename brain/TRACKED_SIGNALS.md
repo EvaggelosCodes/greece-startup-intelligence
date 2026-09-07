@@ -83,8 +83,8 @@
 |--------|--------|-----------|--------------|-------|
 | Greek pet-care booking supply | ACTIVE | up | 2026-06-26 | Pawshake, Keeppet, and PetBacker indicate the supply layer is more crowded than expected; generic marketplace thesis weakened |
 | Wolt Greece expansion | ACTIVE | coverage confirmed; growth unknown | 2026-09-07 | Official FAQ lists regional/island cities; does not prove recent expansion, acceptance or immediate activation. See score-and-supplier audit. |
-| International nomad platforms entering Greece | ACTIVE | supply confirmed; entry trend unknown | 2026-09-07 | Noma dated Sep–Oct Athens edition and Coliving Greek inventory found; asking prices, not realized occupancy or founder-helper demand. |
+| International nomad platforms entering Greece | ACTIVE | presence confirmed, growth unknown | 2026-09-07 | Flatio Greek landlord landing pages found; one vendor, no entry date or volume evidence. Visa claim not reverified. |
 
 ---
 
-| Greek transcription contractor access | ACTIVE | unproven | 2026-09-06 | GoTranscript advertises applications and audio-minute pay; founder acceptance, live tasks and labor-hour yield unknown. See contractor-access audit. |
+| Greek transcription contractor access | ACTIVE | unresolved | 2026-09-07 | Greek hiring landing page and general waitlist/application text conflict; actual language-specific state and acceptance unknown. |

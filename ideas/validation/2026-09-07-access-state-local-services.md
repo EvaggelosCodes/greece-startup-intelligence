@@ -1,0 +1,30 @@
+# 2026-09-07 — Access state and local services
+
+Five queries, zero fetches, Codex only. Read mandatory memory and recent logs; supplier-economics audit was uncommitted at entry and committed independently during this run. Preserve its conclusions and separate research bullet. No founder experiment reported.
+
+## Anchor and targets
+Last run I chased platform earnings and corrected channel count versus TAM. Today I know advertised demand exists; I do not know actual applicant access or net yield; I was wrong to treat hiring landing pages as sufficient access evidence. Targets: adversarial application state, unrelated household assembly demand/substitutes, oldest nomad platform signal. Category exploration compares language contractors, household buyers and landlords before scoring. Escape performed despite recent R8/R9 score increases.
+
+## Query ledger and evidence
+1. `site:insomnia.gr "ζητείται" "συναρμολόγηση" επίπλων` — no qualifying result. Source constraint was too narrow; no claim of absent demand.
+2. `site:flatio.com Greece landlords commission mid term rental` — [Palaio Faliro](https://www.flatio.com/i/renting-out-palaio-faliro) and [Nea Smyrni](https://www.flatio.com/i/renting-out-greece-nea-smyrni?do=lp-labels-label&lp-labels-state=1&lp-labels-tagId=570) advertise Greek landlord access, medium-term rentals and free listing with commission upon renting. One vendor, many location pages: presence established, entry date, transaction volume and commission amount unverified. Resolves presence question, not expansion growth or visa rules.
+3. `site:gotranscript.com Greek transcription jobs test payment waiting work` — [Greek hiring](https://gotranscript.com/greek-transcription-job) advertises tests, flexible work and replies within a few business days. [General applications](https://gotranscript.com/transcription-jobs) includes both application-open and not-accepting/waitlist text. Could be dynamic language-specific/template state; search cannot establish Greek closure or actual access. No application submitted. This challenges the open-access inference without inventing a rejection.
+4. `συναρμολόγηση επίπλων ΙΚΕΑ τιμή υπηρεσία Ελλάδα` — [IKEA](https://www.ikea.gr/exupiretisi-pelaton/upiresies-ikea/upiresia-sunarmologisis/) offers assembly, [Fix It My Home](https://fixitmyhome.gr/) advertises from EUR25, [Athens Smart Fix](https://athenssmartfix.gr/furniture-assembly.html) from EUR30/item, desks from EUR40 and same-day/next-morning service. Three independent suppliers establish supply only. Prices are asking prices, not completed payments or hourly wages. [Buyer discussion](https://www.reddit.com/r/greece/comments/1r61hsc/) includes a self-reported EUR30/three-hour job; anecdote, not market average or current lead. [Older discussion](https://www.reddit.com/r/greece/comments/1jgsl1i) suggests student noticeboards; channel hypothesis only. Same-day differentiation already marketed.
+5. `site:naftemporiki.gr Σεπτέμβριος 2026 μικρές επιχειρήσεις ΔΕΘ` — old SME PDF; no qualifying current change, no timing upgrade.
+
+## Category ranking and provisional scores
+Order capital / Greece fit / speed / market size / competition gap / September timing / solo. No bonuses or penalties. All scores are analyst judgments, not measured market facts; unknown skills, tools and TAM constrain estimates. No new active idea qualifies for competitor-survival promotion.
+
+| Candidate | Seven scores | Final | Decision and exact revival gate |
+|---|---|---|---|
+| Existing Greek Native Remote Task Stack | 9/7/5/4/4/6/9 = 44/7 | 6.3 unchanged | Already killed by supplier audit; no new active ideas to rescore. Keep outside pool until verified application access, accepted live work and timed net yield. |
+| Small flat-pack assembly service | 7/5/5/4/3/6/7 = 37/7 | 5.3 | Kill below 6.5: tools/travel/skill unknown, no current reachable buyer list, low asking prices and same-day rivals. First category to test only if local scoped buyer ask and competent safe delivery economics appear; no transport or specialist installation assumed. |
+| Greek landlord Flatio listing setup | 9/6/3/3/2/6/8 = 37/7 | 5.3 | Kill below floor; landlord owns property/access, platform handles listing/contract/payment; no paid setup request or price. Rhymes with listing/admin wrappers. Need explicit paid owner delegation and differentiated deliverable; platform existence alone does not exclude suppliers. |
+| Furniture assembly referral dispatcher | 9/5/3/3/2/6/8 = 36/7 | 5.1 | Kill below floor: no verified installer bench, referral fee or buyer relationship; duplicates matching kills. Visible providers are potential supply, not buyers. Needs explicit referral economics and a buyer request. |
+
+Language tasks have the clearest historical budget but unchanged execution gate; assembly has tangible spend and weak founder economics; landlord setup is weakest on buyer pay evidence. Capital/solo estimates assume basic equipment only conditionally. Assembly timing 6 reflects school-year move-in memory, not a verified September demand surge; platform and landlord TAM remain unknown. Missing price for listing/referral candidates prevents a confident MARKET score; 3 is a conservative provisional placeholder, not a TAM claim.
+
+If my former darling is a trap, it is a marketing page being mistaken for an available queue. No survivor, no graduation, no income forecast. Next research should seek one local buyer's exact item/location/quote, and a provider's explicit subcontract/referral offer. The remote sample protocol remains unrun; do not manufacture founder performance with AI.
+
+## Learning
+Search the application-state page alongside the language landing page; conflicting indexed states mean unresolved access, not closure. For local services, search exact service plus price after one failed forum query; provider promises test differentiation but never count as buyer demand. Stop after the evidence establishes why the candidate fails; another SEO page adds no independent buyer.
