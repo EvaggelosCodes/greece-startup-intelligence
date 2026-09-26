@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": 89,
+  "revision": 94,
   "ideas": [
     {
       "id": "legacy-70ac6eb1e69669c1",
@@ -3482,7 +3482,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "ideas/RESEARCH_LOG.md"
+      "provenance": "ideas/RESEARCH_LOG.md",
+      "needsReview": true
     },
     {
       "id": "legacy-c0f6fb5883bb4b85",
@@ -3496,7 +3497,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "ideas/RESEARCH_LOG.md"
+      "provenance": "ideas/RESEARCH_LOG.md",
+      "needsReview": true
     },
     {
       "id": "legacy-c1c73cab96c0a222",
@@ -3510,7 +3512,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "ideas/RESEARCH_LOG.md"
+      "provenance": "ideas/RESEARCH_LOG.md",
+      "needsReview": true
     },
     {
       "id": "legacy-968d29e7b3731187",
@@ -3524,7 +3527,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "ideas/RESEARCH_LOG.md"
+      "provenance": "ideas/RESEARCH_LOG.md",
+      "needsReview": true
     },
     {
       "id": "legacy-bbec339ecf13adf5",
@@ -3538,7 +3542,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "ideas/RESEARCH_LOG.md"
+      "provenance": "ideas/RESEARCH_LOG.md",
+      "needsReview": true
     },
     {
       "id": "legacy-56f4d759038ffcc5",
@@ -3552,7 +3557,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "ideas/RESEARCH_LOG.md"
+      "provenance": "ideas/RESEARCH_LOG.md",
+      "needsReview": true
     },
     {
       "id": "legacy-b43f72d500d3569b",
@@ -3566,7 +3572,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/MARKET_KNOWLEDGE.md"
+      "provenance": "brain/MARKET_KNOWLEDGE.md",
+      "needsReview": true
     },
     {
       "id": "legacy-8928554432a2f52c",
@@ -3580,7 +3587,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/MARKET_KNOWLEDGE.md"
+      "provenance": "brain/MARKET_KNOWLEDGE.md",
+      "needsReview": true
     },
     {
       "id": "legacy-432611c6e12cfafc",
@@ -3594,7 +3602,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/SEARCH_PLAYBOOK.md"
+      "provenance": "brain/SEARCH_PLAYBOOK.md",
+      "needsReview": true
     },
     {
       "id": "legacy-c9b30cfa359daa54",
@@ -3608,7 +3617,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/SEARCH_PLAYBOOK.md"
+      "provenance": "brain/SEARCH_PLAYBOOK.md",
+      "needsReview": true
     },
     {
       "id": "legacy-57f828ae7efdfe3a",
@@ -3622,7 +3632,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/RESEARCH_SOURCES.md"
+      "provenance": "brain/RESEARCH_SOURCES.md",
+      "needsReview": true
     },
     {
       "id": "legacy-fcb9f12eaf3e3e7b",
@@ -3636,7 +3647,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/RESEARCH_SOURCES.md"
+      "provenance": "brain/RESEARCH_SOURCES.md",
+      "needsReview": true
     },
     {
       "id": "legacy-0f0152133c5f403f",
@@ -3650,7 +3662,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/RESEARCH_SOURCES.md"
+      "provenance": "brain/RESEARCH_SOURCES.md",
+      "needsReview": true
     },
     {
       "id": "legacy-c8b516e4c2d12e21",
@@ -3664,7 +3677,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/RESEARCH_SOURCES.md"
+      "provenance": "brain/RESEARCH_SOURCES.md",
+      "needsReview": true
     },
     {
       "id": "legacy-60aa37c8c762e806",
@@ -3678,7 +3692,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/RESEARCH_SOURCES.md"
+      "provenance": "brain/RESEARCH_SOURCES.md",
+      "needsReview": true
     },
     {
       "id": "legacy-5b94d2137e348a78",
@@ -3692,7 +3707,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/RESEARCH_SOURCES.md"
+      "provenance": "brain/RESEARCH_SOURCES.md",
+      "needsReview": true
     },
     {
       "id": "legacy-4d59bd0239d690fb",
@@ -3706,7 +3722,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/RESEARCH_SOURCES.md"
+      "provenance": "brain/RESEARCH_SOURCES.md",
+      "needsReview": true
     },
     {
       "id": "legacy-f10c9a37a62f2579",
@@ -3720,7 +3737,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/RESEARCH_SOURCES.md"
+      "provenance": "brain/RESEARCH_SOURCES.md",
+      "needsReview": true
     },
     {
       "id": "legacy-0fd23f2355ba9175",
@@ -3734,7 +3752,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/RESEARCH_SOURCES.md"
+      "provenance": "brain/RESEARCH_SOURCES.md",
+      "needsReview": true
     },
     {
       "id": "legacy-e91681fc1543f951",
@@ -3748,7 +3767,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/RESEARCH_SOURCES.md"
+      "provenance": "brain/RESEARCH_SOURCES.md",
+      "needsReview": true
     },
     {
       "id": "legacy-795b2feda518f93c",
@@ -3762,7 +3782,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-7c940f095d088e77",
@@ -3776,7 +3797,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-b20b2998819c512f",
@@ -3790,7 +3812,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-5372b8ff36f56779",
@@ -3804,7 +3827,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-b77a9afa9e80f05d",
@@ -3818,7 +3842,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-776b8b5f7cf7cc53",
@@ -3832,7 +3857,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-b2b26a4a13c0c5bd",
@@ -3846,7 +3872,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-ae2a554709d0e0e3",
@@ -3860,7 +3887,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-9c8ee0dc8991953d",
@@ -3874,7 +3902,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-2de4856af990fc02",
@@ -3888,7 +3917,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-ffbdcea4c20434f5",
@@ -3902,7 +3932,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-a4aa8ec0a95cca72",
@@ -3916,7 +3947,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-15e28b14df8c3e6c",
@@ -3930,7 +3962,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-b28671d5269ef2ad",
@@ -3944,7 +3977,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-0919ac9164db0079",
@@ -3958,7 +3992,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-fd6a0e66bb5cceca",
@@ -3972,7 +4007,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-43dfa863725f0aef",
@@ -3986,7 +4022,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-b280d998fe7987a5",
@@ -4000,7 +4037,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-ffd9fb96fc66fed8",
@@ -4014,7 +4052,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-195dfb5601df3a5b",
@@ -4028,7 +4067,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-58ba30732305941e",
@@ -4042,7 +4082,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-6e093e6d247f6a80",
@@ -4056,7 +4097,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-54c3a541b13a939f",
@@ -4070,7 +4112,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-a45b4ad9bc6466d4",
@@ -4084,7 +4127,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-b0eb8c3658d747eb",
@@ -4098,7 +4142,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-0a2a95a7838b155d",
@@ -4112,7 +4157,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-429be09c5e0d3d79",
@@ -4126,7 +4172,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-2ac6185594bc2f20",
@@ -4140,7 +4187,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-c224adc91f2cd658",
@@ -4154,7 +4202,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-6335b7434a143700",
@@ -4168,7 +4217,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-26005e6c0dcd16b2",
@@ -4182,7 +4232,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-00bb4649038b0d0f",
@@ -4196,7 +4247,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-31b67cf9c636bcba",
@@ -4210,7 +4262,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-8384adc503e0946b",
@@ -4224,7 +4277,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-753922bf0abe059d",
@@ -4238,7 +4292,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-51787588ea3128e3",
@@ -4252,7 +4307,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-a3fcfdd810ef1fd6",
@@ -4266,7 +4322,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-7850f2387dfffcaf",
@@ -4280,7 +4337,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-c695f89cec1fd1ef",
@@ -4294,7 +4352,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-6b9a278c9bb982e2",
@@ -4308,7 +4367,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-861184bed158bc7a",
@@ -4322,7 +4382,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-0e847dc3f11ffe4c",
@@ -4336,7 +4397,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-542e034291d907a8",
@@ -4350,7 +4412,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-c386c4c74207f7ff",
@@ -4364,7 +4427,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-676fa479d4b56d38",
@@ -4378,7 +4442,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-aaa4976e79f293b7",
@@ -4392,7 +4457,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-7ff5e22bca20ac01",
@@ -4406,7 +4472,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-2de8924b5a8d89d4",
@@ -4420,7 +4487,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-48698f0c9adcd69c",
@@ -4434,7 +4502,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-4c537b97d52c582d",
@@ -4448,7 +4517,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-b04ba7ca09019b69",
@@ -4462,7 +4532,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-1ae6d474938e6f9c",
@@ -4476,7 +4547,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-d042032e76a6a266",
@@ -4490,7 +4562,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-3af55187604819e2",
@@ -4504,7 +4577,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-7090368a3eb755ee",
@@ -4518,7 +4592,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-6bdfd2eb88807265",
@@ -4532,7 +4607,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-aafeba293e72f24d",
@@ -4546,7 +4622,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-8cf9a1c9ab97c484",
@@ -4560,7 +4637,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-2df3a65260825340",
@@ -4574,7 +4652,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-05b5b2074391e9b8",
@@ -4588,7 +4667,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-c85a0bc755255205",
@@ -4602,7 +4682,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-b70c0f15269b9533",
@@ -4616,7 +4697,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-a126525786f1eb56",
@@ -4630,7 +4712,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-ad78f8ff957cb148",
@@ -4644,7 +4727,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-3146e662c4704300",
@@ -4658,7 +4742,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-68b38b3da88acecc",
@@ -4672,7 +4757,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-7591e93b21a50e30",
@@ -4686,7 +4772,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-8676a715ccce45bf",
@@ -4700,7 +4787,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-0882abd7d55b73b9",
@@ -4714,7 +4802,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-5c35fa16b52f3ca0",
@@ -4728,7 +4817,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-6632ff7dea3b3a6f",
@@ -4742,7 +4832,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-32af80f51279138f",
@@ -4756,7 +4847,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-23f9d49742410835",
@@ -4770,7 +4862,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-955d70874e56a667",
@@ -4784,7 +4877,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-cf2066c0e3ba904e",
@@ -4798,7 +4892,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-a45c20d040caa9de",
@@ -4812,7 +4907,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-f90841dcb6763bd5",
@@ -4826,7 +4922,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-f1790ee3918b1795",
@@ -4840,7 +4937,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/CORRECTIONS.md"
+      "provenance": "brain/CORRECTIONS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-99b473fbf1ce2aee",
@@ -4854,7 +4952,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/PATTERNS.md"
+      "provenance": "brain/PATTERNS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-366bd21799ff0e29",
@@ -4868,7 +4967,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/PATTERNS.md"
+      "provenance": "brain/PATTERNS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-ec3eb3864d821d21",
@@ -4882,7 +4982,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/PATTERNS.md"
+      "provenance": "brain/PATTERNS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-35457f1d5bb2c16e",
@@ -4896,7 +4997,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/PATTERNS.md"
+      "provenance": "brain/PATTERNS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-df8f0454fecd81b0",
@@ -4910,7 +5012,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/PATTERNS.md"
+      "provenance": "brain/PATTERNS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-a9450303607d8e6e",
@@ -4924,7 +5027,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/PATTERNS.md"
+      "provenance": "brain/PATTERNS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-819c2934b79a138f",
@@ -4938,7 +5042,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/PATTERNS.md"
+      "provenance": "brain/PATTERNS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-e2d09fc794832b64",
@@ -4952,7 +5057,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/RESEARCH_GAPS.md"
+      "provenance": "brain/RESEARCH_GAPS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-1e20c51ded896ba5",
@@ -4966,7 +5072,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/RESEARCH_GAPS.md"
+      "provenance": "brain/RESEARCH_GAPS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-4e8e555cd2e43c41",
@@ -4980,7 +5087,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/RESEARCH_GAPS.md"
+      "provenance": "brain/RESEARCH_GAPS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-81974cc695eacb58",
@@ -4994,7 +5102,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/RESEARCH_GAPS.md"
+      "provenance": "brain/RESEARCH_GAPS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-722dfae38cf3839b",
@@ -5008,7 +5117,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/RESEARCH_GAPS.md"
+      "provenance": "brain/RESEARCH_GAPS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-e5dd3d7f36fac9ee",
@@ -5022,7 +5132,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/RESEARCH_GAPS.md"
+      "provenance": "brain/RESEARCH_GAPS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-603aac5494839b6e",
@@ -5036,7 +5147,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/RESEARCH_GAPS.md"
+      "provenance": "brain/RESEARCH_GAPS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-fdd0a3f242addddf",
@@ -5050,7 +5162,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/RESEARCH_GAPS.md"
+      "provenance": "brain/RESEARCH_GAPS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-2f3fb174440373ad",
@@ -5064,7 +5177,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/RESEARCH_GAPS.md"
+      "provenance": "brain/RESEARCH_GAPS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-eb8198a66829369a",
@@ -5078,7 +5192,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/RESEARCH_GAPS.md"
+      "provenance": "brain/RESEARCH_GAPS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-705bd119040b71e6",
@@ -5092,7 +5207,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/RESEARCH_GAPS.md"
+      "provenance": "brain/RESEARCH_GAPS.md",
+      "needsReview": true
     },
     {
       "id": "legacy-7785a728390c514c",
@@ -5106,7 +5222,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/MIKE_JOURNAL.md"
+      "provenance": "brain/MIKE_JOURNAL.md",
+      "needsReview": true
     },
     {
       "id": "legacy-959cb766a4bb68c0",
@@ -5120,7 +5237,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/MIKE_JOURNAL.md"
+      "provenance": "brain/MIKE_JOURNAL.md",
+      "needsReview": true
     },
     {
       "id": "legacy-b6d0bd671e5da00d",
@@ -5134,7 +5252,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/MIKE_JOURNAL.md"
+      "provenance": "brain/MIKE_JOURNAL.md",
+      "needsReview": true
     },
     {
       "id": "legacy-aa810bf3e88fa42a",
@@ -5148,7 +5267,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/MIKE_JOURNAL.md"
+      "provenance": "brain/MIKE_JOURNAL.md",
+      "needsReview": true
     },
     {
       "id": "legacy-cf40292e79447551",
@@ -5162,7 +5282,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/MIKE_JOURNAL.md"
+      "provenance": "brain/MIKE_JOURNAL.md",
+      "needsReview": true
     },
     {
       "id": "legacy-eb8001ec6e04e6fe",
@@ -5176,7 +5297,8 @@
       "lastValidatedAt": null,
       "status": "active",
       "legacy": true,
-      "provenance": "brain/MIKE_JOURNAL.md"
+      "provenance": "brain/MIKE_JOURNAL.md",
+      "needsReview": true
     }
   ],
   "sources": [],
@@ -7256,6 +7378,115 @@
       "ideaIds": [],
       "learningIds": [],
       "signalIds": []
+    },
+    {
+      "id": "run-1790453140986-bdde45",
+      "owner": "console",
+      "status": "completed",
+      "startedAt": "2026-09-26T20:05:40.979Z",
+      "deadline": "2026-09-26T20:30:40.986Z",
+      "budget": {
+        "maxSearches": 6,
+        "maxFetches": 2,
+        "maxMinutes": 25,
+        "maxTokens": 40000,
+        "maxCostUsd": 1,
+        "maxOutputTokens": 4096,
+        "memoryChars": 16000,
+        "maxModelCalls": 12,
+        "maxCreditUnits": 24,
+        "maxIterationsPerCandidate": 3,
+        "maxExceptionalIterations": 5,
+        "maxRepeatedQueries": 1,
+        "maxTerraCalls": 2,
+        "maxSolCalls": 1
+      },
+      "plan": {
+        "areas": [
+          {
+            "mode": "exploration",
+            "topic": "industrial maintenance",
+            "question": "Which reachable buyers have expensive recurring operational problems or newly feasible solutions?",
+            "stage": "discovery"
+          },
+          {
+            "mode": "exploitation",
+            "topic": "Greek SMB operational inefficiencies",
+            "ideaId": null,
+            "question": "Find observable workflow pain, actual spending and reachable initial niches",
+            "stage": "discovery"
+          },
+          {
+            "mode": "reevaluation",
+            "topic": "EAA/WCAG Accessibility Audit Sprint",
+            "ideaId": "legacy-70ac6eb1e69669c1",
+            "question": "Revisit only if non-exempt e-shops publicly ask for affordable accessibility checks outside agency funnels",
+            "stage": "validation"
+          }
+        ],
+        "strategy": "Explore a new space, exploit a supported lead, reconsider a prior assumption. Adapt queries using retrieved search lessons.",
+        "stopWhen": "Repetition, sufficient evidence, or no likely ranking impact"
+      },
+      "metrics": {
+        "searches": 0,
+        "fetches": 0,
+        "cacheHits": 0,
+        "duplicateSearchesAvoided": 0,
+        "usefulSignals": 0,
+        "promisingIdeas": 0,
+        "tokens": 12530,
+        "costUsd": null,
+        "modelCalls": 1,
+        "creditUnits": 1,
+        "costPerPromising": null
+      },
+      "strategyChanges": [],
+      "loop": {
+        "calls": [
+          {
+            "id": "call-0",
+            "tier": "luna",
+            "model": "gpt-5.6-luna",
+            "purpose": "decide",
+            "status": "complete",
+            "tokenAllowance": 8000,
+            "creditUnits": 1,
+            "expectedGain": null,
+            "decisionImpact": "Select a valuable next action or stop; one bounded Luna decision",
+            "at": "2026-09-26T20:05:41.129Z",
+            "tokens": 12530,
+            "costUsd": null,
+            "finishedAt": "2026-09-26T20:06:05.086Z"
+          }
+        ],
+        "decisions": [
+          {
+            "at": "2026-09-26T20:06:05.105Z",
+            "stop": true,
+            "reason": "measured_budget_exhausted"
+          }
+        ],
+        "candidates": {},
+        "queries": [],
+        "repeatedQueries": 0,
+        "stopReason": "measured_budget_exhausted",
+        "draft": {
+          "version": 1,
+          "runId": "run-1790453140986-bdde45",
+          "summary": "Stopped without new market findings.",
+          "evidence": [],
+          "signals": [],
+          "ideas": [],
+          "learnings": [],
+          "sources": [],
+          "strategyChanges": []
+        }
+      },
+      "finishedAt": "2026-09-26T20:06:05.135Z",
+      "summary": "Stopped without new market findings.\nStop: measured_budget_exhausted",
+      "ideaIds": [],
+      "learningIds": [],
+      "signalIds": []
     }
   ],
   "events": [
@@ -7658,6 +7889,36 @@
     {
       "at": "2026-09-26T19:05:37.297Z",
       "runId": "run-1790449512000-ee530c",
+      "type": "completed",
+      "detail": "Stopped without new market findings.\nStop: measured_budget_exhausted"
+    },
+    {
+      "at": "2026-09-26T20:05:40.987Z",
+      "runId": "run-1790453140986-bdde45",
+      "type": "planned",
+      "detail": "exploration: industrial maintenance; exploitation: Greek SMB operational inefficiencies; reevaluation: EAA/WCAG Accessibility Audit Sprint"
+    },
+    {
+      "at": "2026-09-26T20:05:41.129Z",
+      "runId": "run-1790453140986-bdde45",
+      "type": "model_call",
+      "detail": "gpt-5.6-luna: decide; 1 internal budget units reserved"
+    },
+    {
+      "at": "2026-09-26T20:06:05.105Z",
+      "runId": "run-1790453140986-bdde45",
+      "type": "loop_stopped",
+      "detail": "measured_budget_exhausted"
+    },
+    {
+      "at": "2026-09-26T20:06:05.136Z",
+      "runId": "run-1790453140986-bdde45",
+      "type": "consolidated",
+      "detail": "Exact duplicate lessons superseded; contradictions retained; stale lessons flagged for review"
+    },
+    {
+      "at": "2026-09-26T20:06:05.136Z",
+      "runId": "run-1790453140986-bdde45",
       "type": "completed",
       "detail": "Stopped without new market findings.\nStop: measured_budget_exhausted"
     }
