@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": 104,
+  "revision": 109,
   "ideas": [
     {
       "id": "legacy-70ac6eb1e69669c1",
@@ -7705,6 +7705,115 @@
       "ideaIds": [],
       "learningIds": [],
       "signalIds": []
+    },
+    {
+      "id": "run-1790460511623-810e3c",
+      "owner": "console",
+      "status": "completed",
+      "startedAt": "2026-09-26T22:08:31.615Z",
+      "deadline": "2026-09-26T22:33:31.623Z",
+      "budget": {
+        "maxSearches": 6,
+        "maxFetches": 2,
+        "maxMinutes": 25,
+        "maxTokens": 40000,
+        "maxCostUsd": 1,
+        "maxOutputTokens": 4096,
+        "memoryChars": 16000,
+        "maxModelCalls": 12,
+        "maxCreditUnits": 24,
+        "maxIterationsPerCandidate": 3,
+        "maxExceptionalIterations": 5,
+        "maxRepeatedQueries": 1,
+        "maxTerraCalls": 2,
+        "maxSolCalls": 1
+      },
+      "plan": {
+        "areas": [
+          {
+            "mode": "exploration",
+            "topic": "energy efficiency",
+            "question": "Which reachable buyers have expensive recurring operational problems or newly feasible solutions?",
+            "stage": "discovery"
+          },
+          {
+            "mode": "exploitation",
+            "topic": "Greek SMB operational inefficiencies",
+            "ideaId": null,
+            "question": "Find observable workflow pain, actual spending and reachable initial niches",
+            "stage": "discovery"
+          },
+          {
+            "mode": "reevaluation",
+            "topic": "EAA/WCAG Accessibility Audit Sprint",
+            "ideaId": "legacy-70ac6eb1e69669c1",
+            "question": "Revisit only if non-exempt e-shops publicly ask for affordable accessibility checks outside agency funnels",
+            "stage": "validation"
+          }
+        ],
+        "strategy": "Explore a new space, exploit a supported lead, reconsider a prior assumption. Adapt queries using retrieved search lessons.",
+        "stopWhen": "Repetition, sufficient evidence, or no likely ranking impact"
+      },
+      "metrics": {
+        "searches": 0,
+        "fetches": 0,
+        "cacheHits": 0,
+        "duplicateSearchesAvoided": 0,
+        "usefulSignals": 0,
+        "promisingIdeas": 0,
+        "tokens": 12215,
+        "costUsd": null,
+        "modelCalls": 1,
+        "creditUnits": 1,
+        "costPerPromising": null
+      },
+      "strategyChanges": [],
+      "loop": {
+        "calls": [
+          {
+            "id": "call-0",
+            "tier": "luna",
+            "model": "gpt-5.6-luna",
+            "purpose": "decide",
+            "status": "complete",
+            "tokenAllowance": 8000,
+            "creditUnits": 1,
+            "expectedGain": null,
+            "decisionImpact": "Select a valuable next action or stop; one bounded Luna decision",
+            "at": "2026-09-26T22:08:31.763Z",
+            "tokens": 12215,
+            "costUsd": null,
+            "finishedAt": "2026-09-26T22:08:50.502Z"
+          }
+        ],
+        "decisions": [
+          {
+            "at": "2026-09-26T22:08:50.530Z",
+            "stop": true,
+            "reason": "measured_budget_exhausted"
+          }
+        ],
+        "candidates": {},
+        "queries": [],
+        "repeatedQueries": 0,
+        "stopReason": "measured_budget_exhausted",
+        "draft": {
+          "version": 1,
+          "runId": "run-1790460511623-810e3c",
+          "summary": "Stopped without new market findings.",
+          "evidence": [],
+          "signals": [],
+          "ideas": [],
+          "learnings": [],
+          "sources": [],
+          "strategyChanges": []
+        }
+      },
+      "finishedAt": "2026-09-26T22:08:50.570Z",
+      "summary": "Stopped without new market findings.\nStop: measured_budget_exhausted",
+      "ideaIds": [],
+      "learningIds": [],
+      "signalIds": []
     }
   ],
   "events": [
@@ -8185,6 +8294,30 @@
     {
       "at": "2026-09-26T21:08:16.573Z",
       "runId": "run-1790456878790-fe6f28",
+      "type": "completed",
+      "detail": "Stopped without new market findings.\nStop: measured_budget_exhausted"
+    },
+    {
+      "at": "2026-09-26T22:08:31.623Z",
+      "runId": "run-1790460511623-810e3c",
+      "type": "planned",
+      "detail": "exploration: energy efficiency; exploitation: Greek SMB operational inefficiencies; reevaluation: EAA/WCAG Accessibility Audit Sprint"
+    },
+    {
+      "at": "2026-09-26T22:08:31.763Z",
+      "runId": "run-1790460511623-810e3c",
+      "type": "model_call",
+      "detail": "gpt-5.6-luna: decide; 1 internal budget units reserved"
+    },
+    {
+      "at": "2026-09-26T22:08:50.530Z",
+      "runId": "run-1790460511623-810e3c",
+      "type": "loop_stopped",
+      "detail": "measured_budget_exhausted"
+    },
+    {
+      "at": "2026-09-26T22:08:50.570Z",
+      "runId": "run-1790460511623-810e3c",
       "type": "completed",
       "detail": "Stopped without new market findings.\nStop: measured_budget_exhausted"
     }
