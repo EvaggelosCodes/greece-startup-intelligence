@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": 220,
+  "revision": 241,
   "ideas": [
     {
       "id": "legacy-70ac6eb1e69669c1",
@@ -3797,6 +3797,270 @@
           "reason": "Η αναζήτηση δεν παρείχε νέο direct-buyer pull ούτε budget για την Ψηφιακή Κάρτα Εργασίας. Το candidate παραμένει insufficient_evidence.\nStop: token_budget"
         }
       ]
+    },
+    {
+      "id": "lead-ee0a7d2b32a34c41",
+      "title": "Industrial Maintenance External Support Lead",
+      "problem": "Ελληνικές παραγωγικές ή τεχνικές επιχειρήσεις χρειάζονται εξωτερική τεχνική υποστήριξη, προληπτική συντήρηση και επισκευές εξοπλισμού.",
+      "customer": "Ελληνικές βιομηχανίες και τεχνικές επιχειρήσεις με ανάγκες service.",
+      "solution": "Δεν προτείνεται ακόμη συγκεκριμένο business concept· απαιτείται απευθείας επικύρωση buyer, scope και τιμής.",
+      "whyNow": "Υπάρχουν πρόσφατες αγγελίες και αναθέσεις για maintenance/service.",
+      "greeceFit": "Η ζήτηση αφορά ελληνικές εγκαταστάσεις και εξοπλισμό.",
+      "businessModel": "Άγνωστο.",
+      "gtm": "Επικύρωση με απευθείας επικοινωνία σε εταιρείες που εμφανίζουν ενεργή ανάγκη.",
+      "industry": "Industrial maintenance",
+      "nextValidation": "Βρες και επιβεβαίωσε απευθείας μικρή ιδιωτική επιχείρηση που δέχεται scoped προσφορά για προληπτική συντήρηση, βλάβη ή maintenance records.",
+      "status": "watchlist",
+      "confidence": 0.33,
+      "risks": [
+        "Οι ισχυρότερες ενδείξεις είναι αγγελία εργασίας ή δημόσιες αναθέσεις, όχι freelance buyer posts.",
+        "Δεν βρέθηκε δημοσιευμένη τιμή για ιδιωτική μικρή βιομηχανία.",
+        "Δεν τεκμηριώθηκε ανάγκη για maintenance records ως ξεχωριστό deliverable."
+      ],
+      "relatedIdeas": [],
+      "evidenceIds": [
+        "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e1",
+        "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e2",
+        "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e3"
+      ],
+      "signalIds": [
+        "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-s1",
+        "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-s2"
+      ],
+      "pattern": "External maintenance demand exists, but buyer pull and solo-service fit remain unproven.",
+      "opportunity": "Potential lead-generation lane for maintenance subcontracting, pending direct buyer validation.",
+      "evaluation": {
+        "severity": {
+          "value": 0.78,
+          "reason": "Βλάβες και συντήρηση εξοπλισμού εμφανίζονται ως συγκεκριμένες ανάγκες service.",
+          "evidenceIds": [
+            "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e1",
+            "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e2"
+          ]
+        },
+        "frequency": {
+          "value": null,
+          "reason": "Δεν τεκμηριώνεται συχνότητα για μικρούς ιδιώτες buyers.",
+          "evidenceIds": []
+        },
+        "willingnessToPay": {
+          "value": 0.72,
+          "reason": "Υπάρχει τεκμηριωμένη πληρωμένη ανάθεση €500, αλλά από δημόσιο αγοραστή.",
+          "evidenceIds": [
+            "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e3"
+          ]
+        },
+        "alternatives": {
+          "value": null,
+          "reason": "Δεν συγκρίθηκαν επαρκώς εναλλακτικοί πάροχοι για τον συγκεκριμένο buyer.",
+          "evidenceIds": []
+        },
+        "dissatisfaction": {
+          "value": null,
+          "reason": "Δεν υπάρχει άμεση μαρτυρία δυσαρέσκειας.",
+          "evidenceIds": []
+        },
+        "differentiation": {
+          "value": null,
+          "reason": "Δεν τεκμηριώνεται διαφοροποιημένη solo προσφορά.",
+          "evidenceIds": []
+        },
+        "marketSize": {
+          "value": null,
+          "reason": "Τα αποτελέσματα δεν επιτρέπουν εκτίμηση αγοράς.",
+          "evidenceIds": []
+        },
+        "reachableNiche": {
+          "value": 0.42,
+          "reason": "Υπάρχουν ελληνικές εταιρείες με εμφανή ανάγκη, αλλά η πρόσβαση σε buyer δεν αποδεικνύεται.",
+          "evidenceIds": [
+            "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e1"
+          ]
+        },
+        "greeceFit": {
+          "value": 0.9,
+          "reason": "Οι ανάγκες και οι αναθέσεις αφορούν ελληνικές τοποθεσίες και οργανισμούς.",
+          "evidenceIds": [
+            "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e1",
+            "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e3"
+          ]
+        },
+        "expansion": {
+          "value": null,
+          "reason": "Δεν τεκμηριώνεται επέκταση.",
+          "evidenceIds": []
+        },
+        "distribution": {
+          "value": 0.35,
+          "reason": "Εντοπίζονται μέσω αγγελιών και δημοσίων αναθέσεων, αλλά δεν αποδεικνύεται αποδοτικό κανάλι για solo πάροχο.",
+          "evidenceIds": [
+            "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e1",
+            "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e3"
+          ]
+        },
+        "startupCost": {
+          "value": null,
+          "reason": "Δεν τεκμηριώθηκε κόστος εκκίνησης.",
+          "evidenceIds": []
+        },
+        "regulation": {
+          "value": null,
+          "reason": "Δεν αξιολογήθηκε κανονιστικό πλαίσιο.",
+          "evidenceIds": []
+        },
+        "implementation": {
+          "value": null,
+          "reason": "Δεν είναι σαφές αν ο ιδρυτής διαθέτει τις απαιτούμενες τεχνικές δεξιότητες.",
+          "evidenceIds": []
+        },
+        "timing": {
+          "value": 0.74,
+          "reason": "Τα αποτελέσματα περιλαμβάνουν πρόσφατες αγγελίες και αναθέσεις.",
+          "evidenceIds": [
+            "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e1",
+            "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e3"
+          ]
+        },
+        "defensibility": {
+          "value": null,
+          "reason": "Δεν τεκμηριώνεται αμυντικότητα.",
+          "evidenceIds": []
+        },
+        "evidenceStrength": {
+          "value": 0.62,
+          "reason": "Υπάρχει σύγκλιση αγγελίας και πληρωμένης ανάθεσης, αλλά όχι άμεσος μικρός ιδιώτης buyer.",
+          "evidenceIds": [
+            "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e1",
+            "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e3"
+          ]
+        }
+      },
+      "rejection": null,
+      "score": 0.6,
+      "coverage": 0.5454545454545454,
+      "rubricVersion": 1,
+      "legacy": false,
+      "needsReview": false,
+      "discoveredAt": "2026-09-27T21:58:28.182Z",
+      "lastReviewedAt": "2026-09-27T21:58:28.182Z",
+      "history": [
+        {
+          "at": "2026-09-27T21:58:28.182Z",
+          "runId": "run-1790546216384-73cb70",
+          "score": 0.6,
+          "confidence": 0.33,
+          "coverage": 0.5454545454545454,
+          "status": "watchlist",
+          "rubricVersion": 1,
+          "evaluation": {
+            "severity": {
+              "value": 0.78,
+              "reason": "Βλάβες και συντήρηση εξοπλισμού εμφανίζονται ως συγκεκριμένες ανάγκες service.",
+              "evidenceIds": [
+                "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e1",
+                "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e2"
+              ]
+            },
+            "frequency": {
+              "value": null,
+              "reason": "Δεν τεκμηριώνεται συχνότητα για μικρούς ιδιώτες buyers.",
+              "evidenceIds": []
+            },
+            "willingnessToPay": {
+              "value": 0.72,
+              "reason": "Υπάρχει τεκμηριωμένη πληρωμένη ανάθεση €500, αλλά από δημόσιο αγοραστή.",
+              "evidenceIds": [
+                "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e3"
+              ]
+            },
+            "alternatives": {
+              "value": null,
+              "reason": "Δεν συγκρίθηκαν επαρκώς εναλλακτικοί πάροχοι για τον συγκεκριμένο buyer.",
+              "evidenceIds": []
+            },
+            "dissatisfaction": {
+              "value": null,
+              "reason": "Δεν υπάρχει άμεση μαρτυρία δυσαρέσκειας.",
+              "evidenceIds": []
+            },
+            "differentiation": {
+              "value": null,
+              "reason": "Δεν τεκμηριώνεται διαφοροποιημένη solo προσφορά.",
+              "evidenceIds": []
+            },
+            "marketSize": {
+              "value": null,
+              "reason": "Τα αποτελέσματα δεν επιτρέπουν εκτίμηση αγοράς.",
+              "evidenceIds": []
+            },
+            "reachableNiche": {
+              "value": 0.42,
+              "reason": "Υπάρχουν ελληνικές εταιρείες με εμφανή ανάγκη, αλλά η πρόσβαση σε buyer δεν αποδεικνύεται.",
+              "evidenceIds": [
+                "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e1"
+              ]
+            },
+            "greeceFit": {
+              "value": 0.9,
+              "reason": "Οι ανάγκες και οι αναθέσεις αφορούν ελληνικές τοποθεσίες και οργανισμούς.",
+              "evidenceIds": [
+                "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e1",
+                "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e3"
+              ]
+            },
+            "expansion": {
+              "value": null,
+              "reason": "Δεν τεκμηριώνεται επέκταση.",
+              "evidenceIds": []
+            },
+            "distribution": {
+              "value": 0.35,
+              "reason": "Εντοπίζονται μέσω αγγελιών και δημοσίων αναθέσεων, αλλά δεν αποδεικνύεται αποδοτικό κανάλι για solo πάροχο.",
+              "evidenceIds": [
+                "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e1",
+                "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e3"
+              ]
+            },
+            "startupCost": {
+              "value": null,
+              "reason": "Δεν τεκμηριώθηκε κόστος εκκίνησης.",
+              "evidenceIds": []
+            },
+            "regulation": {
+              "value": null,
+              "reason": "Δεν αξιολογήθηκε κανονιστικό πλαίσιο.",
+              "evidenceIds": []
+            },
+            "implementation": {
+              "value": null,
+              "reason": "Δεν είναι σαφές αν ο ιδρυτής διαθέτει τις απαιτούμενες τεχνικές δεξιότητες.",
+              "evidenceIds": []
+            },
+            "timing": {
+              "value": 0.74,
+              "reason": "Τα αποτελέσματα περιλαμβάνουν πρόσφατες αγγελίες και αναθέσεις.",
+              "evidenceIds": [
+                "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e1",
+                "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e3"
+              ]
+            },
+            "defensibility": {
+              "value": null,
+              "reason": "Δεν τεκμηριώνεται αμυντικότητα.",
+              "evidenceIds": []
+            },
+            "evidenceStrength": {
+              "value": 0.62,
+              "reason": "Υπάρχει σύγκλιση αγγελίας και πληρωμένης ανάθεσης, αλλά όχι άμεσος μικρός ιδιώτης buyer.",
+              "evidenceIds": [
+                "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e1",
+                "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e3"
+              ]
+            }
+          },
+          "reason": "Νέα, αλλά έμμεση, ένδειξη πληρωμένης ζήτησης για εξωτερική συντήρηση. Δεν επιβεβαιώνεται ακόμη μικρός ιδιώτης buyer, freelance ανάθεση ή maintenance-records ανάγκη με τιμή.\nStop: token_budget"
+        }
+      ]
     }
   ],
   "evidence": [
@@ -3855,6 +4119,48 @@
       "excerpt": "Έχει δοκιμάσει κανείς να βάλει ψηφιακή κάρτα για πάγιες εντολές?",
       "confidence": 0.99,
       "runId": "run-1790535191901-61621c"
+    },
+    {
+      "id": "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e1",
+      "url": "https://jobclick.gr/job/technikos-exoterikis-syntirisis-koropi/",
+      "origin": "web search result",
+      "queryId": "query-b68ebfae61a3dbb8",
+      "claim": "Εταιρεία κατασκευής εξοπλισμού βιομηχανικών αγωγών στο Κορωπί ζητά Τεχνικό Εξωτερικής Συντήρησης για τεχνική υποστήριξη, προληπτική συντήρηση, αντικατάσταση εξαρτημάτων και επισκευές.",
+      "kind": "observed",
+      "sourceType": "secondary",
+      "publishedAt": null,
+      "observedAt": "2026-09-27T21:57:16.162Z",
+      "excerpt": "Η Work4u International ζητά ... Τεχνικό Εξωτερικής Συντήρησης ... Προληπτική συντήρηση εξοπλισμού ... Αντικατάσταση εξαρτημάτων και εκτέλεση επισκευών.",
+      "confidence": 0.88,
+      "runId": "run-1790546216384-73cb70"
+    },
+    {
+      "id": "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e2",
+      "url": "https://www.contracts.gr/v1/tenders/KMDS/26PROC019260658",
+      "origin": "web search result",
+      "queryId": "query-b68ebfae61a3dbb8",
+      "claim": "Υπάρχει δημόσια διαδικασία ανάθεσης για συγκεκριμένες επισκευές και συντηρήσεις πολλών μηχανημάτων, επιβεβαιώνοντας ότι η ανάγκη αγοράς υπηρεσιών maintenance μπορεί να είναι συγκεκριμένη και άμεσα τιμολογήσιμη.",
+      "kind": "observed",
+      "sourceType": "secondary",
+      "publishedAt": null,
+      "observedAt": "2026-09-27T21:57:16.162Z",
+      "excerpt": "Επισκευές και συντήρηση αλυσοπριόνων, θαμνοκοπτικών, χλοοκοπτικού τρακτέρ, πλυστικού, φυσητήρα και ασφαλτοκόπτη.",
+      "confidence": 0.82,
+      "runId": "run-1790546216384-73cb70"
+    },
+    {
+      "id": "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e3",
+      "url": "https://diavgis.gr/act/26AWRD019319175",
+      "origin": "web search result",
+      "queryId": "query-b68ebfae61a3dbb8",
+      "claim": "Υπάρχει πρόσφατη ανάθεση υπηρεσιών ελέγχου ηλεκτρομηχανολογικού εξοπλισμού ύψους 500€, παρέχοντας πραγματικό παράδειγμα πληρωμένης συντήρησης/ελέγχου, αλλά από δημόσιο αγοραστή και όχι μικρή βιομηχανία.",
+      "kind": "observed",
+      "sourceType": "secondary",
+      "publishedAt": null,
+      "observedAt": "2026-09-27T21:57:16.162Z",
+      "excerpt": "Ανάθεση ύψους 500,00€ ... Υπηρεσίες επισκευής και συντήρησης μηχανημάτων.",
+      "confidence": 0.84,
+      "runId": "run-1790546216384-73cb70"
     }
   ],
   "signals": [
@@ -3870,6 +4176,29 @@
       ],
       "lastValidatedAt": "2026-09-27T15:48:02.169Z",
       "runId": "run-1790524007558-130b99"
+    },
+    {
+      "id": "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-s1",
+      "claim": "Υπάρχει τρέχον ελληνικό demand signal για εξωτερική τεχνική υποστήριξη, προληπτική συντήρηση και επισκευές βιομηχανικού εξοπλισμού.",
+      "topic": "industrial maintenance buyer demand",
+      "confidence": 0.78,
+      "evidenceIds": [
+        "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e1"
+      ],
+      "lastValidatedAt": "2026-09-27T21:58:28.181Z",
+      "runId": "run-1790546216384-73cb70"
+    },
+    {
+      "id": "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-s2",
+      "claim": "Η πληρωμένη ανάγκη είναι πιο καθαρή σε συγκεκριμένες αναθέσεις επισκευής/ελέγχου, αλλά τα αποτελέσματα δεν αποδεικνύουν μικρό ιδιώτη buyer ή ζήτηση για records-only υπηρεσία.",
+      "topic": "payment attribution and buyer fit",
+      "confidence": 0.86,
+      "evidenceIds": [
+        "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e2",
+        "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e3"
+      ],
+      "lastValidatedAt": "2026-09-27T21:58:28.181Z",
+      "runId": "run-1790546216384-73cb70"
     }
   ],
   "learnings": [
@@ -5758,6 +6087,40 @@
       "lastValidatedAt": "2026-09-27T18:54:22.987Z",
       "history": [],
       "needsReview": false
+    },
+    {
+      "id": "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-l1",
+      "claim": "Μία τρέχουσα αγγελία για εξωτερικό τεχνικό συντήρησης επιβεβαιώνει ανάγκη service, αλλά δεν ισοδυναμεί με πληρωμένο freelance buyer request ή δημοσιευμένο budget.",
+      "topic": "evidence quality",
+      "confidence": 0.9,
+      "type": "search",
+      "status": "active",
+      "evidenceIds": [
+        "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e1"
+      ],
+      "queryIds": [
+        "query-b68ebfae61a3dbb8"
+      ],
+      "contradicts": [],
+      "lastValidatedAt": "2026-09-27T21:58:28.183Z",
+      "history": []
+    },
+    {
+      "id": "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-l2",
+      "claim": "Πρόσφατη δημόσια ανάθεση €500 για έλεγχο/συντήρηση μηχανημάτων είναι σαφής πληρωμένη ανάγκη, αλλά δεν αποδεικνύει ιδιωτική μικρή βιομηχανία ή solo-provider fit.",
+      "topic": "payment attribution",
+      "confidence": 0.88,
+      "type": "market",
+      "status": "active",
+      "evidenceIds": [
+        "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e3"
+      ],
+      "queryIds": [
+        "query-b68ebfae61a3dbb8"
+      ],
+      "contradicts": [],
+      "lastValidatedAt": "2026-09-27T21:58:28.183Z",
+      "history": []
     }
   ],
   "sources": [
@@ -5836,6 +6199,60 @@
       "samples": 1,
       "lastValidatedAt": "2026-09-27T18:54:22.987Z",
       "queries": 2
+    },
+    {
+      "domain": "jobclick.gr",
+      "evidenceIds": [
+        "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e1"
+      ],
+      "reliability": 0.62,
+      "freshness": 0.86,
+      "uniqueness": 0.7,
+      "signalToNoise": 0.72,
+      "topics": [
+        "industrial maintenance hiring"
+      ],
+      "reason": "Πρόσφατη σχετική αγγελία, αλλά δευτερογενής job board και χωρίς τιμή.",
+      "id": "jobclick.gr",
+      "samples": 1,
+      "lastValidatedAt": "2026-09-27T21:58:28.183Z",
+      "queries": 1
+    },
+    {
+      "domain": "diavgis.gr",
+      "evidenceIds": [
+        "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e3"
+      ],
+      "reliability": 0.78,
+      "freshness": 0.82,
+      "uniqueness": 0.72,
+      "signalToNoise": 0.8,
+      "topics": [
+        "paid maintenance procurement"
+      ],
+      "reason": "Καταγράφει συγκεκριμένη δημόσια ανάθεση και ποσό, αλλά όχι ιδιωτικό buyer.",
+      "id": "diavgis.gr",
+      "samples": 1,
+      "lastValidatedAt": "2026-09-27T21:58:28.183Z",
+      "queries": 1
+    },
+    {
+      "domain": "contracts.gr",
+      "evidenceIds": [
+        "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e2"
+      ],
+      "reliability": 0.68,
+      "freshness": 0.72,
+      "uniqueness": 0.7,
+      "signalToNoise": 0.76,
+      "topics": [
+        "maintenance tenders"
+      ],
+      "reason": "Συγκεκριμένο scope συντήρησης, χωρίς επιβεβαιωμένη μικρή ιδιωτική επιχείρηση ή τιμή στο snippet.",
+      "id": "contracts.gr",
+      "samples": 1,
+      "lastValidatedAt": "2026-09-27T21:58:28.183Z",
+      "queries": 1
     }
   ],
   "queries": [
@@ -5971,6 +6388,46 @@
       "useful": false,
       "urls": [],
       "completedAt": "2026-09-27T19:55:04.821Z"
+    },
+    {
+      "text": "(\"ψηφιακή κάρτα εργασίας\" OR \"Ψηφιακή Κάρτα Εργασίας\") (ζητείται OR χρειάζομαι OR προσφορά OR κόστος OR τιμή) (επιχείρηση OR λογιστής OR λογιστικό γραφείο) Ελλάδα -τράπεζα -snappi",
+      "mode": "exploitation",
+      "stage": "discovery",
+      "candidateId": "digital-work-card-sector-setup",
+      "expectedDecision": "Σχετικό αίτημα με budget θα αυξήσει ουσιαστικά τη confidence και μπορεί να μετατρέψει το candidate από insufficient_evidence σε άμεσο paid test· απουσία buyer pull θα το αφήσει χαμηλά.",
+      "id": "query-10cefda993942450",
+      "runId": "run-1790542514890-9c8aa9",
+      "status": "complete",
+      "createdAt": "2026-09-27T20:55:40.323Z",
+      "modelRole": "gpt-5.6-luna",
+      "summary": "Δεν βρέθηκε δημόσιο αίτημα από ελληνική μικρή επιχείρηση ή λογιστή για πληρωμένη βοήθεια με συγκεκριμένη τιμή ή budget. Τα αποτελέσματα έδειξαν επέκταση της υποχρέωσης και προμηθευτές λογισμικού, όχι buyer pull.",
+      "useful": true,
+      "urls": [
+        "https://www.e-forologia.gr/lawbank/document.aspx?digest=F3B30A7EDBF9B400.1D031AEA53&version=2026%2F09%2F23",
+        "https://jobcard.gr/accounting-offices/",
+        "https://ypergasias.gov.gr/nea-epektasi-tis-psifiakis-kartas-ergasias-se-prosthetous-kladous/"
+      ],
+      "completedAt": "2026-09-27T20:56:52.474Z"
+    },
+    {
+      "text": "Ελλάδα μικρή βιομηχανία συνεργείο ζητεί εξωτερικό συνεργάτη συντήρηση μηχανημάτων βλάβη τιμή προσφορά freelance maintenance",
+      "mode": "exploration",
+      "stage": "discovery",
+      "candidateId": "lead-ee0a7d2b32a34c41",
+      "expectedDecision": "Μπορεί να δημιουργήσει νέο, άμεσα εκκινήσιμο lead με πραγματικό buyer pull και να αυξήσει ή να μειώσει σημαντικά την κατάταξη της εξερεύνησης industrial maintenance.",
+      "id": "query-b68ebfae61a3dbb8",
+      "runId": "run-1790546216384-73cb70",
+      "status": "complete",
+      "createdAt": "2026-09-27T21:57:16.146Z",
+      "modelRole": "gpt-5.6-luna",
+      "summary": "Εντοπίστηκε τρέχουσα ζήτηση για εξωτερική συντήρηση και service στην Ελλάδα, αλλά όχι σαφής μικρή βιομηχανία που ζητά freelance maintenance records με δημοσιευμένη τιμή. Το σήμα αυξάνει ελαφρά την κατάταξη, χωρίς ακόμη επιβεβαιωμένο άμεσα εκκινήσιμο lead.",
+      "useful": true,
+      "urls": [
+        "https://jobclick.gr/job/technikos-exoterikis-syntirisis-koropi/",
+        "https://www.contracts.gr/v1/tenders/KMDS/26PROC019260658",
+        "https://diavgis.gr/act/26AWRD019319175"
+      ],
+      "completedAt": "2026-09-27T21:58:28.080Z"
     }
   ],
   "runs": [
@@ -10819,6 +11276,597 @@
       "ideaIds": [],
       "learningIds": [],
       "signalIds": []
+    },
+    {
+      "id": "run-1790542514890-9c8aa9",
+      "owner": "console",
+      "status": "failed",
+      "startedAt": "2026-09-27T20:55:14.880Z",
+      "deadline": "2026-09-27T21:35:14.890Z",
+      "budget": {
+        "maxSearches": 10,
+        "maxFetches": 2,
+        "maxMinutes": 40,
+        "maxTokens": 72000,
+        "maxCostUsd": 1,
+        "maxOutputTokens": 4096,
+        "memoryChars": 16000,
+        "maxModelCalls": 20,
+        "maxCreditUnits": 31,
+        "maxIterationsPerCandidate": 4,
+        "maxExceptionalIterations": 5,
+        "maxRepeatedQueries": 1,
+        "maxTerraCalls": 2,
+        "maxSolCalls": 1
+      },
+      "plan": {
+        "areas": [
+          {
+            "mode": "exploration",
+            "topic": "SMB operations",
+            "question": "Which reachable buyers have expensive recurring operational problems or newly feasible solutions?",
+            "stage": "discovery"
+          },
+          {
+            "mode": "exploitation",
+            "topic": "Digital Work Card Sector Setup",
+            "ideaId": "digital-work-card-sector-setup",
+            "question": "Obtain direct buyer or partner evidence with an explicit paid request and price.",
+            "stage": "discovery"
+          },
+          {
+            "mode": "reevaluation",
+            "topic": "EAA/WCAG Accessibility Audit Sprint",
+            "ideaId": "legacy-70ac6eb1e69669c1",
+            "question": "Revisit only if non-exempt e-shops publicly ask for affordable accessibility checks outside agency funnels",
+            "stage": "validation"
+          }
+        ],
+        "strategy": "Explore a new space, exploit a supported lead, reconsider a prior assumption. Adapt queries using retrieved search lessons.",
+        "stopWhen": "Repetition, sufficient evidence, or no likely ranking impact"
+      },
+      "metrics": {
+        "searches": 1,
+        "fetches": 0,
+        "cacheHits": 0,
+        "duplicateSearchesAvoided": 0,
+        "usefulSignals": 0,
+        "promisingIdeas": 0,
+        "tokens": 56456,
+        "costUsd": null,
+        "modelCalls": 2,
+        "creditUnits": 2
+      },
+      "strategyChanges": [],
+      "loop": {
+        "calls": [
+          {
+            "id": "call-0",
+            "tier": "luna",
+            "model": "gpt-5.6-luna",
+            "purpose": "decide",
+            "status": "complete",
+            "tokenAllowance": 8000,
+            "creditUnits": 1,
+            "expectedGain": null,
+            "decisionImpact": "Select a valuable next action or stop; one bounded Luna decision",
+            "at": "2026-09-27T20:55:15.117Z",
+            "tokens": 12695,
+            "costUsd": null,
+            "finishedAt": "2026-09-27T20:55:40.295Z"
+          },
+          {
+            "id": "call-1",
+            "tier": "luna",
+            "model": "gpt-5.6-luna",
+            "purpose": "search",
+            "status": "complete",
+            "tokenAllowance": 12695,
+            "creditUnits": 1,
+            "expectedGain": 0.78,
+            "decisionImpact": "Σχετικό αίτημα με budget θα αυξήσει ουσιαστικά τη confidence και μπορεί να μετατρέψει το candidate από insufficient_evidence σε άμεσο paid test· απουσία buyer pull θα το αφήσει χαμηλά.",
+            "at": "2026-09-27T20:55:40.548Z",
+            "tokens": 43761,
+            "costUsd": null,
+            "finishedAt": "2026-09-27T20:56:52.462Z"
+          }
+        ],
+        "decisions": [
+          {
+            "at": "2026-09-27T20:55:40.308Z",
+            "stop": false,
+            "action": {
+              "type": "search",
+              "candidateId": "digital-work-card-sector-setup",
+              "question": "Υπάρχουν επηρεαζόμενες ελληνικές μικρές επιχειρήσεις ή λογιστές που ζητούν δημόσια πληρωμένη βοήθεια για Ψηφιακή Κάρτα Εργασίας, με συγκεκριμένη τιμή ή budget;",
+              "query": "(\"ψηφιακή κάρτα εργασίας\" OR \"Ψηφιακή Κάρτα Εργασίας\") (ζητείται OR χρειάζομαι OR προσφορά OR κόστος OR τιμή) (επιχείρηση OR λογιστής OR λογιστικό γραφείο) Ελλάδα -τράπεζα -snappi",
+              "mode": "exploitation",
+              "tier": "luna",
+              "escalationReason": "",
+              "expectedGain": 0.78,
+              "decisionImpact": 0.82,
+              "impact": "Σχετικό αίτημα με budget θα αυξήσει ουσιαστικά τη confidence και μπορεί να μετατρέψει το candidate από insufficient_evidence σε άμεσο paid test· απουσία buyer pull θα το αφήσει χαμηλά.",
+              "value": 0.6396
+            },
+            "rejected": []
+          }
+        ],
+        "candidates": {
+          "digital-work-card-sector-setup": {
+            "status": "insufficient_evidence",
+            "score": 0.2,
+            "confidence": 0.09,
+            "evidenceCount": 1,
+            "iterations": 0,
+            "lowGainStreak": 0,
+            "fromPreviousRun": true
+          }
+        },
+        "queries": [],
+        "repeatedQueries": 0,
+        "stopReason": "Checkpoint evidence must reference a completed query URL",
+        "draft": {
+          "version": 1,
+          "runId": "run-1790542514890-9c8aa9",
+          "summary": "Stopped without new market findings.",
+          "evidence": [],
+          "signals": [],
+          "ideas": [],
+          "learnings": [],
+          "sources": [],
+          "strategyChanges": []
+        },
+        "pendingAction": null
+      },
+      "error": "Checkpoint evidence must reference a completed query URL",
+      "finishedAt": "2026-09-27T20:56:52.521Z"
+    },
+    {
+      "id": "run-1790546216384-73cb70",
+      "owner": "console",
+      "status": "completed",
+      "startedAt": "2026-09-27T21:56:56.373Z",
+      "deadline": "2026-09-27T22:36:56.384Z",
+      "budget": {
+        "maxSearches": 10,
+        "maxFetches": 2,
+        "maxMinutes": 40,
+        "maxTokens": 72000,
+        "maxCostUsd": 1,
+        "maxOutputTokens": 4096,
+        "memoryChars": 16000,
+        "maxModelCalls": 20,
+        "maxCreditUnits": 31,
+        "maxIterationsPerCandidate": 4,
+        "maxExceptionalIterations": 5,
+        "maxRepeatedQueries": 1,
+        "maxTerraCalls": 2,
+        "maxSolCalls": 1
+      },
+      "plan": {
+        "areas": [
+          {
+            "mode": "exploration",
+            "topic": "industrial maintenance",
+            "question": "Which reachable buyers have expensive recurring operational problems or newly feasible solutions?",
+            "stage": "discovery"
+          },
+          {
+            "mode": "exploitation",
+            "topic": "Digital Work Card Sector Setup",
+            "ideaId": "digital-work-card-sector-setup",
+            "question": "Obtain direct buyer or partner evidence with an explicit paid request and price.",
+            "stage": "discovery"
+          },
+          {
+            "mode": "reevaluation",
+            "topic": "EAA/WCAG Accessibility Audit Sprint",
+            "ideaId": "legacy-70ac6eb1e69669c1",
+            "question": "Revisit only if non-exempt e-shops publicly ask for affordable accessibility checks outside agency funnels",
+            "stage": "validation"
+          }
+        ],
+        "strategy": "Explore a new space, exploit a supported lead, reconsider a prior assumption. Adapt queries using retrieved search lessons.",
+        "stopWhen": "Repetition, sufficient evidence, or no likely ranking impact"
+      },
+      "metrics": {
+        "searches": 1,
+        "fetches": 0,
+        "cacheHits": 0,
+        "duplicateSearchesAvoided": 0,
+        "usefulSignals": 2,
+        "promisingIdeas": 0,
+        "tokens": 56552,
+        "costUsd": null,
+        "modelCalls": 2,
+        "creditUnits": 2,
+        "costPerPromising": null
+      },
+      "strategyChanges": [
+        "Κράτησε το industrial maintenance ως watchlist lead και μην το αναβαθμίσεις σε promising χωρίς άμεσο ιδιωτικό buyer, scope και τιμή."
+      ],
+      "loop": {
+        "calls": [
+          {
+            "id": "call-0",
+            "tier": "luna",
+            "model": "gpt-5.6-luna",
+            "purpose": "decide",
+            "status": "complete",
+            "tokenAllowance": 8000,
+            "creditUnits": 1,
+            "expectedGain": null,
+            "decisionImpact": "Select a valuable next action or stop; one bounded Luna decision",
+            "at": "2026-09-27T21:56:56.665Z",
+            "tokens": 12663,
+            "costUsd": null,
+            "finishedAt": "2026-09-27T21:57:16.080Z"
+          },
+          {
+            "id": "call-1",
+            "tier": "luna",
+            "model": "gpt-5.6-luna",
+            "purpose": "search",
+            "status": "complete",
+            "tokenAllowance": 12663,
+            "creditUnits": 1,
+            "expectedGain": 0.62,
+            "decisionImpact": "Μπορεί να δημιουργήσει νέο, άμεσα εκκινήσιμο lead με πραγματικό buyer pull και να αυξήσει ή να μειώσει σημαντικά την κατάταξη της εξερεύνησης industrial maintenance.",
+            "at": "2026-09-27T21:57:16.346Z",
+            "tokens": 43889,
+            "costUsd": null,
+            "finishedAt": "2026-09-27T21:58:28.067Z"
+          }
+        ],
+        "decisions": [
+          {
+            "at": "2026-09-27T21:57:16.111Z",
+            "stop": false,
+            "action": {
+              "type": "search",
+              "candidateId": "lead-ee0a7d2b32a34c41",
+              "question": "Υπάρχουν ελληνικές μικρές βιομηχανίες ή τεχνικά συνεργεία που ζητούν άμεσα εξωτερική βοήθεια για προληπτική συντήρηση, βλάβες ή maintenance records με σαφή πληρωμένη ανάγκη;",
+              "query": "Ελλάδα μικρή βιομηχανία συνεργείο ζητεί εξωτερικό συνεργάτη συντήρηση μηχανημάτων βλάβη τιμή προσφορά freelance maintenance",
+              "mode": "exploration",
+              "tier": "luna",
+              "escalationReason": "",
+              "expectedGain": 0.62,
+              "decisionImpact": 0.7,
+              "impact": "Μπορεί να δημιουργήσει νέο, άμεσα εκκινήσιμο lead με πραγματικό buyer pull και να αυξήσει ή να μειώσει σημαντικά την κατάταξη της εξερεύνησης industrial maintenance.",
+              "value": 0.434
+            },
+            "rejected": []
+          }
+        ],
+        "candidates": {
+          "digital-work-card-sector-setup": {
+            "status": "insufficient_evidence",
+            "score": 0.2,
+            "confidence": 0.09,
+            "evidenceCount": 1,
+            "iterations": 0,
+            "lowGainStreak": 0,
+            "fromPreviousRun": true
+          },
+          "lead-ee0a7d2b32a34c41": {
+            "iterations": 1,
+            "lowGainStreak": 0,
+            "score": 0.6,
+            "confidence": 0.33,
+            "coverage": 0.5454545454545454,
+            "status": "watchlist",
+            "rubricVersion": 1,
+            "evidenceCount": 3,
+            "fromPreviousRun": false
+          }
+        },
+        "queries": [
+          "Ελλάδα μικρή βιομηχανία συνεργείο ζητεί εξωτερικό συνεργάτη συντήρηση μηχανημάτων βλάβη τιμή προσφορά freelance maintenance"
+        ],
+        "repeatedQueries": 0,
+        "stopReason": "token_budget",
+        "draft": {
+          "version": 1,
+          "runId": "run-1790546216384-73cb70",
+          "summary": "Νέα, αλλά έμμεση, ένδειξη πληρωμένης ζήτησης για εξωτερική συντήρηση. Δεν επιβεβαιώνεται ακόμη μικρός ιδιώτης buyer, freelance ανάθεση ή maintenance-records ανάγκη με τιμή.",
+          "evidence": [
+            {
+              "id": "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e1",
+              "url": "https://jobclick.gr/job/technikos-exoterikis-syntirisis-koropi/",
+              "origin": "web search result",
+              "queryId": "query-b68ebfae61a3dbb8",
+              "claim": "Εταιρεία κατασκευής εξοπλισμού βιομηχανικών αγωγών στο Κορωπί ζητά Τεχνικό Εξωτερικής Συντήρησης για τεχνική υποστήριξη, προληπτική συντήρηση, αντικατάσταση εξαρτημάτων και επισκευές.",
+              "kind": "observed",
+              "sourceType": "secondary",
+              "publishedAt": null,
+              "observedAt": "2026-09-27T21:57:16.162Z",
+              "excerpt": "Η Work4u International ζητά ... Τεχνικό Εξωτερικής Συντήρησης ... Προληπτική συντήρηση εξοπλισμού ... Αντικατάσταση εξαρτημάτων και εκτέλεση επισκευών.",
+              "confidence": 0.88
+            },
+            {
+              "id": "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e2",
+              "url": "https://www.contracts.gr/v1/tenders/KMDS/26PROC019260658",
+              "origin": "web search result",
+              "queryId": "query-b68ebfae61a3dbb8",
+              "claim": "Υπάρχει δημόσια διαδικασία ανάθεσης για συγκεκριμένες επισκευές και συντηρήσεις πολλών μηχανημάτων, επιβεβαιώνοντας ότι η ανάγκη αγοράς υπηρεσιών maintenance μπορεί να είναι συγκεκριμένη και άμεσα τιμολογήσιμη.",
+              "kind": "observed",
+              "sourceType": "secondary",
+              "publishedAt": null,
+              "observedAt": "2026-09-27T21:57:16.162Z",
+              "excerpt": "Επισκευές και συντήρηση αλυσοπριόνων, θαμνοκοπτικών, χλοοκοπτικού τρακτέρ, πλυστικού, φυσητήρα και ασφαλτοκόπτη.",
+              "confidence": 0.82
+            },
+            {
+              "id": "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e3",
+              "url": "https://diavgis.gr/act/26AWRD019319175",
+              "origin": "web search result",
+              "queryId": "query-b68ebfae61a3dbb8",
+              "claim": "Υπάρχει πρόσφατη ανάθεση υπηρεσιών ελέγχου ηλεκτρομηχανολογικού εξοπλισμού ύψους 500€, παρέχοντας πραγματικό παράδειγμα πληρωμένης συντήρησης/ελέγχου, αλλά από δημόσιο αγοραστή και όχι μικρή βιομηχανία.",
+              "kind": "observed",
+              "sourceType": "secondary",
+              "publishedAt": null,
+              "observedAt": "2026-09-27T21:57:16.162Z",
+              "excerpt": "Ανάθεση ύψους 500,00€ ... Υπηρεσίες επισκευής και συντήρησης μηχανημάτων.",
+              "confidence": 0.84
+            }
+          ],
+          "signals": [
+            {
+              "id": "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-s1",
+              "claim": "Υπάρχει τρέχον ελληνικό demand signal για εξωτερική τεχνική υποστήριξη, προληπτική συντήρηση και επισκευές βιομηχανικού εξοπλισμού.",
+              "topic": "industrial maintenance buyer demand",
+              "confidence": 0.78,
+              "evidenceIds": [
+                "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e1"
+              ]
+            },
+            {
+              "id": "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-s2",
+              "claim": "Η πληρωμένη ανάγκη είναι πιο καθαρή σε συγκεκριμένες αναθέσεις επισκευής/ελέγχου, αλλά τα αποτελέσματα δεν αποδεικνύουν μικρό ιδιώτη buyer ή ζήτηση για records-only υπηρεσία.",
+              "topic": "payment attribution and buyer fit",
+              "confidence": 0.86,
+              "evidenceIds": [
+                "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e2",
+                "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e3"
+              ]
+            }
+          ],
+          "ideas": [
+            {
+              "id": "lead-ee0a7d2b32a34c41",
+              "title": "Industrial Maintenance External Support Lead",
+              "problem": "Ελληνικές παραγωγικές ή τεχνικές επιχειρήσεις χρειάζονται εξωτερική τεχνική υποστήριξη, προληπτική συντήρηση και επισκευές εξοπλισμού.",
+              "customer": "Ελληνικές βιομηχανίες και τεχνικές επιχειρήσεις με ανάγκες service.",
+              "solution": "Δεν προτείνεται ακόμη συγκεκριμένο business concept· απαιτείται απευθείας επικύρωση buyer, scope και τιμής.",
+              "whyNow": "Υπάρχουν πρόσφατες αγγελίες και αναθέσεις για maintenance/service.",
+              "greeceFit": "Η ζήτηση αφορά ελληνικές εγκαταστάσεις και εξοπλισμό.",
+              "businessModel": "Άγνωστο.",
+              "gtm": "Επικύρωση με απευθείας επικοινωνία σε εταιρείες που εμφανίζουν ενεργή ανάγκη.",
+              "industry": "Industrial maintenance",
+              "nextValidation": "Βρες και επιβεβαίωσε απευθείας μικρή ιδιωτική επιχείρηση που δέχεται scoped προσφορά για προληπτική συντήρηση, βλάβη ή maintenance records.",
+              "status": "watchlist",
+              "confidence": 0.58,
+              "risks": [
+                "Οι ισχυρότερες ενδείξεις είναι αγγελία εργασίας ή δημόσιες αναθέσεις, όχι freelance buyer posts.",
+                "Δεν βρέθηκε δημοσιευμένη τιμή για ιδιωτική μικρή βιομηχανία.",
+                "Δεν τεκμηριώθηκε ανάγκη για maintenance records ως ξεχωριστό deliverable."
+              ],
+              "relatedIdeas": [],
+              "evidenceIds": [
+                "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e1",
+                "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e2",
+                "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e3"
+              ],
+              "signalIds": [
+                "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-s1",
+                "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-s2"
+              ],
+              "pattern": "External maintenance demand exists, but buyer pull and solo-service fit remain unproven.",
+              "opportunity": "Potential lead-generation lane for maintenance subcontracting, pending direct buyer validation.",
+              "evaluation": {
+                "severity": {
+                  "value": 0.78,
+                  "reason": "Βλάβες και συντήρηση εξοπλισμού εμφανίζονται ως συγκεκριμένες ανάγκες service.",
+                  "evidenceIds": [
+                    "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e1",
+                    "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e2"
+                  ]
+                },
+                "frequency": {
+                  "value": null,
+                  "reason": "Δεν τεκμηριώνεται συχνότητα για μικρούς ιδιώτες buyers.",
+                  "evidenceIds": []
+                },
+                "willingnessToPay": {
+                  "value": 0.72,
+                  "reason": "Υπάρχει τεκμηριωμένη πληρωμένη ανάθεση €500, αλλά από δημόσιο αγοραστή.",
+                  "evidenceIds": [
+                    "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e3"
+                  ]
+                },
+                "alternatives": {
+                  "value": null,
+                  "reason": "Δεν συγκρίθηκαν επαρκώς εναλλακτικοί πάροχοι για τον συγκεκριμένο buyer.",
+                  "evidenceIds": []
+                },
+                "dissatisfaction": {
+                  "value": null,
+                  "reason": "Δεν υπάρχει άμεση μαρτυρία δυσαρέσκειας.",
+                  "evidenceIds": []
+                },
+                "differentiation": {
+                  "value": null,
+                  "reason": "Δεν τεκμηριώνεται διαφοροποιημένη solo προσφορά.",
+                  "evidenceIds": []
+                },
+                "marketSize": {
+                  "value": null,
+                  "reason": "Τα αποτελέσματα δεν επιτρέπουν εκτίμηση αγοράς.",
+                  "evidenceIds": []
+                },
+                "reachableNiche": {
+                  "value": 0.42,
+                  "reason": "Υπάρχουν ελληνικές εταιρείες με εμφανή ανάγκη, αλλά η πρόσβαση σε buyer δεν αποδεικνύεται.",
+                  "evidenceIds": [
+                    "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e1"
+                  ]
+                },
+                "greeceFit": {
+                  "value": 0.9,
+                  "reason": "Οι ανάγκες και οι αναθέσεις αφορούν ελληνικές τοποθεσίες και οργανισμούς.",
+                  "evidenceIds": [
+                    "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e1",
+                    "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e3"
+                  ]
+                },
+                "expansion": {
+                  "value": null,
+                  "reason": "Δεν τεκμηριώνεται επέκταση.",
+                  "evidenceIds": []
+                },
+                "distribution": {
+                  "value": 0.35,
+                  "reason": "Εντοπίζονται μέσω αγγελιών και δημοσίων αναθέσεων, αλλά δεν αποδεικνύεται αποδοτικό κανάλι για solo πάροχο.",
+                  "evidenceIds": [
+                    "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e1",
+                    "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e3"
+                  ]
+                },
+                "startupCost": {
+                  "value": null,
+                  "reason": "Δεν τεκμηριώθηκε κόστος εκκίνησης.",
+                  "evidenceIds": []
+                },
+                "regulation": {
+                  "value": null,
+                  "reason": "Δεν αξιολογήθηκε κανονιστικό πλαίσιο.",
+                  "evidenceIds": []
+                },
+                "implementation": {
+                  "value": null,
+                  "reason": "Δεν είναι σαφές αν ο ιδρυτής διαθέτει τις απαιτούμενες τεχνικές δεξιότητες.",
+                  "evidenceIds": []
+                },
+                "timing": {
+                  "value": 0.74,
+                  "reason": "Τα αποτελέσματα περιλαμβάνουν πρόσφατες αγγελίες και αναθέσεις.",
+                  "evidenceIds": [
+                    "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e1",
+                    "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e3"
+                  ]
+                },
+                "defensibility": {
+                  "value": null,
+                  "reason": "Δεν τεκμηριώνεται αμυντικότητα.",
+                  "evidenceIds": []
+                },
+                "evidenceStrength": {
+                  "value": 0.62,
+                  "reason": "Υπάρχει σύγκλιση αγγελίας και πληρωμένης ανάθεσης, αλλά όχι άμεσος μικρός ιδιώτης buyer.",
+                  "evidenceIds": [
+                    "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e1",
+                    "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e3"
+                  ]
+                }
+              },
+              "rejection": null
+            }
+          ],
+          "learnings": [
+            {
+              "id": "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-l1",
+              "claim": "Μία τρέχουσα αγγελία για εξωτερικό τεχνικό συντήρησης επιβεβαιώνει ανάγκη service, αλλά δεν ισοδυναμεί με πληρωμένο freelance buyer request ή δημοσιευμένο budget.",
+              "topic": "evidence quality",
+              "confidence": 0.9,
+              "type": "search",
+              "status": "active",
+              "evidenceIds": [
+                "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e1"
+              ],
+              "queryIds": [
+                "query-b68ebfae61a3dbb8"
+              ],
+              "contradicts": []
+            },
+            {
+              "id": "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-l2",
+              "claim": "Πρόσφατη δημόσια ανάθεση €500 για έλεγχο/συντήρηση μηχανημάτων είναι σαφής πληρωμένη ανάγκη, αλλά δεν αποδεικνύει ιδιωτική μικρή βιομηχανία ή solo-provider fit.",
+              "topic": "payment attribution",
+              "confidence": 0.88,
+              "type": "market",
+              "status": "active",
+              "evidenceIds": [
+                "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e3"
+              ],
+              "queryIds": [
+                "query-b68ebfae61a3dbb8"
+              ],
+              "contradicts": []
+            }
+          ],
+          "sources": [
+            {
+              "domain": "jobclick.gr",
+              "evidenceIds": [
+                "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e1"
+              ],
+              "reliability": 0.62,
+              "freshness": 0.86,
+              "uniqueness": 0.7,
+              "signalToNoise": 0.72,
+              "topics": [
+                "industrial maintenance hiring"
+              ],
+              "reason": "Πρόσφατη σχετική αγγελία, αλλά δευτερογενής job board και χωρίς τιμή."
+            },
+            {
+              "domain": "diavgis.gr",
+              "evidenceIds": [
+                "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e3"
+              ],
+              "reliability": 0.78,
+              "freshness": 0.82,
+              "uniqueness": 0.72,
+              "signalToNoise": 0.8,
+              "topics": [
+                "paid maintenance procurement"
+              ],
+              "reason": "Καταγράφει συγκεκριμένη δημόσια ανάθεση και ποσό, αλλά όχι ιδιωτικό buyer."
+            },
+            {
+              "domain": "contracts.gr",
+              "evidenceIds": [
+                "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-e2"
+              ],
+              "reliability": 0.68,
+              "freshness": 0.72,
+              "uniqueness": 0.7,
+              "signalToNoise": 0.76,
+              "topics": [
+                "maintenance tenders"
+              ],
+              "reason": "Συγκεκριμένο scope συντήρησης, χωρίς επιβεβαιωμένη μικρή ιδιωτική επιχείρηση ή τιμή στο snippet."
+            }
+          ],
+          "strategyChanges": [
+            "Κράτησε το industrial maintenance ως watchlist lead και μην το αναβαθμίσεις σε promising χωρίς άμεσο ιδιωτικό buyer, scope και τιμή."
+          ]
+        },
+        "pendingAction": null
+      },
+      "finishedAt": "2026-09-27T21:58:28.183Z",
+      "summary": "Νέα, αλλά έμμεση, ένδειξη πληρωμένης ζήτησης για εξωτερική συντήρηση. Δεν επιβεβαιώνεται ακόμη μικρός ιδιώτης buyer, freelance ανάθεση ή maintenance-records ανάγκη με τιμή.\nStop: token_budget",
+      "ideaIds": [
+        "lead-ee0a7d2b32a34c41"
+      ],
+      "learningIds": [
+        "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-l1",
+        "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-l2"
+      ],
+      "signalIds": [
+        "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-s1",
+        "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-s2"
+      ]
     }
   ],
   "events": [
@@ -11919,6 +12967,102 @@
       "runId": "run-1790538873495-c87257",
       "type": "completed",
       "detail": "No new market findings. The exact search returned no results.\nStop: token_budget"
+    },
+    {
+      "at": "2026-09-27T20:55:14.890Z",
+      "runId": "run-1790542514890-9c8aa9",
+      "type": "planned",
+      "detail": "exploration: SMB operations; exploitation: Digital Work Card Sector Setup; reevaluation: EAA/WCAG Accessibility Audit Sprint"
+    },
+    {
+      "at": "2026-09-27T20:55:15.117Z",
+      "runId": "run-1790542514890-9c8aa9",
+      "type": "model_call",
+      "detail": "gpt-5.6-luna: decide; 1 internal budget units reserved"
+    },
+    {
+      "at": "2026-09-27T20:55:40.308Z",
+      "runId": "run-1790542514890-9c8aa9",
+      "type": "next_action",
+      "detail": "luna: Υπάρχουν επηρεαζόμενες ελληνικές μικρές επιχειρήσεις ή λογιστές που ζητούν δημόσια πληρωμένη βοήθεια για Ψηφιακή Κάρτα Εργασίας, με συγκεκριμένη τιμή ή budget; (Σχετικό αίτημα με budget θα αυξήσει ουσιαστικά τη confidence και μπορεί να μετατρέψει το candidate από insufficient_evidence σε άμεσο paid test· απουσία buyer pull θα το αφήσει χαμηλά.)"
+    },
+    {
+      "at": "2026-09-27T20:55:40.324Z",
+      "runId": "run-1790542514890-9c8aa9",
+      "type": "query_reserved",
+      "detail": "(\"ψηφιακή κάρτα εργασίας\" OR \"Ψηφιακή Κάρτα Εργασίας\") (ζητείται OR χρειάζομαι OR προσφορά OR κόστος OR τιμή) (επιχείρηση OR λογιστής OR λογιστικό γραφείο) Ελλάδα -τράπεζα -snappi"
+    },
+    {
+      "at": "2026-09-27T20:55:40.548Z",
+      "runId": "run-1790542514890-9c8aa9",
+      "type": "model_call",
+      "detail": "gpt-5.6-luna: search; 1 internal budget units reserved"
+    },
+    {
+      "at": "2026-09-27T20:56:52.474Z",
+      "runId": "run-1790542514890-9c8aa9",
+      "type": "query_result",
+      "detail": "query-10cefda993942450: signal"
+    },
+    {
+      "at": "2026-09-27T20:56:52.521Z",
+      "runId": "run-1790542514890-9c8aa9",
+      "type": "failed",
+      "detail": "Checkpoint evidence must reference a completed query URL"
+    },
+    {
+      "at": "2026-09-27T21:56:56.384Z",
+      "runId": "run-1790546216384-73cb70",
+      "type": "planned",
+      "detail": "exploration: industrial maintenance; exploitation: Digital Work Card Sector Setup; reevaluation: EAA/WCAG Accessibility Audit Sprint"
+    },
+    {
+      "at": "2026-09-27T21:56:56.665Z",
+      "runId": "run-1790546216384-73cb70",
+      "type": "model_call",
+      "detail": "gpt-5.6-luna: decide; 1 internal budget units reserved"
+    },
+    {
+      "at": "2026-09-27T21:57:16.111Z",
+      "runId": "run-1790546216384-73cb70",
+      "type": "next_action",
+      "detail": "luna: Υπάρχουν ελληνικές μικρές βιομηχανίες ή τεχνικά συνεργεία που ζητούν άμεσα εξωτερική βοήθεια για προληπτική συντήρηση, βλάβες ή maintenance records με σαφή πληρωμένη ανάγκη; (Μπορεί να δημιουργήσει νέο, άμεσα εκκινήσιμο lead με πραγματικό buyer pull και να αυξήσει ή να μειώσει σημαντικά την κατάταξη της εξερεύνησης industrial maintenance.)"
+    },
+    {
+      "at": "2026-09-27T21:57:16.147Z",
+      "runId": "run-1790546216384-73cb70",
+      "type": "query_reserved",
+      "detail": "Ελλάδα μικρή βιομηχανία συνεργείο ζητεί εξωτερικό συνεργάτη συντήρηση μηχανημάτων βλάβη τιμή προσφορά freelance maintenance"
+    },
+    {
+      "at": "2026-09-27T21:57:16.346Z",
+      "runId": "run-1790546216384-73cb70",
+      "type": "model_call",
+      "detail": "gpt-5.6-luna: search; 1 internal budget units reserved"
+    },
+    {
+      "at": "2026-09-27T21:58:28.080Z",
+      "runId": "run-1790546216384-73cb70",
+      "type": "query_result",
+      "detail": "query-b68ebfae61a3dbb8: signal"
+    },
+    {
+      "at": "2026-09-27T21:58:28.110Z",
+      "runId": "run-1790546216384-73cb70",
+      "type": "loop_observation",
+      "detail": "lead-ee0a7d2b32a34c41: gain 0.32 (reported 0.32), confidence 0.33, iterations 1"
+    },
+    {
+      "at": "2026-09-27T21:58:28.144Z",
+      "runId": "run-1790546216384-73cb70",
+      "type": "loop_stopped",
+      "detail": "token_budget"
+    },
+    {
+      "at": "2026-09-27T21:58:28.184Z",
+      "runId": "run-1790546216384-73cb70",
+      "type": "completed",
+      "detail": "Νέα, αλλά έμμεση, ένδειξη πληρωμένης ζήτησης για εξωτερική συντήρηση. Δεν επιβεβαιώνεται ακόμη μικρός ιδιώτης buyer, freelance ανάθεση ή maintenance-records ανάγκη με τιμή.\nStop: token_budget"
     }
   ],
   "imports": [

@@ -5,3 +5,4 @@
 - 2026-09-27T17:52:10.823Z | run-1790531530833-ba3341 | Καμία νέα απόφαση-σχετική evidence ή ενημέρωση υποψηφίου. Stop: token_budget
 - 2026-09-27T18:53:11.893Z | run-1790535191901-61621c | Η αναζήτηση δεν παρείχε νέο direct-buyer pull ούτε budget για την Ψηφιακή Κάρτα Εργασίας. Το candidate παραμένει insufficient_evidence. Stop: token_budget
 - 2026-09-27T19:54:33.487Z | run-1790538873495-c87257 | No new market findings. The exact search returned no results. Stop: token_budget
+- 2026-09-27T21:56:56.373Z | run-1790546216384-73cb70 | Νέα, αλλά έμμεση, ένδειξη πληρωμένης ζήτησης για εξωτερική συντήρηση. Δεν επιβεβαιώνεται ακόμη μικρός ιδιώτης buyer, freelance ανάθεση ή maintenance-records ανάγκη με τιμή. Stop: token_budget

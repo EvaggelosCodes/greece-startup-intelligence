@@ -12,6 +12,9 @@ No entries yet.
 - **Digital Work Card Sector Setup** | insufficient_evidence | score 0.2 | confidence 0.09
   Οι νεοεντασσόμενες μικρές επιχειρήσεις πρέπει να εφαρμόσουν την Ψηφιακή Κάρτα Εργασίας.
   Next: Obtain direct buyer or partner evidence with an explicit paid request and price.
+- **Industrial Maintenance External Support Lead** | watchlist | score 0.6 | confidence 0.33
+  Ελληνικές παραγωγικές ή τεχνικές επιχειρήσεις χρειάζονται εξωτερική τεχνική υποστήριξη, προληπτική συντήρηση και επισκευές εξοπλισμού.
+  Next: Βρες και επιβεβαίωσε απευθείας μικρή ιδιωτική επιχείρηση που δέχεται scoped προσφορά για προληπτική συντήρηση, βλάβη ή maintenance records.
 
 ## Rejected
 - **EAA/WCAG Accessibility Audit Sprint** | rejected | score unscored | confidence unvalidated
