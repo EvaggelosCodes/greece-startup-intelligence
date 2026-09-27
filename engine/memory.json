@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": 209,
+  "revision": 220,
   "ideas": [
     {
       "id": "legacy-70ac6eb1e69669c1",
@@ -5720,7 +5720,8 @@
       ],
       "contradicts": [],
       "lastValidatedAt": "2026-09-27T15:48:02.170Z",
-      "history": []
+      "history": [],
+      "needsReview": false
     },
     {
       "id": "query-1e7acfeca464da7b-l2",
@@ -5737,7 +5738,8 @@
       ],
       "contradicts": [],
       "lastValidatedAt": "2026-09-27T15:48:02.170Z",
-      "history": []
+      "history": [],
+      "needsReview": false
     },
     {
       "id": "run-1790535191901-61621c-query-22615e767d3b88d3-l1",
@@ -5754,7 +5756,8 @@
       ],
       "contradicts": [],
       "lastValidatedAt": "2026-09-27T18:54:22.987Z",
-      "history": []
+      "history": [],
+      "needsReview": false
     }
   ],
   "sources": [
@@ -5952,6 +5955,22 @@
         "https://www.insomnia.gr/forums/topic/846112-snappi-%CE%B7-%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE-neobank/page/3/"
       ],
       "completedAt": "2026-09-27T18:54:22.886Z"
+    },
+    {
+      "text": "site:facebook.com/groups OR site:insomnia.gr \"Ψηφιακή Κάρτα Εργασίας\" (\"ζητείται\" OR \"βοήθεια\" OR \"πόσο κοστίζει\" OR \"τιμή\") επιχείρηση λογιστής",
+      "mode": "exploitation",
+      "stage": "discovery",
+      "candidateId": "digital-work-card-sector-setup",
+      "expectedDecision": "Άμεσο αίτημα με τιμή ή referral από λογιστή μπορεί να αυξήσει ουσιαστικά score/confidence και να δικαιολογήσει δοκιμή προσφοράς· απουσία buyer language θα διατηρήσει την ευκαιρία σε probation.",
+      "id": "query-a59d7d23f59021ce",
+      "runId": "run-1790538873495-c87257",
+      "status": "complete",
+      "createdAt": "2026-09-27T19:54:49.660Z",
+      "modelRole": "gpt-5.6-luna",
+      "summary": "Δεν βρέθηκαν αποτελέσματα για το ακριβές query· δεν υπάρχει νέα απόφαση-σχετική evidence.",
+      "useful": false,
+      "urls": [],
+      "completedAt": "2026-09-27T19:55:04.821Z"
     }
   ],
   "runs": [
@@ -10650,6 +10669,156 @@
         "run-1790535191901-61621c-query-22615e767d3b88d3-l1"
       ],
       "signalIds": []
+    },
+    {
+      "id": "run-1790538873495-c87257",
+      "owner": "console",
+      "status": "completed",
+      "startedAt": "2026-09-27T19:54:33.487Z",
+      "deadline": "2026-09-27T20:34:33.496Z",
+      "budget": {
+        "maxSearches": 10,
+        "maxFetches": 2,
+        "maxMinutes": 40,
+        "maxTokens": 72000,
+        "maxCostUsd": 1,
+        "maxOutputTokens": 4096,
+        "memoryChars": 16000,
+        "maxModelCalls": 20,
+        "maxCreditUnits": 31,
+        "maxIterationsPerCandidate": 4,
+        "maxExceptionalIterations": 5,
+        "maxRepeatedQueries": 1,
+        "maxTerraCalls": 2,
+        "maxSolCalls": 1
+      },
+      "plan": {
+        "areas": [
+          {
+            "mode": "exploration",
+            "topic": "energy efficiency",
+            "question": "Which reachable buyers have expensive recurring operational problems or newly feasible solutions?",
+            "stage": "discovery"
+          },
+          {
+            "mode": "exploitation",
+            "topic": "Digital Work Card Sector Setup",
+            "ideaId": "digital-work-card-sector-setup",
+            "question": "Obtain direct buyer or partner evidence with an explicit paid request and price.",
+            "stage": "discovery"
+          },
+          {
+            "mode": "reevaluation",
+            "topic": "EAA/WCAG Accessibility Audit Sprint",
+            "ideaId": "legacy-70ac6eb1e69669c1",
+            "question": "Revisit only if non-exempt e-shops publicly ask for affordable accessibility checks outside agency funnels",
+            "stage": "validation"
+          }
+        ],
+        "strategy": "Explore a new space, exploit a supported lead, reconsider a prior assumption. Adapt queries using retrieved search lessons.",
+        "stopWhen": "Repetition, sufficient evidence, or no likely ranking impact"
+      },
+      "metrics": {
+        "searches": 1,
+        "fetches": 0,
+        "cacheHits": 0,
+        "duplicateSearchesAvoided": 0,
+        "usefulSignals": 0,
+        "promisingIdeas": 0,
+        "tokens": 45325,
+        "costUsd": null,
+        "modelCalls": 2,
+        "creditUnits": 2,
+        "costPerPromising": null
+      },
+      "strategyChanges": [],
+      "loop": {
+        "calls": [
+          {
+            "id": "call-0",
+            "tier": "luna",
+            "model": "gpt-5.6-luna",
+            "purpose": "decide",
+            "status": "complete",
+            "tokenAllowance": 8000,
+            "creditUnits": 1,
+            "expectedGain": null,
+            "decisionImpact": "Select a valuable next action or stop; one bounded Luna decision",
+            "at": "2026-09-27T19:54:33.657Z",
+            "tokens": 12342,
+            "costUsd": null,
+            "finishedAt": "2026-09-27T19:54:49.638Z"
+          },
+          {
+            "id": "call-1",
+            "tier": "luna",
+            "model": "gpt-5.6-luna",
+            "purpose": "search",
+            "status": "complete",
+            "tokenAllowance": 12342,
+            "creditUnits": 1,
+            "expectedGain": 0.55,
+            "decisionImpact": "Άμεσο αίτημα με τιμή ή referral από λογιστή μπορεί να αυξήσει ουσιαστικά score/confidence και να δικαιολογήσει δοκιμή προσφοράς· απουσία buyer language θα διατηρήσει την ευκαιρία σε probation.",
+            "at": "2026-09-27T19:54:50.044Z",
+            "tokens": 32983,
+            "costUsd": null,
+            "finishedAt": "2026-09-27T19:55:04.811Z"
+          }
+        ],
+        "decisions": [
+          {
+            "at": "2026-09-27T19:54:49.648Z",
+            "stop": false,
+            "action": {
+              "type": "search",
+              "candidateId": "digital-work-card-sector-setup",
+              "question": "Υπάρχουν ελληνικές μικρές επιχειρήσεις ή λογιστές που ζητούν τώρα πληρωμένη εξωτερική βοήθεια για την Ψηφιακή Κάρτα Εργασίας, με σαφές scope ή budget;",
+              "query": "site:facebook.com/groups OR site:insomnia.gr \"Ψηφιακή Κάρτα Εργασίας\" (\"ζητείται\" OR \"βοήθεια\" OR \"πόσο κοστίζει\" OR \"τιμή\") επιχείρηση λογιστής",
+              "mode": "exploitation",
+              "tier": "luna",
+              "escalationReason": "",
+              "expectedGain": 0.55,
+              "decisionImpact": 0.8,
+              "impact": "Άμεσο αίτημα με τιμή ή referral από λογιστή μπορεί να αυξήσει ουσιαστικά score/confidence και να δικαιολογήσει δοκιμή προσφοράς· απουσία buyer language θα διατηρήσει την ευκαιρία σε probation.",
+              "value": 0.44000000000000006
+            },
+            "rejected": []
+          }
+        ],
+        "candidates": {
+          "digital-work-card-sector-setup": {
+            "status": "insufficient_evidence",
+            "score": 0.2,
+            "confidence": 0.09,
+            "evidenceCount": 1,
+            "iterations": 1,
+            "lowGainStreak": 1,
+            "fromPreviousRun": false
+          }
+        },
+        "queries": [
+          "site:facebook.com/groups OR site:insomnia.gr \"Ψηφιακή Κάρτα Εργασίας\" (\"ζητείται\" OR \"βοήθεια\" OR \"πόσο κοστίζει\" OR \"τιμή\") επιχείρηση λογιστής"
+        ],
+        "repeatedQueries": 0,
+        "stopReason": "token_budget",
+        "draft": {
+          "version": 1,
+          "runId": "run-1790538873495-c87257",
+          "summary": "No new market findings. The exact search returned no results.",
+          "evidence": [],
+          "signals": [],
+          "ideas": [],
+          "learnings": [],
+          "sources": [],
+          "strategyChanges": []
+        },
+        "pendingAction": null
+      },
+      "finishedAt": "2026-09-27T19:55:04.919Z",
+      "summary": "No new market findings. The exact search returned no results.\nStop: token_budget",
+      "ideaIds": [],
+      "learningIds": [],
+      "signalIds": []
     }
   ],
   "events": [
@@ -11690,6 +11859,66 @@
       "runId": "run-1790535191901-61621c",
       "type": "completed",
       "detail": "Η αναζήτηση δεν παρείχε νέο direct-buyer pull ούτε budget για την Ψηφιακή Κάρτα Εργασίας. Το candidate παραμένει insufficient_evidence.\nStop: token_budget"
+    },
+    {
+      "at": "2026-09-27T19:54:33.496Z",
+      "runId": "run-1790538873495-c87257",
+      "type": "planned",
+      "detail": "exploration: energy efficiency; exploitation: Digital Work Card Sector Setup; reevaluation: EAA/WCAG Accessibility Audit Sprint"
+    },
+    {
+      "at": "2026-09-27T19:54:33.657Z",
+      "runId": "run-1790538873495-c87257",
+      "type": "model_call",
+      "detail": "gpt-5.6-luna: decide; 1 internal budget units reserved"
+    },
+    {
+      "at": "2026-09-27T19:54:49.648Z",
+      "runId": "run-1790538873495-c87257",
+      "type": "next_action",
+      "detail": "luna: Υπάρχουν ελληνικές μικρές επιχειρήσεις ή λογιστές που ζητούν τώρα πληρωμένη εξωτερική βοήθεια για την Ψηφιακή Κάρτα Εργασίας, με σαφές scope ή budget; (Άμεσο αίτημα με τιμή ή referral από λογιστή μπορεί να αυξήσει ουσιαστικά score/confidence και να δικαιολογήσει δοκιμή προσφοράς· απουσία buyer language θα διατηρήσει την ευκαιρία σε probation.)"
+    },
+    {
+      "at": "2026-09-27T19:54:49.660Z",
+      "runId": "run-1790538873495-c87257",
+      "type": "query_reserved",
+      "detail": "site:facebook.com/groups OR site:insomnia.gr \"Ψηφιακή Κάρτα Εργασίας\" (\"ζητείται\" OR \"βοήθεια\" OR \"πόσο κοστίζει\" OR \"τιμή\") επιχείρηση λογιστής"
+    },
+    {
+      "at": "2026-09-27T19:54:50.044Z",
+      "runId": "run-1790538873495-c87257",
+      "type": "model_call",
+      "detail": "gpt-5.6-luna: search; 1 internal budget units reserved"
+    },
+    {
+      "at": "2026-09-27T19:55:04.821Z",
+      "runId": "run-1790538873495-c87257",
+      "type": "query_result",
+      "detail": "query-a59d7d23f59021ce: noise"
+    },
+    {
+      "at": "2026-09-27T19:55:04.835Z",
+      "runId": "run-1790538873495-c87257",
+      "type": "loop_observation",
+      "detail": "digital-work-card-sector-setup: gain 0 (reported 0), confidence 0.09, iterations 1"
+    },
+    {
+      "at": "2026-09-27T19:55:04.872Z",
+      "runId": "run-1790538873495-c87257",
+      "type": "loop_stopped",
+      "detail": "token_budget"
+    },
+    {
+      "at": "2026-09-27T19:55:04.923Z",
+      "runId": "run-1790538873495-c87257",
+      "type": "consolidated",
+      "detail": "Exact duplicate lessons superseded; contradictions retained; stale lessons flagged for review"
+    },
+    {
+      "at": "2026-09-27T19:55:04.923Z",
+      "runId": "run-1790538873495-c87257",
+      "type": "completed",
+      "detail": "No new market findings. The exact search returned no results.\nStop: token_budget"
     }
   ],
   "imports": [
