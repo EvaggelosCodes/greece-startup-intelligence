@@ -9,7 +9,9 @@ No entries yet.
 No entries yet.
 
 ## Watchlist / Insufficient Evidence
-No entries yet.
+- **Digital Work Card Sector Setup** | insufficient_evidence | score 0.8 | confidence 0.23
+  Οι νεοεντασσόμενες μικρές επιχειρήσεις πρέπει να εφαρμόσουν την Ψηφιακή Κάρτα Εργασίας.
+  Next: Obtain direct buyer or partner evidence with an explicit paid request and price.
 
 ## Rejected
 - **EAA/WCAG Accessibility Audit Sprint** | rejected | score unscored | confidence unvalidated

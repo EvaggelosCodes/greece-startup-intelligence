@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": 131,
+  "revision": 186,
   "ideas": [
     {
       "id": "legacy-70ac6eb1e69669c1",
@@ -3465,10 +3465,316 @@
         }
       ],
       "provenance": "ideas/KILLED_IDEAS.md"
+    },
+    {
+      "id": "digital-work-card-sector-setup",
+      "title": "Digital Work Card Sector Setup",
+      "problem": "Οι νεοεντασσόμενες μικρές επιχειρήσεις πρέπει να εφαρμόσουν την Ψηφιακή Κάρτα Εργασίας.",
+      "customer": "Greek SMEs in affected service sectors",
+      "solution": "Unknown; external setup/troubleshooting service remains unvalidated.",
+      "whyNow": "New sector expansion is explicitly confirmed.",
+      "greeceFit": "Affected Greek sectors are explicitly named.",
+      "businessModel": "Unknown; no fresh customer price found.",
+      "gtm": "Unknown.",
+      "industry": "SMB compliance/software setup",
+      "nextValidation": "Obtain direct buyer or partner evidence with an explicit paid request and price.",
+      "status": "insufficient_evidence",
+      "confidence": 0.23,
+      "risks": [
+        "Free official app may cover basic setup.",
+        "Accountants and software providers may retain trust and budget.",
+        "Search found no fresh explicit paid request from the target sectors."
+      ],
+      "relatedIdeas": [],
+      "evidenceIds": [
+        "query-1e7acfeca464da7b-e1",
+        "query-1e7acfeca464da7b-e2",
+        "query-1e7acfeca464da7b-e3"
+      ],
+      "signalIds": [
+        "query-1e7acfeca464da7b-s1"
+      ],
+      "pattern": "Regulatory need confirmed; reachable buyer and willingness to pay not confirmed.",
+      "opportunity": "Probation wedge only; do not rank higher on this search.",
+      "evaluation": {
+        "severity": {
+          "value": null,
+          "reason": "No new evidence sufficient for a numeric severity estimate.",
+          "evidenceIds": []
+        },
+        "frequency": {
+          "value": null,
+          "reason": "No new evidence sufficient for a numeric frequency estimate.",
+          "evidenceIds": []
+        },
+        "willingnessToPay": {
+          "value": null,
+          "reason": "No fresh explicit target-sector price or paid request found.",
+          "evidenceIds": []
+        },
+        "alternatives": {
+          "value": null,
+          "reason": "Alternatives are visible, but no comparable numeric evaluation is justified.",
+          "evidenceIds": []
+        },
+        "dissatisfaction": {
+          "value": null,
+          "reason": "No fresh target-sector dissatisfaction evidence.",
+          "evidenceIds": []
+        },
+        "differentiation": {
+          "value": null,
+          "reason": "No validated service gap.",
+          "evidenceIds": []
+        },
+        "marketSize": {
+          "value": null,
+          "reason": "No new quantified addressable market evidence used.",
+          "evidenceIds": []
+        },
+        "reachableNiche": {
+          "value": null,
+          "reason": "No reachable buyer evidence.",
+          "evidenceIds": []
+        },
+        "greeceFit": {
+          "value": 0.95,
+          "reason": "Greek official source explicitly names affected sectors.",
+          "evidenceIds": [
+            "query-1e7acfeca464da7b-e1"
+          ]
+        },
+        "expansion": {
+          "value": null,
+          "reason": "No validated expansion path.",
+          "evidenceIds": []
+        },
+        "distribution": {
+          "value": null,
+          "reason": "No validated acquisition channel.",
+          "evidenceIds": []
+        },
+        "startupCost": {
+          "value": null,
+          "reason": "No service economics established.",
+          "evidenceIds": []
+        },
+        "regulation": {
+          "value": 0.9,
+          "reason": "Official announcement confirms regulatory applicability.",
+          "evidenceIds": [
+            "query-1e7acfeca464da7b-e1"
+          ]
+        },
+        "implementation": {
+          "value": null,
+          "reason": "Official free app exists, but external implementation difficulty is unknown.",
+          "evidenceIds": [
+            "query-1e7acfeca464da7b-e2"
+          ]
+        },
+        "timing": {
+          "value": 0.9,
+          "reason": "The new-sector expansion is current and explicitly announced.",
+          "evidenceIds": [
+            "query-1e7acfeca464da7b-e1"
+          ]
+        },
+        "defensibility": {
+          "value": null,
+          "reason": "No evidence.",
+          "evidenceIds": []
+        },
+        "evidenceStrength": {
+          "value": 0.72,
+          "reason": "Primary confirmation is strong, but buyer/payment evidence is absent and community evidence is old and indirect.",
+          "evidenceIds": [
+            "query-1e7acfeca464da7b-e1",
+            "query-1e7acfeca464da7b-e2",
+            "query-1e7acfeca464da7b-e3"
+          ]
+        }
+      },
+      "rejection": null,
+      "score": 0.8,
+      "coverage": 0.22727272727272727,
+      "rubricVersion": 1,
+      "legacy": false,
+      "needsReview": false,
+      "discoveredAt": "2026-09-27T15:48:02.170Z",
+      "lastReviewedAt": "2026-09-27T15:48:02.170Z",
+      "history": [
+        {
+          "at": "2026-09-27T15:48:02.170Z",
+          "runId": "run-1790524007558-130b99",
+          "score": 0.8,
+          "confidence": 0.23,
+          "coverage": 0.22727272727272727,
+          "status": "insufficient_evidence",
+          "rubricVersion": 1,
+          "evaluation": {
+            "severity": {
+              "value": null,
+              "reason": "No new evidence sufficient for a numeric severity estimate.",
+              "evidenceIds": []
+            },
+            "frequency": {
+              "value": null,
+              "reason": "No new evidence sufficient for a numeric frequency estimate.",
+              "evidenceIds": []
+            },
+            "willingnessToPay": {
+              "value": null,
+              "reason": "No fresh explicit target-sector price or paid request found.",
+              "evidenceIds": []
+            },
+            "alternatives": {
+              "value": null,
+              "reason": "Alternatives are visible, but no comparable numeric evaluation is justified.",
+              "evidenceIds": []
+            },
+            "dissatisfaction": {
+              "value": null,
+              "reason": "No fresh target-sector dissatisfaction evidence.",
+              "evidenceIds": []
+            },
+            "differentiation": {
+              "value": null,
+              "reason": "No validated service gap.",
+              "evidenceIds": []
+            },
+            "marketSize": {
+              "value": null,
+              "reason": "No new quantified addressable market evidence used.",
+              "evidenceIds": []
+            },
+            "reachableNiche": {
+              "value": null,
+              "reason": "No reachable buyer evidence.",
+              "evidenceIds": []
+            },
+            "greeceFit": {
+              "value": 0.95,
+              "reason": "Greek official source explicitly names affected sectors.",
+              "evidenceIds": [
+                "query-1e7acfeca464da7b-e1"
+              ]
+            },
+            "expansion": {
+              "value": null,
+              "reason": "No validated expansion path.",
+              "evidenceIds": []
+            },
+            "distribution": {
+              "value": null,
+              "reason": "No validated acquisition channel.",
+              "evidenceIds": []
+            },
+            "startupCost": {
+              "value": null,
+              "reason": "No service economics established.",
+              "evidenceIds": []
+            },
+            "regulation": {
+              "value": 0.9,
+              "reason": "Official announcement confirms regulatory applicability.",
+              "evidenceIds": [
+                "query-1e7acfeca464da7b-e1"
+              ]
+            },
+            "implementation": {
+              "value": null,
+              "reason": "Official free app exists, but external implementation difficulty is unknown.",
+              "evidenceIds": [
+                "query-1e7acfeca464da7b-e2"
+              ]
+            },
+            "timing": {
+              "value": 0.9,
+              "reason": "The new-sector expansion is current and explicitly announced.",
+              "evidenceIds": [
+                "query-1e7acfeca464da7b-e1"
+              ]
+            },
+            "defensibility": {
+              "value": null,
+              "reason": "No evidence.",
+              "evidenceIds": []
+            },
+            "evidenceStrength": {
+              "value": 0.72,
+              "reason": "Primary confirmation is strong, but buyer/payment evidence is absent and community evidence is old and indirect.",
+              "evidenceIds": [
+                "query-1e7acfeca464da7b-e1",
+                "query-1e7acfeca464da7b-e2",
+                "query-1e7acfeca464da7b-e3"
+              ]
+            }
+          },
+          "reason": "Νέα επίσημη επιβεβαίωση υποχρέωσης για κομμωτήρια, καθαριστήρια και συναφείς υπηρεσίες, καθώς και διαθέσιμης δωρεάν εφαρμογής. Δεν τεκμηριώθηκε buyer pull, εξωτερική ανάθεση ή τιμή.\nStop: measured_budget_exhausted"
+        }
+      ]
     }
   ],
-  "evidence": [],
-  "signals": [],
+  "evidence": [
+    {
+      "id": "query-1e7acfeca464da7b-e1",
+      "url": "https://ypergasias.gov.gr/se-500-000-prosthetous-ergazomenous-epekteinetai-i-pliris-efarmogi-tis-psifiakis-kartas-ergasias/",
+      "origin": "web search result",
+      "queryId": "query-1e7acfeca464da7b",
+      "claim": "Το Υπουργείο αναφέρει ότι κομμωτήρια, κέντρα αισθητικής και καθαριστήρια εντάσσονται στους πρόσθετους κλάδους της Ψηφιακής Κάρτας Εργασίας.",
+      "kind": "observed",
+      "sourceType": "primary",
+      "publishedAt": "2026-09-23",
+      "observedAt": "2026-09-27T15:47:02.662Z",
+      "excerpt": "Επιμέρους κλάδους υπηρεσιών, όπως κομμωτήρια, κέντρα αισθητικής και καθαριστήρια.",
+      "confidence": 0.98,
+      "runId": "run-1790524007558-130b99"
+    },
+    {
+      "id": "query-1e7acfeca464da7b-e2",
+      "url": "https://ergani.emblem.gr/",
+      "origin": "web search result",
+      "queryId": "query-1e7acfeca464da7b",
+      "claim": "Πάροχος λογισμικού προβάλλει δωρεάν εφαρμογή Ergani Employer Scanner για την έναρξη χρήσης της κάρτας σε ορισμένες μικρές επιχειρήσεις.",
+      "kind": "observed",
+      "sourceType": "secondary",
+      "publishedAt": null,
+      "observedAt": "2026-09-27T15:47:02.662Z",
+      "excerpt": "Απλώς κατεβάζεις δωρεάν την εφαρμογή Emblem Ergani Employer Scanner στη συσκευή και είσαι έτοιμος/η να ξεκινήσεις!",
+      "confidence": 0.9,
+      "runId": "run-1790524007558-130b99"
+    },
+    {
+      "id": "query-1e7acfeca464da7b-e3",
+      "url": "https://www.reddit.com/r/greece/comments/1fhb6kc",
+      "origin": "web search result",
+      "queryId": "query-1e7acfeca464da7b",
+      "claim": "Παλαιότερο Reddit-snippet περιγράφει μικρή επιχείρηση που οδηγήθηκε από τη λογίστρια σε ιδιωτικό λογισμικό με συνδρομή, αλλά δεν αφορά ρητά τους νεοεντασσόμενους κλάδους, δεν δηλώνει τιμή και δεν είναι φρέσκια ζήτηση για εξωτερικό troubleshooting.",
+      "kind": "observed",
+      "sourceType": "community",
+      "publishedAt": "2024-09-17",
+      "observedAt": "2026-09-27T15:47:02.662Z",
+      "excerpt": "η λογίστρια του είπε να χρησιμοποιήσει ένα λογισμικό μιας τρίτης εταιρείας ... με τη συνδρομή",
+      "confidence": 0.78,
+      "runId": "run-1790524007558-130b99"
+    }
+  ],
+  "signals": [
+    {
+      "id": "query-1e7acfeca464da7b-s1",
+      "claim": "Η κανονιστική αλλαγή δημιουργεί πραγματική ανάγκη εφαρμογής, αλλά η επίσημη δωρεάν λύση και η διαμεσολάβηση λογιστών/παρόχων μειώνουν την τεκμηριωμένη εξωτερική ζήτηση.",
+      "topic": "buyer pull versus substitute ownership",
+      "confidence": 0.82,
+      "evidenceIds": [
+        "query-1e7acfeca464da7b-e1",
+        "query-1e7acfeca464da7b-e2",
+        "query-1e7acfeca464da7b-e3"
+      ],
+      "lastValidatedAt": "2026-09-27T15:48:02.169Z",
+      "runId": "run-1790524007558-130b99"
+    }
+  ],
   "learnings": [
     {
       "id": "legacy-7431208b0ce27953",
@@ -5299,10 +5605,179 @@
       "legacy": true,
       "provenance": "brain/MIKE_JOURNAL.md",
       "needsReview": true
+    },
+    {
+      "id": "query-1e7acfeca464da7b-l1",
+      "claim": "For this query, fresh regulatory and provider evidence confirmed applicability and a free basic path, but did not establish that affected Greek SMEs explicitly seek or pay for outside setup/troubleshooting beyond their accountant or software provider.",
+      "topic": "digital work card buyer demand",
+      "confidence": 0.84,
+      "type": "market",
+      "status": "active",
+      "evidenceIds": [
+        "query-1e7acfeca464da7b-e1",
+        "query-1e7acfeca464da7b-e2",
+        "query-1e7acfeca464da7b-e3"
+      ],
+      "queryIds": [
+        "query-1e7acfeca464da7b"
+      ],
+      "contradicts": [],
+      "lastValidatedAt": "2026-09-27T15:48:02.170Z",
+      "history": []
+    },
+    {
+      "id": "query-1e7acfeca464da7b-l2",
+      "claim": "A search result containing a historical indirect anecdote about a small business using paid third-party software is insufficient to infer current target-sector willingness to pay for an independent service.",
+      "topic": "evidence quality",
+      "confidence": 0.9,
+      "type": "search",
+      "status": "active",
+      "evidenceIds": [
+        "query-1e7acfeca464da7b-e3"
+      ],
+      "queryIds": [
+        "query-1e7acfeca464da7b"
+      ],
+      "contradicts": [],
+      "lastValidatedAt": "2026-09-27T15:48:02.170Z",
+      "history": []
     }
   ],
-  "sources": [],
-  "queries": [],
+  "sources": [
+    {
+      "domain": "ypergasias.gov.gr",
+      "evidenceIds": [
+        "query-1e7acfeca464da7b-e1"
+      ],
+      "reliability": 0.98,
+      "freshness": 0.98,
+      "uniqueness": 0.8,
+      "signalToNoise": 0.9,
+      "topics": [
+        "regulation",
+        "sector coverage"
+      ],
+      "reason": "Primary government announcement directly supports sector applicability.",
+      "id": "ypergasias.gov.gr",
+      "samples": 1,
+      "lastValidatedAt": "2026-09-27T15:48:02.170Z",
+      "queries": 1
+    },
+    {
+      "domain": "ergani.emblem.gr",
+      "evidenceIds": [
+        "query-1e7acfeca464da7b-e2"
+      ],
+      "reliability": 0.65,
+      "freshness": 0.8,
+      "uniqueness": 0.55,
+      "signalToNoise": 0.8,
+      "topics": [
+        "software",
+        "free setup"
+      ],
+      "reason": "Provider-owned source; useful for observed offer existence, not independent demand.",
+      "id": "ergani.emblem.gr",
+      "samples": 1,
+      "lastValidatedAt": "2026-09-27T15:48:02.170Z",
+      "queries": 1
+    },
+    {
+      "domain": "reddit.com",
+      "evidenceIds": [
+        "query-1e7acfeca464da7b-e3"
+      ],
+      "reliability": 0.4,
+      "freshness": 0.35,
+      "uniqueness": 0.7,
+      "signalToNoise": 0.45,
+      "topics": [
+        "community anecdote",
+        "substitute ownership"
+      ],
+      "reason": "Indirect historical anecdote; not sufficient for current target-sector demand.",
+      "id": "reddit.com",
+      "samples": 1,
+      "lastValidatedAt": "2026-09-27T15:48:02.171Z",
+      "queries": 1
+    }
+  ],
+  "queries": [
+    {
+      "text": "Ελλάδα κομμωτήριο καθαριστήριο ψηφιακή κάρτα εργασίας βοήθεια ΕΡΓΑΝΗ τιμή εξωτερικός συνεργάτης 2026",
+      "mode": "exploitation",
+      "stage": "discovery",
+      "candidateId": "digital-work-card-sector-setup",
+      "expectedDecision": "Could upgrade the probation lead from provider-owned to direct-buyer demand, or decisively reduce its confidence if results remain only accountant/software offers.",
+      "id": "query-52785e9a9afee1fd",
+      "runId": "run-1790517177173-765f38",
+      "status": "reserved",
+      "createdAt": "2026-09-27T13:53:21.975Z",
+      "modelRole": "gpt-5.6-luna"
+    },
+    {
+      "text": "Ελλάδα βιομηχανία συντήρηση μηχανημάτων ζητείται εξωτερικός συνεργάτης τιμή βλάβες προληπτική συντήρηση",
+      "mode": "exploration",
+      "stage": "discovery",
+      "candidateId": "candidate-industrial-maintenance-greek-smb",
+      "expectedDecision": "Μπορεί να δημιουργήσει νέο υποψήφιο με αποδεδειγμένο buyer pain, συγκεκριμένο παραδοτέο και ένδειξη αρχικής τιμής ή να δείξει ότι η ανάγκη απαιτεί κεφάλαιο/τεχνική ομάδα και πρέπει να αποκλειστεί.",
+      "id": "query-e8df0b2ab0ae6f6e",
+      "runId": "run-1790520089786-9b13a7",
+      "status": "reserved",
+      "createdAt": "2026-09-27T14:41:50.242Z",
+      "modelRole": "gpt-5.6-luna"
+    },
+    {
+      "text": "site:facebook.com OR site:reddit.com OR site:insomnia.gr Ελλάδα Ψηφιακή Κάρτα Εργασίας βοήθεια εγκατάσταση ΕΡΓΑΝΗ κομμωτήριο καθαριστήριο συνεργείο τιμή",
+      "mode": "exploitation",
+      "stage": "discovery",
+      "candidateId": "lead-857ecaa500bedbf0",
+      "expectedDecision": "Could upgrade the probation wedge from provider-owned to directly sellable, identify named reachable niches, and establish whether a EUR49-EUR79 readiness check has buyer pull.",
+      "id": "query-ca9e93d347929115",
+      "runId": "run-1790523947178-dd68e4",
+      "status": "failed",
+      "createdAt": "2026-09-27T15:46:02.036Z",
+      "modelRole": "gpt-5.6-luna",
+      "error": "Worker attempted an unreserved source fetch"
+    },
+    {
+      "text": "Greek κομμωτήριο καθαριστήριο μικρή επιχείρηση ψηφιακή κάρτα εργασίας Ergani βοήθεια κόστος εγκατάσταση ζητείται",
+      "mode": "exploitation",
+      "stage": "discovery",
+      "candidateId": "digital-work-card-sector-setup",
+      "expectedDecision": "Could upgrade this from a probation wedge to a ranked opportunity if fresh posts show a reachable buyer, concrete pain and a price; otherwise it would lower confidence and prevent further research investment.",
+      "id": "query-1e7acfeca464da7b",
+      "runId": "run-1790524007558-130b99",
+      "status": "complete",
+      "createdAt": "2026-09-27T15:47:02.649Z",
+      "modelRole": "gpt-5.6-luna",
+      "summary": "Η αναζήτηση επιβεβαιώνει την επέκταση και δωρεάν επίσημη εφαρμογή, αλλά δεν βρήκε φρέσκια ρητή ζήτηση ή τιμή από κομμωτήρια/καθαριστήρια για εξωτερικό setup πέρα από λογιστή ή πάροχο. Δεν αναβαθμίζεται η ευκαιρία.",
+      "useful": true,
+      "urls": [
+        "https://ypergasias.gov.gr/se-500-000-prosthetous-ergazomenous-epekteinetai-i-pliris-efarmogi-tis-psifiakis-kartas-ergasias/",
+        "https://www.e-forologia.gr/lawbank/document.aspx?digest=F3B30A7EDBF9B400.1D031AEA53&version=2026%2F09%2F23",
+        "https://ergani.emblem.gr/",
+        "https://www.reddit.com/r/greece/comments/1fhb6kc"
+      ],
+      "completedAt": "2026-09-27T15:48:02.072Z"
+    },
+    {
+      "text": "site:facebook.com OR site:reddit.com OR site:insomnia.gr \"Ψηφιακή Κάρτα Εργασίας\" \"ζητώ\" OR \"χρειάζομαι\" OR \"πόσο κοστίζει\" κομμωτήριο καθαριστήριο αισθητικής",
+      "mode": "exploitation",
+      "stage": "discovery",
+      "candidateId": "digital-work-card-sector-setup",
+      "expectedDecision": "Ρητό αίτημα με τιμή ή πρόθεση πληρωμής θα αυξήσει ουσιαστικά την confidence και μπορεί να μετατρέψει την ιδέα από probation σε άμεσο experiment· απουσία buyer pull θα τη διατηρήσει χαμηλά.",
+      "id": "query-9f95e51bcedc404f",
+      "runId": "run-1790527698426-b43e27",
+      "status": "complete",
+      "createdAt": "2026-09-27T16:48:42.716Z",
+      "modelRole": "gpt-5.6-luna",
+      "summary": "Η ακριβής αναζήτηση επέστρεψε μηδενικά αποτελέσματα· δεν βρέθηκε νέο buyer pull ή πρόθεση πληρωμής.",
+      "useful": false,
+      "urls": [],
+      "completedAt": "2026-09-27T16:48:59.631Z"
+    }
+  ],
   "runs": [
     {
       "id": "run-1790114424001-638e02",
@@ -6946,7 +7421,7 @@
     {
       "id": "run-1790434516693-74bf83",
       "owner": "console",
-      "status": "completed",
+      "status": "budget_exhausted",
       "startedAt": "2026-09-26T14:55:16.685Z",
       "deadline": "2026-09-26T15:20:16.693Z",
       "budget": {
@@ -7055,7 +7530,7 @@
     {
       "id": "run-1790440562412-2086fb",
       "owner": "console",
-      "status": "completed",
+      "status": "budget_exhausted",
       "startedAt": "2026-09-26T16:36:02.403Z",
       "deadline": "2026-09-26T17:01:02.412Z",
       "budget": {
@@ -7164,7 +7639,7 @@
     {
       "id": "run-1790444201833-dfad5b",
       "owner": "console",
-      "status": "completed",
+      "status": "budget_exhausted",
       "startedAt": "2026-09-26T17:36:41.825Z",
       "deadline": "2026-09-26T18:01:41.833Z",
       "budget": {
@@ -7273,7 +7748,7 @@
     {
       "id": "run-1790449512000-ee530c",
       "owner": "console",
-      "status": "completed",
+      "status": "budget_exhausted",
       "startedAt": "2026-09-26T19:05:11.988Z",
       "deadline": "2026-09-26T19:30:12.000Z",
       "budget": {
@@ -7382,7 +7857,7 @@
     {
       "id": "run-1790453140986-bdde45",
       "owner": "console",
-      "status": "completed",
+      "status": "budget_exhausted",
       "startedAt": "2026-09-26T20:05:40.979Z",
       "deadline": "2026-09-26T20:30:40.986Z",
       "budget": {
@@ -7491,7 +7966,7 @@
     {
       "id": "run-1790456770100-b2c7bf",
       "owner": "console",
-      "status": "completed",
+      "status": "budget_exhausted",
       "startedAt": "2026-09-26T21:06:10.092Z",
       "deadline": "2026-09-26T21:31:10.100Z",
       "budget": {
@@ -7600,7 +8075,7 @@
     {
       "id": "run-1790456878790-fe6f28",
       "owner": "console",
-      "status": "completed",
+      "status": "budget_exhausted",
       "startedAt": "2026-09-26T21:07:58.780Z",
       "deadline": "2026-09-26T21:32:58.791Z",
       "budget": {
@@ -7709,7 +8184,7 @@
     {
       "id": "run-1790460511623-810e3c",
       "owner": "console",
-      "status": "completed",
+      "status": "budget_exhausted",
       "startedAt": "2026-09-26T22:08:31.615Z",
       "deadline": "2026-09-26T22:33:31.623Z",
       "budget": {
@@ -7818,7 +8293,7 @@
     {
       "id": "run-1790464153012-f6ff35",
       "owner": "console",
-      "status": "completed",
+      "status": "budget_exhausted",
       "startedAt": "2026-09-26T23:09:13.004Z",
       "deadline": "2026-09-26T23:34:13.012Z",
       "budget": {
@@ -8025,7 +8500,7 @@
     {
       "id": "run-1790497265563-c375d4",
       "owner": "console",
-      "status": "completed",
+      "status": "budget_exhausted",
       "startedAt": "2026-09-27T08:21:05.552Z",
       "deadline": "2026-09-27T08:46:05.564Z",
       "budget": {
@@ -8233,7 +8708,7 @@
     {
       "id": "run-1790513541823-3cd55e",
       "owner": "console",
-      "status": "completed",
+      "status": "budget_exhausted",
       "startedAt": "2026-09-27T12:52:21.815Z",
       "deadline": "2026-09-27T13:17:21.823Z",
       "budget": {
@@ -8335,6 +8810,1195 @@
       },
       "finishedAt": "2026-09-27T12:52:38.022Z",
       "summary": "Stopped without new market findings.\nStop: measured_budget_exhausted",
+      "ideaIds": [],
+      "learningIds": [],
+      "signalIds": []
+    },
+    {
+      "id": "run-1790517177173-765f38",
+      "owner": "console",
+      "status": "failed",
+      "startedAt": "2026-09-27T13:52:57.166Z",
+      "deadline": "2026-09-27T14:17:57.173Z",
+      "budget": {
+        "maxSearches": 6,
+        "maxFetches": 2,
+        "maxMinutes": 25,
+        "maxTokens": 40000,
+        "maxCostUsd": 1,
+        "maxOutputTokens": 4096,
+        "memoryChars": 16000,
+        "maxModelCalls": 12,
+        "maxCreditUnits": 24,
+        "maxIterationsPerCandidate": 3,
+        "maxExceptionalIterations": 5,
+        "maxRepeatedQueries": 1,
+        "maxTerraCalls": 2,
+        "maxSolCalls": 1
+      },
+      "plan": {
+        "areas": [
+          {
+            "mode": "exploration",
+            "topic": "SMB operations",
+            "question": "Which reachable buyers have expensive recurring operational problems or newly feasible solutions?",
+            "stage": "discovery"
+          },
+          {
+            "mode": "exploitation",
+            "topic": "Greek SMB operational inefficiencies",
+            "ideaId": null,
+            "question": "Find observable workflow pain, actual spending and reachable initial niches",
+            "stage": "discovery"
+          },
+          {
+            "mode": "reevaluation",
+            "topic": "EAA/WCAG Accessibility Audit Sprint",
+            "ideaId": "legacy-70ac6eb1e69669c1",
+            "question": "Revisit only if non-exempt e-shops publicly ask for affordable accessibility checks outside agency funnels",
+            "stage": "validation"
+          }
+        ],
+        "strategy": "Explore a new space, exploit a supported lead, reconsider a prior assumption. Adapt queries using retrieved search lessons.",
+        "stopWhen": "Repetition, sufficient evidence, or no likely ranking impact"
+      },
+      "metrics": {
+        "searches": 1,
+        "fetches": 0,
+        "cacheHits": 0,
+        "duplicateSearchesAvoided": 0,
+        "usefulSignals": 0,
+        "promisingIdeas": 0,
+        "tokens": null,
+        "costUsd": null,
+        "modelCalls": 2,
+        "creditUnits": 2
+      },
+      "strategyChanges": [],
+      "loop": {
+        "calls": [
+          {
+            "id": "call-0",
+            "tier": "luna",
+            "model": "gpt-5.6-luna",
+            "purpose": "decide",
+            "status": "complete",
+            "tokenAllowance": 8000,
+            "creditUnits": 1,
+            "expectedGain": null,
+            "decisionImpact": "Select a valuable next action or stop; one bounded Luna decision",
+            "at": "2026-09-27T13:52:57.309Z",
+            "tokens": 12436,
+            "costUsd": null,
+            "finishedAt": "2026-09-27T13:53:21.926Z"
+          },
+          {
+            "id": "call-1",
+            "tier": "luna",
+            "model": "gpt-5.6-luna",
+            "purpose": "search",
+            "status": "complete",
+            "tokenAllowance": 12436,
+            "creditUnits": 1,
+            "expectedGain": 0.78,
+            "decisionImpact": "Could upgrade the probation lead from provider-owned to direct-buyer demand, or decisively reduce its confidence if results remain only accountant/software offers.",
+            "at": "2026-09-27T13:53:22.206Z",
+            "tokens": null,
+            "costUsd": null,
+            "finishedAt": "2026-09-27T13:53:29.982Z"
+          }
+        ],
+        "decisions": [
+          {
+            "at": "2026-09-27T13:53:21.947Z",
+            "stop": false,
+            "action": {
+              "type": "search",
+              "candidateId": "digital-work-card-sector-setup",
+              "question": "Do affected Greek SMBs publicly seek affordable outside help for Digital Work Card setup or Ergani corrections?",
+              "query": "Ελλάδα κομμωτήριο καθαριστήριο ψηφιακή κάρτα εργασίας βοήθεια ΕΡΓΑΝΗ τιμή εξωτερικός συνεργάτης 2026",
+              "mode": "exploitation",
+              "tier": "luna",
+              "escalationReason": "",
+              "expectedGain": 0.78,
+              "decisionImpact": 0.82,
+              "impact": "Could upgrade the probation lead from provider-owned to direct-buyer demand, or decisively reduce its confidence if results remain only accountant/software offers.",
+              "value": 0.6396
+            },
+            "rejected": [
+              {
+                "candidateId": "legacy-70ac6eb1e69669c1",
+                "reason": "escalation_requires_supported_candidate"
+              }
+            ]
+          }
+        ],
+        "candidates": {},
+        "queries": [],
+        "repeatedQueries": 0,
+        "stopReason": null,
+        "draft": {
+          "version": 1,
+          "runId": "run-1790517177173-765f38",
+          "summary": "Stopped without new market findings.",
+          "evidence": [],
+          "signals": [],
+          "ideas": [],
+          "learnings": [],
+          "sources": [],
+          "strategyChanges": []
+        },
+        "pendingAction": {
+          "type": "search",
+          "candidateId": "digital-work-card-sector-setup",
+          "question": "Do affected Greek SMBs publicly seek affordable outside help for Digital Work Card setup or Ergani corrections?",
+          "query": "Ελλάδα κομμωτήριο καθαριστήριο ψηφιακή κάρτα εργασίας βοήθεια ΕΡΓΑΝΗ τιμή εξωτερικός συνεργάτης 2026",
+          "mode": "exploitation",
+          "tier": "luna",
+          "escalationReason": "",
+          "expectedGain": 0.78,
+          "decisionImpact": 0.82,
+          "impact": "Could upgrade the probation lead from provider-owned to direct-buyer demand, or decisively reduce its confidence if results remain only accountant/software offers.",
+          "value": 0.6396
+        }
+      },
+      "error": "Worker searched an unreserved query",
+      "finishedAt": "2026-09-27T13:53:29.999Z"
+    },
+    {
+      "id": "run-1790520089786-9b13a7",
+      "owner": "console",
+      "status": "failed",
+      "startedAt": "2026-09-27T14:41:29.779Z",
+      "deadline": "2026-09-27T15:06:29.786Z",
+      "budget": {
+        "maxSearches": 6,
+        "maxFetches": 2,
+        "maxMinutes": 25,
+        "maxTokens": 40000,
+        "maxCostUsd": 1,
+        "maxOutputTokens": 4096,
+        "memoryChars": 16000,
+        "maxModelCalls": 12,
+        "maxCreditUnits": 24,
+        "maxIterationsPerCandidate": 3,
+        "maxExceptionalIterations": 5,
+        "maxRepeatedQueries": 1,
+        "maxTerraCalls": 2,
+        "maxSolCalls": 1
+      },
+      "plan": {
+        "areas": [
+          {
+            "mode": "exploration",
+            "topic": "industrial maintenance",
+            "question": "Which reachable buyers have expensive recurring operational problems or newly feasible solutions?",
+            "stage": "discovery"
+          },
+          {
+            "mode": "exploitation",
+            "topic": "Greek SMB operational inefficiencies",
+            "ideaId": null,
+            "question": "Find observable workflow pain, actual spending and reachable initial niches",
+            "stage": "discovery"
+          },
+          {
+            "mode": "reevaluation",
+            "topic": "EAA/WCAG Accessibility Audit Sprint",
+            "ideaId": "legacy-70ac6eb1e69669c1",
+            "question": "Revisit only if non-exempt e-shops publicly ask for affordable accessibility checks outside agency funnels",
+            "stage": "validation"
+          }
+        ],
+        "strategy": "Explore a new space, exploit a supported lead, reconsider a prior assumption. Adapt queries using retrieved search lessons.",
+        "stopWhen": "Repetition, sufficient evidence, or no likely ranking impact"
+      },
+      "metrics": {
+        "searches": 1,
+        "fetches": 0,
+        "cacheHits": 0,
+        "duplicateSearchesAvoided": 0,
+        "usefulSignals": 0,
+        "promisingIdeas": 0,
+        "tokens": 12578,
+        "costUsd": null,
+        "modelCalls": 1,
+        "creditUnits": 1
+      },
+      "strategyChanges": [],
+      "loop": {
+        "calls": [
+          {
+            "id": "call-0",
+            "tier": "luna",
+            "model": "gpt-5.6-luna",
+            "purpose": "decide",
+            "status": "complete",
+            "tokenAllowance": 8000,
+            "creditUnits": 1,
+            "expectedGain": null,
+            "decisionImpact": "Select a valuable next action or stop; one bounded Luna decision",
+            "at": "2026-09-27T14:41:29.926Z",
+            "tokens": 12578,
+            "costUsd": null,
+            "finishedAt": "2026-09-27T14:41:50.186Z"
+          }
+        ],
+        "decisions": [
+          {
+            "at": "2026-09-27T14:41:50.214Z",
+            "stop": false,
+            "action": {
+              "type": "search",
+              "candidateId": "candidate-industrial-maintenance-greek-smb",
+              "question": "Υπάρχουν ελληνικές μικρομεσαίες επιχειρήσεις που ζητούν άμεσα πληρωμένη εξωτερική βοήθεια για επαναλαμβανόμενες εργασίες βιομηχανικής συντήρησης ή καταγραφή βλαβών;",
+              "query": "Ελλάδα βιομηχανία συντήρηση μηχανημάτων ζητείται εξωτερικός συνεργάτης τιμή βλάβες προληπτική συντήρηση",
+              "mode": "exploration",
+              "tier": "luna",
+              "escalationReason": "",
+              "expectedGain": 0.76,
+              "decisionImpact": 0.72,
+              "impact": "Μπορεί να δημιουργήσει νέο υποψήφιο με αποδεδειγμένο buyer pain, συγκεκριμένο παραδοτέο και ένδειξη αρχικής τιμής ή να δείξει ότι η ανάγκη απαιτεί κεφάλαιο/τεχνική ομάδα και πρέπει να αποκλειστεί.",
+              "value": 0.5472
+            },
+            "rejected": []
+          }
+        ],
+        "candidates": {},
+        "queries": [],
+        "repeatedQueries": 0,
+        "stopReason": null,
+        "draft": {
+          "version": 1,
+          "runId": "run-1790520089786-9b13a7",
+          "summary": "Stopped without new market findings.",
+          "evidence": [],
+          "signals": [],
+          "ideas": [],
+          "learnings": [],
+          "sources": [],
+          "strategyChanges": []
+        },
+        "pendingAction": {
+          "type": "search",
+          "candidateId": "candidate-industrial-maintenance-greek-smb",
+          "question": "Υπάρχουν ελληνικές μικρομεσαίες επιχειρήσεις που ζητούν άμεσα πληρωμένη εξωτερική βοήθεια για επαναλαμβανόμενες εργασίες βιομηχανικής συντήρησης ή καταγραφή βλαβών;",
+          "query": "Ελλάδα βιομηχανία συντήρηση μηχανημάτων ζητείται εξωτερικός συνεργάτης τιμή βλάβες προληπτική συντήρηση",
+          "mode": "exploration",
+          "tier": "luna",
+          "escalationReason": "",
+          "expectedGain": 0.76,
+          "decisionImpact": 0.72,
+          "impact": "Μπορεί να δημιουργήσει νέο υποψήφιο με αποδεδειγμένο buyer pain, συγκεκριμένο παραδοτέο και ένδειξη αρχικής τιμής ή να δείξει ότι η ανάγκη απαιτεί κεφάλαιο/τεχνική ομάδα και πρέπει να αποκλειστεί.",
+          "value": 0.5472
+        }
+      },
+      "error": "EPERM: operation not permitted, rename 'C:\\Users\\evang\\olderonedrive\\Υπολογιστής\\startupclaude\\greece-startup-intelligence\\engine\\memory.json.8992.tmp' -> 'C:\\Users\\evang\\olderonedrive\\Υπολογιστής\\startupclaude\\greece-startup-intelligence\\engine\\memory.json'",
+      "finishedAt": "2026-09-27T14:41:50.513Z"
+    },
+    {
+      "id": "run-1790520118426-7300f6",
+      "owner": "console",
+      "status": "failed",
+      "startedAt": "2026-09-27T14:41:58.419Z",
+      "deadline": "2026-09-27T15:06:58.427Z",
+      "budget": {
+        "maxSearches": 6,
+        "maxFetches": 2,
+        "maxMinutes": 25,
+        "maxTokens": 51000,
+        "maxCostUsd": 1,
+        "maxOutputTokens": 4096,
+        "memoryChars": 16000,
+        "maxModelCalls": 12,
+        "maxCreditUnits": 24,
+        "maxIterationsPerCandidate": 3,
+        "maxExceptionalIterations": 5,
+        "maxRepeatedQueries": 1,
+        "maxTerraCalls": 2,
+        "maxSolCalls": 1
+      },
+      "plan": {
+        "areas": [
+          {
+            "mode": "exploration",
+            "topic": "food supply chains",
+            "question": "Which reachable buyers have expensive recurring operational problems or newly feasible solutions?",
+            "stage": "discovery"
+          },
+          {
+            "mode": "exploitation",
+            "topic": "Greek SMB operational inefficiencies",
+            "ideaId": null,
+            "question": "Find observable workflow pain, actual spending and reachable initial niches",
+            "stage": "discovery"
+          },
+          {
+            "mode": "reevaluation",
+            "topic": "EAA/WCAG Accessibility Audit Sprint",
+            "ideaId": "legacy-70ac6eb1e69669c1",
+            "question": "Revisit only if non-exempt e-shops publicly ask for affordable accessibility checks outside agency funnels",
+            "stage": "validation"
+          }
+        ],
+        "strategy": "Explore a new space, exploit a supported lead, reconsider a prior assumption. Adapt queries using retrieved search lessons.",
+        "stopWhen": "Repetition, sufficient evidence, or no likely ranking impact"
+      },
+      "metrics": {
+        "searches": 0,
+        "fetches": 0,
+        "cacheHits": 0,
+        "duplicateSearchesAvoided": 0,
+        "usefulSignals": 0,
+        "promisingIdeas": 0,
+        "tokens": 12471,
+        "costUsd": null,
+        "modelCalls": 1,
+        "creditUnits": 1
+      },
+      "strategyChanges": [],
+      "loop": {
+        "calls": [
+          {
+            "id": "call-0",
+            "tier": "luna",
+            "model": "gpt-5.6-luna",
+            "purpose": "decide",
+            "status": "complete",
+            "tokenAllowance": 8000,
+            "creditUnits": 1,
+            "expectedGain": null,
+            "decisionImpact": "Select a valuable next action or stop; one bounded Luna decision",
+            "at": "2026-09-27T14:41:58.565Z",
+            "tokens": 12471,
+            "costUsd": null,
+            "finishedAt": "2026-09-27T14:42:20.368Z"
+          }
+        ],
+        "decisions": [],
+        "candidates": {},
+        "queries": [],
+        "repeatedQueries": 0,
+        "stopReason": null,
+        "draft": {
+          "version": 1,
+          "runId": "run-1790520118426-7300f6",
+          "summary": "Stopped without new market findings.",
+          "evidence": [],
+          "signals": [],
+          "ideas": [],
+          "learnings": [],
+          "sources": [],
+          "strategyChanges": []
+        }
+      },
+      "error": "candidateId: nonempty string, max 120",
+      "finishedAt": "2026-09-27T14:42:20.398Z"
+    },
+    {
+      "id": "run-1790523759859-64a1a5",
+      "owner": "console",
+      "status": "failed",
+      "startedAt": "2026-09-27T15:42:39.852Z",
+      "deadline": "2026-09-27T16:07:39.859Z",
+      "budget": {
+        "maxSearches": 6,
+        "maxFetches": 2,
+        "maxMinutes": 25,
+        "maxTokens": 51000,
+        "maxCostUsd": 1,
+        "maxOutputTokens": 4096,
+        "memoryChars": 16000,
+        "maxModelCalls": 12,
+        "maxCreditUnits": 24,
+        "maxIterationsPerCandidate": 3,
+        "maxExceptionalIterations": 5,
+        "maxRepeatedQueries": 1,
+        "maxTerraCalls": 2,
+        "maxSolCalls": 1
+      },
+      "plan": {
+        "areas": [
+          {
+            "mode": "exploration",
+            "topic": "accessibility",
+            "question": "Which reachable buyers have expensive recurring operational problems or newly feasible solutions?",
+            "stage": "discovery"
+          },
+          {
+            "mode": "exploitation",
+            "topic": "Greek SMB operational inefficiencies",
+            "ideaId": null,
+            "question": "Find observable workflow pain, actual spending and reachable initial niches",
+            "stage": "discovery"
+          },
+          {
+            "mode": "reevaluation",
+            "topic": "EAA/WCAG Accessibility Audit Sprint",
+            "ideaId": "legacy-70ac6eb1e69669c1",
+            "question": "Revisit only if non-exempt e-shops publicly ask for affordable accessibility checks outside agency funnels",
+            "stage": "validation"
+          }
+        ],
+        "strategy": "Explore a new space, exploit a supported lead, reconsider a prior assumption. Adapt queries using retrieved search lessons.",
+        "stopWhen": "Repetition, sufficient evidence, or no likely ranking impact"
+      },
+      "metrics": {
+        "searches": 0,
+        "fetches": 0,
+        "cacheHits": 0,
+        "duplicateSearchesAvoided": 0,
+        "usefulSignals": 0,
+        "promisingIdeas": 0,
+        "tokens": 12450,
+        "costUsd": null,
+        "modelCalls": 1,
+        "creditUnits": 1
+      },
+      "strategyChanges": [],
+      "loop": {
+        "calls": [
+          {
+            "id": "call-0",
+            "tier": "luna",
+            "model": "gpt-5.6-luna",
+            "purpose": "decide",
+            "status": "complete",
+            "tokenAllowance": 8000,
+            "creditUnits": 1,
+            "expectedGain": null,
+            "decisionImpact": "Select a valuable next action or stop; one bounded Luna decision",
+            "at": "2026-09-27T15:42:39.997Z",
+            "tokens": 12450,
+            "costUsd": null,
+            "finishedAt": "2026-09-27T15:43:00.355Z"
+          }
+        ],
+        "decisions": [],
+        "candidates": {},
+        "queries": [],
+        "repeatedQueries": 0,
+        "stopReason": null,
+        "draft": {
+          "version": 1,
+          "runId": "run-1790523759859-64a1a5",
+          "summary": "Stopped without new market findings.",
+          "evidence": [],
+          "signals": [],
+          "ideas": [],
+          "learnings": [],
+          "sources": [],
+          "strategyChanges": []
+        }
+      },
+      "error": "candidateId: nonempty string, max 120",
+      "finishedAt": "2026-09-27T15:43:00.400Z"
+    },
+    {
+      "id": "run-1790523947178-dd68e4",
+      "owner": "debug",
+      "status": "failed",
+      "startedAt": "2026-09-27T15:45:47.171Z",
+      "deadline": "2026-09-27T15:48:47.178Z",
+      "budget": {
+        "maxSearches": 6,
+        "maxFetches": 2,
+        "maxMinutes": 3,
+        "maxTokens": 51000,
+        "maxCostUsd": 1,
+        "maxOutputTokens": 4096,
+        "memoryChars": 16000,
+        "maxModelCalls": 12,
+        "maxCreditUnits": 24,
+        "maxIterationsPerCandidate": 3,
+        "maxExceptionalIterations": 5,
+        "maxRepeatedQueries": 1,
+        "maxTerraCalls": 2,
+        "maxSolCalls": 1
+      },
+      "plan": {
+        "areas": [
+          {
+            "mode": "exploration",
+            "topic": "energy efficiency",
+            "question": "Which reachable buyers have expensive recurring operational problems or newly feasible solutions?",
+            "stage": "discovery"
+          },
+          {
+            "mode": "exploitation",
+            "topic": "Greek SMB operational inefficiencies",
+            "ideaId": null,
+            "question": "Find observable workflow pain, actual spending and reachable initial niches",
+            "stage": "discovery"
+          },
+          {
+            "mode": "reevaluation",
+            "topic": "EAA/WCAG Accessibility Audit Sprint",
+            "ideaId": "legacy-70ac6eb1e69669c1",
+            "question": "Revisit only if non-exempt e-shops publicly ask for affordable accessibility checks outside agency funnels",
+            "stage": "validation"
+          }
+        ],
+        "strategy": "Explore a new space, exploit a supported lead, reconsider a prior assumption. Adapt queries using retrieved search lessons.",
+        "stopWhen": "Repetition, sufficient evidence, or no likely ranking impact"
+      },
+      "metrics": {
+        "searches": 1,
+        "fetches": 0,
+        "cacheHits": 0,
+        "duplicateSearchesAvoided": 0,
+        "usefulSignals": 0,
+        "promisingIdeas": 0,
+        "tokens": null,
+        "costUsd": null,
+        "modelCalls": 2,
+        "creditUnits": 2
+      },
+      "strategyChanges": [],
+      "loop": {
+        "calls": [
+          {
+            "id": "call-0",
+            "tier": "luna",
+            "model": "gpt-5.6-luna",
+            "purpose": "decide",
+            "status": "complete",
+            "tokenAllowance": 8000,
+            "creditUnits": 1,
+            "expectedGain": null,
+            "decisionImpact": "Select a valuable next action or stop; one bounded Luna decision",
+            "at": "2026-09-27T15:45:47.316Z",
+            "tokens": 12424,
+            "costUsd": null,
+            "finishedAt": "2026-09-27T15:46:01.961Z"
+          },
+          {
+            "id": "call-1",
+            "tier": "luna",
+            "model": "gpt-5.6-luna",
+            "purpose": "search",
+            "status": "complete",
+            "tokenAllowance": 12424,
+            "creditUnits": 1,
+            "expectedGain": 0.82,
+            "decisionImpact": "Could upgrade the probation wedge from provider-owned to directly sellable, identify named reachable niches, and establish whether a EUR49-EUR79 readiness check has buyer pull.",
+            "at": "2026-09-27T15:46:02.314Z",
+            "tokens": null,
+            "costUsd": null,
+            "finishedAt": "2026-09-27T15:46:11.686Z"
+          }
+        ],
+        "decisions": [
+          {
+            "at": "2026-09-27T15:46:01.998Z",
+            "stop": false,
+            "action": {
+              "type": "search",
+              "candidateId": "lead-857ecaa500bedbf0",
+              "question": "Do affected Greek SMB operators explicitly seek paid outside help for Digital Work Card setup or Ergani confusion?",
+              "query": "site:facebook.com OR site:reddit.com OR site:insomnia.gr Ελλάδα Ψηφιακή Κάρτα Εργασίας βοήθεια εγκατάσταση ΕΡΓΑΝΗ κομμωτήριο καθαριστήριο συνεργείο τιμή",
+              "mode": "exploitation",
+              "tier": "luna",
+              "escalationReason": "",
+              "expectedGain": 0.82,
+              "decisionImpact": 0.88,
+              "impact": "Could upgrade the probation wedge from provider-owned to directly sellable, identify named reachable niches, and establish whether a EUR49-EUR79 readiness check has buyer pull.",
+              "value": 0.7215999999999999
+            },
+            "rejected": []
+          }
+        ],
+        "candidates": {},
+        "queries": [],
+        "repeatedQueries": 0,
+        "stopReason": "Worker attempted an unreserved source fetch",
+        "draft": {
+          "version": 1,
+          "runId": "run-1790523947178-dd68e4",
+          "summary": "Stopped without new market findings.",
+          "evidence": [],
+          "signals": [],
+          "ideas": [],
+          "learnings": [],
+          "sources": [],
+          "strategyChanges": []
+        },
+        "pendingAction": null
+      },
+      "error": "Worker attempted an unreserved source fetch",
+      "finishedAt": "2026-09-27T15:46:11.732Z"
+    },
+    {
+      "id": "run-1790524007558-130b99",
+      "owner": "debug",
+      "status": "completed",
+      "startedAt": "2026-09-27T15:46:47.550Z",
+      "deadline": "2026-09-27T15:49:47.558Z",
+      "budget": {
+        "maxSearches": 6,
+        "maxFetches": 2,
+        "maxMinutes": 3,
+        "maxTokens": 51000,
+        "maxCostUsd": 1,
+        "maxOutputTokens": 4096,
+        "memoryChars": 16000,
+        "maxModelCalls": 12,
+        "maxCreditUnits": 24,
+        "maxIterationsPerCandidate": 3,
+        "maxExceptionalIterations": 5,
+        "maxRepeatedQueries": 1,
+        "maxTerraCalls": 2,
+        "maxSolCalls": 1
+      },
+      "plan": {
+        "areas": [
+          {
+            "mode": "exploration",
+            "topic": "SMB operations",
+            "question": "Which reachable buyers have expensive recurring operational problems or newly feasible solutions?",
+            "stage": "discovery"
+          },
+          {
+            "mode": "exploitation",
+            "topic": "Greek SMB operational inefficiencies",
+            "ideaId": null,
+            "question": "Find observable workflow pain, actual spending and reachable initial niches",
+            "stage": "discovery"
+          },
+          {
+            "mode": "reevaluation",
+            "topic": "EAA/WCAG Accessibility Audit Sprint",
+            "ideaId": "legacy-70ac6eb1e69669c1",
+            "question": "Revisit only if non-exempt e-shops publicly ask for affordable accessibility checks outside agency funnels",
+            "stage": "validation"
+          }
+        ],
+        "strategy": "Explore a new space, exploit a supported lead, reconsider a prior assumption. Adapt queries using retrieved search lessons.",
+        "stopWhen": "Repetition, sufficient evidence, or no likely ranking impact"
+      },
+      "metrics": {
+        "searches": 1,
+        "fetches": 0,
+        "cacheHits": 0,
+        "duplicateSearchesAvoided": 0,
+        "usefulSignals": 1,
+        "promisingIdeas": 0,
+        "tokens": 55863,
+        "costUsd": null,
+        "modelCalls": 2,
+        "creditUnits": 2,
+        "costPerPromising": null
+      },
+      "strategyChanges": [
+        "Keep the candidate at insufficient_evidence/probation; require a fresh explicit buyer or partner request with a price before further research investment."
+      ],
+      "loop": {
+        "calls": [
+          {
+            "id": "call-0",
+            "tier": "luna",
+            "model": "gpt-5.6-luna",
+            "purpose": "decide",
+            "status": "complete",
+            "tokenAllowance": 8000,
+            "creditUnits": 1,
+            "expectedGain": null,
+            "decisionImpact": "Select a valuable next action or stop; one bounded Luna decision",
+            "at": "2026-09-27T15:46:47.693Z",
+            "tokens": 12443,
+            "costUsd": null,
+            "finishedAt": "2026-09-27T15:47:02.584Z"
+          },
+          {
+            "id": "call-1",
+            "tier": "luna",
+            "model": "gpt-5.6-luna",
+            "purpose": "search",
+            "status": "complete",
+            "tokenAllowance": 12443,
+            "creditUnits": 1,
+            "expectedGain": 0.82,
+            "decisionImpact": "Could upgrade this from a probation wedge to a ranked opportunity if fresh posts show a reachable buyer, concrete pain and a price; otherwise it would lower confidence and prevent further research investment.",
+            "at": "2026-09-27T15:47:02.856Z",
+            "tokens": 43420,
+            "costUsd": null,
+            "finishedAt": "2026-09-27T15:48:02.050Z"
+          }
+        ],
+        "decisions": [
+          {
+            "at": "2026-09-27T15:47:02.618Z",
+            "stop": false,
+            "action": {
+              "type": "search",
+              "candidateId": "digital-work-card-sector-setup",
+              "question": "Do Greek SMEs in the newly affected sectors explicitly seek or pay for outside Digital Work Card setup/troubleshooting beyond their accountant or software provider?",
+              "query": "Greek κομμωτήριο καθαριστήριο μικρή επιχείρηση ψηφιακή κάρτα εργασίας Ergani βοήθεια κόστος εγκατάσταση ζητείται",
+              "mode": "exploitation",
+              "tier": "luna",
+              "escalationReason": "",
+              "expectedGain": 0.82,
+              "decisionImpact": 0.86,
+              "impact": "Could upgrade this from a probation wedge to a ranked opportunity if fresh posts show a reachable buyer, concrete pain and a price; otherwise it would lower confidence and prevent further research investment.",
+              "value": 0.7051999999999999
+            },
+            "rejected": []
+          }
+        ],
+        "candidates": {
+          "digital-work-card-sector-setup": {
+            "iterations": 1,
+            "lowGainStreak": 0,
+            "score": 0.8,
+            "confidence": 0.23,
+            "coverage": 0.22727272727272727,
+            "status": "insufficient_evidence",
+            "rubricVersion": 1,
+            "evidenceCount": 3
+          }
+        },
+        "queries": [
+          "Greek κομμωτήριο καθαριστήριο μικρή επιχείρηση ψηφιακή κάρτα εργασίας Ergani βοήθεια κόστος εγκατάσταση ζητείται"
+        ],
+        "repeatedQueries": 0,
+        "stopReason": "measured_budget_exhausted",
+        "draft": {
+          "version": 1,
+          "runId": "run-1790524007558-130b99",
+          "summary": "Νέα επίσημη επιβεβαίωση υποχρέωσης για κομμωτήρια, καθαριστήρια και συναφείς υπηρεσίες, καθώς και διαθέσιμης δωρεάν εφαρμογής. Δεν τεκμηριώθηκε buyer pull, εξωτερική ανάθεση ή τιμή.",
+          "evidence": [
+            {
+              "id": "query-1e7acfeca464da7b-e1",
+              "url": "https://ypergasias.gov.gr/se-500-000-prosthetous-ergazomenous-epekteinetai-i-pliris-efarmogi-tis-psifiakis-kartas-ergasias/",
+              "origin": "web search result",
+              "queryId": "query-1e7acfeca464da7b",
+              "claim": "Το Υπουργείο αναφέρει ότι κομμωτήρια, κέντρα αισθητικής και καθαριστήρια εντάσσονται στους πρόσθετους κλάδους της Ψηφιακής Κάρτας Εργασίας.",
+              "kind": "observed",
+              "sourceType": "primary",
+              "publishedAt": "2026-09-23",
+              "observedAt": "2026-09-27T15:47:02.662Z",
+              "excerpt": "Επιμέρους κλάδους υπηρεσιών, όπως κομμωτήρια, κέντρα αισθητικής και καθαριστήρια.",
+              "confidence": 0.98
+            },
+            {
+              "id": "query-1e7acfeca464da7b-e2",
+              "url": "https://ergani.emblem.gr/",
+              "origin": "web search result",
+              "queryId": "query-1e7acfeca464da7b",
+              "claim": "Πάροχος λογισμικού προβάλλει δωρεάν εφαρμογή Ergani Employer Scanner για την έναρξη χρήσης της κάρτας σε ορισμένες μικρές επιχειρήσεις.",
+              "kind": "observed",
+              "sourceType": "secondary",
+              "publishedAt": null,
+              "observedAt": "2026-09-27T15:47:02.662Z",
+              "excerpt": "Απλώς κατεβάζεις δωρεάν την εφαρμογή Emblem Ergani Employer Scanner στη συσκευή και είσαι έτοιμος/η να ξεκινήσεις!",
+              "confidence": 0.9
+            },
+            {
+              "id": "query-1e7acfeca464da7b-e3",
+              "url": "https://www.reddit.com/r/greece/comments/1fhb6kc",
+              "origin": "web search result",
+              "queryId": "query-1e7acfeca464da7b",
+              "claim": "Παλαιότερο Reddit-snippet περιγράφει μικρή επιχείρηση που οδηγήθηκε από τη λογίστρια σε ιδιωτικό λογισμικό με συνδρομή, αλλά δεν αφορά ρητά τους νεοεντασσόμενους κλάδους, δεν δηλώνει τιμή και δεν είναι φρέσκια ζήτηση για εξωτερικό troubleshooting.",
+              "kind": "observed",
+              "sourceType": "community",
+              "publishedAt": "2024-09-17",
+              "observedAt": "2026-09-27T15:47:02.662Z",
+              "excerpt": "η λογίστρια του είπε να χρησιμοποιήσει ένα λογισμικό μιας τρίτης εταιρείας ... με τη συνδρομή",
+              "confidence": 0.78
+            }
+          ],
+          "signals": [
+            {
+              "id": "query-1e7acfeca464da7b-s1",
+              "claim": "Η κανονιστική αλλαγή δημιουργεί πραγματική ανάγκη εφαρμογής, αλλά η επίσημη δωρεάν λύση και η διαμεσολάβηση λογιστών/παρόχων μειώνουν την τεκμηριωμένη εξωτερική ζήτηση.",
+              "topic": "buyer pull versus substitute ownership",
+              "confidence": 0.82,
+              "evidenceIds": [
+                "query-1e7acfeca464da7b-e1",
+                "query-1e7acfeca464da7b-e2",
+                "query-1e7acfeca464da7b-e3"
+              ]
+            }
+          ],
+          "ideas": [
+            {
+              "id": "digital-work-card-sector-setup",
+              "title": "Digital Work Card Sector Setup",
+              "problem": "Οι νεοεντασσόμενες μικρές επιχειρήσεις πρέπει να εφαρμόσουν την Ψηφιακή Κάρτα Εργασίας.",
+              "customer": "Greek SMEs in affected service sectors",
+              "solution": "Unknown; external setup/troubleshooting service remains unvalidated.",
+              "whyNow": "New sector expansion is explicitly confirmed.",
+              "greeceFit": "Affected Greek sectors are explicitly named.",
+              "businessModel": "Unknown; no fresh customer price found.",
+              "gtm": "Unknown.",
+              "industry": "SMB compliance/software setup",
+              "nextValidation": "Obtain direct buyer or partner evidence with an explicit paid request and price.",
+              "status": "insufficient_evidence",
+              "confidence": 0.78,
+              "risks": [
+                "Free official app may cover basic setup.",
+                "Accountants and software providers may retain trust and budget.",
+                "Search found no fresh explicit paid request from the target sectors."
+              ],
+              "relatedIdeas": [],
+              "evidenceIds": [
+                "query-1e7acfeca464da7b-e1",
+                "query-1e7acfeca464da7b-e2",
+                "query-1e7acfeca464da7b-e3"
+              ],
+              "signalIds": [
+                "query-1e7acfeca464da7b-s1"
+              ],
+              "pattern": "Regulatory need confirmed; reachable buyer and willingness to pay not confirmed.",
+              "opportunity": "Probation wedge only; do not rank higher on this search.",
+              "evaluation": {
+                "severity": {
+                  "value": null,
+                  "reason": "No new evidence sufficient for a numeric severity estimate.",
+                  "evidenceIds": []
+                },
+                "frequency": {
+                  "value": null,
+                  "reason": "No new evidence sufficient for a numeric frequency estimate.",
+                  "evidenceIds": []
+                },
+                "willingnessToPay": {
+                  "value": null,
+                  "reason": "No fresh explicit target-sector price or paid request found.",
+                  "evidenceIds": []
+                },
+                "alternatives": {
+                  "value": null,
+                  "reason": "Alternatives are visible, but no comparable numeric evaluation is justified.",
+                  "evidenceIds": []
+                },
+                "dissatisfaction": {
+                  "value": null,
+                  "reason": "No fresh target-sector dissatisfaction evidence.",
+                  "evidenceIds": []
+                },
+                "differentiation": {
+                  "value": null,
+                  "reason": "No validated service gap.",
+                  "evidenceIds": []
+                },
+                "marketSize": {
+                  "value": null,
+                  "reason": "No new quantified addressable market evidence used.",
+                  "evidenceIds": []
+                },
+                "reachableNiche": {
+                  "value": null,
+                  "reason": "No reachable buyer evidence.",
+                  "evidenceIds": []
+                },
+                "greeceFit": {
+                  "value": 0.95,
+                  "reason": "Greek official source explicitly names affected sectors.",
+                  "evidenceIds": [
+                    "query-1e7acfeca464da7b-e1"
+                  ]
+                },
+                "expansion": {
+                  "value": null,
+                  "reason": "No validated expansion path.",
+                  "evidenceIds": []
+                },
+                "distribution": {
+                  "value": null,
+                  "reason": "No validated acquisition channel.",
+                  "evidenceIds": []
+                },
+                "startupCost": {
+                  "value": null,
+                  "reason": "No service economics established.",
+                  "evidenceIds": []
+                },
+                "regulation": {
+                  "value": 0.9,
+                  "reason": "Official announcement confirms regulatory applicability.",
+                  "evidenceIds": [
+                    "query-1e7acfeca464da7b-e1"
+                  ]
+                },
+                "implementation": {
+                  "value": null,
+                  "reason": "Official free app exists, but external implementation difficulty is unknown.",
+                  "evidenceIds": [
+                    "query-1e7acfeca464da7b-e2"
+                  ]
+                },
+                "timing": {
+                  "value": 0.9,
+                  "reason": "The new-sector expansion is current and explicitly announced.",
+                  "evidenceIds": [
+                    "query-1e7acfeca464da7b-e1"
+                  ]
+                },
+                "defensibility": {
+                  "value": null,
+                  "reason": "No evidence.",
+                  "evidenceIds": []
+                },
+                "evidenceStrength": {
+                  "value": 0.72,
+                  "reason": "Primary confirmation is strong, but buyer/payment evidence is absent and community evidence is old and indirect.",
+                  "evidenceIds": [
+                    "query-1e7acfeca464da7b-e1",
+                    "query-1e7acfeca464da7b-e2",
+                    "query-1e7acfeca464da7b-e3"
+                  ]
+                }
+              },
+              "rejection": null
+            }
+          ],
+          "learnings": [
+            {
+              "id": "query-1e7acfeca464da7b-l1",
+              "claim": "For this query, fresh regulatory and provider evidence confirmed applicability and a free basic path, but did not establish that affected Greek SMEs explicitly seek or pay for outside setup/troubleshooting beyond their accountant or software provider.",
+              "topic": "digital work card buyer demand",
+              "confidence": 0.84,
+              "type": "market",
+              "status": "active",
+              "evidenceIds": [
+                "query-1e7acfeca464da7b-e1",
+                "query-1e7acfeca464da7b-e2",
+                "query-1e7acfeca464da7b-e3"
+              ],
+              "queryIds": [
+                "query-1e7acfeca464da7b"
+              ],
+              "contradicts": []
+            },
+            {
+              "id": "query-1e7acfeca464da7b-l2",
+              "claim": "A search result containing a historical indirect anecdote about a small business using paid third-party software is insufficient to infer current target-sector willingness to pay for an independent service.",
+              "topic": "evidence quality",
+              "confidence": 0.9,
+              "type": "search",
+              "status": "active",
+              "evidenceIds": [
+                "query-1e7acfeca464da7b-e3"
+              ],
+              "queryIds": [
+                "query-1e7acfeca464da7b"
+              ],
+              "contradicts": []
+            }
+          ],
+          "sources": [
+            {
+              "domain": "ypergasias.gov.gr",
+              "evidenceIds": [
+                "query-1e7acfeca464da7b-e1"
+              ],
+              "reliability": 0.98,
+              "freshness": 0.98,
+              "uniqueness": 0.8,
+              "signalToNoise": 0.9,
+              "topics": [
+                "regulation",
+                "sector coverage"
+              ],
+              "reason": "Primary government announcement directly supports sector applicability."
+            },
+            {
+              "domain": "ergani.emblem.gr",
+              "evidenceIds": [
+                "query-1e7acfeca464da7b-e2"
+              ],
+              "reliability": 0.65,
+              "freshness": 0.8,
+              "uniqueness": 0.55,
+              "signalToNoise": 0.8,
+              "topics": [
+                "software",
+                "free setup"
+              ],
+              "reason": "Provider-owned source; useful for observed offer existence, not independent demand."
+            },
+            {
+              "domain": "reddit.com",
+              "evidenceIds": [
+                "query-1e7acfeca464da7b-e3"
+              ],
+              "reliability": 0.4,
+              "freshness": 0.35,
+              "uniqueness": 0.7,
+              "signalToNoise": 0.45,
+              "topics": [
+                "community anecdote",
+                "substitute ownership"
+              ],
+              "reason": "Indirect historical anecdote; not sufficient for current target-sector demand."
+            }
+          ],
+          "strategyChanges": [
+            "Keep the candidate at insufficient_evidence/probation; require a fresh explicit buyer or partner request with a price before further research investment."
+          ]
+        },
+        "pendingAction": null
+      },
+      "finishedAt": "2026-09-27T15:48:02.171Z",
+      "summary": "Νέα επίσημη επιβεβαίωση υποχρέωσης για κομμωτήρια, καθαριστήρια και συναφείς υπηρεσίες, καθώς και διαθέσιμης δωρεάν εφαρμογής. Δεν τεκμηριώθηκε buyer pull, εξωτερική ανάθεση ή τιμή.\nStop: measured_budget_exhausted",
+      "ideaIds": [
+        "digital-work-card-sector-setup"
+      ],
+      "learningIds": [
+        "query-1e7acfeca464da7b-l1",
+        "query-1e7acfeca464da7b-l2"
+      ],
+      "signalIds": [
+        "query-1e7acfeca464da7b-s1"
+      ]
+    },
+    {
+      "id": "run-1790527698426-b43e27",
+      "owner": "console",
+      "status": "completed",
+      "startedAt": "2026-09-27T16:48:18.419Z",
+      "deadline": "2026-09-27T17:13:18.426Z",
+      "budget": {
+        "maxSearches": 6,
+        "maxFetches": 2,
+        "maxMinutes": 25,
+        "maxTokens": 51000,
+        "maxCostUsd": 1,
+        "maxOutputTokens": 4096,
+        "memoryChars": 16000,
+        "maxModelCalls": 12,
+        "maxCreditUnits": 24,
+        "maxIterationsPerCandidate": 3,
+        "maxExceptionalIterations": 5,
+        "maxRepeatedQueries": 1,
+        "maxTerraCalls": 2,
+        "maxSolCalls": 1
+      },
+      "plan": {
+        "areas": [
+          {
+            "mode": "exploration",
+            "topic": "industrial maintenance",
+            "question": "Which reachable buyers have expensive recurring operational problems or newly feasible solutions?",
+            "stage": "discovery"
+          },
+          {
+            "mode": "exploitation",
+            "topic": "Digital Work Card Sector Setup",
+            "ideaId": "digital-work-card-sector-setup",
+            "question": "Obtain direct buyer or partner evidence with an explicit paid request and price.",
+            "stage": "discovery"
+          },
+          {
+            "mode": "reevaluation",
+            "topic": "EAA/WCAG Accessibility Audit Sprint",
+            "ideaId": "legacy-70ac6eb1e69669c1",
+            "question": "Revisit only if non-exempt e-shops publicly ask for affordable accessibility checks outside agency funnels",
+            "stage": "validation"
+          }
+        ],
+        "strategy": "Explore a new space, exploit a supported lead, reconsider a prior assumption. Adapt queries using retrieved search lessons.",
+        "stopWhen": "Repetition, sufficient evidence, or no likely ranking impact"
+      },
+      "metrics": {
+        "searches": 1,
+        "fetches": 0,
+        "cacheHits": 0,
+        "duplicateSearchesAvoided": 0,
+        "usefulSignals": 0,
+        "promisingIdeas": 0,
+        "tokens": 46218,
+        "costUsd": null,
+        "modelCalls": 2,
+        "creditUnits": 2,
+        "costPerPromising": null
+      },
+      "strategyChanges": [],
+      "loop": {
+        "calls": [
+          {
+            "id": "call-0",
+            "tier": "luna",
+            "model": "gpt-5.6-luna",
+            "purpose": "decide",
+            "status": "complete",
+            "tokenAllowance": 8000,
+            "creditUnits": 1,
+            "expectedGain": null,
+            "decisionImpact": "Select a valuable next action or stop; one bounded Luna decision",
+            "at": "2026-09-27T16:48:18.588Z",
+            "tokens": 12829,
+            "costUsd": null,
+            "finishedAt": "2026-09-27T16:48:42.640Z"
+          },
+          {
+            "id": "call-1",
+            "tier": "luna",
+            "model": "gpt-5.6-luna",
+            "purpose": "search",
+            "status": "complete",
+            "tokenAllowance": 12829,
+            "creditUnits": 1,
+            "expectedGain": 0.62,
+            "decisionImpact": "Ρητό αίτημα με τιμή ή πρόθεση πληρωμής θα αυξήσει ουσιαστικά την confidence και μπορεί να μετατρέψει την ιδέα από probation σε άμεσο experiment· απουσία buyer pull θα τη διατηρήσει χαμηλά.",
+            "at": "2026-09-27T16:48:42.831Z",
+            "tokens": 33389,
+            "costUsd": null,
+            "finishedAt": "2026-09-27T16:48:59.604Z"
+          }
+        ],
+        "decisions": [
+          {
+            "at": "2026-09-27T16:48:42.685Z",
+            "stop": false,
+            "action": {
+              "type": "search",
+              "candidateId": "digital-work-card-sector-setup",
+              "question": "Υπάρχουν ελληνικές μικρές επιχειρήσεις ή λογιστές που ζητούν εξωτερική, πληρωμένη βοήθεια για Ψηφιακή Κάρτα Εργασίας;",
+              "query": "site:facebook.com OR site:reddit.com OR site:insomnia.gr \"Ψηφιακή Κάρτα Εργασίας\" \"ζητώ\" OR \"χρειάζομαι\" OR \"πόσο κοστίζει\" κομμωτήριο καθαριστήριο αισθητικής",
+              "mode": "exploitation",
+              "tier": "luna",
+              "escalationReason": "",
+              "expectedGain": 0.62,
+              "decisionImpact": 0.86,
+              "impact": "Ρητό αίτημα με τιμή ή πρόθεση πληρωμής θα αυξήσει ουσιαστικά την confidence και μπορεί να μετατρέψει την ιδέα από probation σε άμεσο experiment· απουσία buyer pull θα τη διατηρήσει χαμηλά.",
+              "value": 0.5332
+            },
+            "rejected": []
+          }
+        ],
+        "candidates": {
+          "digital-work-card-sector-setup": {
+            "status": "insufficient_evidence",
+            "score": 0.8,
+            "confidence": 0.23,
+            "evidenceCount": 3,
+            "iterations": 1,
+            "lowGainStreak": 1,
+            "fromPreviousRun": false
+          }
+        },
+        "queries": [
+          "site:facebook.com OR site:reddit.com OR site:insomnia.gr \"Ψηφιακή Κάρτα Εργασίας\" \"ζητώ\" OR \"χρειάζομαι\" OR \"πόσο κοστίζει\" κομμωτήριο καθαριστήριο αισθητικής"
+        ],
+        "repeatedQueries": 0,
+        "stopReason": "token_budget",
+        "draft": {
+          "version": 1,
+          "runId": "run-1790527698426-b43e27",
+          "summary": "Δεν προέκυψε νέα τεκμηριωμένη evidence για την ιδέα digital-work-card-sector-setup.",
+          "evidence": [],
+          "signals": [],
+          "ideas": [],
+          "learnings": [],
+          "sources": [],
+          "strategyChanges": []
+        },
+        "pendingAction": null
+      },
+      "finishedAt": "2026-09-27T16:48:59.773Z",
+      "summary": "Δεν προέκυψε νέα τεκμηριωμένη evidence για την ιδέα digital-work-card-sector-setup.\nStop: token_budget",
       "ideaIds": [],
       "learningIds": [],
       "signalIds": []
@@ -8958,6 +10622,318 @@
       "runId": "run-1790513541823-3cd55e",
       "type": "completed",
       "detail": "Stopped without new market findings.\nStop: measured_budget_exhausted"
+    },
+    {
+      "at": "2026-09-27T13:19:26.767Z",
+      "runId": "run-1790434516693-74bf83",
+      "type": "status_corrected",
+      "detail": "Previously marked completed; budget stopped execution before research. Original usage and summary preserved."
+    },
+    {
+      "at": "2026-09-27T13:19:26.768Z",
+      "runId": "run-1790440562412-2086fb",
+      "type": "status_corrected",
+      "detail": "Previously marked completed; budget stopped execution before research. Original usage and summary preserved."
+    },
+    {
+      "at": "2026-09-27T13:19:26.768Z",
+      "runId": "run-1790444201833-dfad5b",
+      "type": "status_corrected",
+      "detail": "Previously marked completed; budget stopped execution before research. Original usage and summary preserved."
+    },
+    {
+      "at": "2026-09-27T13:19:26.768Z",
+      "runId": "run-1790449512000-ee530c",
+      "type": "status_corrected",
+      "detail": "Previously marked completed; budget stopped execution before research. Original usage and summary preserved."
+    },
+    {
+      "at": "2026-09-27T13:19:26.768Z",
+      "runId": "run-1790453140986-bdde45",
+      "type": "status_corrected",
+      "detail": "Previously marked completed; budget stopped execution before research. Original usage and summary preserved."
+    },
+    {
+      "at": "2026-09-27T13:19:26.768Z",
+      "runId": "run-1790456770100-b2c7bf",
+      "type": "status_corrected",
+      "detail": "Previously marked completed; budget stopped execution before research. Original usage and summary preserved."
+    },
+    {
+      "at": "2026-09-27T13:19:26.768Z",
+      "runId": "run-1790456878790-fe6f28",
+      "type": "status_corrected",
+      "detail": "Previously marked completed; budget stopped execution before research. Original usage and summary preserved."
+    },
+    {
+      "at": "2026-09-27T13:19:26.768Z",
+      "runId": "run-1790460511623-810e3c",
+      "type": "status_corrected",
+      "detail": "Previously marked completed; budget stopped execution before research. Original usage and summary preserved."
+    },
+    {
+      "at": "2026-09-27T13:19:26.768Z",
+      "runId": "run-1790464153012-f6ff35",
+      "type": "status_corrected",
+      "detail": "Previously marked completed; budget stopped execution before research. Original usage and summary preserved."
+    },
+    {
+      "at": "2026-09-27T13:19:26.768Z",
+      "runId": "run-1790497265563-c375d4",
+      "type": "status_corrected",
+      "detail": "Previously marked completed; budget stopped execution before research. Original usage and summary preserved."
+    },
+    {
+      "at": "2026-09-27T13:19:26.768Z",
+      "runId": "run-1790513541823-3cd55e",
+      "type": "status_corrected",
+      "detail": "Previously marked completed; budget stopped execution before research. Original usage and summary preserved."
+    },
+    {
+      "at": "2026-09-27T13:52:57.173Z",
+      "runId": "run-1790517177173-765f38",
+      "type": "planned",
+      "detail": "exploration: SMB operations; exploitation: Greek SMB operational inefficiencies; reevaluation: EAA/WCAG Accessibility Audit Sprint"
+    },
+    {
+      "at": "2026-09-27T13:52:57.309Z",
+      "runId": "run-1790517177173-765f38",
+      "type": "model_call",
+      "detail": "gpt-5.6-luna: decide; 1 internal budget units reserved"
+    },
+    {
+      "at": "2026-09-27T13:53:21.947Z",
+      "runId": "run-1790517177173-765f38",
+      "type": "next_action",
+      "detail": "luna: Do affected Greek SMBs publicly seek affordable outside help for Digital Work Card setup or Ergani corrections? (Could upgrade the probation lead from provider-owned to direct-buyer demand, or decisively reduce its confidence if results remain only accountant/software offers.)"
+    },
+    {
+      "at": "2026-09-27T13:53:21.975Z",
+      "runId": "run-1790517177173-765f38",
+      "type": "query_reserved",
+      "detail": "Ελλάδα κομμωτήριο καθαριστήριο ψηφιακή κάρτα εργασίας βοήθεια ΕΡΓΑΝΗ τιμή εξωτερικός συνεργάτης 2026"
+    },
+    {
+      "at": "2026-09-27T13:53:22.206Z",
+      "runId": "run-1790517177173-765f38",
+      "type": "model_call",
+      "detail": "gpt-5.6-luna: search; 1 internal budget units reserved"
+    },
+    {
+      "at": "2026-09-27T13:53:29.999Z",
+      "runId": "run-1790517177173-765f38",
+      "type": "failed",
+      "detail": "Worker searched an unreserved query"
+    },
+    {
+      "at": "2026-09-27T14:41:29.786Z",
+      "runId": "run-1790520089786-9b13a7",
+      "type": "planned",
+      "detail": "exploration: industrial maintenance; exploitation: Greek SMB operational inefficiencies; reevaluation: EAA/WCAG Accessibility Audit Sprint"
+    },
+    {
+      "at": "2026-09-27T14:41:29.926Z",
+      "runId": "run-1790520089786-9b13a7",
+      "type": "model_call",
+      "detail": "gpt-5.6-luna: decide; 1 internal budget units reserved"
+    },
+    {
+      "at": "2026-09-27T14:41:50.214Z",
+      "runId": "run-1790520089786-9b13a7",
+      "type": "next_action",
+      "detail": "luna: Υπάρχουν ελληνικές μικρομεσαίες επιχειρήσεις που ζητούν άμεσα πληρωμένη εξωτερική βοήθεια για επαναλαμβανόμενες εργασίες βιομηχανικής συντήρησης ή καταγραφή βλαβών; (Μπορεί να δημιουργήσει νέο υποψήφιο με αποδεδειγμένο buyer pain, συγκεκριμένο παραδοτέο και ένδειξη αρχικής τιμής ή να δείξει ότι η ανάγκη απαιτεί κεφάλαιο/τεχνική ομάδα και πρέπει να αποκλειστεί.)"
+    },
+    {
+      "at": "2026-09-27T14:41:50.242Z",
+      "runId": "run-1790520089786-9b13a7",
+      "type": "query_reserved",
+      "detail": "Ελλάδα βιομηχανία συντήρηση μηχανημάτων ζητείται εξωτερικός συνεργάτης τιμή βλάβες προληπτική συντήρηση"
+    },
+    {
+      "at": "2026-09-27T14:41:50.513Z",
+      "runId": "run-1790520089786-9b13a7",
+      "type": "failed",
+      "detail": "EPERM: operation not permitted, rename 'C:\\Users\\evang\\olderonedrive\\Υπολογιστής\\startupclaude\\greece-startup-intelligence\\engine\\memory.json.8992.tmp' -> 'C:\\Users\\evang\\olderonedrive\\Υπολογιστής\\startupclaude\\greece-startup-intelligence\\engine\\memory.json'"
+    },
+    {
+      "at": "2026-09-27T14:41:58.427Z",
+      "runId": "run-1790520118426-7300f6",
+      "type": "planned",
+      "detail": "exploration: food supply chains; exploitation: Greek SMB operational inefficiencies; reevaluation: EAA/WCAG Accessibility Audit Sprint"
+    },
+    {
+      "at": "2026-09-27T14:41:58.565Z",
+      "runId": "run-1790520118426-7300f6",
+      "type": "model_call",
+      "detail": "gpt-5.6-luna: decide; 1 internal budget units reserved"
+    },
+    {
+      "at": "2026-09-27T14:42:20.398Z",
+      "runId": "run-1790520118426-7300f6",
+      "type": "failed",
+      "detail": "candidateId: nonempty string, max 120"
+    },
+    {
+      "at": "2026-09-27T15:42:39.859Z",
+      "runId": "run-1790523759859-64a1a5",
+      "type": "planned",
+      "detail": "exploration: accessibility; exploitation: Greek SMB operational inefficiencies; reevaluation: EAA/WCAG Accessibility Audit Sprint"
+    },
+    {
+      "at": "2026-09-27T15:42:39.997Z",
+      "runId": "run-1790523759859-64a1a5",
+      "type": "model_call",
+      "detail": "gpt-5.6-luna: decide; 1 internal budget units reserved"
+    },
+    {
+      "at": "2026-09-27T15:43:00.400Z",
+      "runId": "run-1790523759859-64a1a5",
+      "type": "failed",
+      "detail": "candidateId: nonempty string, max 120"
+    },
+    {
+      "at": "2026-09-27T15:45:47.178Z",
+      "runId": "run-1790523947178-dd68e4",
+      "type": "planned",
+      "detail": "exploration: energy efficiency; exploitation: Greek SMB operational inefficiencies; reevaluation: EAA/WCAG Accessibility Audit Sprint"
+    },
+    {
+      "at": "2026-09-27T15:45:47.316Z",
+      "runId": "run-1790523947178-dd68e4",
+      "type": "model_call",
+      "detail": "gpt-5.6-luna: decide; 1 internal budget units reserved"
+    },
+    {
+      "at": "2026-09-27T15:46:01.998Z",
+      "runId": "run-1790523947178-dd68e4",
+      "type": "next_action",
+      "detail": "luna: Do affected Greek SMB operators explicitly seek paid outside help for Digital Work Card setup or Ergani confusion? (Could upgrade the probation wedge from provider-owned to directly sellable, identify named reachable niches, and establish whether a EUR49-EUR79 readiness check has buyer pull.)"
+    },
+    {
+      "at": "2026-09-27T15:46:02.036Z",
+      "runId": "run-1790523947178-dd68e4",
+      "type": "query_reserved",
+      "detail": "site:facebook.com OR site:reddit.com OR site:insomnia.gr Ελλάδα Ψηφιακή Κάρτα Εργασίας βοήθεια εγκατάσταση ΕΡΓΑΝΗ κομμωτήριο καθαριστήριο συνεργείο τιμή"
+    },
+    {
+      "at": "2026-09-27T15:46:02.314Z",
+      "runId": "run-1790523947178-dd68e4",
+      "type": "model_call",
+      "detail": "gpt-5.6-luna: search; 1 internal budget units reserved"
+    },
+    {
+      "at": "2026-09-27T15:46:11.732Z",
+      "runId": "run-1790523947178-dd68e4",
+      "type": "failed",
+      "detail": "Worker attempted an unreserved source fetch"
+    },
+    {
+      "at": "2026-09-27T15:46:47.558Z",
+      "runId": "run-1790524007558-130b99",
+      "type": "planned",
+      "detail": "exploration: SMB operations; exploitation: Greek SMB operational inefficiencies; reevaluation: EAA/WCAG Accessibility Audit Sprint"
+    },
+    {
+      "at": "2026-09-27T15:46:47.693Z",
+      "runId": "run-1790524007558-130b99",
+      "type": "model_call",
+      "detail": "gpt-5.6-luna: decide; 1 internal budget units reserved"
+    },
+    {
+      "at": "2026-09-27T15:47:02.618Z",
+      "runId": "run-1790524007558-130b99",
+      "type": "next_action",
+      "detail": "luna: Do Greek SMEs in the newly affected sectors explicitly seek or pay for outside Digital Work Card setup/troubleshooting beyond their accountant or software provider? (Could upgrade this from a probation wedge to a ranked opportunity if fresh posts show a reachable buyer, concrete pain and a price; otherwise it would lower confidence and prevent further research investment.)"
+    },
+    {
+      "at": "2026-09-27T15:47:02.649Z",
+      "runId": "run-1790524007558-130b99",
+      "type": "query_reserved",
+      "detail": "Greek κομμωτήριο καθαριστήριο μικρή επιχείρηση ψηφιακή κάρτα εργασίας Ergani βοήθεια κόστος εγκατάσταση ζητείται"
+    },
+    {
+      "at": "2026-09-27T15:47:02.856Z",
+      "runId": "run-1790524007558-130b99",
+      "type": "model_call",
+      "detail": "gpt-5.6-luna: search; 1 internal budget units reserved"
+    },
+    {
+      "at": "2026-09-27T15:48:02.072Z",
+      "runId": "run-1790524007558-130b99",
+      "type": "query_result",
+      "detail": "query-1e7acfeca464da7b: signal"
+    },
+    {
+      "at": "2026-09-27T15:48:02.105Z",
+      "runId": "run-1790524007558-130b99",
+      "type": "loop_observation",
+      "detail": "digital-work-card-sector-setup: gain 0.28 (reported 0.28), confidence 0.23, iterations 1"
+    },
+    {
+      "at": "2026-09-27T15:48:02.137Z",
+      "runId": "run-1790524007558-130b99",
+      "type": "loop_stopped",
+      "detail": "measured_budget_exhausted"
+    },
+    {
+      "at": "2026-09-27T15:48:02.171Z",
+      "runId": "run-1790524007558-130b99",
+      "type": "completed",
+      "detail": "Νέα επίσημη επιβεβαίωση υποχρέωσης για κομμωτήρια, καθαριστήρια και συναφείς υπηρεσίες, καθώς και διαθέσιμης δωρεάν εφαρμογής. Δεν τεκμηριώθηκε buyer pull, εξωτερική ανάθεση ή τιμή.\nStop: measured_budget_exhausted"
+    },
+    {
+      "at": "2026-09-27T16:48:18.427Z",
+      "runId": "run-1790527698426-b43e27",
+      "type": "planned",
+      "detail": "exploration: industrial maintenance; exploitation: Digital Work Card Sector Setup; reevaluation: EAA/WCAG Accessibility Audit Sprint"
+    },
+    {
+      "at": "2026-09-27T16:48:18.588Z",
+      "runId": "run-1790527698426-b43e27",
+      "type": "model_call",
+      "detail": "gpt-5.6-luna: decide; 1 internal budget units reserved"
+    },
+    {
+      "at": "2026-09-27T16:48:42.685Z",
+      "runId": "run-1790527698426-b43e27",
+      "type": "next_action",
+      "detail": "luna: Υπάρχουν ελληνικές μικρές επιχειρήσεις ή λογιστές που ζητούν εξωτερική, πληρωμένη βοήθεια για Ψηφιακή Κάρτα Εργασίας; (Ρητό αίτημα με τιμή ή πρόθεση πληρωμής θα αυξήσει ουσιαστικά την confidence και μπορεί να μετατρέψει την ιδέα από probation σε άμεσο experiment· απουσία buyer pull θα τη διατηρήσει χαμηλά.)"
+    },
+    {
+      "at": "2026-09-27T16:48:42.716Z",
+      "runId": "run-1790527698426-b43e27",
+      "type": "query_reserved",
+      "detail": "site:facebook.com OR site:reddit.com OR site:insomnia.gr \"Ψηφιακή Κάρτα Εργασίας\" \"ζητώ\" OR \"χρειάζομαι\" OR \"πόσο κοστίζει\" κομμωτήριο καθαριστήριο αισθητικής"
+    },
+    {
+      "at": "2026-09-27T16:48:42.831Z",
+      "runId": "run-1790527698426-b43e27",
+      "type": "model_call",
+      "detail": "gpt-5.6-luna: search; 1 internal budget units reserved"
+    },
+    {
+      "at": "2026-09-27T16:48:59.632Z",
+      "runId": "run-1790527698426-b43e27",
+      "type": "query_result",
+      "detail": "query-9f95e51bcedc404f: noise"
+    },
+    {
+      "at": "2026-09-27T16:48:59.683Z",
+      "runId": "run-1790527698426-b43e27",
+      "type": "loop_observation",
+      "detail": "digital-work-card-sector-setup: gain 0 (reported 0), confidence 0.23, iterations 1"
+    },
+    {
+      "at": "2026-09-27T16:48:59.744Z",
+      "runId": "run-1790527698426-b43e27",
+      "type": "loop_stopped",
+      "detail": "token_budget"
+    },
+    {
+      "at": "2026-09-27T16:48:59.773Z",
+      "runId": "run-1790527698426-b43e27",
+      "type": "completed",
+      "detail": "Δεν προέκυψε νέα τεκμηριωμένη evidence για την ιδέα digital-work-card-sector-setup.\nStop: token_budget"
     }
   ],
   "imports": [
