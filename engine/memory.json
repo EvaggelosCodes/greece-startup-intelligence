@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": 198,
+  "revision": 209,
   "ideas": [
     {
       "id": "legacy-70ac6eb1e69669c1",
@@ -3471,138 +3471,122 @@
       "title": "Digital Work Card Sector Setup",
       "problem": "Οι νεοεντασσόμενες μικρές επιχειρήσεις πρέπει να εφαρμόσουν την Ψηφιακή Κάρτα Εργασίας.",
       "customer": "Greek SMEs in affected service sectors",
-      "solution": "Unknown; external setup/troubleshooting service remains unvalidated.",
-      "whyNow": "New sector expansion is explicitly confirmed.",
-      "greeceFit": "Affected Greek sectors are explicitly named.",
-      "businessModel": "Unknown; no fresh customer price found.",
-      "gtm": "Unknown.",
-      "industry": "SMB compliance/software setup",
+      "solution": "Unknown",
+      "whyNow": "Unknown",
+      "greeceFit": "Unknown",
+      "businessModel": "Unknown",
+      "gtm": "Unknown",
+      "industry": "Compliance / labor software support",
       "nextValidation": "Obtain direct buyer or partner evidence with an explicit paid request and price.",
       "status": "insufficient_evidence",
-      "confidence": 0.23,
+      "confidence": 0.09,
       "risks": [
-        "Free official app may cover basic setup.",
-        "Accountants and software providers may retain trust and budget.",
-        "Search found no fresh explicit paid request from the target sectors."
+        "Δεν βρέθηκε άμεσο αίτημα ή budget στο query."
       ],
       "relatedIdeas": [],
       "evidenceIds": [
-        "query-1e7acfeca464da7b-e1",
-        "query-1e7acfeca464da7b-e2",
-        "query-1e7acfeca464da7b-e3"
+        "run-1790535191901-61621c-query-22615e767d3b88d3-e1"
       ],
-      "signalIds": [
-        "query-1e7acfeca464da7b-s1"
-      ],
-      "pattern": "Regulatory need confirmed; reachable buyer and willingness to pay not confirmed.",
-      "opportunity": "Probation wedge only; do not rank higher on this search.",
+      "signalIds": [],
+      "pattern": "No direct buyer pull found in this search.",
+      "opportunity": "Unknown",
       "evaluation": {
         "severity": {
           "value": null,
-          "reason": "No new evidence sufficient for a numeric severity estimate.",
+          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
           "evidenceIds": []
         },
         "frequency": {
           "value": null,
-          "reason": "No new evidence sufficient for a numeric frequency estimate.",
+          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
           "evidenceIds": []
         },
         "willingnessToPay": {
           "value": null,
-          "reason": "No fresh explicit target-sector price or paid request found.",
+          "reason": "Δεν βρέθηκε αίτημα ή budget.",
           "evidenceIds": []
         },
         "alternatives": {
           "value": null,
-          "reason": "Alternatives are visible, but no comparable numeric evaluation is justified.",
+          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
           "evidenceIds": []
         },
         "dissatisfaction": {
           "value": null,
-          "reason": "No fresh target-sector dissatisfaction evidence.",
+          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
           "evidenceIds": []
         },
         "differentiation": {
           "value": null,
-          "reason": "No validated service gap.",
+          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
           "evidenceIds": []
         },
         "marketSize": {
           "value": null,
-          "reason": "No new quantified addressable market evidence used.",
+          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
           "evidenceIds": []
         },
         "reachableNiche": {
           "value": null,
-          "reason": "No reachable buyer evidence.",
+          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
           "evidenceIds": []
         },
         "greeceFit": {
-          "value": 0.95,
-          "reason": "Greek official source explicitly names affected sectors.",
-          "evidenceIds": [
-            "query-1e7acfeca464da7b-e1"
-          ]
+          "value": null,
+          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+          "evidenceIds": []
         },
         "expansion": {
           "value": null,
-          "reason": "No validated expansion path.",
+          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
           "evidenceIds": []
         },
         "distribution": {
           "value": null,
-          "reason": "No validated acquisition channel.",
+          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
           "evidenceIds": []
         },
         "startupCost": {
           "value": null,
-          "reason": "No service economics established.",
+          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
           "evidenceIds": []
         },
         "regulation": {
-          "value": 0.9,
-          "reason": "Official announcement confirms regulatory applicability.",
-          "evidenceIds": [
-            "query-1e7acfeca464da7b-e1"
-          ]
+          "value": null,
+          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+          "evidenceIds": []
         },
         "implementation": {
           "value": null,
-          "reason": "Official free app exists, but external implementation difficulty is unknown.",
-          "evidenceIds": [
-            "query-1e7acfeca464da7b-e2"
-          ]
+          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+          "evidenceIds": []
         },
         "timing": {
-          "value": 0.9,
-          "reason": "The new-sector expansion is current and explicitly announced.",
-          "evidenceIds": [
-            "query-1e7acfeca464da7b-e1"
-          ]
+          "value": null,
+          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+          "evidenceIds": []
         },
         "defensibility": {
           "value": null,
-          "reason": "No evidence.",
+          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
           "evidenceIds": []
         },
         "evidenceStrength": {
-          "value": 0.72,
-          "reason": "Primary confirmation is strong, but buyer/payment evidence is absent and community evidence is old and indirect.",
+          "value": 0.2,
+          "reason": "Το αποτέλεσμα είναι σχετικό με την αναζήτηση αλλά αρνητικό/άσχετο ως προς τον buyer pull.",
           "evidenceIds": [
-            "query-1e7acfeca464da7b-e1",
-            "query-1e7acfeca464da7b-e2",
-            "query-1e7acfeca464da7b-e3"
+            "run-1790535191901-61621c-query-22615e767d3b88d3-e1"
           ]
         }
       },
       "rejection": null,
-      "score": 0.8,
-      "coverage": 0.22727272727272727,
+      "score": 0.2,
+      "coverage": 0.09090909090909091,
       "rubricVersion": 1,
       "legacy": false,
       "needsReview": false,
       "discoveredAt": "2026-09-27T15:48:02.170Z",
-      "lastReviewedAt": "2026-09-27T15:48:02.170Z",
+      "lastReviewedAt": "2026-09-27T18:54:22.986Z",
       "history": [
         {
           "at": "2026-09-27T15:48:02.170Z",
@@ -3712,6 +3696,105 @@
             }
           },
           "reason": "Νέα επίσημη επιβεβαίωση υποχρέωσης για κομμωτήρια, καθαριστήρια και συναφείς υπηρεσίες, καθώς και διαθέσιμης δωρεάν εφαρμογής. Δεν τεκμηριώθηκε buyer pull, εξωτερική ανάθεση ή τιμή.\nStop: measured_budget_exhausted"
+        },
+        {
+          "at": "2026-09-27T18:54:22.986Z",
+          "runId": "run-1790535191901-61621c",
+          "score": 0.2,
+          "confidence": 0.09,
+          "coverage": 0.09090909090909091,
+          "status": "insufficient_evidence",
+          "rubricVersion": 1,
+          "evaluation": {
+            "severity": {
+              "value": null,
+              "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+              "evidenceIds": []
+            },
+            "frequency": {
+              "value": null,
+              "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+              "evidenceIds": []
+            },
+            "willingnessToPay": {
+              "value": null,
+              "reason": "Δεν βρέθηκε αίτημα ή budget.",
+              "evidenceIds": []
+            },
+            "alternatives": {
+              "value": null,
+              "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+              "evidenceIds": []
+            },
+            "dissatisfaction": {
+              "value": null,
+              "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+              "evidenceIds": []
+            },
+            "differentiation": {
+              "value": null,
+              "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+              "evidenceIds": []
+            },
+            "marketSize": {
+              "value": null,
+              "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+              "evidenceIds": []
+            },
+            "reachableNiche": {
+              "value": null,
+              "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+              "evidenceIds": []
+            },
+            "greeceFit": {
+              "value": null,
+              "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+              "evidenceIds": []
+            },
+            "expansion": {
+              "value": null,
+              "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+              "evidenceIds": []
+            },
+            "distribution": {
+              "value": null,
+              "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+              "evidenceIds": []
+            },
+            "startupCost": {
+              "value": null,
+              "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+              "evidenceIds": []
+            },
+            "regulation": {
+              "value": null,
+              "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+              "evidenceIds": []
+            },
+            "implementation": {
+              "value": null,
+              "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+              "evidenceIds": []
+            },
+            "timing": {
+              "value": null,
+              "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+              "evidenceIds": []
+            },
+            "defensibility": {
+              "value": null,
+              "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+              "evidenceIds": []
+            },
+            "evidenceStrength": {
+              "value": 0.2,
+              "reason": "Το αποτέλεσμα είναι σχετικό με την αναζήτηση αλλά αρνητικό/άσχετο ως προς τον buyer pull.",
+              "evidenceIds": [
+                "run-1790535191901-61621c-query-22615e767d3b88d3-e1"
+              ]
+            }
+          },
+          "reason": "Η αναζήτηση δεν παρείχε νέο direct-buyer pull ούτε budget για την Ψηφιακή Κάρτα Εργασίας. Το candidate παραμένει insufficient_evidence.\nStop: token_budget"
         }
       ]
     }
@@ -3758,6 +3841,20 @@
       "excerpt": "η λογίστρια του είπε να χρησιμοποιήσει ένα λογισμικό μιας τρίτης εταιρείας ... με τη συνδρομή",
       "confidence": 0.78,
       "runId": "run-1790524007558-130b99"
+    },
+    {
+      "id": "run-1790535191901-61621c-query-22615e767d3b88d3-e1",
+      "url": "https://www.insomnia.gr/forums/topic/846112-snappi-%CE%B7-%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE-neobank/page/47/",
+      "origin": "web search result",
+      "queryId": "query-22615e767d3b88d3",
+      "claim": "Τα αποτελέσματα του συγκεκριμένου query στο Insomnia αφορούν τραπεζικές/καταναλωτικές ψηφιακές κάρτες και όχι την Ψηφιακή Κάρτα Εργασίας, ούτε περιέχουν αίτημα πληρωμένης βοήθειας από επηρεαζόμενη μικρή επιχείρηση ή λογιστή.",
+      "kind": "observed",
+      "sourceType": "community",
+      "publishedAt": null,
+      "observedAt": "2026-09-27T18:53:36.515Z",
+      "excerpt": "Έχει δοκιμάσει κανείς να βάλει ψηφιακή κάρτα για πάγιες εντολές?",
+      "confidence": 0.99,
+      "runId": "run-1790535191901-61621c"
     }
   ],
   "signals": [
@@ -5641,6 +5738,23 @@
       "contradicts": [],
       "lastValidatedAt": "2026-09-27T15:48:02.170Z",
       "history": []
+    },
+    {
+      "id": "run-1790535191901-61621c-query-22615e767d3b88d3-l1",
+      "claim": "Το συγκεκριμένο query δεν επιβεβαιώνει direct buyer pull για πληρωμένη υποστήριξη της Ψηφιακής Κάρτας Εργασίας· τα διαθέσιμα community αποτελέσματα ήταν για τραπεζικές ψηφιακές κάρτες.",
+      "topic": "evidence quality",
+      "confidence": 0.9,
+      "type": "search",
+      "status": "active",
+      "evidenceIds": [
+        "run-1790535191901-61621c-query-22615e767d3b88d3-e1"
+      ],
+      "queryIds": [
+        "query-22615e767d3b88d3"
+      ],
+      "contradicts": [],
+      "lastValidatedAt": "2026-09-27T18:54:22.987Z",
+      "history": []
     }
   ],
   "sources": [
@@ -5700,6 +5814,25 @@
       "samples": 1,
       "lastValidatedAt": "2026-09-27T15:48:02.171Z",
       "queries": 1
+    },
+    {
+      "domain": "insomnia.gr",
+      "evidenceIds": [
+        "run-1790535191901-61621c-query-22615e767d3b88d3-e1"
+      ],
+      "reliability": 0.65,
+      "freshness": 0.8,
+      "uniqueness": 0.1,
+      "signalToNoise": 0.05,
+      "topics": [
+        "digital cards",
+        "community search"
+      ],
+      "reason": "Τα αποτελέσματα είναι community περιεχόμενο και εκτός του target problem.",
+      "id": "insomnia.gr",
+      "samples": 1,
+      "lastValidatedAt": "2026-09-27T18:54:22.987Z",
+      "queries": 2
     }
   ],
   "queries": [
@@ -5798,6 +5931,27 @@
         "https://www.insomnia.gr/forums/topic/846112-snappi-%CE%B7-%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE-neobank/page/3/"
       ],
       "completedAt": "2026-09-27T17:52:52.491Z"
+    },
+    {
+      "text": "site:facebook.com OR site:reddit.com OR site:insomnia.gr κομμωτήριο αισθητική καθαριστήριο \"ψηφιακή κάρτα\" βοήθεια τιμή λογιστής εγκατάσταση 2026",
+      "mode": "exploitation",
+      "stage": "discovery",
+      "candidateId": "digital-work-card-sector-setup",
+      "expectedDecision": "Μπορεί να αυξήσει ουσιαστικά την confidence και να επιβεβαιώσει ή να απορρίψει direct buyer pull, ειδικά αν εμφανιστεί συγκεκριμένο αίτημα και budget.",
+      "id": "query-22615e767d3b88d3",
+      "runId": "run-1790535191901-61621c",
+      "status": "complete",
+      "createdAt": "2026-09-27T18:53:36.490Z",
+      "modelRole": "gpt-5.6-luna",
+      "summary": "Δεν βρέθηκε άμεσο αίτημα από κομμωτήριο, κέντρο αισθητικής, καθαριστήριο ή λογιστή για πληρωμένη εγκατάσταση, έλεγχο ή troubleshooting της Ψηφιακής Κάρτας. Τα αποτελέσματα αφορούσαν άσχετες τραπεζικές «ψηφιακές κάρτες».",
+      "useful": true,
+      "urls": [
+        "https://www.insomnia.gr/forums/topic/846112-snappi-%CE%B7-%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE-neobank/page/47/",
+        "https://www.insomnia.gr/forums/topic/810213-payzy-by-cosmote/page/2/",
+        "https://www.insomnia.gr/forums/topic/810213-payzy-by-cosmote/",
+        "https://www.insomnia.gr/forums/topic/846112-snappi-%CE%B7-%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE-neobank/page/3/"
+      ],
+      "completedAt": "2026-09-27T18:54:22.886Z"
     }
   ],
   "runs": [
@@ -10174,6 +10328,328 @@
       "ideaIds": [],
       "learningIds": [],
       "signalIds": []
+    },
+    {
+      "id": "run-1790535191901-61621c",
+      "owner": "console",
+      "status": "completed",
+      "startedAt": "2026-09-27T18:53:11.893Z",
+      "deadline": "2026-09-27T19:33:11.901Z",
+      "budget": {
+        "maxSearches": 10,
+        "maxFetches": 2,
+        "maxMinutes": 40,
+        "maxTokens": 72000,
+        "maxCostUsd": 1,
+        "maxOutputTokens": 4096,
+        "memoryChars": 16000,
+        "maxModelCalls": 20,
+        "maxCreditUnits": 31,
+        "maxIterationsPerCandidate": 4,
+        "maxExceptionalIterations": 5,
+        "maxRepeatedQueries": 1,
+        "maxTerraCalls": 2,
+        "maxSolCalls": 1
+      },
+      "plan": {
+        "areas": [
+          {
+            "mode": "exploration",
+            "topic": "accessibility",
+            "question": "Which reachable buyers have expensive recurring operational problems or newly feasible solutions?",
+            "stage": "discovery"
+          },
+          {
+            "mode": "exploitation",
+            "topic": "Digital Work Card Sector Setup",
+            "ideaId": "digital-work-card-sector-setup",
+            "question": "Obtain direct buyer or partner evidence with an explicit paid request and price.",
+            "stage": "discovery"
+          },
+          {
+            "mode": "reevaluation",
+            "topic": "EAA/WCAG Accessibility Audit Sprint",
+            "ideaId": "legacy-70ac6eb1e69669c1",
+            "question": "Revisit only if non-exempt e-shops publicly ask for affordable accessibility checks outside agency funnels",
+            "stage": "validation"
+          }
+        ],
+        "strategy": "Explore a new space, exploit a supported lead, reconsider a prior assumption. Adapt queries using retrieved search lessons.",
+        "stopWhen": "Repetition, sufficient evidence, or no likely ranking impact"
+      },
+      "metrics": {
+        "searches": 1,
+        "fetches": 0,
+        "cacheHits": 0,
+        "duplicateSearchesAvoided": 0,
+        "usefulSignals": 0,
+        "promisingIdeas": 0,
+        "tokens": 55257,
+        "costUsd": null,
+        "modelCalls": 2,
+        "creditUnits": 2,
+        "costPerPromising": null
+      },
+      "strategyChanges": [
+        "Διατήρηση του candidate ως insufficient_evidence· απαιτείται συγκεκριμένο αίτημα επί πληρωμή και τιμή πριν αυξηθεί η confidence."
+      ],
+      "loop": {
+        "calls": [
+          {
+            "id": "call-0",
+            "tier": "luna",
+            "model": "gpt-5.6-luna",
+            "purpose": "decide",
+            "status": "complete",
+            "tokenAllowance": 8000,
+            "creditUnits": 1,
+            "expectedGain": null,
+            "decisionImpact": "Select a valuable next action or stop; one bounded Luna decision",
+            "at": "2026-09-27T18:53:12.073Z",
+            "tokens": 12653,
+            "costUsd": null,
+            "finishedAt": "2026-09-27T18:53:36.457Z"
+          },
+          {
+            "id": "call-1",
+            "tier": "luna",
+            "model": "gpt-5.6-luna",
+            "purpose": "search",
+            "status": "complete",
+            "tokenAllowance": 12653,
+            "creditUnits": 1,
+            "expectedGain": 0.72,
+            "decisionImpact": "Μπορεί να αυξήσει ουσιαστικά την confidence και να επιβεβαιώσει ή να απορρίψει direct buyer pull, ειδικά αν εμφανιστεί συγκεκριμένο αίτημα και budget.",
+            "at": "2026-09-27T18:53:36.723Z",
+            "tokens": 42604,
+            "costUsd": null,
+            "finishedAt": "2026-09-27T18:54:22.878Z"
+          }
+        ],
+        "decisions": [
+          {
+            "at": "2026-09-27T18:53:36.471Z",
+            "stop": false,
+            "action": {
+              "type": "search",
+              "candidateId": "digital-work-card-sector-setup",
+              "question": "Υπάρχουν επηρεαζόμενες μικρές επιχειρήσεις ή λογιστές που ζητούν εξωτερική βοήθεια επί πληρωμή για εγκατάσταση, έλεγχο ή troubleshooting της Ψηφιακής Κάρτας;",
+              "query": "site:facebook.com OR site:reddit.com OR site:insomnia.gr κομμωτήριο αισθητική καθαριστήριο \"ψηφιακή κάρτα\" βοήθεια τιμή λογιστής εγκατάσταση 2026",
+              "mode": "exploitation",
+              "tier": "luna",
+              "escalationReason": "",
+              "expectedGain": 0.72,
+              "decisionImpact": 0.82,
+              "impact": "Μπορεί να αυξήσει ουσιαστικά την confidence και να επιβεβαιώσει ή να απορρίψει direct buyer pull, ειδικά αν εμφανιστεί συγκεκριμένο αίτημα και budget.",
+              "value": 0.5903999999999999
+            },
+            "rejected": []
+          }
+        ],
+        "candidates": {
+          "digital-work-card-sector-setup": {
+            "status": "insufficient_evidence",
+            "score": 0.2,
+            "confidence": 0.09,
+            "evidenceCount": 1,
+            "iterations": 1,
+            "lowGainStreak": 0,
+            "fromPreviousRun": false,
+            "coverage": 0.09090909090909091,
+            "rubricVersion": 1
+          }
+        },
+        "queries": [
+          "site:facebook.com OR site:reddit.com OR site:insomnia.gr κομμωτήριο αισθητική καθαριστήριο \"ψηφιακή κάρτα\" βοήθεια τιμή λογιστής εγκατάσταση 2026"
+        ],
+        "repeatedQueries": 0,
+        "stopReason": "token_budget",
+        "draft": {
+          "version": 1,
+          "runId": "run-1790535191901-61621c",
+          "summary": "Η αναζήτηση δεν παρείχε νέο direct-buyer pull ούτε budget για την Ψηφιακή Κάρτα Εργασίας. Το candidate παραμένει insufficient_evidence.",
+          "evidence": [
+            {
+              "id": "run-1790535191901-61621c-query-22615e767d3b88d3-e1",
+              "url": "https://www.insomnia.gr/forums/topic/846112-snappi-%CE%B7-%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE-neobank/page/47/",
+              "origin": "web search result",
+              "queryId": "query-22615e767d3b88d3",
+              "claim": "Τα αποτελέσματα του συγκεκριμένου query στο Insomnia αφορούν τραπεζικές/καταναλωτικές ψηφιακές κάρτες και όχι την Ψηφιακή Κάρτα Εργασίας, ούτε περιέχουν αίτημα πληρωμένης βοήθειας από επηρεαζόμενη μικρή επιχείρηση ή λογιστή.",
+              "kind": "observed",
+              "sourceType": "community",
+              "publishedAt": null,
+              "observedAt": "2026-09-27T18:53:36.515Z",
+              "excerpt": "Έχει δοκιμάσει κανείς να βάλει ψηφιακή κάρτα για πάγιες εντολές?",
+              "confidence": 0.99
+            }
+          ],
+          "signals": [],
+          "ideas": [
+            {
+              "id": "digital-work-card-sector-setup",
+              "title": "Digital Work Card Sector Setup",
+              "problem": "Οι νεοεντασσόμενες μικρές επιχειρήσεις πρέπει να εφαρμόσουν την Ψηφιακή Κάρτα Εργασίας.",
+              "customer": "Greek SMEs in affected service sectors",
+              "solution": "Unknown",
+              "whyNow": "Unknown",
+              "greeceFit": "Unknown",
+              "businessModel": "Unknown",
+              "gtm": "Unknown",
+              "industry": "Compliance / labor software support",
+              "nextValidation": "Obtain direct buyer or partner evidence with an explicit paid request and price.",
+              "status": "insufficient_evidence",
+              "confidence": 0.2,
+              "risks": [
+                "Δεν βρέθηκε άμεσο αίτημα ή budget στο query."
+              ],
+              "relatedIdeas": [],
+              "evidenceIds": [
+                "run-1790535191901-61621c-query-22615e767d3b88d3-e1"
+              ],
+              "signalIds": [],
+              "pattern": "No direct buyer pull found in this search.",
+              "opportunity": "Unknown",
+              "evaluation": {
+                "severity": {
+                  "value": null,
+                  "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+                  "evidenceIds": []
+                },
+                "frequency": {
+                  "value": null,
+                  "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+                  "evidenceIds": []
+                },
+                "willingnessToPay": {
+                  "value": null,
+                  "reason": "Δεν βρέθηκε αίτημα ή budget.",
+                  "evidenceIds": []
+                },
+                "alternatives": {
+                  "value": null,
+                  "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+                  "evidenceIds": []
+                },
+                "dissatisfaction": {
+                  "value": null,
+                  "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+                  "evidenceIds": []
+                },
+                "differentiation": {
+                  "value": null,
+                  "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+                  "evidenceIds": []
+                },
+                "marketSize": {
+                  "value": null,
+                  "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+                  "evidenceIds": []
+                },
+                "reachableNiche": {
+                  "value": null,
+                  "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+                  "evidenceIds": []
+                },
+                "greeceFit": {
+                  "value": null,
+                  "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+                  "evidenceIds": []
+                },
+                "expansion": {
+                  "value": null,
+                  "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+                  "evidenceIds": []
+                },
+                "distribution": {
+                  "value": null,
+                  "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+                  "evidenceIds": []
+                },
+                "startupCost": {
+                  "value": null,
+                  "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+                  "evidenceIds": []
+                },
+                "regulation": {
+                  "value": null,
+                  "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+                  "evidenceIds": []
+                },
+                "implementation": {
+                  "value": null,
+                  "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+                  "evidenceIds": []
+                },
+                "timing": {
+                  "value": null,
+                  "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+                  "evidenceIds": []
+                },
+                "defensibility": {
+                  "value": null,
+                  "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+                  "evidenceIds": []
+                },
+                "evidenceStrength": {
+                  "value": 0.2,
+                  "reason": "Το αποτέλεσμα είναι σχετικό με την αναζήτηση αλλά αρνητικό/άσχετο ως προς τον buyer pull.",
+                  "evidenceIds": [
+                    "run-1790535191901-61621c-query-22615e767d3b88d3-e1"
+                  ]
+                }
+              },
+              "rejection": null
+            }
+          ],
+          "learnings": [
+            {
+              "id": "run-1790535191901-61621c-query-22615e767d3b88d3-l1",
+              "claim": "Το συγκεκριμένο query δεν επιβεβαιώνει direct buyer pull για πληρωμένη υποστήριξη της Ψηφιακής Κάρτας Εργασίας· τα διαθέσιμα community αποτελέσματα ήταν για τραπεζικές ψηφιακές κάρτες.",
+              "topic": "evidence quality",
+              "confidence": 0.9,
+              "type": "search",
+              "status": "active",
+              "evidenceIds": [
+                "run-1790535191901-61621c-query-22615e767d3b88d3-e1"
+              ],
+              "queryIds": [
+                "query-22615e767d3b88d3"
+              ],
+              "contradicts": []
+            }
+          ],
+          "sources": [
+            {
+              "domain": "insomnia.gr",
+              "evidenceIds": [
+                "run-1790535191901-61621c-query-22615e767d3b88d3-e1"
+              ],
+              "reliability": 0.65,
+              "freshness": 0.8,
+              "uniqueness": 0.1,
+              "signalToNoise": 0.05,
+              "topics": [
+                "digital cards",
+                "community search"
+              ],
+              "reason": "Τα αποτελέσματα είναι community περιεχόμενο και εκτός του target problem."
+            }
+          ],
+          "strategyChanges": [
+            "Διατήρηση του candidate ως insufficient_evidence· απαιτείται συγκεκριμένο αίτημα επί πληρωμή και τιμή πριν αυξηθεί η confidence."
+          ]
+        },
+        "pendingAction": null
+      },
+      "finishedAt": "2026-09-27T18:54:22.988Z",
+      "summary": "Η αναζήτηση δεν παρείχε νέο direct-buyer pull ούτε budget για την Ψηφιακή Κάρτα Εργασίας. Το candidate παραμένει insufficient_evidence.\nStop: token_budget",
+      "ideaIds": [
+        "digital-work-card-sector-setup"
+      ],
+      "learningIds": [
+        "run-1790535191901-61621c-query-22615e767d3b88d3-l1"
+      ],
+      "signalIds": []
     }
   ],
   "events": [
@@ -11160,6 +11636,60 @@
       "runId": "run-1790531530833-ba3341",
       "type": "completed",
       "detail": "Καμία νέα απόφαση-σχετική evidence ή ενημέρωση υποψηφίου.\nStop: token_budget"
+    },
+    {
+      "at": "2026-09-27T18:53:11.901Z",
+      "runId": "run-1790535191901-61621c",
+      "type": "planned",
+      "detail": "exploration: accessibility; exploitation: Digital Work Card Sector Setup; reevaluation: EAA/WCAG Accessibility Audit Sprint"
+    },
+    {
+      "at": "2026-09-27T18:53:12.073Z",
+      "runId": "run-1790535191901-61621c",
+      "type": "model_call",
+      "detail": "gpt-5.6-luna: decide; 1 internal budget units reserved"
+    },
+    {
+      "at": "2026-09-27T18:53:36.471Z",
+      "runId": "run-1790535191901-61621c",
+      "type": "next_action",
+      "detail": "luna: Υπάρχουν επηρεαζόμενες μικρές επιχειρήσεις ή λογιστές που ζητούν εξωτερική βοήθεια επί πληρωμή για εγκατάσταση, έλεγχο ή troubleshooting της Ψηφιακής Κάρτας; (Μπορεί να αυξήσει ουσιαστικά την confidence και να επιβεβαιώσει ή να απορρίψει direct buyer pull, ειδικά αν εμφανιστεί συγκεκριμένο αίτημα και budget.)"
+    },
+    {
+      "at": "2026-09-27T18:53:36.490Z",
+      "runId": "run-1790535191901-61621c",
+      "type": "query_reserved",
+      "detail": "site:facebook.com OR site:reddit.com OR site:insomnia.gr κομμωτήριο αισθητική καθαριστήριο \"ψηφιακή κάρτα\" βοήθεια τιμή λογιστής εγκατάσταση 2026"
+    },
+    {
+      "at": "2026-09-27T18:53:36.723Z",
+      "runId": "run-1790535191901-61621c",
+      "type": "model_call",
+      "detail": "gpt-5.6-luna: search; 1 internal budget units reserved"
+    },
+    {
+      "at": "2026-09-27T18:54:22.886Z",
+      "runId": "run-1790535191901-61621c",
+      "type": "query_result",
+      "detail": "query-22615e767d3b88d3: signal"
+    },
+    {
+      "at": "2026-09-27T18:54:22.897Z",
+      "runId": "run-1790535191901-61621c",
+      "type": "loop_observation",
+      "detail": "digital-work-card-sector-setup: gain 0.12 (reported 0.12), confidence 0.09, iterations 1"
+    },
+    {
+      "at": "2026-09-27T18:54:22.935Z",
+      "runId": "run-1790535191901-61621c",
+      "type": "loop_stopped",
+      "detail": "token_budget"
+    },
+    {
+      "at": "2026-09-27T18:54:22.989Z",
+      "runId": "run-1790535191901-61621c",
+      "type": "completed",
+      "detail": "Η αναζήτηση δεν παρείχε νέο direct-buyer pull ούτε budget για την Ψηφιακή Κάρτα Εργασίας. Το candidate παραμένει insufficient_evidence.\nStop: token_budget"
     }
   ],
   "imports": [
