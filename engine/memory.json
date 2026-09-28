@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": 241,
+  "revision": 263,
   "ideas": [
     {
       "id": "legacy-70ac6eb1e69669c1",
@@ -3471,122 +3471,125 @@
       "title": "Digital Work Card Sector Setup",
       "problem": "Οι νεοεντασσόμενες μικρές επιχειρήσεις πρέπει να εφαρμόσουν την Ψηφιακή Κάρτα Εργασίας.",
       "customer": "Greek SMEs in affected service sectors",
-      "solution": "Unknown",
-      "whyNow": "Unknown",
-      "greeceFit": "Unknown",
-      "businessModel": "Unknown",
-      "gtm": "Unknown",
-      "industry": "Compliance / labor software support",
-      "nextValidation": "Obtain direct buyer or partner evidence with an explicit paid request and price.",
+      "solution": "Unknown; no direct paid external-help request was found in this search.",
+      "whyNow": "Η πρόσφατη αγγελία δείχνει τρέχουσα ανάγκη για καθημερινή διαχείριση της Ψηφιακής Κάρτας Εργασίας.",
+      "greeceFit": "Η ανάγκη εμφανίζεται σε ελληνικό εργοδότη, αλλά το αποτέλεσμα αφορά πρόσληψη και όχι αποδεδειγμένη solo εξωτερική υπηρεσία.",
+      "businessModel": "Unknown.",
+      "gtm": "Unknown.",
+      "industry": "Payroll / HR operations",
+      "nextValidation": "Απαιτείται άμεσο αίτημα μικρής επιχείρησης ή λογιστή που να αναφέρει εξωτερική ανάθεση και συγκεκριμένη αμοιβή ή budget.",
       "status": "insufficient_evidence",
       "confidence": 0.09,
       "risks": [
-        "Δεν βρέθηκε άμεσο αίτημα ή budget στο query."
+        "Το μόνο σχετικό αποτέλεσμα είναι αγγελία πρόσληψης, όχι πληρωμένη freelance ανάθεση.",
+        "Δεν εμφανίστηκε συγκεκριμένη τιμή ή budget."
       ],
       "relatedIdeas": [],
       "evidenceIds": [
-        "run-1790535191901-61621c-query-22615e767d3b88d3-e1"
+        "run-1790595658802-f64b3b-query-63d230d2db86b746-e1"
       ],
-      "signalIds": [],
-      "pattern": "No direct buyer pull found in this search.",
-      "opportunity": "Unknown",
+      "signalIds": [
+        "run-1790595658802-f64b3b-query-63d230d2db86b746-s1"
+      ],
+      "pattern": "No direct paid buyer request found.",
+      "opportunity": "Δεν τεκμηριώνεται ακόμη εμπορεύσιμη ευκαιρία από το παρόν search.",
       "evaluation": {
         "severity": {
           "value": null,
-          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+          "reason": "Δεν βρέθηκε direct SME/accountant problem statement.",
           "evidenceIds": []
         },
         "frequency": {
           "value": null,
-          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+          "reason": "Μία αγγελία δεν τεκμηριώνει συχνότητα μικρών εξωτερικών αναθέσεων.",
           "evidenceIds": []
         },
         "willingnessToPay": {
           "value": null,
-          "reason": "Δεν βρέθηκε αίτημα ή budget.",
+          "reason": "Δεν αναφέρεται τιμή, budget ή αμοιβή εξωτερικού συνεργάτη.",
           "evidenceIds": []
         },
         "alternatives": {
           "value": null,
-          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+          "reason": "Δεν αξιολογήθηκαν εναλλακτικές στο μοναδικό search.",
           "evidenceIds": []
         },
         "dissatisfaction": {
           "value": null,
-          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+          "reason": "Δεν υπάρχει buyer complaint.",
           "evidenceIds": []
         },
         "differentiation": {
           "value": null,
-          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+          "reason": "Δεν τεκμηριώνεται προσφορά υπηρεσίας.",
           "evidenceIds": []
         },
         "marketSize": {
           "value": null,
-          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+          "reason": "Δεν υπάρχουν στοιχεία αγοράς.",
           "evidenceIds": []
         },
         "reachableNiche": {
           "value": null,
-          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+          "reason": "Δεν αποδεικνύεται reachable niche από το αποτέλεσμα.",
           "evidenceIds": []
         },
         "greeceFit": {
           "value": null,
-          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+          "reason": "Το ελληνικό αποτέλεσμα αφορά πρόσληψη, όχι εξωτερική υπηρεσία.",
           "evidenceIds": []
         },
         "expansion": {
           "value": null,
-          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+          "reason": "Δεν υπάρχουν στοιχεία.",
           "evidenceIds": []
         },
         "distribution": {
           "value": null,
-          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+          "reason": "Δεν υπάρχουν στοιχεία.",
           "evidenceIds": []
         },
         "startupCost": {
           "value": null,
-          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+          "reason": "Δεν υπάρχουν στοιχεία.",
           "evidenceIds": []
         },
         "regulation": {
           "value": null,
-          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+          "reason": "Δεν αξιολογήθηκε νομικό ζήτημα στο παρόν search.",
           "evidenceIds": []
         },
         "implementation": {
           "value": null,
-          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+          "reason": "Δεν υπάρχουν στοιχεία για συγκεκριμένη υπηρεσία.",
           "evidenceIds": []
         },
         "timing": {
           "value": null,
-          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+          "reason": "Η αγγελία είναι πρόσφατη, αλλά δεν αποδεικνύει εξωτερική ανάθεση.",
           "evidenceIds": []
         },
         "defensibility": {
           "value": null,
-          "reason": "Δεν προέκυψε σχετική νέα απόδειξη.",
+          "reason": "Δεν υπάρχουν στοιχεία.",
           "evidenceIds": []
         },
         "evidenceStrength": {
-          "value": 0.2,
-          "reason": "Το αποτέλεσμα είναι σχετικό με την αναζήτηση αλλά αρνητικό/άσχετο ως προς τον buyer pull.",
+          "value": 0.4,
+          "reason": "Υπάρχει πρόσφατη σχετική αγγελία, αλλά όχι direct paid buyer evidence.",
           "evidenceIds": [
-            "run-1790535191901-61621c-query-22615e767d3b88d3-e1"
+            "run-1790595658802-f64b3b-query-63d230d2db86b746-e1"
           ]
         }
       },
       "rejection": null,
-      "score": 0.2,
+      "score": 0.4,
       "coverage": 0.09090909090909091,
       "rubricVersion": 1,
       "legacy": false,
       "needsReview": false,
       "discoveredAt": "2026-09-27T15:48:02.170Z",
-      "lastReviewedAt": "2026-09-27T18:54:22.986Z",
+      "lastReviewedAt": "2026-09-28T11:42:13.941Z",
       "history": [
         {
           "at": "2026-09-27T15:48:02.170Z",
@@ -3795,6 +3798,105 @@
             }
           },
           "reason": "Η αναζήτηση δεν παρείχε νέο direct-buyer pull ούτε budget για την Ψηφιακή Κάρτα Εργασίας. Το candidate παραμένει insufficient_evidence.\nStop: token_budget"
+        },
+        {
+          "at": "2026-09-28T11:42:13.941Z",
+          "runId": "run-1790595658802-f64b3b",
+          "score": 0.4,
+          "confidence": 0.09,
+          "coverage": 0.09090909090909091,
+          "status": "insufficient_evidence",
+          "rubricVersion": 1,
+          "evaluation": {
+            "severity": {
+              "value": null,
+              "reason": "Δεν βρέθηκε direct SME/accountant problem statement.",
+              "evidenceIds": []
+            },
+            "frequency": {
+              "value": null,
+              "reason": "Μία αγγελία δεν τεκμηριώνει συχνότητα μικρών εξωτερικών αναθέσεων.",
+              "evidenceIds": []
+            },
+            "willingnessToPay": {
+              "value": null,
+              "reason": "Δεν αναφέρεται τιμή, budget ή αμοιβή εξωτερικού συνεργάτη.",
+              "evidenceIds": []
+            },
+            "alternatives": {
+              "value": null,
+              "reason": "Δεν αξιολογήθηκαν εναλλακτικές στο μοναδικό search.",
+              "evidenceIds": []
+            },
+            "dissatisfaction": {
+              "value": null,
+              "reason": "Δεν υπάρχει buyer complaint.",
+              "evidenceIds": []
+            },
+            "differentiation": {
+              "value": null,
+              "reason": "Δεν τεκμηριώνεται προσφορά υπηρεσίας.",
+              "evidenceIds": []
+            },
+            "marketSize": {
+              "value": null,
+              "reason": "Δεν υπάρχουν στοιχεία αγοράς.",
+              "evidenceIds": []
+            },
+            "reachableNiche": {
+              "value": null,
+              "reason": "Δεν αποδεικνύεται reachable niche από το αποτέλεσμα.",
+              "evidenceIds": []
+            },
+            "greeceFit": {
+              "value": null,
+              "reason": "Το ελληνικό αποτέλεσμα αφορά πρόσληψη, όχι εξωτερική υπηρεσία.",
+              "evidenceIds": []
+            },
+            "expansion": {
+              "value": null,
+              "reason": "Δεν υπάρχουν στοιχεία.",
+              "evidenceIds": []
+            },
+            "distribution": {
+              "value": null,
+              "reason": "Δεν υπάρχουν στοιχεία.",
+              "evidenceIds": []
+            },
+            "startupCost": {
+              "value": null,
+              "reason": "Δεν υπάρχουν στοιχεία.",
+              "evidenceIds": []
+            },
+            "regulation": {
+              "value": null,
+              "reason": "Δεν αξιολογήθηκε νομικό ζήτημα στο παρόν search.",
+              "evidenceIds": []
+            },
+            "implementation": {
+              "value": null,
+              "reason": "Δεν υπάρχουν στοιχεία για συγκεκριμένη υπηρεσία.",
+              "evidenceIds": []
+            },
+            "timing": {
+              "value": null,
+              "reason": "Η αγγελία είναι πρόσφατη, αλλά δεν αποδεικνύει εξωτερική ανάθεση.",
+              "evidenceIds": []
+            },
+            "defensibility": {
+              "value": null,
+              "reason": "Δεν υπάρχουν στοιχεία.",
+              "evidenceIds": []
+            },
+            "evidenceStrength": {
+              "value": 0.4,
+              "reason": "Υπάρχει πρόσφατη σχετική αγγελία, αλλά όχι direct paid buyer evidence.",
+              "evidenceIds": [
+                "run-1790595658802-f64b3b-query-63d230d2db86b746-e1"
+              ]
+            }
+          },
+          "reason": "Το query εντόπισε λειτουργική ανάγκη γύρω από την Ψηφιακή Κάρτα Εργασίας, αλλά όχι direct buyer pull για εξωτερική πληρωμένη υπηρεσία με τιμή ή budget.\nStop: token_budget"
         }
       ]
     },
@@ -4161,6 +4263,20 @@
       "excerpt": "Ανάθεση ύψους 500,00€ ... Υπηρεσίες επισκευής και συντήρησης μηχανημάτων.",
       "confidence": 0.84,
       "runId": "run-1790546216384-73cb70"
+    },
+    {
+      "id": "run-1790595658802-f64b3b-query-63d230d2db86b746-e1",
+      "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/2658ffab-7359-45ce-810b-eb6534a703c7/",
+      "origin": "web search result",
+      "queryId": "query-63d230d2db86b746",
+      "claim": "Πρόσφατη ελληνική αγγελία ζητά πλήρους απασχόλησης HR Generalist με καθημερινή διαχείριση της Ψηφιακής Κάρτας Εργασίας και συνεργασία με εξωτερικό πάροχο μισθοδοσίας, αλλά δεν ζητά εξωτερικό freelancer ούτε αναφέρει αμοιβή ή budget για τέτοια βοήθεια.",
+      "kind": "observed",
+      "sourceType": "secondary",
+      "publishedAt": "2026-09-16",
+      "observedAt": "2026-09-28T11:41:23.337Z",
+      "excerpt": "Η ΕΛΕΠΑΠ αναζητά HR Generalist – Payroll & HR Operations... καθημερινή παρακολούθηση της Ψηφιακής Κάρτας Εργασίας... συντονισμός ... με τον εξωτερικό πάροχο μισθοδοσίας.",
+      "confidence": 0.96,
+      "runId": "run-1790595658802-f64b3b"
     }
   ],
   "signals": [
@@ -4199,6 +4315,17 @@
       ],
       "lastValidatedAt": "2026-09-27T21:58:28.181Z",
       "runId": "run-1790546216384-73cb70"
+    },
+    {
+      "id": "run-1790595658802-f64b3b-query-63d230d2db86b746-s1",
+      "claim": "Υπάρχει operational ζήτηση για γνώση και καθημερινή διαχείριση της Ψηφιακής Κάρτας Εργασίας, αλλά το συγκεκριμένο αποτέλεσμα δείχνει πρόσληψη εσωτερικού προσωπικού και όχι άμεση αγορά εξωτερικής βοήθειας.",
+      "topic": "buyer pull",
+      "confidence": 0.94,
+      "evidenceIds": [
+        "run-1790595658802-f64b3b-query-63d230d2db86b746-e1"
+      ],
+      "lastValidatedAt": "2026-09-28T11:42:13.940Z",
+      "runId": "run-1790595658802-f64b3b"
     }
   ],
   "learnings": [
@@ -6121,6 +6248,23 @@
       "contradicts": [],
       "lastValidatedAt": "2026-09-27T21:58:28.183Z",
       "history": []
+    },
+    {
+      "id": "run-1790595658802-f64b3b-query-63d230d2db86b746-l1",
+      "claim": "Το ακριβές query βρήκε σχετική ελληνική ζήτηση σε αγγελία πρόσληψης HR, αλλά όχι άμεσο αίτημα εξωτερικής πληρωμένης βοήθειας με συγκεκριμένο budget ή τιμή.",
+      "topic": "evidence quality",
+      "confidence": 0.95,
+      "type": "search",
+      "status": "active",
+      "evidenceIds": [
+        "run-1790595658802-f64b3b-query-63d230d2db86b746-e1"
+      ],
+      "queryIds": [
+        "query-63d230d2db86b746"
+      ],
+      "contradicts": [],
+      "lastValidatedAt": "2026-09-28T11:42:13.941Z",
+      "history": []
     }
   ],
   "sources": [
@@ -6252,6 +6396,25 @@
       "id": "contracts.gr",
       "samples": 1,
       "lastValidatedAt": "2026-09-27T21:58:28.183Z",
+      "queries": 1
+    },
+    {
+      "domain": "jobfind.gr",
+      "evidenceIds": [
+        "run-1790595658802-f64b3b-query-63d230d2db86b746-e1"
+      ],
+      "reliability": 0.75,
+      "freshness": 0.9,
+      "uniqueness": 0.65,
+      "signalToNoise": 0.45,
+      "topics": [
+        "Ψηφιακή Κάρτα Εργασίας",
+        "HR recruitment"
+      ],
+      "reason": "Πρόσφατη ελληνική αγγελία με σαφή σχετική αρμοδιότητα, αλλά όχι direct buyer request για εξωτερική υπηρεσία.",
+      "id": "jobfind.gr",
+      "samples": 1,
+      "lastValidatedAt": "2026-09-28T11:42:13.941Z",
       "queries": 1
     }
   ],
@@ -6428,6 +6591,24 @@
         "https://diavgis.gr/act/26AWRD019319175"
       ],
       "completedAt": "2026-09-27T21:58:28.080Z"
+    },
+    {
+      "text": "(\"Ψηφιακή Κάρτα Εργασίας\" OR \"ψηφιακή καρτα εργασιας\") (ζητείται OR χρειάζομαι OR βοήθεια OR συνεργασία) (τιμή OR αμοιβή OR πληρωμή OR προσφορά) site:facebook.com OR site:insomnia.gr OR site:freelancer.gr OR site:jobfind.gr",
+      "mode": "exploitation",
+      "stage": "discovery",
+      "candidateId": "digital-work-card-sector-setup",
+      "expectedDecision": "Μπορεί να αυξήσει ουσιαστικά την confidence και το score αν βρεθεί πρόσφατο αίτημα με συγκεκριμένο budget/τιμή· αρνητικό αποτέλεσμα θα στηρίξει παύση της ιδέας.",
+      "id": "query-63d230d2db86b746",
+      "runId": "run-1790595658802-f64b3b",
+      "status": "complete",
+      "createdAt": "2026-09-28T11:41:23.332Z",
+      "modelRole": "gpt-5.6-luna",
+      "summary": "Δεν βρέθηκε άμεσο ελληνικό αίτημα από μικρή επιχείρηση ή λογιστή για εξωτερική, πληρωμένη βοήθεια στην Ψηφιακή Κάρτα Εργασίας. Βρέθηκε μόνο πρόσφατη αγγελία πρόσληψης HR με σχετικές αρμοδιότητες, χωρίς freelance πλαίσιο ή συγκεκριμένο budget.",
+      "useful": true,
+      "urls": [
+        "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/2658ffab-7359-45ce-810b-eb6534a703c7/"
+      ],
+      "completedAt": "2026-09-28T11:42:13.901Z"
     }
   ],
   "runs": [
@@ -11867,6 +12048,590 @@
         "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-s1",
         "run-1790546216384-73cb70-query-b68ebfae61a3dbb8-s2"
       ]
+    },
+    {
+      "id": "run-1790557554306-6d0bf3",
+      "owner": "console",
+      "status": "failed",
+      "startedAt": "2026-09-28T01:05:54.293Z",
+      "deadline": "2026-09-28T01:45:54.306Z",
+      "budget": {
+        "maxSearches": 10,
+        "maxFetches": 2,
+        "maxMinutes": 40,
+        "maxTokens": 72000,
+        "maxCostUsd": 1,
+        "maxOutputTokens": 4096,
+        "memoryChars": 16000,
+        "maxModelCalls": 20,
+        "maxCreditUnits": 31,
+        "maxIterationsPerCandidate": 4,
+        "maxExceptionalIterations": 5,
+        "maxRepeatedQueries": 1,
+        "maxTerraCalls": 2,
+        "maxSolCalls": 1
+      },
+      "plan": {
+        "areas": [
+          {
+            "mode": "exploration",
+            "topic": "food supply chains",
+            "question": "Which reachable buyers have expensive recurring operational problems or newly feasible solutions?",
+            "stage": "discovery"
+          },
+          {
+            "mode": "exploitation",
+            "topic": "Digital Work Card Sector Setup",
+            "ideaId": "digital-work-card-sector-setup",
+            "question": "Obtain direct buyer or partner evidence with an explicit paid request and price.",
+            "stage": "discovery"
+          },
+          {
+            "mode": "reevaluation",
+            "topic": "EAA/WCAG Accessibility Audit Sprint",
+            "ideaId": "legacy-70ac6eb1e69669c1",
+            "question": "Revisit only if non-exempt e-shops publicly ask for affordable accessibility checks outside agency funnels",
+            "stage": "validation"
+          }
+        ],
+        "strategy": "Explore a new space, exploit a supported lead, reconsider a prior assumption. Adapt queries using retrieved search lessons.",
+        "stopWhen": "Repetition, sufficient evidence, or no likely ranking impact"
+      },
+      "metrics": {
+        "searches": 0,
+        "fetches": 0,
+        "cacheHits": 0,
+        "duplicateSearchesAvoided": 0,
+        "usefulSignals": 0,
+        "promisingIdeas": 0,
+        "tokens": null,
+        "costUsd": null,
+        "modelCalls": 1,
+        "creditUnits": 1
+      },
+      "strategyChanges": [],
+      "loop": {
+        "calls": [
+          {
+            "id": "call-0",
+            "tier": "luna",
+            "model": "gpt-5.6-luna",
+            "purpose": "decide",
+            "status": "complete",
+            "tokenAllowance": 8000,
+            "creditUnits": 1,
+            "expectedGain": null,
+            "decisionImpact": "Select a valuable next action or stop; one bounded Luna decision",
+            "at": "2026-09-28T01:05:54.514Z",
+            "tokens": null,
+            "costUsd": null,
+            "finishedAt": "2026-09-28T04:27:16.074Z"
+          }
+        ],
+        "decisions": [],
+        "candidates": {
+          "digital-work-card-sector-setup": {
+            "status": "insufficient_evidence",
+            "score": 0.2,
+            "confidence": 0.09,
+            "evidenceCount": 1,
+            "iterations": 0,
+            "lowGainStreak": 0,
+            "fromPreviousRun": true
+          },
+          "lead-ee0a7d2b32a34c41": {
+            "status": "watchlist",
+            "score": 0.6,
+            "confidence": 0.33,
+            "evidenceCount": 3,
+            "iterations": 0,
+            "lowGainStreak": 0,
+            "fromPreviousRun": true
+          }
+        },
+        "queries": [],
+        "repeatedQueries": 0,
+        "stopReason": "Codex worker timed out after 3 minutes",
+        "draft": {
+          "version": 1,
+          "runId": "run-1790557554306-6d0bf3",
+          "summary": "Stopped without new market findings.",
+          "evidence": [],
+          "signals": [],
+          "ideas": [],
+          "learnings": [],
+          "sources": [],
+          "strategyChanges": []
+        },
+        "pendingAction": null
+      },
+      "error": "Codex worker timed out after 3 minutes",
+      "finishedAt": "2026-09-28T04:27:16.316Z"
+    },
+    {
+      "id": "run-1790573495378-3e47a3",
+      "owner": "console",
+      "status": "failed",
+      "startedAt": "2026-09-28T05:31:35.343Z",
+      "deadline": "2026-09-28T06:11:35.378Z",
+      "budget": {
+        "maxSearches": 10,
+        "maxFetches": 2,
+        "maxMinutes": 40,
+        "maxTokens": 72000,
+        "maxCostUsd": 1,
+        "maxOutputTokens": 4096,
+        "memoryChars": 16000,
+        "maxModelCalls": 20,
+        "maxCreditUnits": 31,
+        "maxIterationsPerCandidate": 4,
+        "maxExceptionalIterations": 5,
+        "maxRepeatedQueries": 1,
+        "maxTerraCalls": 2,
+        "maxSolCalls": 1
+      },
+      "plan": {
+        "areas": [
+          {
+            "mode": "exploration",
+            "topic": "accessibility",
+            "question": "Which reachable buyers have expensive recurring operational problems or newly feasible solutions?",
+            "stage": "discovery"
+          },
+          {
+            "mode": "exploitation",
+            "topic": "Digital Work Card Sector Setup",
+            "ideaId": "digital-work-card-sector-setup",
+            "question": "Obtain direct buyer or partner evidence with an explicit paid request and price.",
+            "stage": "discovery"
+          },
+          {
+            "mode": "reevaluation",
+            "topic": "EAA/WCAG Accessibility Audit Sprint",
+            "ideaId": "legacy-70ac6eb1e69669c1",
+            "question": "Revisit only if non-exempt e-shops publicly ask for affordable accessibility checks outside agency funnels",
+            "stage": "validation"
+          }
+        ],
+        "strategy": "Explore a new space, exploit a supported lead, reconsider a prior assumption. Adapt queries using retrieved search lessons.",
+        "stopWhen": "Repetition, sufficient evidence, or no likely ranking impact"
+      },
+      "metrics": {
+        "searches": 0,
+        "fetches": 0,
+        "cacheHits": 0,
+        "duplicateSearchesAvoided": 0,
+        "usefulSignals": 0,
+        "promisingIdeas": 0,
+        "tokens": null,
+        "costUsd": null,
+        "modelCalls": 1,
+        "creditUnits": 1
+      },
+      "strategyChanges": [],
+      "loop": {
+        "calls": [
+          {
+            "id": "call-0",
+            "tier": "luna",
+            "model": "gpt-5.6-luna",
+            "purpose": "decide",
+            "status": "complete",
+            "tokenAllowance": 8000,
+            "creditUnits": 1,
+            "expectedGain": null,
+            "decisionImpact": "Select a valuable next action or stop; one bounded Luna decision",
+            "at": "2026-09-28T05:31:36.073Z",
+            "tokens": null,
+            "costUsd": null,
+            "finishedAt": "2026-09-28T07:58:27.790Z"
+          }
+        ],
+        "decisions": [],
+        "candidates": {
+          "digital-work-card-sector-setup": {
+            "status": "insufficient_evidence",
+            "score": 0.2,
+            "confidence": 0.09,
+            "evidenceCount": 1,
+            "iterations": 0,
+            "lowGainStreak": 0,
+            "fromPreviousRun": true
+          },
+          "lead-ee0a7d2b32a34c41": {
+            "status": "watchlist",
+            "score": 0.6,
+            "confidence": 0.33,
+            "evidenceCount": 3,
+            "iterations": 0,
+            "lowGainStreak": 0,
+            "fromPreviousRun": true
+          }
+        },
+        "queries": [],
+        "repeatedQueries": 0,
+        "stopReason": "Codex worker timed out after 3 minutes",
+        "draft": {
+          "version": 1,
+          "runId": "run-1790573495378-3e47a3",
+          "summary": "Stopped without new market findings.",
+          "evidence": [],
+          "signals": [],
+          "ideas": [],
+          "learnings": [],
+          "sources": [],
+          "strategyChanges": []
+        },
+        "pendingAction": null
+      },
+      "error": "Codex worker timed out after 3 minutes",
+      "finishedAt": "2026-09-28T07:58:27.842Z"
+    },
+    {
+      "id": "run-1790595658802-f64b3b",
+      "owner": "console",
+      "status": "completed",
+      "startedAt": "2026-09-28T11:40:58.793Z",
+      "deadline": "2026-09-28T12:20:58.803Z",
+      "budget": {
+        "maxSearches": 10,
+        "maxFetches": 2,
+        "maxMinutes": 40,
+        "maxTokens": 72000,
+        "maxCostUsd": 1,
+        "maxOutputTokens": 4096,
+        "memoryChars": 16000,
+        "maxModelCalls": 20,
+        "maxCreditUnits": 31,
+        "maxIterationsPerCandidate": 4,
+        "maxExceptionalIterations": 5,
+        "maxRepeatedQueries": 1,
+        "maxTerraCalls": 2,
+        "maxSolCalls": 1
+      },
+      "plan": {
+        "areas": [
+          {
+            "mode": "exploration",
+            "topic": "energy efficiency",
+            "question": "Which reachable buyers have expensive recurring operational problems or newly feasible solutions?",
+            "stage": "discovery"
+          },
+          {
+            "mode": "exploitation",
+            "topic": "Digital Work Card Sector Setup",
+            "ideaId": "digital-work-card-sector-setup",
+            "question": "Obtain direct buyer or partner evidence with an explicit paid request and price.",
+            "stage": "discovery"
+          },
+          {
+            "mode": "reevaluation",
+            "topic": "EAA/WCAG Accessibility Audit Sprint",
+            "ideaId": "legacy-70ac6eb1e69669c1",
+            "question": "Revisit only if non-exempt e-shops publicly ask for affordable accessibility checks outside agency funnels",
+            "stage": "validation"
+          }
+        ],
+        "strategy": "Explore a new space, exploit a supported lead, reconsider a prior assumption. Adapt queries using retrieved search lessons.",
+        "stopWhen": "Repetition, sufficient evidence, or no likely ranking impact"
+      },
+      "metrics": {
+        "searches": 1,
+        "fetches": 0,
+        "cacheHits": 0,
+        "duplicateSearchesAvoided": 0,
+        "usefulSignals": 1,
+        "promisingIdeas": 0,
+        "tokens": 56710,
+        "costUsd": null,
+        "modelCalls": 2,
+        "creditUnits": 2,
+        "costPerPromising": null
+      },
+      "strategyChanges": [
+        "Διατήρηση της ιδέας σε insufficient_evidence· δεν αυξάνεται ουσιαστικά το score χωρίς συγκεκριμένο paid external-help request."
+      ],
+      "loop": {
+        "calls": [
+          {
+            "id": "call-0",
+            "tier": "luna",
+            "model": "gpt-5.6-luna",
+            "purpose": "decide",
+            "status": "complete",
+            "tokenAllowance": 8000,
+            "creditUnits": 1,
+            "expectedGain": null,
+            "decisionImpact": "Select a valuable next action or stop; one bounded Luna decision",
+            "at": "2026-09-28T11:40:59.061Z",
+            "tokens": 12762,
+            "costUsd": null,
+            "finishedAt": "2026-09-28T11:41:23.312Z"
+          },
+          {
+            "id": "call-1",
+            "tier": "luna",
+            "model": "gpt-5.6-luna",
+            "purpose": "search",
+            "status": "complete",
+            "tokenAllowance": 12762,
+            "creditUnits": 1,
+            "expectedGain": 0.62,
+            "decisionImpact": "Μπορεί να αυξήσει ουσιαστικά την confidence και το score αν βρεθεί πρόσφατο αίτημα με συγκεκριμένο budget/τιμή· αρνητικό αποτέλεσμα θα στηρίξει παύση της ιδέας.",
+            "at": "2026-09-28T11:41:23.385Z",
+            "tokens": 43948,
+            "costUsd": null,
+            "finishedAt": "2026-09-28T11:42:13.890Z"
+          }
+        ],
+        "decisions": [
+          {
+            "at": "2026-09-28T11:41:23.322Z",
+            "stop": false,
+            "action": {
+              "type": "search",
+              "candidateId": "digital-work-card-sector-setup",
+              "question": "Υπάρχει άμεσο ελληνικό αίτημα από επηρεαζόμενη μικρή επιχείρηση ή λογιστή για πληρωμένη εξωτερική βοήθεια στην Ψηφιακή Κάρτα Εργασίας;",
+              "query": "(\"Ψηφιακή Κάρτα Εργασίας\" OR \"ψηφιακή καρτα εργασιας\") (ζητείται OR χρειάζομαι OR βοήθεια OR συνεργασία) (τιμή OR αμοιβή OR πληρωμή OR προσφορά) site:facebook.com OR site:insomnia.gr OR site:freelancer.gr OR site:jobfind.gr",
+              "mode": "exploitation",
+              "tier": "luna",
+              "escalationReason": "",
+              "expectedGain": 0.62,
+              "decisionImpact": 0.78,
+              "impact": "Μπορεί να αυξήσει ουσιαστικά την confidence και το score αν βρεθεί πρόσφατο αίτημα με συγκεκριμένο budget/τιμή· αρνητικό αποτέλεσμα θα στηρίξει παύση της ιδέας.",
+              "value": 0.48360000000000003
+            },
+            "rejected": []
+          }
+        ],
+        "candidates": {
+          "digital-work-card-sector-setup": {
+            "status": "insufficient_evidence",
+            "score": 0.4,
+            "confidence": 0.09,
+            "evidenceCount": 1,
+            "iterations": 1,
+            "lowGainStreak": 0,
+            "fromPreviousRun": false,
+            "coverage": 0.09090909090909091,
+            "rubricVersion": 1
+          },
+          "lead-ee0a7d2b32a34c41": {
+            "status": "watchlist",
+            "score": 0.6,
+            "confidence": 0.33,
+            "evidenceCount": 3,
+            "iterations": 0,
+            "lowGainStreak": 0,
+            "fromPreviousRun": true
+          }
+        },
+        "queries": [
+          "(\"Ψηφιακή Κάρτα Εργασίας\" OR \"ψηφιακή καρτα εργασιας\") (ζητείται OR χρειάζομαι OR βοήθεια OR συνεργασία) (τιμή OR αμοιβή OR πληρωμή OR προσφορά) site:facebook.com OR site:insomnia.gr OR site:freelancer.gr OR site:jobfind.gr"
+        ],
+        "repeatedQueries": 0,
+        "stopReason": "token_budget",
+        "draft": {
+          "version": 1,
+          "runId": "run-1790595658802-f64b3b",
+          "summary": "Το query εντόπισε λειτουργική ανάγκη γύρω από την Ψηφιακή Κάρτα Εργασίας, αλλά όχι direct buyer pull για εξωτερική πληρωμένη υπηρεσία με τιμή ή budget.",
+          "evidence": [
+            {
+              "id": "run-1790595658802-f64b3b-query-63d230d2db86b746-e1",
+              "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/2658ffab-7359-45ce-810b-eb6534a703c7/",
+              "origin": "web search result",
+              "queryId": "query-63d230d2db86b746",
+              "claim": "Πρόσφατη ελληνική αγγελία ζητά πλήρους απασχόλησης HR Generalist με καθημερινή διαχείριση της Ψηφιακής Κάρτας Εργασίας και συνεργασία με εξωτερικό πάροχο μισθοδοσίας, αλλά δεν ζητά εξωτερικό freelancer ούτε αναφέρει αμοιβή ή budget για τέτοια βοήθεια.",
+              "kind": "observed",
+              "sourceType": "secondary",
+              "publishedAt": "2026-09-16",
+              "observedAt": "2026-09-28T11:41:23.337Z",
+              "excerpt": "Η ΕΛΕΠΑΠ αναζητά HR Generalist – Payroll & HR Operations... καθημερινή παρακολούθηση της Ψηφιακής Κάρτας Εργασίας... συντονισμός ... με τον εξωτερικό πάροχο μισθοδοσίας.",
+              "confidence": 0.96
+            }
+          ],
+          "signals": [
+            {
+              "id": "run-1790595658802-f64b3b-query-63d230d2db86b746-s1",
+              "claim": "Υπάρχει operational ζήτηση για γνώση και καθημερινή διαχείριση της Ψηφιακής Κάρτας Εργασίας, αλλά το συγκεκριμένο αποτέλεσμα δείχνει πρόσληψη εσωτερικού προσωπικού και όχι άμεση αγορά εξωτερικής βοήθειας.",
+              "topic": "buyer pull",
+              "confidence": 0.94,
+              "evidenceIds": [
+                "run-1790595658802-f64b3b-query-63d230d2db86b746-e1"
+              ]
+            }
+          ],
+          "ideas": [
+            {
+              "id": "digital-work-card-sector-setup",
+              "title": "Digital Work Card Sector Setup",
+              "problem": "Οι νεοεντασσόμενες μικρές επιχειρήσεις πρέπει να εφαρμόσουν την Ψηφιακή Κάρτα Εργασίας.",
+              "customer": "Greek SMEs in affected service sectors",
+              "solution": "Unknown; no direct paid external-help request was found in this search.",
+              "whyNow": "Η πρόσφατη αγγελία δείχνει τρέχουσα ανάγκη για καθημερινή διαχείριση της Ψηφιακής Κάρτας Εργασίας.",
+              "greeceFit": "Η ανάγκη εμφανίζεται σε ελληνικό εργοδότη, αλλά το αποτέλεσμα αφορά πρόσληψη και όχι αποδεδειγμένη solo εξωτερική υπηρεσία.",
+              "businessModel": "Unknown.",
+              "gtm": "Unknown.",
+              "industry": "Payroll / HR operations",
+              "nextValidation": "Απαιτείται άμεσο αίτημα μικρής επιχείρησης ή λογιστή που να αναφέρει εξωτερική ανάθεση και συγκεκριμένη αμοιβή ή budget.",
+              "status": "insufficient_evidence",
+              "confidence": 0.11,
+              "risks": [
+                "Το μόνο σχετικό αποτέλεσμα είναι αγγελία πρόσληψης, όχι πληρωμένη freelance ανάθεση.",
+                "Δεν εμφανίστηκε συγκεκριμένη τιμή ή budget."
+              ],
+              "relatedIdeas": [],
+              "evidenceIds": [
+                "run-1790595658802-f64b3b-query-63d230d2db86b746-e1"
+              ],
+              "signalIds": [
+                "run-1790595658802-f64b3b-query-63d230d2db86b746-s1"
+              ],
+              "pattern": "No direct paid buyer request found.",
+              "opportunity": "Δεν τεκμηριώνεται ακόμη εμπορεύσιμη ευκαιρία από το παρόν search.",
+              "evaluation": {
+                "severity": {
+                  "value": null,
+                  "reason": "Δεν βρέθηκε direct SME/accountant problem statement.",
+                  "evidenceIds": []
+                },
+                "frequency": {
+                  "value": null,
+                  "reason": "Μία αγγελία δεν τεκμηριώνει συχνότητα μικρών εξωτερικών αναθέσεων.",
+                  "evidenceIds": []
+                },
+                "willingnessToPay": {
+                  "value": null,
+                  "reason": "Δεν αναφέρεται τιμή, budget ή αμοιβή εξωτερικού συνεργάτη.",
+                  "evidenceIds": []
+                },
+                "alternatives": {
+                  "value": null,
+                  "reason": "Δεν αξιολογήθηκαν εναλλακτικές στο μοναδικό search.",
+                  "evidenceIds": []
+                },
+                "dissatisfaction": {
+                  "value": null,
+                  "reason": "Δεν υπάρχει buyer complaint.",
+                  "evidenceIds": []
+                },
+                "differentiation": {
+                  "value": null,
+                  "reason": "Δεν τεκμηριώνεται προσφορά υπηρεσίας.",
+                  "evidenceIds": []
+                },
+                "marketSize": {
+                  "value": null,
+                  "reason": "Δεν υπάρχουν στοιχεία αγοράς.",
+                  "evidenceIds": []
+                },
+                "reachableNiche": {
+                  "value": null,
+                  "reason": "Δεν αποδεικνύεται reachable niche από το αποτέλεσμα.",
+                  "evidenceIds": []
+                },
+                "greeceFit": {
+                  "value": null,
+                  "reason": "Το ελληνικό αποτέλεσμα αφορά πρόσληψη, όχι εξωτερική υπηρεσία.",
+                  "evidenceIds": []
+                },
+                "expansion": {
+                  "value": null,
+                  "reason": "Δεν υπάρχουν στοιχεία.",
+                  "evidenceIds": []
+                },
+                "distribution": {
+                  "value": null,
+                  "reason": "Δεν υπάρχουν στοιχεία.",
+                  "evidenceIds": []
+                },
+                "startupCost": {
+                  "value": null,
+                  "reason": "Δεν υπάρχουν στοιχεία.",
+                  "evidenceIds": []
+                },
+                "regulation": {
+                  "value": null,
+                  "reason": "Δεν αξιολογήθηκε νομικό ζήτημα στο παρόν search.",
+                  "evidenceIds": []
+                },
+                "implementation": {
+                  "value": null,
+                  "reason": "Δεν υπάρχουν στοιχεία για συγκεκριμένη υπηρεσία.",
+                  "evidenceIds": []
+                },
+                "timing": {
+                  "value": null,
+                  "reason": "Η αγγελία είναι πρόσφατη, αλλά δεν αποδεικνύει εξωτερική ανάθεση.",
+                  "evidenceIds": []
+                },
+                "defensibility": {
+                  "value": null,
+                  "reason": "Δεν υπάρχουν στοιχεία.",
+                  "evidenceIds": []
+                },
+                "evidenceStrength": {
+                  "value": 0.4,
+                  "reason": "Υπάρχει πρόσφατη σχετική αγγελία, αλλά όχι direct paid buyer evidence.",
+                  "evidenceIds": [
+                    "run-1790595658802-f64b3b-query-63d230d2db86b746-e1"
+                  ]
+                }
+              },
+              "rejection": null
+            }
+          ],
+          "learnings": [
+            {
+              "id": "run-1790595658802-f64b3b-query-63d230d2db86b746-l1",
+              "claim": "Το ακριβές query βρήκε σχετική ελληνική ζήτηση σε αγγελία πρόσληψης HR, αλλά όχι άμεσο αίτημα εξωτερικής πληρωμένης βοήθειας με συγκεκριμένο budget ή τιμή.",
+              "topic": "evidence quality",
+              "confidence": 0.95,
+              "type": "search",
+              "status": "active",
+              "evidenceIds": [
+                "run-1790595658802-f64b3b-query-63d230d2db86b746-e1"
+              ],
+              "queryIds": [
+                "query-63d230d2db86b746"
+              ],
+              "contradicts": []
+            }
+          ],
+          "sources": [
+            {
+              "domain": "jobfind.gr",
+              "evidenceIds": [
+                "run-1790595658802-f64b3b-query-63d230d2db86b746-e1"
+              ],
+              "reliability": 0.75,
+              "freshness": 0.9,
+              "uniqueness": 0.65,
+              "signalToNoise": 0.45,
+              "topics": [
+                "Ψηφιακή Κάρτα Εργασίας",
+                "HR recruitment"
+              ],
+              "reason": "Πρόσφατη ελληνική αγγελία με σαφή σχετική αρμοδιότητα, αλλά όχι direct buyer request για εξωτερική υπηρεσία."
+            }
+          ],
+          "strategyChanges": [
+            "Διατήρηση της ιδέας σε insufficient_evidence· δεν αυξάνεται ουσιαστικά το score χωρίς συγκεκριμένο paid external-help request."
+          ]
+        },
+        "pendingAction": null
+      },
+      "finishedAt": "2026-09-28T11:42:13.941Z",
+      "summary": "Το query εντόπισε λειτουργική ανάγκη γύρω από την Ψηφιακή Κάρτα Εργασίας, αλλά όχι direct buyer pull για εξωτερική πληρωμένη υπηρεσία με τιμή ή budget.\nStop: token_budget",
+      "ideaIds": [
+        "digital-work-card-sector-setup"
+      ],
+      "learningIds": [
+        "run-1790595658802-f64b3b-query-63d230d2db86b746-l1"
+      ],
+      "signalIds": [
+        "run-1790595658802-f64b3b-query-63d230d2db86b746-s1"
+      ]
     }
   ],
   "events": [
@@ -13063,6 +13828,96 @@
       "runId": "run-1790546216384-73cb70",
       "type": "completed",
       "detail": "Νέα, αλλά έμμεση, ένδειξη πληρωμένης ζήτησης για εξωτερική συντήρηση. Δεν επιβεβαιώνεται ακόμη μικρός ιδιώτης buyer, freelance ανάθεση ή maintenance-records ανάγκη με τιμή.\nStop: token_budget"
+    },
+    {
+      "at": "2026-09-28T01:05:54.306Z",
+      "runId": "run-1790557554306-6d0bf3",
+      "type": "planned",
+      "detail": "exploration: food supply chains; exploitation: Digital Work Card Sector Setup; reevaluation: EAA/WCAG Accessibility Audit Sprint"
+    },
+    {
+      "at": "2026-09-28T01:05:54.514Z",
+      "runId": "run-1790557554306-6d0bf3",
+      "type": "model_call",
+      "detail": "gpt-5.6-luna: decide; 1 internal budget units reserved"
+    },
+    {
+      "at": "2026-09-28T04:27:16.316Z",
+      "runId": "run-1790557554306-6d0bf3",
+      "type": "failed",
+      "detail": "Codex worker timed out after 3 minutes"
+    },
+    {
+      "at": "2026-09-28T05:31:35.379Z",
+      "runId": "run-1790573495378-3e47a3",
+      "type": "planned",
+      "detail": "exploration: accessibility; exploitation: Digital Work Card Sector Setup; reevaluation: EAA/WCAG Accessibility Audit Sprint"
+    },
+    {
+      "at": "2026-09-28T05:31:36.073Z",
+      "runId": "run-1790573495378-3e47a3",
+      "type": "model_call",
+      "detail": "gpt-5.6-luna: decide; 1 internal budget units reserved"
+    },
+    {
+      "at": "2026-09-28T07:58:27.842Z",
+      "runId": "run-1790573495378-3e47a3",
+      "type": "failed",
+      "detail": "Codex worker timed out after 3 minutes"
+    },
+    {
+      "at": "2026-09-28T11:40:58.803Z",
+      "runId": "run-1790595658802-f64b3b",
+      "type": "planned",
+      "detail": "exploration: energy efficiency; exploitation: Digital Work Card Sector Setup; reevaluation: EAA/WCAG Accessibility Audit Sprint"
+    },
+    {
+      "at": "2026-09-28T11:40:59.061Z",
+      "runId": "run-1790595658802-f64b3b",
+      "type": "model_call",
+      "detail": "gpt-5.6-luna: decide; 1 internal budget units reserved"
+    },
+    {
+      "at": "2026-09-28T11:41:23.322Z",
+      "runId": "run-1790595658802-f64b3b",
+      "type": "next_action",
+      "detail": "luna: Υπάρχει άμεσο ελληνικό αίτημα από επηρεαζόμενη μικρή επιχείρηση ή λογιστή για πληρωμένη εξωτερική βοήθεια στην Ψηφιακή Κάρτα Εργασίας; (Μπορεί να αυξήσει ουσιαστικά την confidence και το score αν βρεθεί πρόσφατο αίτημα με συγκεκριμένο budget/τιμή· αρνητικό αποτέλεσμα θα στηρίξει παύση της ιδέας.)"
+    },
+    {
+      "at": "2026-09-28T11:41:23.332Z",
+      "runId": "run-1790595658802-f64b3b",
+      "type": "query_reserved",
+      "detail": "(\"Ψηφιακή Κάρτα Εργασίας\" OR \"ψηφιακή καρτα εργασιας\") (ζητείται OR χρειάζομαι OR βοήθεια OR συνεργασία) (τιμή OR αμοιβή OR πληρωμή OR προσφορά) site:facebook.com OR site:insomnia.gr OR site:freelancer.gr OR site:jobfind.gr"
+    },
+    {
+      "at": "2026-09-28T11:41:23.385Z",
+      "runId": "run-1790595658802-f64b3b",
+      "type": "model_call",
+      "detail": "gpt-5.6-luna: search; 1 internal budget units reserved"
+    },
+    {
+      "at": "2026-09-28T11:42:13.901Z",
+      "runId": "run-1790595658802-f64b3b",
+      "type": "query_result",
+      "detail": "query-63d230d2db86b746: signal"
+    },
+    {
+      "at": "2026-09-28T11:42:13.913Z",
+      "runId": "run-1790595658802-f64b3b",
+      "type": "loop_observation",
+      "detail": "digital-work-card-sector-setup: gain 0.15 (reported 0.15), confidence 0.09, iterations 1"
+    },
+    {
+      "at": "2026-09-28T11:42:13.926Z",
+      "runId": "run-1790595658802-f64b3b",
+      "type": "loop_stopped",
+      "detail": "token_budget"
+    },
+    {
+      "at": "2026-09-28T11:42:13.941Z",
+      "runId": "run-1790595658802-f64b3b",
+      "type": "completed",
+      "detail": "Το query εντόπισε λειτουργική ανάγκη γύρω από την Ψηφιακή Κάρτα Εργασίας, αλλά όχι direct buyer pull για εξωτερική πληρωμένη υπηρεσία με τιμή ή budget.\nStop: token_budget"
     }
   ],
   "imports": [
