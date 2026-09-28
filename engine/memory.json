@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": 263,
+  "revision": 274,
   "ideas": [
     {
       "id": "legacy-70ac6eb1e69669c1",
@@ -3471,125 +3471,145 @@
       "title": "Digital Work Card Sector Setup",
       "problem": "Οι νεοεντασσόμενες μικρές επιχειρήσεις πρέπει να εφαρμόσουν την Ψηφιακή Κάρτα Εργασίας.",
       "customer": "Greek SMEs in affected service sectors",
-      "solution": "Unknown; no direct paid external-help request was found in this search.",
-      "whyNow": "Η πρόσφατη αγγελία δείχνει τρέχουσα ανάγκη για καθημερινή διαχείριση της Ψηφιακής Κάρτας Εργασίας.",
-      "greeceFit": "Η ανάγκη εμφανίζεται σε ελληνικό εργοδότη, αλλά το αποτέλεσμα αφορά πρόσληψη και όχι αποδεδειγμένη solo εξωτερική υπηρεσία.",
-      "businessModel": "Unknown.",
-      "gtm": "Unknown.",
-      "industry": "Payroll / HR operations",
-      "nextValidation": "Απαιτείται άμεσο αίτημα μικρής επιχείρησης ή λογιστή που να αναφέρει εξωτερική ανάθεση και συγκεκριμένη αμοιβή ή budget.",
+      "solution": "Άγνωστο· δεν τεκμηριώθηκε ζήτηση για ανεξάρτητο setup.",
+      "whyNow": "Η εφαρμογή επεκτείνεται σε νέους κλάδους.",
+      "greeceFit": "Η κανονιστική αλλαγή αφορά ελληνικές επιχειρήσεις.",
+      "businessModel": "Άγνωστο.",
+      "gtm": "Άγνωστο.",
+      "industry": "SMB operations",
+      "nextValidation": "Παύση μέχρι να βρεθεί άμεσο δημόσιο αίτημα επιχείρησης ή λογιστή που να αναφέρει εξωτερική ανάθεση και συγκεκριμένη αμοιβή/budget.",
       "status": "insufficient_evidence",
-      "confidence": 0.09,
+      "confidence": 0.1,
       "risks": [
-        "Το μόνο σχετικό αποτέλεσμα είναι αγγελία πρόσληψης, όχι πληρωμένη freelance ανάθεση.",
-        "Δεν εμφανίστηκε συγκεκριμένη τιμή ή budget."
+        "Υπάρχουν ήδη τιμολογημένες software λύσεις.",
+        "Δεν βρέθηκε άμεσος αγοραστής ή freelance brief."
       ],
       "relatedIdeas": [],
       "evidenceIds": [
-        "run-1790595658802-f64b3b-query-63d230d2db86b746-e1"
+        "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e1",
+        "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e2",
+        "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e3",
+        "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e4"
       ],
       "signalIds": [
-        "run-1790595658802-f64b3b-query-63d230d2db86b746-s1"
+        "run-1790599339474-3d2c20-query-5f996b973d1a0eab-s1",
+        "run-1790599339474-3d2c20-query-5f996b973d1a0eab-s2"
       ],
-      "pattern": "No direct paid buyer request found.",
-      "opportunity": "Δεν τεκμηριώνεται ακόμη εμπορεύσιμη ευκαιρία από το παρόν search.",
+      "pattern": "Η ανάγκη και το urgency είναι ορατά, αλλά όχι η πληρωμένη ζήτηση για εξωτερική υπηρεσία.",
+      "opportunity": "Δεν υποστηρίζεται ακόμη συγκεκριμένη επιχειρηματική ευκαιρία.",
       "evaluation": {
         "severity": {
           "value": null,
-          "reason": "Δεν βρέθηκε direct SME/accountant problem statement.",
+          "reason": "Δεν τεκμηριώθηκε άμεσος buyer request.",
           "evidenceIds": []
         },
         "frequency": {
           "value": null,
-          "reason": "Μία αγγελία δεν τεκμηριώνει συχνότητα μικρών εξωτερικών αναθέσεων.",
+          "reason": "Δεν τεκμηριώθηκε.",
           "evidenceIds": []
         },
         "willingnessToPay": {
           "value": null,
-          "reason": "Δεν αναφέρεται τιμή, budget ή αμοιβή εξωτερικού συνεργάτη.",
+          "reason": "Οι τιμές αφορούν software vendor, όχι αγορά εξωτερικής βοήθειας.",
           "evidenceIds": []
         },
         "alternatives": {
-          "value": null,
-          "reason": "Δεν αξιολογήθηκαν εναλλακτικές στο μοναδικό search.",
-          "evidenceIds": []
+          "value": 0.25,
+          "reason": "Υπάρχει δημόσια τιμολογημένη λύση software.",
+          "evidenceIds": [
+            "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e1",
+            "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e2"
+          ]
         },
         "dissatisfaction": {
           "value": null,
-          "reason": "Δεν υπάρχει buyer complaint.",
+          "reason": "Δεν τεκμηριώθηκε.",
           "evidenceIds": []
         },
         "differentiation": {
           "value": null,
-          "reason": "Δεν τεκμηριώνεται προσφορά υπηρεσίας.",
+          "reason": "Δεν τεκμηριώθηκε.",
           "evidenceIds": []
         },
         "marketSize": {
           "value": null,
-          "reason": "Δεν υπάρχουν στοιχεία αγοράς.",
+          "reason": "Δεν τεκμηριώθηκε για την υπηρεσία.",
           "evidenceIds": []
         },
         "reachableNiche": {
           "value": null,
-          "reason": "Δεν αποδεικνύεται reachable niche από το αποτέλεσμα.",
+          "reason": "Δεν τεκμηριώθηκε.",
           "evidenceIds": []
         },
         "greeceFit": {
-          "value": null,
-          "reason": "Το ελληνικό αποτέλεσμα αφορά πρόσληψη, όχι εξωτερική υπηρεσία.",
-          "evidenceIds": []
+          "value": 0.9,
+          "reason": "Η επίσημη εφαρμογή αφορά ελληνικές επιχειρήσεις και εργαζομένους.",
+          "evidenceIds": [
+            "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e3",
+            "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e4"
+          ]
         },
         "expansion": {
-          "value": null,
-          "reason": "Δεν υπάρχουν στοιχεία.",
-          "evidenceIds": []
+          "value": 0.8,
+          "reason": "Η επίσημη εφαρμογή επεκτείνεται σε νέους κλάδους.",
+          "evidenceIds": [
+            "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e3",
+            "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e4"
+          ]
         },
         "distribution": {
           "value": null,
-          "reason": "Δεν υπάρχουν στοιχεία.",
+          "reason": "Δεν τεκμηριώθηκε.",
           "evidenceIds": []
         },
         "startupCost": {
           "value": null,
-          "reason": "Δεν υπάρχουν στοιχεία.",
+          "reason": "Δεν τεκμηριώθηκε για υπηρεσία freelancer.",
           "evidenceIds": []
         },
         "regulation": {
-          "value": null,
-          "reason": "Δεν αξιολογήθηκε νομικό ζήτημα στο παρόν search.",
-          "evidenceIds": []
+          "value": 0.55,
+          "reason": "Η κανονιστική πίεση είναι υπαρκτή, αλλά η τιμή αξιολόγησης αφορά opportunity feasibility και δεν τεκμηριώνει αγορά υπηρεσίας.",
+          "evidenceIds": [
+            "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e3",
+            "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e4"
+          ]
         },
         "implementation": {
           "value": null,
-          "reason": "Δεν υπάρχουν στοιχεία για συγκεκριμένη υπηρεσία.",
+          "reason": "Δεν τεκμηριώθηκε.",
           "evidenceIds": []
         },
         "timing": {
-          "value": null,
-          "reason": "Η αγγελία είναι πρόσφατη, αλλά δεν αποδεικνύει εξωτερική ανάθεση.",
-          "evidenceIds": []
+          "value": 0.8,
+          "reason": "Η πλήρης εφαρμογή επεκτείνεται χρονικά σε νέους κλάδους.",
+          "evidenceIds": [
+            "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e4"
+          ]
         },
         "defensibility": {
           "value": null,
-          "reason": "Δεν υπάρχουν στοιχεία.",
+          "reason": "Δεν τεκμηριώθηκε.",
           "evidenceIds": []
         },
         "evidenceStrength": {
-          "value": 0.4,
-          "reason": "Υπάρχει πρόσφατη σχετική αγγελία, αλλά όχι direct paid buyer evidence.",
+          "value": 0.35,
+          "reason": "Υπάρχει πρωτογενής κανονιστική και δευτερογενής τιμολογιακή ένδειξη, αλλά όχι buyer request.",
           "evidenceIds": [
-            "run-1790595658802-f64b3b-query-63d230d2db86b746-e1"
+            "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e1",
+            "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e3",
+            "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e4"
           ]
         }
       },
       "rejection": null,
-      "score": 0.4,
-      "coverage": 0.09090909090909091,
+      "score": 0.6,
+      "coverage": 0.3181818181818182,
       "rubricVersion": 1,
       "legacy": false,
       "needsReview": false,
       "discoveredAt": "2026-09-27T15:48:02.170Z",
-      "lastReviewedAt": "2026-09-28T11:42:13.941Z",
+      "lastReviewedAt": "2026-09-28T12:43:52.030Z",
       "history": [
         {
           "at": "2026-09-27T15:48:02.170Z",
@@ -3897,6 +3917,121 @@
             }
           },
           "reason": "Το query εντόπισε λειτουργική ανάγκη γύρω από την Ψηφιακή Κάρτα Εργασίας, αλλά όχι direct buyer pull για εξωτερική πληρωμένη υπηρεσία με τιμή ή budget.\nStop: token_budget"
+        },
+        {
+          "at": "2026-09-28T12:43:52.030Z",
+          "runId": "run-1790599339474-3d2c20",
+          "score": 0.6,
+          "confidence": 0.1,
+          "coverage": 0.3181818181818182,
+          "status": "insufficient_evidence",
+          "rubricVersion": 1,
+          "evaluation": {
+            "severity": {
+              "value": null,
+              "reason": "Δεν τεκμηριώθηκε άμεσος buyer request.",
+              "evidenceIds": []
+            },
+            "frequency": {
+              "value": null,
+              "reason": "Δεν τεκμηριώθηκε.",
+              "evidenceIds": []
+            },
+            "willingnessToPay": {
+              "value": null,
+              "reason": "Οι τιμές αφορούν software vendor, όχι αγορά εξωτερικής βοήθειας.",
+              "evidenceIds": []
+            },
+            "alternatives": {
+              "value": 0.25,
+              "reason": "Υπάρχει δημόσια τιμολογημένη λύση software.",
+              "evidenceIds": [
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e1",
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e2"
+              ]
+            },
+            "dissatisfaction": {
+              "value": null,
+              "reason": "Δεν τεκμηριώθηκε.",
+              "evidenceIds": []
+            },
+            "differentiation": {
+              "value": null,
+              "reason": "Δεν τεκμηριώθηκε.",
+              "evidenceIds": []
+            },
+            "marketSize": {
+              "value": null,
+              "reason": "Δεν τεκμηριώθηκε για την υπηρεσία.",
+              "evidenceIds": []
+            },
+            "reachableNiche": {
+              "value": null,
+              "reason": "Δεν τεκμηριώθηκε.",
+              "evidenceIds": []
+            },
+            "greeceFit": {
+              "value": 0.9,
+              "reason": "Η επίσημη εφαρμογή αφορά ελληνικές επιχειρήσεις και εργαζομένους.",
+              "evidenceIds": [
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e3",
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e4"
+              ]
+            },
+            "expansion": {
+              "value": 0.8,
+              "reason": "Η επίσημη εφαρμογή επεκτείνεται σε νέους κλάδους.",
+              "evidenceIds": [
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e3",
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e4"
+              ]
+            },
+            "distribution": {
+              "value": null,
+              "reason": "Δεν τεκμηριώθηκε.",
+              "evidenceIds": []
+            },
+            "startupCost": {
+              "value": null,
+              "reason": "Δεν τεκμηριώθηκε για υπηρεσία freelancer.",
+              "evidenceIds": []
+            },
+            "regulation": {
+              "value": 0.55,
+              "reason": "Η κανονιστική πίεση είναι υπαρκτή, αλλά η τιμή αξιολόγησης αφορά opportunity feasibility και δεν τεκμηριώνει αγορά υπηρεσίας.",
+              "evidenceIds": [
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e3",
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e4"
+              ]
+            },
+            "implementation": {
+              "value": null,
+              "reason": "Δεν τεκμηριώθηκε.",
+              "evidenceIds": []
+            },
+            "timing": {
+              "value": 0.8,
+              "reason": "Η πλήρης εφαρμογή επεκτείνεται χρονικά σε νέους κλάδους.",
+              "evidenceIds": [
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e4"
+              ]
+            },
+            "defensibility": {
+              "value": null,
+              "reason": "Δεν τεκμηριώθηκε.",
+              "evidenceIds": []
+            },
+            "evidenceStrength": {
+              "value": 0.35,
+              "reason": "Υπάρχει πρωτογενής κανονιστική και δευτερογενής τιμολογιακή ένδειξη, αλλά όχι buyer request.",
+              "evidenceIds": [
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e1",
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e3",
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e4"
+              ]
+            }
+          },
+          "reason": "Η μοναδική αναζήτηση επιβεβαίωσε εμπορική τιμολόγηση λύσεων Ψηφιακής Κάρτας, αλλά όχι δημόσια ζήτηση για εξωτερικό freelancer ή λογιστή με συγκεκριμένο budget. Η ιδέα παραμένει ανεπαρκώς τεκμηριωμένη.\nStop: token_budget"
         }
       ]
     },
@@ -4277,6 +4412,62 @@
       "excerpt": "Η ΕΛΕΠΑΠ αναζητά HR Generalist – Payroll & HR Operations... καθημερινή παρακολούθηση της Ψηφιακής Κάρτας Εργασίας... συντονισμός ... με τον εξωτερικό πάροχο μισθοδοσίας.",
       "confidence": 0.96,
       "runId": "run-1790595658802-f64b3b"
+    },
+    {
+      "id": "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e1",
+      "url": "https://www.etime.gr/etime-50-prosfora/",
+      "origin": "web search result",
+      "queryId": "query-5f996b973d1a0eab",
+      "claim": "Εμπορικός πάροχος προωθεί λύση Ψηφιακής Κάρτας Εργασίας για μικρές επιχειρήσεις με τιμή 115€ + ΦΠΑ, αλλά η σελίδα είναι προσφορά προμηθευτή και όχι δημόσιο αίτημα αγοραστή για εξωτερική βοήθεια.",
+      "kind": "observed",
+      "sourceType": "secondary",
+      "publishedAt": null,
+      "observedAt": "2026-09-28T12:42:32.874Z",
+      "excerpt": "Ιδανικό για μικρές επιχειρήσεις ... μόνο με 115€ + ΦΠΑ.",
+      "confidence": 0.97,
+      "runId": "run-1790599339474-3d2c20"
+    },
+    {
+      "id": "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e2",
+      "url": "https://www.etime.gr/price-table/",
+      "origin": "web search result",
+      "queryId": "query-5f996b973d1a0eab",
+      "claim": "Υπάρχει δημόσιος τιμοκατάλογος λογισμικού Ψηφιακής Κάρτας Εργασίας, γεγονός που δείχνει διαθέσιμη εναλλακτική αγοράς, όχι όμως willingness to pay για ανεξάρτητη υπηρεσία setup.",
+      "kind": "observed",
+      "sourceType": "secondary",
+      "publishedAt": null,
+      "observedAt": "2026-09-28T12:42:32.874Z",
+      "excerpt": "Ευέλικτα πακέτα τιμολόγησης ... από μικρές επιχειρήσεις με λίγους εργαζομένους έως μεγάλες εγκαταστάσεις.",
+      "confidence": 0.92,
+      "runId": "run-1790599339474-3d2c20"
+    },
+    {
+      "id": "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e3",
+      "url": "https://psifiakikarta.gov.gr/",
+      "origin": "web search result",
+      "queryId": "query-5f996b973d1a0eab",
+      "claim": "Η Ψηφιακή Κάρτα Εργασίας επεκτείνεται σε νέους κλάδους, άρα υπάρχει κανονιστική χρονική πίεση, αλλά το αποτέλεσμα δεν περιέχει αίτημα πληρωμένης εξωτερικής βοήθειας.",
+      "kind": "observed",
+      "sourceType": "primary",
+      "publishedAt": null,
+      "observedAt": "2026-09-28T12:42:32.874Z",
+      "excerpt": "Με δύο νέες φάσεις πιλοτικής εφαρμογής συνεχίζεται η επέκταση ... σε επιπλέον κλάδους.",
+      "confidence": 0.95,
+      "runId": "run-1790599339474-3d2c20"
+    },
+    {
+      "id": "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e4",
+      "url": "https://ypergasias.gov.gr/se-500-000-prosthetous-ergazomenous-epekteinetai-i-pliris-efarmogi-tis-psifiakis-kartas-ergasias/",
+      "origin": "web search result",
+      "queryId": "query-5f996b973d1a0eab",
+      "claim": "Το Υπουργείο αναφέρει επέκταση της πλήρους εφαρμογής σε 500.000 πρόσθετους εργαζομένους, ενισχύοντας το urgency της συμμόρφωσης, όχι όμως αποδεικνύοντας αγορά freelancer.",
+      "kind": "observed",
+      "sourceType": "primary",
+      "publishedAt": "2026-09-23",
+      "observedAt": "2026-09-28T12:42:32.874Z",
+      "excerpt": "Σε 500.000 πρόσθετους εργαζόμενους επεκτείνεται η πλήρης εφαρμογή ...",
+      "confidence": 0.98,
+      "runId": "run-1790599339474-3d2c20"
     }
   ],
   "signals": [
@@ -4326,6 +4517,30 @@
       ],
       "lastValidatedAt": "2026-09-28T11:42:13.940Z",
       "runId": "run-1790595658802-f64b3b"
+    },
+    {
+      "id": "run-1790599339474-3d2c20-query-5f996b973d1a0eab-s1",
+      "claim": "Η αγορά διαθέτει ήδη τουλάχιστον μία τιμολογημένη software λύση για μικρές επιχειρήσεις, αλλά δεν εμφανίστηκε buyer-language για εξωτερικό setup freelancer.",
+      "topic": "paid demand quality",
+      "confidence": 0.9,
+      "evidenceIds": [
+        "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e1",
+        "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e2"
+      ],
+      "lastValidatedAt": "2026-09-28T12:43:52.028Z",
+      "runId": "run-1790599339474-3d2c20"
+    },
+    {
+      "id": "run-1790599339474-3d2c20-query-5f996b973d1a0eab-s2",
+      "claim": "Η κανονιστική επέκταση αυξάνει πιθανή ανάγκη συμμόρφωσης, αλλά η συγκεκριμένη αναζήτηση δεν παρείχε αποδεικτικό paid request.",
+      "topic": "urgency versus demand proof",
+      "confidence": 0.94,
+      "evidenceIds": [
+        "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e3",
+        "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e4"
+      ],
+      "lastValidatedAt": "2026-09-28T12:43:52.028Z",
+      "runId": "run-1790599339474-3d2c20"
     }
   ],
   "learnings": [
@@ -6265,27 +6480,47 @@
       "contradicts": [],
       "lastValidatedAt": "2026-09-28T11:42:13.941Z",
       "history": []
+    },
+    {
+      "id": "run-1790599339474-3d2c20-query-5f996b973d1a0eab-l1",
+      "claim": "Η αναζήτηση βρήκε τιμές από παρόχους λογισμικού και κανονιστική επέκταση, αλλά κανένα δημόσιο αίτημα μικρής επιχείρησης ή λογιστή για εξωτερική, πληρωμένη βοήθεια με συγκεκριμένο budget.",
+      "topic": "evidence quality",
+      "confidence": 0.94,
+      "type": "search",
+      "status": "active",
+      "evidenceIds": [
+        "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e1",
+        "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e2",
+        "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e3",
+        "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e4"
+      ],
+      "queryIds": [
+        "query-5f996b973d1a0eab"
+      ],
+      "contradicts": [],
+      "lastValidatedAt": "2026-09-28T12:43:52.030Z",
+      "history": []
     }
   ],
   "sources": [
     {
       "domain": "ypergasias.gov.gr",
       "evidenceIds": [
-        "query-1e7acfeca464da7b-e1"
+        "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e4"
       ],
-      "reliability": 0.98,
-      "freshness": 0.98,
+      "reliability": 0.965,
+      "freshness": 0.965,
       "uniqueness": 0.8,
       "signalToNoise": 0.9,
       "topics": [
         "regulation",
-        "sector coverage"
+        "timing"
       ],
-      "reason": "Primary government announcement directly supports sector applicability.",
+      "reason": "Πρωτογενής επίσημη πηγή για την επέκταση εφαρμογής.",
       "id": "ypergasias.gov.gr",
-      "samples": 1,
-      "lastValidatedAt": "2026-09-27T15:48:02.170Z",
-      "queries": 1
+      "samples": 2,
+      "lastValidatedAt": "2026-09-28T12:43:52.031Z",
+      "queries": 3
     },
     {
       "domain": "ergani.emblem.gr",
@@ -6415,6 +6650,44 @@
       "id": "jobfind.gr",
       "samples": 1,
       "lastValidatedAt": "2026-09-28T11:42:13.941Z",
+      "queries": 1
+    },
+    {
+      "domain": "etime.gr",
+      "evidenceIds": [
+        "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e1",
+        "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e2"
+      ],
+      "reliability": 0.75,
+      "freshness": 0.9,
+      "uniqueness": 0.65,
+      "signalToNoise": 0.7,
+      "topics": [
+        "pricing",
+        "software alternatives"
+      ],
+      "reason": "Πρωτογενής εμπορική πηγή για τις δικές της τιμές, όχι ανεξάρτητη απόδειξη buyer demand.",
+      "id": "etime.gr",
+      "samples": 1,
+      "lastValidatedAt": "2026-09-28T12:43:52.030Z",
+      "queries": 1
+    },
+    {
+      "domain": "psifiakikarta.gov.gr",
+      "evidenceIds": [
+        "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e3"
+      ],
+      "reliability": 0.95,
+      "freshness": 0.9,
+      "uniqueness": 0.75,
+      "signalToNoise": 0.85,
+      "topics": [
+        "regulation"
+      ],
+      "reason": "Επίσημη κυβερνητική ενημέρωση για την εφαρμογή.",
+      "id": "psifiakikarta.gov.gr",
+      "samples": 1,
+      "lastValidatedAt": "2026-09-28T12:43:52.031Z",
       "queries": 1
     }
   ],
@@ -6609,6 +6882,27 @@
         "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/2658ffab-7359-45ce-810b-eb6534a703c7/"
       ],
       "completedAt": "2026-09-28T11:42:13.901Z"
+    },
+    {
+      "text": "\"Ψηφιακή Κάρτα Εργασίας\" (ζητείται OR χρειάζομαι OR αναζητώ) (τιμή OR αμοιβή OR budget OR πληρωμή) μικρή επιχείρηση λογιστής freelancer",
+      "mode": "exploitation",
+      "stage": "discovery",
+      "candidateId": "digital-work-card-sector-setup",
+      "expectedDecision": "Συγκεκριμένο paid request θα αυξήσει ουσιαστικά την confidence και πιθανώς το score· απουσία του θα δικαιολογήσει παύση της ιδέας.",
+      "id": "query-5f996b973d1a0eab",
+      "runId": "run-1790599339474-3d2c20",
+      "status": "complete",
+      "createdAt": "2026-09-28T12:42:32.848Z",
+      "modelRole": "gpt-5.6-luna",
+      "summary": "Δεν βρέθηκε δημόσιο αίτημα ελληνικής μικρής επιχείρησης ή λογιστή για εξωτερική βοήθεια με συγκεκριμένη αμοιβή/budget. Βρέθηκαν μόνο εμπορικές λύσεις με τιμές, όχι buyer requests.",
+      "useful": true,
+      "urls": [
+        "https://www.etime.gr/etime-50-prosfora/",
+        "https://www.etime.gr/price-table/",
+        "https://psifiakikarta.gov.gr/",
+        "https://ypergasias.gov.gr/se-500-000-prosthetous-ergazomenous-epekteinetai-i-pliris-efarmogi-tis-psifiakis-kartas-ergasias/"
+      ],
+      "completedAt": "2026-09-28T12:43:51.878Z"
     }
   ],
   "runs": [
@@ -12632,6 +12926,456 @@
       "signalIds": [
         "run-1790595658802-f64b3b-query-63d230d2db86b746-s1"
       ]
+    },
+    {
+      "id": "run-1790599339474-3d2c20",
+      "owner": "console",
+      "status": "completed",
+      "startedAt": "2026-09-28T12:42:19.463Z",
+      "deadline": "2026-09-28T13:22:19.474Z",
+      "budget": {
+        "maxSearches": 10,
+        "maxFetches": 2,
+        "maxMinutes": 40,
+        "maxTokens": 100000,
+        "maxCostUsd": 1,
+        "maxOutputTokens": 4096,
+        "memoryChars": 16000,
+        "maxModelCalls": 20,
+        "maxCreditUnits": 31,
+        "maxIterationsPerCandidate": 4,
+        "maxExceptionalIterations": 5,
+        "maxRepeatedQueries": 1,
+        "maxTerraCalls": 2,
+        "maxSolCalls": 1
+      },
+      "plan": {
+        "areas": [
+          {
+            "mode": "exploration",
+            "topic": "SMB operations",
+            "question": "Which reachable buyers have expensive recurring operational problems or newly feasible solutions?",
+            "stage": "discovery"
+          },
+          {
+            "mode": "exploitation",
+            "topic": "Digital Work Card Sector Setup",
+            "ideaId": "digital-work-card-sector-setup",
+            "question": "Απαιτείται άμεσο αίτημα μικρής επιχείρησης ή λογιστή που να αναφέρει εξωτερική ανάθεση και συγκεκριμένη αμοιβή ή budget.",
+            "stage": "discovery"
+          },
+          {
+            "mode": "reevaluation",
+            "topic": "EAA/WCAG Accessibility Audit Sprint",
+            "ideaId": "legacy-70ac6eb1e69669c1",
+            "question": "Revisit only if non-exempt e-shops publicly ask for affordable accessibility checks outside agency funnels",
+            "stage": "validation"
+          }
+        ],
+        "strategy": "Explore a new space, exploit a supported lead, reconsider a prior assumption. Adapt queries using retrieved search lessons.",
+        "stopWhen": "Repetition, sufficient evidence, or no likely ranking impact"
+      },
+      "metrics": {
+        "searches": 1,
+        "fetches": 0,
+        "cacheHits": 0,
+        "duplicateSearchesAvoided": 0,
+        "usefulSignals": 2,
+        "promisingIdeas": 0,
+        "tokens": 57576,
+        "costUsd": null,
+        "modelCalls": 2,
+        "creditUnits": 2,
+        "costPerPromising": null
+      },
+      "strategyChanges": [
+        "Παύση της ιδέας μέχρι να εμφανιστεί άμεσο δημόσιο paid request· η ύπαρξη vendor pricing δεν μετρά ως buyer validation."
+      ],
+      "loop": {
+        "calls": [
+          {
+            "id": "call-0",
+            "tier": "luna",
+            "model": "gpt-5.6-luna",
+            "purpose": "decide",
+            "status": "complete",
+            "tokenAllowance": 8000,
+            "creditUnits": 1,
+            "expectedGain": null,
+            "decisionImpact": "Select a valuable next action or stop; one bounded Luna decision",
+            "at": "2026-09-28T12:42:19.675Z",
+            "tokens": 12479,
+            "costUsd": null,
+            "finishedAt": "2026-09-28T12:42:32.806Z"
+          },
+          {
+            "id": "call-1",
+            "tier": "luna",
+            "model": "gpt-5.6-luna",
+            "purpose": "search",
+            "status": "complete",
+            "tokenAllowance": 12479,
+            "creditUnits": 1,
+            "expectedGain": 0.42,
+            "decisionImpact": "Συγκεκριμένο paid request θα αυξήσει ουσιαστικά την confidence και πιθανώς το score· απουσία του θα δικαιολογήσει παύση της ιδέας.",
+            "at": "2026-09-28T12:42:33.183Z",
+            "tokens": 45097,
+            "costUsd": null,
+            "finishedAt": "2026-09-28T12:43:51.868Z"
+          }
+        ],
+        "decisions": [
+          {
+            "at": "2026-09-28T12:42:32.822Z",
+            "stop": false,
+            "action": {
+              "type": "search",
+              "candidateId": "digital-work-card-sector-setup",
+              "question": "Υπάρχει ελληνική μικρή επιχείρηση ή λογιστής που ζητά δημόσια εξωτερική, πληρωμένη βοήθεια για Ψηφιακή Κάρτα Εργασίας με συγκεκριμένη τιμή ή budget;",
+              "query": "\"Ψηφιακή Κάρτα Εργασίας\" (ζητείται OR χρειάζομαι OR αναζητώ) (τιμή OR αμοιβή OR budget OR πληρωμή) μικρή επιχείρηση λογιστής freelancer",
+              "mode": "exploitation",
+              "tier": "luna",
+              "escalationReason": "",
+              "expectedGain": 0.42,
+              "decisionImpact": 0.78,
+              "impact": "Συγκεκριμένο paid request θα αυξήσει ουσιαστικά την confidence και πιθανώς το score· απουσία του θα δικαιολογήσει παύση της ιδέας.",
+              "value": 0.3276
+            },
+            "rejected": []
+          }
+        ],
+        "candidates": {
+          "digital-work-card-sector-setup": {
+            "status": "insufficient_evidence",
+            "score": 0.6,
+            "confidence": 0.1,
+            "evidenceCount": 4,
+            "iterations": 1,
+            "lowGainStreak": 0,
+            "fromPreviousRun": false,
+            "coverage": 0.3181818181818182,
+            "rubricVersion": 1
+          },
+          "lead-ee0a7d2b32a34c41": {
+            "status": "watchlist",
+            "score": 0.6,
+            "confidence": 0.33,
+            "evidenceCount": 3,
+            "iterations": 0,
+            "lowGainStreak": 0,
+            "fromPreviousRun": true
+          }
+        },
+        "queries": [
+          "\"Ψηφιακή Κάρτα Εργασίας\" (ζητείται OR χρειάζομαι OR αναζητώ) (τιμή OR αμοιβή OR budget OR πληρωμή) μικρή επιχείρηση λογιστής freelancer"
+        ],
+        "repeatedQueries": 0,
+        "stopReason": "token_budget",
+        "draft": {
+          "version": 1,
+          "runId": "run-1790599339474-3d2c20",
+          "summary": "Η μοναδική αναζήτηση επιβεβαίωσε εμπορική τιμολόγηση λύσεων Ψηφιακής Κάρτας, αλλά όχι δημόσια ζήτηση για εξωτερικό freelancer ή λογιστή με συγκεκριμένο budget. Η ιδέα παραμένει ανεπαρκώς τεκμηριωμένη.",
+          "evidence": [
+            {
+              "id": "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e1",
+              "url": "https://www.etime.gr/etime-50-prosfora/",
+              "origin": "web search result",
+              "queryId": "query-5f996b973d1a0eab",
+              "claim": "Εμπορικός πάροχος προωθεί λύση Ψηφιακής Κάρτας Εργασίας για μικρές επιχειρήσεις με τιμή 115€ + ΦΠΑ, αλλά η σελίδα είναι προσφορά προμηθευτή και όχι δημόσιο αίτημα αγοραστή για εξωτερική βοήθεια.",
+              "kind": "observed",
+              "sourceType": "secondary",
+              "publishedAt": null,
+              "observedAt": "2026-09-28T12:42:32.874Z",
+              "excerpt": "Ιδανικό για μικρές επιχειρήσεις ... μόνο με 115€ + ΦΠΑ.",
+              "confidence": 0.97
+            },
+            {
+              "id": "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e2",
+              "url": "https://www.etime.gr/price-table/",
+              "origin": "web search result",
+              "queryId": "query-5f996b973d1a0eab",
+              "claim": "Υπάρχει δημόσιος τιμοκατάλογος λογισμικού Ψηφιακής Κάρτας Εργασίας, γεγονός που δείχνει διαθέσιμη εναλλακτική αγοράς, όχι όμως willingness to pay για ανεξάρτητη υπηρεσία setup.",
+              "kind": "observed",
+              "sourceType": "secondary",
+              "publishedAt": null,
+              "observedAt": "2026-09-28T12:42:32.874Z",
+              "excerpt": "Ευέλικτα πακέτα τιμολόγησης ... από μικρές επιχειρήσεις με λίγους εργαζομένους έως μεγάλες εγκαταστάσεις.",
+              "confidence": 0.92
+            },
+            {
+              "id": "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e3",
+              "url": "https://psifiakikarta.gov.gr/",
+              "origin": "web search result",
+              "queryId": "query-5f996b973d1a0eab",
+              "claim": "Η Ψηφιακή Κάρτα Εργασίας επεκτείνεται σε νέους κλάδους, άρα υπάρχει κανονιστική χρονική πίεση, αλλά το αποτέλεσμα δεν περιέχει αίτημα πληρωμένης εξωτερικής βοήθειας.",
+              "kind": "observed",
+              "sourceType": "primary",
+              "publishedAt": null,
+              "observedAt": "2026-09-28T12:42:32.874Z",
+              "excerpt": "Με δύο νέες φάσεις πιλοτικής εφαρμογής συνεχίζεται η επέκταση ... σε επιπλέον κλάδους.",
+              "confidence": 0.95
+            },
+            {
+              "id": "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e4",
+              "url": "https://ypergasias.gov.gr/se-500-000-prosthetous-ergazomenous-epekteinetai-i-pliris-efarmogi-tis-psifiakis-kartas-ergasias/",
+              "origin": "web search result",
+              "queryId": "query-5f996b973d1a0eab",
+              "claim": "Το Υπουργείο αναφέρει επέκταση της πλήρους εφαρμογής σε 500.000 πρόσθετους εργαζομένους, ενισχύοντας το urgency της συμμόρφωσης, όχι όμως αποδεικνύοντας αγορά freelancer.",
+              "kind": "observed",
+              "sourceType": "primary",
+              "publishedAt": "2026-09-23",
+              "observedAt": "2026-09-28T12:42:32.874Z",
+              "excerpt": "Σε 500.000 πρόσθετους εργαζόμενους επεκτείνεται η πλήρης εφαρμογή ...",
+              "confidence": 0.98
+            }
+          ],
+          "signals": [
+            {
+              "id": "run-1790599339474-3d2c20-query-5f996b973d1a0eab-s1",
+              "claim": "Η αγορά διαθέτει ήδη τουλάχιστον μία τιμολογημένη software λύση για μικρές επιχειρήσεις, αλλά δεν εμφανίστηκε buyer-language για εξωτερικό setup freelancer.",
+              "topic": "paid demand quality",
+              "confidence": 0.9,
+              "evidenceIds": [
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e1",
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e2"
+              ]
+            },
+            {
+              "id": "run-1790599339474-3d2c20-query-5f996b973d1a0eab-s2",
+              "claim": "Η κανονιστική επέκταση αυξάνει πιθανή ανάγκη συμμόρφωσης, αλλά η συγκεκριμένη αναζήτηση δεν παρείχε αποδεικτικό paid request.",
+              "topic": "urgency versus demand proof",
+              "confidence": 0.94,
+              "evidenceIds": [
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e3",
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e4"
+              ]
+            }
+          ],
+          "ideas": [
+            {
+              "id": "digital-work-card-sector-setup",
+              "title": "Digital Work Card Sector Setup",
+              "problem": "Οι νεοεντασσόμενες μικρές επιχειρήσεις πρέπει να εφαρμόσουν την Ψηφιακή Κάρτα Εργασίας.",
+              "customer": "Greek SMEs in affected service sectors",
+              "solution": "Άγνωστο· δεν τεκμηριώθηκε ζήτηση για ανεξάρτητο setup.",
+              "whyNow": "Η εφαρμογή επεκτείνεται σε νέους κλάδους.",
+              "greeceFit": "Η κανονιστική αλλαγή αφορά ελληνικές επιχειρήσεις.",
+              "businessModel": "Άγνωστο.",
+              "gtm": "Άγνωστο.",
+              "industry": "SMB operations",
+              "nextValidation": "Παύση μέχρι να βρεθεί άμεσο δημόσιο αίτημα επιχείρησης ή λογιστή που να αναφέρει εξωτερική ανάθεση και συγκεκριμένη αμοιβή/budget.",
+              "status": "insufficient_evidence",
+              "confidence": 0.1,
+              "risks": [
+                "Υπάρχουν ήδη τιμολογημένες software λύσεις.",
+                "Δεν βρέθηκε άμεσος αγοραστής ή freelance brief."
+              ],
+              "relatedIdeas": [],
+              "evidenceIds": [
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e1",
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e2",
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e3",
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e4"
+              ],
+              "signalIds": [
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-s1",
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-s2"
+              ],
+              "pattern": "Η ανάγκη και το urgency είναι ορατά, αλλά όχι η πληρωμένη ζήτηση για εξωτερική υπηρεσία.",
+              "opportunity": "Δεν υποστηρίζεται ακόμη συγκεκριμένη επιχειρηματική ευκαιρία.",
+              "evaluation": {
+                "severity": {
+                  "value": null,
+                  "reason": "Δεν τεκμηριώθηκε άμεσος buyer request.",
+                  "evidenceIds": []
+                },
+                "frequency": {
+                  "value": null,
+                  "reason": "Δεν τεκμηριώθηκε.",
+                  "evidenceIds": []
+                },
+                "willingnessToPay": {
+                  "value": null,
+                  "reason": "Οι τιμές αφορούν software vendor, όχι αγορά εξωτερικής βοήθειας.",
+                  "evidenceIds": []
+                },
+                "alternatives": {
+                  "value": 0.25,
+                  "reason": "Υπάρχει δημόσια τιμολογημένη λύση software.",
+                  "evidenceIds": [
+                    "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e1",
+                    "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e2"
+                  ]
+                },
+                "dissatisfaction": {
+                  "value": null,
+                  "reason": "Δεν τεκμηριώθηκε.",
+                  "evidenceIds": []
+                },
+                "differentiation": {
+                  "value": null,
+                  "reason": "Δεν τεκμηριώθηκε.",
+                  "evidenceIds": []
+                },
+                "marketSize": {
+                  "value": null,
+                  "reason": "Δεν τεκμηριώθηκε για την υπηρεσία.",
+                  "evidenceIds": []
+                },
+                "reachableNiche": {
+                  "value": null,
+                  "reason": "Δεν τεκμηριώθηκε.",
+                  "evidenceIds": []
+                },
+                "greeceFit": {
+                  "value": 0.9,
+                  "reason": "Η επίσημη εφαρμογή αφορά ελληνικές επιχειρήσεις και εργαζομένους.",
+                  "evidenceIds": [
+                    "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e3",
+                    "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e4"
+                  ]
+                },
+                "expansion": {
+                  "value": 0.8,
+                  "reason": "Η επίσημη εφαρμογή επεκτείνεται σε νέους κλάδους.",
+                  "evidenceIds": [
+                    "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e3",
+                    "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e4"
+                  ]
+                },
+                "distribution": {
+                  "value": null,
+                  "reason": "Δεν τεκμηριώθηκε.",
+                  "evidenceIds": []
+                },
+                "startupCost": {
+                  "value": null,
+                  "reason": "Δεν τεκμηριώθηκε για υπηρεσία freelancer.",
+                  "evidenceIds": []
+                },
+                "regulation": {
+                  "value": 0.55,
+                  "reason": "Η κανονιστική πίεση είναι υπαρκτή, αλλά η τιμή αξιολόγησης αφορά opportunity feasibility και δεν τεκμηριώνει αγορά υπηρεσίας.",
+                  "evidenceIds": [
+                    "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e3",
+                    "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e4"
+                  ]
+                },
+                "implementation": {
+                  "value": null,
+                  "reason": "Δεν τεκμηριώθηκε.",
+                  "evidenceIds": []
+                },
+                "timing": {
+                  "value": 0.8,
+                  "reason": "Η πλήρης εφαρμογή επεκτείνεται χρονικά σε νέους κλάδους.",
+                  "evidenceIds": [
+                    "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e4"
+                  ]
+                },
+                "defensibility": {
+                  "value": null,
+                  "reason": "Δεν τεκμηριώθηκε.",
+                  "evidenceIds": []
+                },
+                "evidenceStrength": {
+                  "value": 0.35,
+                  "reason": "Υπάρχει πρωτογενής κανονιστική και δευτερογενής τιμολογιακή ένδειξη, αλλά όχι buyer request.",
+                  "evidenceIds": [
+                    "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e1",
+                    "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e3",
+                    "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e4"
+                  ]
+                }
+              },
+              "rejection": null
+            }
+          ],
+          "learnings": [
+            {
+              "id": "run-1790599339474-3d2c20-query-5f996b973d1a0eab-l1",
+              "claim": "Η αναζήτηση βρήκε τιμές από παρόχους λογισμικού και κανονιστική επέκταση, αλλά κανένα δημόσιο αίτημα μικρής επιχείρησης ή λογιστή για εξωτερική, πληρωμένη βοήθεια με συγκεκριμένο budget.",
+              "topic": "evidence quality",
+              "confidence": 0.94,
+              "type": "search",
+              "status": "active",
+              "evidenceIds": [
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e1",
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e2",
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e3",
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e4"
+              ],
+              "queryIds": [
+                "query-5f996b973d1a0eab"
+              ],
+              "contradicts": []
+            }
+          ],
+          "sources": [
+            {
+              "domain": "etime.gr",
+              "evidenceIds": [
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e1",
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e2"
+              ],
+              "reliability": 0.75,
+              "freshness": 0.9,
+              "uniqueness": 0.65,
+              "signalToNoise": 0.7,
+              "topics": [
+                "pricing",
+                "software alternatives"
+              ],
+              "reason": "Πρωτογενής εμπορική πηγή για τις δικές της τιμές, όχι ανεξάρτητη απόδειξη buyer demand."
+            },
+            {
+              "domain": "ypergasias.gov.gr",
+              "evidenceIds": [
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e4"
+              ],
+              "reliability": 0.95,
+              "freshness": 0.95,
+              "uniqueness": 0.8,
+              "signalToNoise": 0.9,
+              "topics": [
+                "regulation",
+                "timing"
+              ],
+              "reason": "Πρωτογενής επίσημη πηγή για την επέκταση εφαρμογής."
+            },
+            {
+              "domain": "psifiakikarta.gov.gr",
+              "evidenceIds": [
+                "run-1790599339474-3d2c20-query-5f996b973d1a0eab-e3"
+              ],
+              "reliability": 0.95,
+              "freshness": 0.9,
+              "uniqueness": 0.75,
+              "signalToNoise": 0.85,
+              "topics": [
+                "regulation"
+              ],
+              "reason": "Επίσημη κυβερνητική ενημέρωση για την εφαρμογή."
+            }
+          ],
+          "strategyChanges": [
+            "Παύση της ιδέας μέχρι να εμφανιστεί άμεσο δημόσιο paid request· η ύπαρξη vendor pricing δεν μετρά ως buyer validation."
+          ]
+        },
+        "pendingAction": null
+      },
+      "finishedAt": "2026-09-28T12:43:52.031Z",
+      "summary": "Η μοναδική αναζήτηση επιβεβαίωσε εμπορική τιμολόγηση λύσεων Ψηφιακής Κάρτας, αλλά όχι δημόσια ζήτηση για εξωτερικό freelancer ή λογιστή με συγκεκριμένο budget. Η ιδέα παραμένει ανεπαρκώς τεκμηριωμένη.\nStop: token_budget",
+      "ideaIds": [
+        "digital-work-card-sector-setup"
+      ],
+      "learningIds": [
+        "run-1790599339474-3d2c20-query-5f996b973d1a0eab-l1"
+      ],
+      "signalIds": [
+        "run-1790599339474-3d2c20-query-5f996b973d1a0eab-s1",
+        "run-1790599339474-3d2c20-query-5f996b973d1a0eab-s2"
+      ]
     }
   ],
   "events": [
@@ -13918,6 +14662,60 @@
       "runId": "run-1790595658802-f64b3b",
       "type": "completed",
       "detail": "Το query εντόπισε λειτουργική ανάγκη γύρω από την Ψηφιακή Κάρτα Εργασίας, αλλά όχι direct buyer pull για εξωτερική πληρωμένη υπηρεσία με τιμή ή budget.\nStop: token_budget"
+    },
+    {
+      "at": "2026-09-28T12:42:19.474Z",
+      "runId": "run-1790599339474-3d2c20",
+      "type": "planned",
+      "detail": "exploration: SMB operations; exploitation: Digital Work Card Sector Setup; reevaluation: EAA/WCAG Accessibility Audit Sprint"
+    },
+    {
+      "at": "2026-09-28T12:42:19.675Z",
+      "runId": "run-1790599339474-3d2c20",
+      "type": "model_call",
+      "detail": "gpt-5.6-luna: decide; 1 internal budget units reserved"
+    },
+    {
+      "at": "2026-09-28T12:42:32.822Z",
+      "runId": "run-1790599339474-3d2c20",
+      "type": "next_action",
+      "detail": "luna: Υπάρχει ελληνική μικρή επιχείρηση ή λογιστής που ζητά δημόσια εξωτερική, πληρωμένη βοήθεια για Ψηφιακή Κάρτα Εργασίας με συγκεκριμένη τιμή ή budget; (Συγκεκριμένο paid request θα αυξήσει ουσιαστικά την confidence και πιθανώς το score· απουσία του θα δικαιολογήσει παύση της ιδέας.)"
+    },
+    {
+      "at": "2026-09-28T12:42:32.848Z",
+      "runId": "run-1790599339474-3d2c20",
+      "type": "query_reserved",
+      "detail": "\"Ψηφιακή Κάρτα Εργασίας\" (ζητείται OR χρειάζομαι OR αναζητώ) (τιμή OR αμοιβή OR budget OR πληρωμή) μικρή επιχείρηση λογιστής freelancer"
+    },
+    {
+      "at": "2026-09-28T12:42:33.183Z",
+      "runId": "run-1790599339474-3d2c20",
+      "type": "model_call",
+      "detail": "gpt-5.6-luna: search; 1 internal budget units reserved"
+    },
+    {
+      "at": "2026-09-28T12:43:51.878Z",
+      "runId": "run-1790599339474-3d2c20",
+      "type": "query_result",
+      "detail": "query-5f996b973d1a0eab: signal"
+    },
+    {
+      "at": "2026-09-28T12:43:51.916Z",
+      "runId": "run-1790599339474-3d2c20",
+      "type": "loop_observation",
+      "detail": "digital-work-card-sector-setup: gain 0.16 (reported 0.16), confidence 0.1, iterations 1"
+    },
+    {
+      "at": "2026-09-28T12:43:51.975Z",
+      "runId": "run-1790599339474-3d2c20",
+      "type": "loop_stopped",
+      "detail": "token_budget"
+    },
+    {
+      "at": "2026-09-28T12:43:52.032Z",
+      "runId": "run-1790599339474-3d2c20",
+      "type": "completed",
+      "detail": "Η μοναδική αναζήτηση επιβεβαίωσε εμπορική τιμολόγηση λύσεων Ψηφιακής Κάρτας, αλλά όχι δημόσια ζήτηση για εξωτερικό freelancer ή λογιστή με συγκεκριμένο budget. Η ιδέα παραμένει ανεπαρκώς τεκμηριωμένη.\nStop: token_budget"
     }
   ],
   "imports": [

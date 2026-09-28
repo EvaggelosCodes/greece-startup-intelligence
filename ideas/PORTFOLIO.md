@@ -9,9 +9,9 @@ No entries yet.
 No entries yet.
 
 ## Watchlist / Insufficient Evidence
-- **Digital Work Card Sector Setup** | insufficient_evidence | score 0.4 | confidence 0.09
+- **Digital Work Card Sector Setup** | insufficient_evidence | score 0.6 | confidence 0.1
   Οι νεοεντασσόμενες μικρές επιχειρήσεις πρέπει να εφαρμόσουν την Ψηφιακή Κάρτα Εργασίας.
-  Next: Απαιτείται άμεσο αίτημα μικρής επιχείρησης ή λογιστή που να αναφέρει εξωτερική ανάθεση και συγκεκριμένη αμοιβή ή budget.
+  Next: Παύση μέχρι να βρεθεί άμεσο δημόσιο αίτημα επιχείρησης ή λογιστή που να αναφέρει εξωτερική ανάθεση και συγκεκριμένη αμοιβή/budget.
 - **Industrial Maintenance External Support Lead** | watchlist | score 0.6 | confidence 0.33
   Ελληνικές παραγωγικές ή τεχνικές επιχειρήσεις χρειάζονται εξωτερική τεχνική υποστήριξη, προληπτική συντήρηση και επισκευές εξοπλισμού.
   Next: Βρες και επιβεβαίωσε απευθείας μικρή ιδιωτική επιχείρηση που δέχεται scoped προσφορά για προληπτική συντήρηση, βλάβη ή maintenance records.
